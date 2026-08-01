@@ -1,0 +1,4994 @@
+{
+  "deals": [
+    {
+      "id": "2082762369923727512",
+      "url": "https://x.com/singpromos/status/2082762369923727512",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-08-01T13:13:44.334304+00:00",
+      "translation_zh": "Baskin-Robbins 新加坡 7月31日手工冰淇淋 31% OFF！全岛门店通用，赶快囤冰淇淋。",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-07-30T09:36:59.000Z",
+        "display_text_range": [
+          0,
+          169
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                90,
+                100
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                101,
+                104
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                105,
+                113
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                114,
+                121
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                122,
+                132
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                133,
+                140
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                141,
+                152
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                153,
+                169
+              ],
+              "text": "BaskinRobbinsSG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/baskin-robbins-spore-31-off-handpacked-ice-cream-on-31-jul-2026-304867/",
+              "indices": [
+                66,
+                89
+              ],
+              "url": "https://t.co/pP6dfmRTuB"
+            }
+          ]
+        },
+        "id_str": "2082762369923727512",
+        "text": "Baskin-Robbins S'pore 31% OFF Handpacked Ice Cream on 31 Jul 2026 https://t.co/pP6dfmRTuB #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #BaskinRobbinsSG",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2082762369923727512"
+          ],
+          "editable_until_msecs": "1785407819000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/pP6dfmRTuB",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 147,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Bigger savings on handpacked tubs with mix-and-match options",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 316,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 505,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=jpg&name=orig",
+                "width": 960
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 76,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 505,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=png&name=2048x2048_2_exp",
+                "width": 960
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 505,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=jpg&name=orig",
+                "width": 960
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 26.25,
+                    "rgb": {
+                      "blue": 168,
+                      "green": 93,
+                      "red": 209
+                    }
+                  },
+                  {
+                    "percentage": 16.34,
+                    "rgb": {
+                      "blue": 223,
+                      "green": 204,
+                      "red": 205
+                    }
+                  },
+                  {
+                    "percentage": 12.21,
+                    "rgb": {
+                      "blue": 181,
+                      "green": 126,
+                      "red": 195
+                    }
+                  },
+                  {
+                    "percentage": 8.58,
+                    "rgb": {
+                      "blue": 185,
+                      "green": 81,
+                      "red": 151
+                    }
+                  },
+                  {
+                    "percentage": 6.75,
+                    "rgb": {
+                      "blue": 225,
+                      "green": 192,
+                      "red": 101
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "Baskin-Robbins S’pore 31% OFF Handpacked Ice Cream on 31 Jul 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 26.25,
+                    "rgb": {
+                      "blue": 168,
+                      "green": 93,
+                      "red": 209
+                    }
+                  },
+                  {
+                    "percentage": 16.34,
+                    "rgb": {
+                      "blue": 223,
+                      "green": 204,
+                      "red": 205
+                    }
+                  },
+                  {
+                    "percentage": 12.21,
+                    "rgb": {
+                      "blue": 181,
+                      "green": 126,
+                      "red": 195
+                    }
+                  },
+                  {
+                    "percentage": 8.58,
+                    "rgb": {
+                      "blue": 185,
+                      "green": 81,
+                      "red": 151
+                    }
+                  },
+                  {
+                    "percentage": 6.75,
+                    "rgb": {
+                      "blue": 225,
+                      "green": 192,
+                      "red": 101
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 505,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=png&name=2048x2048_2_exp",
+                "width": 960
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 26.25,
+                    "rgb": {
+                      "blue": 168,
+                      "green": 93,
+                      "red": 209
+                    }
+                  },
+                  {
+                    "percentage": 16.34,
+                    "rgb": {
+                      "blue": 223,
+                      "green": 204,
+                      "red": 205
+                    }
+                  },
+                  {
+                    "percentage": 12.21,
+                    "rgb": {
+                      "blue": 181,
+                      "green": 126,
+                      "red": 195
+                    }
+                  },
+                  {
+                    "percentage": 8.58,
+                    "rgb": {
+                      "blue": 185,
+                      "green": 81,
+                      "red": 151
+                    }
+                  },
+                  {
+                    "percentage": 6.75,
+                    "rgb": {
+                      "blue": 225,
+                      "green": 192,
+                      "red": 101
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 505,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=png&name=2048x2048_2_exp",
+                "width": 960
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/pP6dfmRTuB",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 505,
+                "url": "https://pbs.twimg.com/card_img/2082762367772094464/h65cUJy7?format=jpg&name=orig",
+                "width": 960
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2082715998080401458",
+      "url": "https://x.com/singpromos/status/2082715998080401458",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-08-01T13:13:44.334304+00:00",
+      "translation_zh": "FairPrice 冰淇淋和零食优惠，最多省 50%! 活动至 8月5日。Hershey、Andersen、Bulla 等品牌全参与。",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-07-30T06:32:43.000Z",
+        "display_text_range": [
+          0,
+          201
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                94,
+                104
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                105,
+                108
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                109,
+                117
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                118,
+                125
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                126,
+                136
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                137,
+                144
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                145,
+                156
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                157,
+                167
+              ],
+              "text": "hersheysg"
+            },
+            {
+              "indices": [
+                168,
+                180
+              ],
+              "text": "andersenssg"
+            },
+            {
+              "indices": [
+                181,
+                189
+              ],
+              "text": "bullasg"
+            },
+            {
+              "indices": [
+                190,
+                201
+              ],
+              "text": "sgicecream"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/fairprice-ice-cream-snack-deals-save-up-to-50-until-5-aug-2026-304856/",
+              "indices": [
+                70,
+                93
+              ],
+              "url": "https://t.co/ToQq4UqtXa"
+            }
+          ]
+        },
+        "id_str": "2082715998080401458",
+        "text": "FairPrice Ice Cream &amp; Snack Deals Save Up to 50% Until 5 Aug 2026 https://t.co/ToQq4UqtXa #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #hersheysg #andersenssg #bullasg #sgicecream",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2082715998080401458"
+          ],
+          "editable_until_msecs": "1785396763000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/ToQq4UqtXa",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 147,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Cool off with up to 50% off sorbet, ice cream, snacks, fruit and grocery favourites.",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 315,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 76,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 52.83,
+                    "rgb": {
+                      "blue": 120,
+                      "green": 53,
+                      "red": 3
+                    }
+                  },
+                  {
+                    "percentage": 10.55,
+                    "rgb": {
+                      "blue": 40,
+                      "green": 15,
+                      "red": 213
+                    }
+                  },
+                  {
+                    "percentage": 7.04,
+                    "rgb": {
+                      "blue": 226,
+                      "green": 229,
+                      "red": 229
+                    }
+                  },
+                  {
+                    "percentage": 3.74,
+                    "rgb": {
+                      "blue": 106,
+                      "green": 87,
+                      "red": 228
+                    }
+                  },
+                  {
+                    "percentage": 2.74,
+                    "rgb": {
+                      "blue": 36,
+                      "green": 199,
+                      "red": 175
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "FairPrice Ice Cream & Snack Deals Save Up to 50% Until 5 Aug 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 52.83,
+                    "rgb": {
+                      "blue": 120,
+                      "green": 53,
+                      "red": 3
+                    }
+                  },
+                  {
+                    "percentage": 10.55,
+                    "rgb": {
+                      "blue": 40,
+                      "green": 15,
+                      "red": 213
+                    }
+                  },
+                  {
+                    "percentage": 7.04,
+                    "rgb": {
+                      "blue": 226,
+                      "green": 229,
+                      "red": 229
+                    }
+                  },
+                  {
+                    "percentage": 3.74,
+                    "rgb": {
+                      "blue": 106,
+                      "green": 87,
+                      "red": 228
+                    }
+                  },
+                  {
+                    "percentage": 2.74,
+                    "rgb": {
+                      "blue": 36,
+                      "green": 199,
+                      "red": 175
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 52.83,
+                    "rgb": {
+                      "blue": 120,
+                      "green": 53,
+                      "red": 3
+                    }
+                  },
+                  {
+                    "percentage": 10.55,
+                    "rgb": {
+                      "blue": 40,
+                      "green": 15,
+                      "red": 213
+                    }
+                  },
+                  {
+                    "percentage": 7.04,
+                    "rgb": {
+                      "blue": 226,
+                      "green": 229,
+                      "red": 229
+                    }
+                  },
+                  {
+                    "percentage": 3.74,
+                    "rgb": {
+                      "blue": 106,
+                      "green": 87,
+                      "red": 228
+                    }
+                  },
+                  {
+                    "percentage": 2.74,
+                    "rgb": {
+                      "blue": 36,
+                      "green": 199,
+                      "red": 175
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/ToQq4UqtXa",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/2082715996742385664/q_adiDYH?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2082567998553178567",
+      "url": "https://x.com/singpromos/status/2082567998553178567",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-08-01T13:13:44.334304+00:00",
+      "translation_zh": "Cold Storage 哈根达斯冰淇淋 3罐 $25! 还有更多优惠至 8月5日。",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "no",
+        "possibly_sensitive": false,
+        "created_at": "2026-07-29T20:44:37.000Z",
+        "display_text_range": [
+          0,
+          172
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                97,
+                107
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                108,
+                111
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                112,
+                120
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                121,
+                128
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                129,
+                139
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                140,
+                147
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                148,
+                159
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                160,
+                172
+              ],
+              "text": "haagendazsg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/cold-storage-haagen-dazs-tubs-3-for-25-more-deals-till-5-aug-2026-304846/",
+              "indices": [
+                73,
+                96
+              ],
+              "url": "https://t.co/OvJMqWOjwG"
+            }
+          ]
+        },
+        "id_str": "2082567998553178567",
+        "text": "Cold Storage Häagen-Dazs Tubs 3-for-$25 &amp; More Deals Till 5 Aug 2026 https://t.co/OvJMqWOjwG #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #haagendazsg",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2082567998553178567"
+          ],
+          "editable_until_msecs": "1785361477000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/OvJMqWOjwG",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 146,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Cool off with Häagen-Dazs 3-for-$25 plus savings on snacks, frozen treats and grocery favourites",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 313,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 626,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 626,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 626,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 42.64,
+                    "rgb": {
+                      "blue": 232,
+                      "green": 232,
+                      "red": 237
+                    }
+                  },
+                  {
+                    "percentage": 33.15,
+                    "rgb": {
+                      "blue": 67,
+                      "green": 60,
+                      "red": 76
+                    }
+                  },
+                  {
+                    "percentage": 5.04,
+                    "rgb": {
+                      "blue": 160,
+                      "green": 156,
+                      "red": 220
+                    }
+                  },
+                  {
+                    "percentage": 2.44,
+                    "rgb": {
+                      "blue": 98,
+                      "green": 77,
+                      "red": 119
+                    }
+                  },
+                  {
+                    "percentage": 1.77,
+                    "rgb": {
+                      "blue": 159,
+                      "green": 209,
+                      "red": 221
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "Cold Storage Häagen-Dazs Tubs 3-for-$25 & More Deals Till 5 Aug 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 42.64,
+                    "rgb": {
+                      "blue": 232,
+                      "green": 232,
+                      "red": 237
+                    }
+                  },
+                  {
+                    "percentage": 33.15,
+                    "rgb": {
+                      "blue": 67,
+                      "green": 60,
+                      "red": 76
+                    }
+                  },
+                  {
+                    "percentage": 5.04,
+                    "rgb": {
+                      "blue": 160,
+                      "green": 156,
+                      "red": 220
+                    }
+                  },
+                  {
+                    "percentage": 2.44,
+                    "rgb": {
+                      "blue": 98,
+                      "green": 77,
+                      "red": 119
+                    }
+                  },
+                  {
+                    "percentage": 1.77,
+                    "rgb": {
+                      "blue": 159,
+                      "green": 209,
+                      "red": 221
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 626,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 42.64,
+                    "rgb": {
+                      "blue": 232,
+                      "green": 232,
+                      "red": 237
+                    }
+                  },
+                  {
+                    "percentage": 33.15,
+                    "rgb": {
+                      "blue": 67,
+                      "green": 60,
+                      "red": 76
+                    }
+                  },
+                  {
+                    "percentage": 5.04,
+                    "rgb": {
+                      "blue": 160,
+                      "green": 156,
+                      "red": 220
+                    }
+                  },
+                  {
+                    "percentage": 2.44,
+                    "rgb": {
+                      "blue": 98,
+                      "green": 77,
+                      "red": 119
+                    }
+                  },
+                  {
+                    "percentage": 1.77,
+                    "rgb": {
+                      "blue": 159,
+                      "green": 209,
+                      "red": 221
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 626,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/OvJMqWOjwG",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 626,
+                "url": "https://pbs.twimg.com/card_img/2082567998779645952/vA3M-jhQ?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2082410296715739324",
+      "url": "https://x.com/singpromos/status/2082410296715739324",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-08-01T13:13:44.334304+00:00",
+      "translation_zh": "7-Eleven 新加坡 $1 零食和饮料优惠至 8月11日! Knoppers、Milo Nuggets、Pepsi 等多款仅需 $1。",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-07-29T10:17:58.000Z",
+        "display_text_range": [
+          0,
+          204
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                131,
+                141
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                142,
+                145
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                146,
+                154
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                155,
+                162
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                163,
+                173
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                174,
+                181
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                182,
+                193
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                194,
+                204
+              ],
+              "text": "7elevensg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-1-snacks-drinks-deals-till-11-aug-knoppers-milo-nuggets-pepsi-lexus-more-304814/",
+              "indices": [
+                107,
+                130
+              ],
+              "url": "https://t.co/fLiTgSZPEA"
+            }
+          ]
+        },
+        "id_str": "2082410296715739324",
+        "text": "7-Eleven S'pore $1 Snacks &amp; Drinks Deals Till 11 Aug - Knoppers, Milo Nuggets, Pepsi, Lexus &amp; More https://t.co/fLiTgSZPEA #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #7elevensg",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2082410296715739324"
+          ],
+          "editable_until_msecs": "1785323878000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/fLiTgSZPEA",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 145,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Grab wallet-friendly drinks, snacks, cakes and sweet treats",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 311,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 478,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=jpg&name=orig",
+                "width": 923
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 478,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=png&name=2048x2048_2_exp",
+                "width": 923
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 478,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=jpg&name=orig",
+                "width": 923
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 27.12,
+                    "rgb": {
+                      "blue": 250,
+                      "green": 247,
+                      "red": 212
+                    }
+                  },
+                  {
+                    "percentage": 19.72,
+                    "rgb": {
+                      "blue": 73,
+                      "green": 51,
+                      "red": 44
+                    }
+                  },
+                  {
+                    "percentage": 8.85,
+                    "rgb": {
+                      "blue": 105,
+                      "green": 116,
+                      "red": 112
+                    }
+                  },
+                  {
+                    "percentage": 7.11,
+                    "rgb": {
+                      "blue": 144,
+                      "green": 128,
+                      "red": 25
+                    }
+                  },
+                  {
+                    "percentage": 5.61,
+                    "rgb": {
+                      "blue": 79,
+                      "green": 146,
+                      "red": 111
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "7-Eleven S’pore $1 Snacks & Drinks Deals Till 11 Aug – Knoppers, Milo Nuggets, Pepsi, Lexus & More",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 27.12,
+                    "rgb": {
+                      "blue": 250,
+                      "green": 247,
+                      "red": 212
+                    }
+                  },
+                  {
+                    "percentage": 19.72,
+                    "rgb": {
+                      "blue": 73,
+                      "green": 51,
+                      "red": 44
+                    }
+                  },
+                  {
+                    "percentage": 8.85,
+                    "rgb": {
+                      "blue": 105,
+                      "green": 116,
+                      "red": 112
+                    }
+                  },
+                  {
+                    "percentage": 7.11,
+                    "rgb": {
+                      "blue": 144,
+                      "green": 128,
+                      "red": 25
+                    }
+                  },
+                  {
+                    "percentage": 5.61,
+                    "rgb": {
+                      "blue": 79,
+                      "green": 146,
+                      "red": 111
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 478,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=png&name=2048x2048_2_exp",
+                "width": 923
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 27.12,
+                    "rgb": {
+                      "blue": 250,
+                      "green": 247,
+                      "red": 212
+                    }
+                  },
+                  {
+                    "percentage": 19.72,
+                    "rgb": {
+                      "blue": 73,
+                      "green": 51,
+                      "red": 44
+                    }
+                  },
+                  {
+                    "percentage": 8.85,
+                    "rgb": {
+                      "blue": 105,
+                      "green": 116,
+                      "red": 112
+                    }
+                  },
+                  {
+                    "percentage": 7.11,
+                    "rgb": {
+                      "blue": 144,
+                      "green": 128,
+                      "red": 25
+                    }
+                  },
+                  {
+                    "percentage": 5.61,
+                    "rgb": {
+                      "blue": 79,
+                      "green": 146,
+                      "red": 111
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 478,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=png&name=2048x2048_2_exp",
+                "width": 923
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/fLiTgSZPEA",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 478,
+                "url": "https://pbs.twimg.com/card_img/2082410297776832512/UwbZ80Zs?format=jpg&name=orig",
+                "width": 923
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2082349005334630900",
+      "url": "https://x.com/singpromos/status/2082349005334630900",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-08-01T13:13:44.334304+00:00",
+      "translation_zh": "Paris Baguette 新加坡 卷蛋糕 2个$20、Madeleines 5个$10! 活动至 8月31日。Halal 认证。",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-07-29T06:14:25.000Z",
+        "display_text_range": [
+          0,
+          208
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                111,
+                121
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                122,
+                125
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                126,
+                134
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                135,
+                142
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                143,
+                153
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                154,
+                161
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                162,
+                173
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                174,
+                182
+              ],
+              "text": "SGhalal"
+            },
+            {
+              "indices": [
+                183,
+                191
+              ],
+              "text": "halalSG"
+            },
+            {
+              "indices": [
+                192,
+                208
+              ],
+              "text": "ParisBaguetteSG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/paris-baguette-spore-2-for-20-roll-cakes-5-for-10-madeleines-till-31-aug-2026-304797/",
+              "indices": [
+                87,
+                110
+              ],
+              "url": "https://t.co/7yf3A7HF0B"
+            }
+          ]
+        },
+        "id_str": "2082349005334630900",
+        "text": "Paris Baguette S'pore 2-for-$20 Roll Cakes &amp; 5-for-$10 Madeleines Till 31 Aug 2026 https://t.co/7yf3A7HF0B #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #SGhalal #halalSG #ParisBaguetteSG",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2082349005334630900"
+          ],
+          "editable_until_msecs": "1785309265000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/7yf3A7HF0B",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 146,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Sweet savings with mix-and-match roll cakes and madeleines",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 627,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 627,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 627,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 48.94,
+                    "rgb": {
+                      "blue": 167,
+                      "green": 193,
+                      "red": 216
+                    }
+                  },
+                  {
+                    "percentage": 8.14,
+                    "rgb": {
+                      "blue": 80,
+                      "green": 132,
+                      "red": 194
+                    }
+                  },
+                  {
+                    "percentage": 6.75,
+                    "rgb": {
+                      "blue": 207,
+                      "green": 202,
+                      "red": 181
+                    }
+                  },
+                  {
+                    "percentage": 5.63,
+                    "rgb": {
+                      "blue": 33,
+                      "green": 42,
+                      "red": 60
+                    }
+                  },
+                  {
+                    "percentage": 3.38,
+                    "rgb": {
+                      "blue": 52,
+                      "green": 87,
+                      "red": 194
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "Paris Baguette S’pore 2-for-$20 Roll Cakes & 5-for-$10 Madeleines Till 31 Aug 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 48.94,
+                    "rgb": {
+                      "blue": 167,
+                      "green": 193,
+                      "red": 216
+                    }
+                  },
+                  {
+                    "percentage": 8.14,
+                    "rgb": {
+                      "blue": 80,
+                      "green": 132,
+                      "red": 194
+                    }
+                  },
+                  {
+                    "percentage": 6.75,
+                    "rgb": {
+                      "blue": 207,
+                      "green": 202,
+                      "red": 181
+                    }
+                  },
+                  {
+                    "percentage": 5.63,
+                    "rgb": {
+                      "blue": 33,
+                      "green": 42,
+                      "red": 60
+                    }
+                  },
+                  {
+                    "percentage": 3.38,
+                    "rgb": {
+                      "blue": 52,
+                      "green": 87,
+                      "red": 194
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 627,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 48.94,
+                    "rgb": {
+                      "blue": 167,
+                      "green": 193,
+                      "red": 216
+                    }
+                  },
+                  {
+                    "percentage": 8.14,
+                    "rgb": {
+                      "blue": 80,
+                      "green": 132,
+                      "red": 194
+                    }
+                  },
+                  {
+                    "percentage": 6.75,
+                    "rgb": {
+                      "blue": 207,
+                      "green": 202,
+                      "red": 181
+                    }
+                  },
+                  {
+                    "percentage": 5.63,
+                    "rgb": {
+                      "blue": 33,
+                      "green": 42,
+                      "red": 60
+                    }
+                  },
+                  {
+                    "percentage": 3.38,
+                    "rgb": {
+                      "blue": 52,
+                      "green": 87,
+                      "red": 194
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 627,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/7yf3A7HF0B",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 627,
+                "url": "https://pbs.twimg.com/card_img/2082349005540122624/RTxK6t25?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2082183142988026315",
+      "url": "https://x.com/singpromos/status/2082183142988026315",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-08-01T13:13:44.334304+00:00",
+      "translation_zh": "BreadTalk 肉松小面包 6个 $10.80! 限至 7月30日，经典款必囤。",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-07-28T19:15:21.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                87,
+                97
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                98,
+                101
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                102,
+                110
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                111,
+                118
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                119,
+                129
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                130,
+                137
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                138,
+                149
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                150,
+                160
+              ],
+              "text": "breadtalk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/breadtalk-6-flosss-buns-for-10-80-promotion-until-30-jul-2026-304805/",
+              "indices": [
+                63,
+                86
+              ],
+              "url": "https://t.co/GGLlcd0fNr"
+            }
+          ]
+        },
+        "id_str": "2082183142988026315",
+        "text": "BreadTalk 6 Flosss Buns for $10.80 Promotion Until 30 Jul 2026 https://t.co/GGLlcd0fNr #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #breadtalk",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2082183142988026315"
+          ],
+          "editable_until_msecs": "1785269721000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/GGLlcd0fNr",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 147,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Six favourite Flosss buns for one great price",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 315,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 629,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 629,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 629,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 46.92,
+                    "rgb": {
+                      "blue": 78,
+                      "green": 152,
+                      "red": 222
+                    }
+                  },
+                  {
+                    "percentage": 28.02,
+                    "rgb": {
+                      "blue": 44,
+                      "green": 84,
+                      "red": 196
+                    }
+                  },
+                  {
+                    "percentage": 20.03,
+                    "rgb": {
+                      "blue": 80,
+                      "green": 225,
+                      "red": 246
+                    }
+                  },
+                  {
+                    "percentage": 3.18,
+                    "rgb": {
+                      "blue": 92,
+                      "green": 171,
+                      "red": 204
+                    }
+                  },
+                  {
+                    "percentage": 0.78,
+                    "rgb": {
+                      "blue": 79,
+                      "green": 109,
+                      "red": 198
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "BreadTalk 6 Flosss Buns for $10.80 Promotion Until 30 Jul 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 46.92,
+                    "rgb": {
+                      "blue": 78,
+                      "green": 152,
+                      "red": 222
+                    }
+                  },
+                  {
+                    "percentage": 28.02,
+                    "rgb": {
+                      "blue": 44,
+                      "green": 84,
+                      "red": 196
+                    }
+                  },
+                  {
+                    "percentage": 20.03,
+                    "rgb": {
+                      "blue": 80,
+                      "green": 225,
+                      "red": 246
+                    }
+                  },
+                  {
+                    "percentage": 3.18,
+                    "rgb": {
+                      "blue": 92,
+                      "green": 171,
+                      "red": 204
+                    }
+                  },
+                  {
+                    "percentage": 0.78,
+                    "rgb": {
+                      "blue": 79,
+                      "green": 109,
+                      "red": 198
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 629,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 46.92,
+                    "rgb": {
+                      "blue": 78,
+                      "green": 152,
+                      "red": 222
+                    }
+                  },
+                  {
+                    "percentage": 28.02,
+                    "rgb": {
+                      "blue": 44,
+                      "green": 84,
+                      "red": 196
+                    }
+                  },
+                  {
+                    "percentage": 20.03,
+                    "rgb": {
+                      "blue": 80,
+                      "green": 225,
+                      "red": 246
+                    }
+                  },
+                  {
+                    "percentage": 3.18,
+                    "rgb": {
+                      "blue": 92,
+                      "green": 171,
+                      "red": 204
+                    }
+                  },
+                  {
+                    "percentage": 0.78,
+                    "rgb": {
+                      "blue": 79,
+                      "green": 109,
+                      "red": 198
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 629,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/GGLlcd0fNr",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 629,
+                "url": "https://pbs.twimg.com/card_img/2081181954922459136/SZgVN2WZ?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2082085275833192942",
+      "url": "https://x.com/singpromos/status/2082085275833192942",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-08-01T13:13:44.334304+00:00",
+      "translation_zh": "Sushi Express 新加坡 15周年庆! 7月29日指定颜色盘子每盘 $1.50++，平时 $2.80++ 的盘子也只要 $1.50!",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-07-28T12:46:27.000Z",
+        "display_text_range": [
+          0,
+          227
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                118,
+                128
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                129,
+                132
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                133,
+                141
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                142,
+                149
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                150,
+                160
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                161,
+                168
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                169,
+                180
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                181,
+                196
+              ],
+              "text": "SushiExpressSG"
+            },
+            {
+              "indices": [
+                197,
+                209
+              ],
+              "text": "SushiPlusSG"
+            },
+            {
+              "indices": [
+                210,
+                218
+              ],
+              "text": "sushisg"
+            },
+            {
+              "indices": [
+                219,
+                227
+              ],
+              "text": "sgsushi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/sushi-express-spore-1-50-selected-colour-plates-15th-anniversary-promotion-on-29-jul-2026-304791/",
+              "indices": [
+                94,
+                117
+              ],
+              "url": "https://t.co/m0xPlqySVM"
+            }
+          ]
+        },
+        "id_str": "2082085275833192942",
+        "text": "Sushi Express S'pore $1.50++ Selected Colour Plates 15th Anniversary Promotion on 29 Jul 2026 https://t.co/m0xPlqySVM #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #SushiExpressSG #SushiPlusSG #sushisg #sgsushi",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2082085275833192942"
+          ],
+          "editable_until_msecs": "1785246387000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/m0xPlqySVM",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 146,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Enjoy more for less",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 312,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 562,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=jpg&name=orig",
+                "width": 1080
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 562,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=png&name=2048x2048_2_exp",
+                "width": 1080
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 562,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=jpg&name=orig",
+                "width": 1080
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 26.76,
+                    "rgb": {
+                      "blue": 11,
+                      "green": 15,
+                      "red": 24
+                    }
+                  },
+                  {
+                    "percentage": 22.06,
+                    "rgb": {
+                      "blue": 174,
+                      "green": 178,
+                      "red": 186
+                    }
+                  },
+                  {
+                    "percentage": 10.93,
+                    "rgb": {
+                      "blue": 41,
+                      "green": 127,
+                      "red": 234
+                    }
+                  },
+                  {
+                    "percentage": 9.95,
+                    "rgb": {
+                      "blue": 8,
+                      "green": 45,
+                      "red": 107
+                    }
+                  },
+                  {
+                    "percentage": 7.64,
+                    "rgb": {
+                      "blue": 138,
+                      "green": 183,
+                      "red": 232
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "Sushi Express S’pore $1.50++ Selected Colour Plates 15th Anniversary Promotion on 29 Jul 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 26.76,
+                    "rgb": {
+                      "blue": 11,
+                      "green": 15,
+                      "red": 24
+                    }
+                  },
+                  {
+                    "percentage": 22.06,
+                    "rgb": {
+                      "blue": 174,
+                      "green": 178,
+                      "red": 186
+                    }
+                  },
+                  {
+                    "percentage": 10.93,
+                    "rgb": {
+                      "blue": 41,
+                      "green": 127,
+                      "red": 234
+                    }
+                  },
+                  {
+                    "percentage": 9.95,
+                    "rgb": {
+                      "blue": 8,
+                      "green": 45,
+                      "red": 107
+                    }
+                  },
+                  {
+                    "percentage": 7.64,
+                    "rgb": {
+                      "blue": 138,
+                      "green": 183,
+                      "red": 232
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 562,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=png&name=2048x2048_2_exp",
+                "width": 1080
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 26.76,
+                    "rgb": {
+                      "blue": 11,
+                      "green": 15,
+                      "red": 24
+                    }
+                  },
+                  {
+                    "percentage": 22.06,
+                    "rgb": {
+                      "blue": 174,
+                      "green": 178,
+                      "red": 186
+                    }
+                  },
+                  {
+                    "percentage": 10.93,
+                    "rgb": {
+                      "blue": 41,
+                      "green": 127,
+                      "red": 234
+                    }
+                  },
+                  {
+                    "percentage": 9.95,
+                    "rgb": {
+                      "blue": 8,
+                      "green": 45,
+                      "red": 107
+                    }
+                  },
+                  {
+                    "percentage": 7.64,
+                    "rgb": {
+                      "blue": 138,
+                      "green": 183,
+                      "red": 232
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 562,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=png&name=2048x2048_2_exp",
+                "width": 1080
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/m0xPlqySVM",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 562,
+                "url": "https://pbs.twimg.com/card_img/2082085276164423680/eYSb4g16?format=jpg&name=orig",
+                "width": 1080
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2082037460096397349",
+      "url": "https://x.com/singpromos/status/2082037460096397349",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-08-01T13:13:44.334304+00:00",
+      "translation_zh": "Wingstop 新加坡 7月29日 8块去骨鸡翅仅 $7.20! Halal 认证，全岛门店。",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-07-28T09:36:27.000Z",
+        "display_text_range": [
+          0,
+          183
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                91,
+                101
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                102,
+                105
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                106,
+                114
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                115,
+                122
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                123,
+                133
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                134,
+                141
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                142,
+                153
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                154,
+                162
+              ],
+              "text": "SGhalal"
+            },
+            {
+              "indices": [
+                163,
+                171
+              ],
+              "text": "halalSG"
+            },
+            {
+              "indices": [
+                172,
+                183
+              ],
+              "text": "wingstopsg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/wingstop-spore-8pc-boneless-wings-at-s7-20-promo-on-29-july-2026-304703/",
+              "indices": [
+                67,
+                90
+              ],
+              "url": "https://t.co/DOgRHsuzAH"
+            }
+          ]
+        },
+        "id_str": "2082037460096397349",
+        "text": "Wingstop S'pore 8pc Boneless Wings at S$7.20 Promo on 29 July 2026 https://t.co/DOgRHsuzAH #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #SGhalal #halalSG #wingstopsg",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2082037460096397349"
+          ],
+          "editable_until_msecs": "1785234987000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/DOgRHsuzAH",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 147,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Two tasty flavours to choose from",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 315,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 76,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 46.32,
+                    "rgb": {
+                      "blue": 3,
+                      "green": 7,
+                      "red": 35
+                    }
+                  },
+                  {
+                    "percentage": 7.42,
+                    "rgb": {
+                      "blue": 5,
+                      "green": 15,
+                      "red": 62
+                    }
+                  },
+                  {
+                    "percentage": 7.11,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 208,
+                      "red": 204
+                    }
+                  },
+                  {
+                    "percentage": 6.68,
+                    "rgb": {
+                      "blue": 5,
+                      "green": 198,
+                      "red": 247
+                    }
+                  },
+                  {
+                    "percentage": 5.69,
+                    "rgb": {
+                      "blue": 31,
+                      "green": 99,
+                      "red": 213
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "Wingstop S’pore 8pc Boneless Wings at S$7.20 Promo on 29 July 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 46.32,
+                    "rgb": {
+                      "blue": 3,
+                      "green": 7,
+                      "red": 35
+                    }
+                  },
+                  {
+                    "percentage": 7.42,
+                    "rgb": {
+                      "blue": 5,
+                      "green": 15,
+                      "red": 62
+                    }
+                  },
+                  {
+                    "percentage": 7.11,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 208,
+                      "red": 204
+                    }
+                  },
+                  {
+                    "percentage": 6.68,
+                    "rgb": {
+                      "blue": 5,
+                      "green": 198,
+                      "red": 247
+                    }
+                  },
+                  {
+                    "percentage": 5.69,
+                    "rgb": {
+                      "blue": 31,
+                      "green": 99,
+                      "red": 213
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 46.32,
+                    "rgb": {
+                      "blue": 3,
+                      "green": 7,
+                      "red": 35
+                    }
+                  },
+                  {
+                    "percentage": 7.42,
+                    "rgb": {
+                      "blue": 5,
+                      "green": 15,
+                      "red": 62
+                    }
+                  },
+                  {
+                    "percentage": 7.11,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 208,
+                      "red": 204
+                    }
+                  },
+                  {
+                    "percentage": 6.68,
+                    "rgb": {
+                      "blue": 5,
+                      "green": 198,
+                      "red": 247
+                    }
+                  },
+                  {
+                    "percentage": 5.69,
+                    "rgb": {
+                      "blue": 31,
+                      "green": 99,
+                      "red": 213
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/DOgRHsuzAH",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 630,
+                "url": "https://pbs.twimg.com/card_img/2082037460314533888/9_ASpdnG?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2082034459931824451",
+      "url": "https://x.com/singpromos/status/2082034459931824451",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "1fl",
+      "country": "SG",
+      "fetched_at": "2026-08-01T13:13:44.334304+00:00",
+      "translation_zh": "TSUJIRI 新加坡 买一送一 Float 优惠至 8月9日(国庆日)! 日式抹茶圣代双重快乐。",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "ro",
+        "possibly_sensitive": false,
+        "created_at": "2026-07-28T09:24:32.000Z",
+        "display_text_range": [
+          0,
+          174
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                83,
+                93
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                94,
+                97
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                98,
+                106
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                107,
+                114
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                115,
+                125
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                126,
+                133
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                134,
+                145
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                146,
+                163
+              ],
+              "text": "TsujiriSingapore"
+            },
+            {
+              "indices": [
+                164,
+                174
+              ],
+              "text": "TsujiriSG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/tsujiri-singapore-1-for-1-float-promotion-until-9-aug-2026-304763/",
+              "indices": [
+                59,
+                82
+              ],
+              "url": "https://t.co/H2uAL9pjSX"
+            }
+          ]
+        },
+        "id_str": "2082034459931824451",
+        "text": "TSUJIRI Singapore 1-for-1 Float Promotion Until 9 Aug 2026 https://t.co/H2uAL9pjSX #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #TsujiriSingapore #TsujiriSG",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2082034459931824451"
+          ],
+          "editable_until_msecs": "1785234272000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/H2uAL9pjSX",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 147,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Two refreshing Japanese tea floats for the price of one",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 316,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 568,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=jpg&name=orig",
+                "width": 1080
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 76,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 568,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=png&name=2048x2048_2_exp",
+                "width": 1080
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 568,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=jpg&name=orig",
+                "width": 1080
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 57.37,
+                    "rgb": {
+                      "blue": 231,
+                      "green": 236,
+                      "red": 240
+                    }
+                  },
+                  {
+                    "percentage": 14.7,
+                    "rgb": {
+                      "blue": 88,
+                      "green": 176,
+                      "red": 177
+                    }
+                  },
+                  {
+                    "percentage": 12.67,
+                    "rgb": {
+                      "blue": 49,
+                      "green": 96,
+                      "red": 146
+                    }
+                  },
+                  {
+                    "percentage": 7.8,
+                    "rgb": {
+                      "blue": 14,
+                      "green": 14,
+                      "red": 14
+                    }
+                  },
+                  {
+                    "percentage": 1.15,
+                    "rgb": {
+                      "blue": 9,
+                      "green": 42,
+                      "red": 84
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "TSUJIRI Singapore 1-for-1 Float Promotion Until 9 Aug 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 57.37,
+                    "rgb": {
+                      "blue": 231,
+                      "green": 236,
+                      "red": 240
+                    }
+                  },
+                  {
+                    "percentage": 14.7,
+                    "rgb": {
+                      "blue": 88,
+                      "green": 176,
+                      "red": 177
+                    }
+                  },
+                  {
+                    "percentage": 12.67,
+                    "rgb": {
+                      "blue": 49,
+                      "green": 96,
+                      "red": 146
+                    }
+                  },
+                  {
+                    "percentage": 7.8,
+                    "rgb": {
+                      "blue": 14,
+                      "green": 14,
+                      "red": 14
+                    }
+                  },
+                  {
+                    "percentage": 1.15,
+                    "rgb": {
+                      "blue": 9,
+                      "green": 42,
+                      "red": 84
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 568,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=png&name=2048x2048_2_exp",
+                "width": 1080
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 57.37,
+                    "rgb": {
+                      "blue": 231,
+                      "green": 236,
+                      "red": 240
+                    }
+                  },
+                  {
+                    "percentage": 14.7,
+                    "rgb": {
+                      "blue": 88,
+                      "green": 176,
+                      "red": 177
+                    }
+                  },
+                  {
+                    "percentage": 12.67,
+                    "rgb": {
+                      "blue": 49,
+                      "green": 96,
+                      "red": 146
+                    }
+                  },
+                  {
+                    "percentage": 7.8,
+                    "rgb": {
+                      "blue": 14,
+                      "green": 14,
+                      "red": 14
+                    }
+                  },
+                  {
+                    "percentage": 1.15,
+                    "rgb": {
+                      "blue": 9,
+                      "green": 42,
+                      "red": 84
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 568,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=png&name=2048x2048_2_exp",
+                "width": 1080
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/H2uAL9pjSX",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 568,
+                "url": "https://pbs.twimg.com/card_img/2082034460158197760/y2pwisNq?format=jpg&name=orig",
+                "width": 1080
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2081991088966152667",
+      "url": "https://x.com/singpromos/status/2081991088966152667",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-08-01T13:13:44.334304+00:00",
+      "translation_zh": "Texas Chicken 新加坡 每周一、二 4块炸鸡 $9.90! 7月28日起。Halal 认证。",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-07-28T06:32:11.000Z",
+        "display_text_range": [
+          0,
+          207
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                111,
+                121
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                122,
+                125
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                126,
+                134
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                135,
+                142
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                143,
+                153
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                154,
+                161
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                162,
+                173
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                174,
+                189
+              ],
+              "text": "texaschickensg"
+            },
+            {
+              "indices": [
+                190,
+                198
+              ],
+              "text": "SGhalal"
+            },
+            {
+              "indices": [
+                199,
+                207
+              ],
+              "text": "halalSG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/texas-chicken-spore-9-90-4pc-chicken-deal-on-mondays-tuesdays-from-28-jul-2026-304769/",
+              "indices": [
+                87,
+                110
+              ],
+              "url": "https://t.co/NBMTW39Fi9"
+            }
+          ]
+        },
+        "id_str": "2081991088966152667",
+        "text": "Texas Chicken S'pore $9.90 4pc Chicken Deal on Mondays &amp; Tuesdays from 28 Jul 2026 https://t.co/NBMTW39Fi9 #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #texaschickensg #SGhalal #halalSG",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2081991088966152667"
+          ],
+          "editable_until_msecs": "1785223931000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/NBMTW39Fi9",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 150,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=jpg&name=280x150",
+                "width": 233
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Four pieces of crispy chicken at 49% off",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 320,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=jpg&name=800x320_1",
+                "width": 497
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 515,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=jpg&name=orig",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 64,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=jpg&name=100x100",
+                "width": 100
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 515,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=png&name=2048x2048_2_exp",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 515,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=jpg&name=orig",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 68.04,
+                    "rgb": {
+                      "blue": 209,
+                      "green": 205,
+                      "red": 204
+                    }
+                  },
+                  {
+                    "percentage": 10.24,
+                    "rgb": {
+                      "blue": 135,
+                      "green": 134,
+                      "red": 135
+                    }
+                  },
+                  {
+                    "percentage": 8.55,
+                    "rgb": {
+                      "blue": 86,
+                      "green": 231,
+                      "red": 247
+                    }
+                  },
+                  {
+                    "percentage": 5.05,
+                    "rgb": {
+                      "blue": 184,
+                      "green": 214,
+                      "red": 233
+                    }
+                  },
+                  {
+                    "percentage": 1.56,
+                    "rgb": {
+                      "blue": 179,
+                      "green": 174,
+                      "red": 222
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "Texas Chicken S’pore $9.90 4pc Chicken Deal on Mondays & Tuesdays from 28 Jul 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 68.04,
+                    "rgb": {
+                      "blue": 209,
+                      "green": 205,
+                      "red": 204
+                    }
+                  },
+                  {
+                    "percentage": 10.24,
+                    "rgb": {
+                      "blue": 135,
+                      "green": 134,
+                      "red": 135
+                    }
+                  },
+                  {
+                    "percentage": 8.55,
+                    "rgb": {
+                      "blue": 86,
+                      "green": 231,
+                      "red": 247
+                    }
+                  },
+                  {
+                    "percentage": 5.05,
+                    "rgb": {
+                      "blue": 184,
+                      "green": 214,
+                      "red": 233
+                    }
+                  },
+                  {
+                    "percentage": 1.56,
+                    "rgb": {
+                      "blue": 179,
+                      "green": 174,
+                      "red": 222
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 515,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=png&name=2048x2048_2_exp",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 68.04,
+                    "rgb": {
+                      "blue": 209,
+                      "green": 205,
+                      "red": 204
+                    }
+                  },
+                  {
+                    "percentage": 10.24,
+                    "rgb": {
+                      "blue": 135,
+                      "green": 134,
+                      "red": 135
+                    }
+                  },
+                  {
+                    "percentage": 8.55,
+                    "rgb": {
+                      "blue": 86,
+                      "green": 231,
+                      "red": 247
+                    }
+                  },
+                  {
+                    "percentage": 5.05,
+                    "rgb": {
+                      "blue": 184,
+                      "green": 214,
+                      "red": 233
+                    }
+                  },
+                  {
+                    "percentage": 1.56,
+                    "rgb": {
+                      "blue": 179,
+                      "green": 174,
+                      "red": 222
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 515,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=png&name=2048x2048_2_exp",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/NBMTW39Fi9",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 515,
+                "url": "https://pbs.twimg.com/card_img/2081991091935645696/QgxHc6QB?format=jpg&name=orig",
+                "width": 800
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2081387294934876458",
+      "url": "https://x.com/singpromos/status/2081387294934876458",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "1fl",
+      "country": "SG",
+      "fetched_at": "2026-08-01T13:13:44.334304+00:00",
+      "translation_zh": "Starbucks 新加坡会员 买一送一 Venti 饮品 Happy Hour! 7月28-30日限定。",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-07-26T14:32:56.000Z",
+        "display_text_range": [
+          0,
+          181
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                106,
+                116
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                117,
+                120
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                121,
+                129
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                130,
+                137
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                138,
+                148
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                149,
+                156
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                157,
+                168
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                169,
+                181
+              ],
+              "text": "starbuckssg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-rewards-members-1-for-1-venti-drinks-happy-hour-28-30-jul-2026-304716/",
+              "indices": [
+                82,
+                105
+              ],
+              "url": "https://t.co/zlTnMJuPrK"
+            }
+          ]
+        },
+        "id_str": "2081387294934876458",
+        "text": "Starbucks S'pore Rewards Members 1-for-1 Venti Drinks Happy Hour (28-30 Jul 2026) https://t.co/zlTnMJuPrK #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #starbuckssg",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2081387294934876458"
+          ],
+          "editable_until_msecs": "1785079976000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/zlTnMJuPrK",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 146,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "3 days, 3 vouchers",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 313,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 468,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=jpg&name=orig",
+                "width": 896
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 468,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=png&name=2048x2048_2_exp",
+                "width": 896
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 468,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=jpg&name=orig",
+                "width": 896
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 53.93,
+                    "rgb": {
+                      "blue": 78,
+                      "green": 88,
+                      "red": 88
+                    }
+                  },
+                  {
+                    "percentage": 22.61,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 212,
+                      "red": 215
+                    }
+                  },
+                  {
+                    "percentage": 10.73,
+                    "rgb": {
+                      "blue": 142,
+                      "green": 187,
+                      "red": 196
+                    }
+                  },
+                  {
+                    "percentage": 5.75,
+                    "rgb": {
+                      "blue": 90,
+                      "green": 125,
+                      "red": 133
+                    }
+                  },
+                  {
+                    "percentage": 1.29,
+                    "rgb": {
+                      "blue": 53,
+                      "green": 53,
+                      "red": 56
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "Starbucks S’pore Rewards Members 1-for-1 Venti Drinks Happy Hour (28-30 Jul 2026)",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 53.93,
+                    "rgb": {
+                      "blue": 78,
+                      "green": 88,
+                      "red": 88
+                    }
+                  },
+                  {
+                    "percentage": 22.61,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 212,
+                      "red": 215
+                    }
+                  },
+                  {
+                    "percentage": 10.73,
+                    "rgb": {
+                      "blue": 142,
+                      "green": 187,
+                      "red": 196
+                    }
+                  },
+                  {
+                    "percentage": 5.75,
+                    "rgb": {
+                      "blue": 90,
+                      "green": 125,
+                      "red": 133
+                    }
+                  },
+                  {
+                    "percentage": 1.29,
+                    "rgb": {
+                      "blue": 53,
+                      "green": 53,
+                      "red": 56
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 468,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=png&name=2048x2048_2_exp",
+                "width": 896
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 53.93,
+                    "rgb": {
+                      "blue": 78,
+                      "green": 88,
+                      "red": 88
+                    }
+                  },
+                  {
+                    "percentage": 22.61,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 212,
+                      "red": 215
+                    }
+                  },
+                  {
+                    "percentage": 10.73,
+                    "rgb": {
+                      "blue": 142,
+                      "green": 187,
+                      "red": 196
+                    }
+                  },
+                  {
+                    "percentage": 5.75,
+                    "rgb": {
+                      "blue": 90,
+                      "green": 125,
+                      "red": 133
+                    }
+                  },
+                  {
+                    "percentage": 1.29,
+                    "rgb": {
+                      "blue": 53,
+                      "green": 53,
+                      "red": 56
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 468,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=png&name=2048x2048_2_exp",
+                "width": 896
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/zlTnMJuPrK",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 468,
+                "url": "https://pbs.twimg.com/card_img/2081387337418981376/9AFYrQIM?format=jpg&name=orig",
+                "width": 896
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2080908232101695516",
+      "url": "https://x.com/singpromos/status/2080908232101695516",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "1fl",
+      "country": "SG",
+      "fetched_at": "2026-08-01T13:13:44.334304+00:00",
+      "translation_zh": "Luckin Coffee 新加坡 买一送一咖啡优惠至 7月31日! 全岛门店通用。",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-07-25T06:49:18.000Z",
+        "display_text_range": [
+          0,
+          166
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                88,
+                98
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                99,
+                102
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                103,
+                111
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                112,
+                119
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                120,
+                130
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                131,
+                138
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                139,
+                150
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                151,
+                166
+              ],
+              "text": "LuckinCoffeeSG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/luckin-coffee-spore-1-for-1-coffee-promotion-until-31-jul-2026-304694/",
+              "indices": [
+                64,
+                87
+              ],
+              "url": "https://t.co/80bMyATe8f"
+            }
+          ]
+        },
+        "id_str": "2080908232101695516",
+        "text": "Luckin Coffee S'pore 1-for-1 Coffee Promotion Until 31 Jul 2026 https://t.co/80bMyATe8f #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #LuckinCoffeeSG",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2080908232101695516"
+          ],
+          "editable_until_msecs": "1784965758000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/80bMyATe8f",
+          "binding_values": {
+            "description": {
+              "string_value": "Enjoy a great-value coffee deal with selected favourites on a 1-for-1 promotion for a limited time.",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "title": {
+              "string_value": "(EXPIRED) Luckin Coffee S’pore 1-for-1 Coffee Promotion Until 31 Jul 2026",
+              "type": "STRING"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/80bMyATe8f",
+              "type": "STRING"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    }
+  ]
+}
