@@ -1,0 +1,73 @@
+name: Auto-Index (SEO)
+
+# Runs AFTER the Pages deploy completes.
+# Submits all URLs from sitemap.xml to IndexNow (Bing, Yandex, Naver)
+# so new posts are indexed within hours, not weeks.
+
+on:
+  workflow_run:
+    workflows: ["Deploy to GitHub Pages"]
+    types:
+      - completed
+  workflow_dispatch:
+
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    # Only run if the deploy succeeded
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Submit all URLs to IndexNow
+        env:
+          INDEXNOW_KEY: sgfooddealsindexnow
+          SITE_HOST: quicktestsg.github.io
+          SITE_PATH: /sg-food-deals
+        run: |
+          BASE="https://${SITE_HOST}${SITE_PATH}"
+
+          # 1. Parse sitemap.xml → extract all <loc> URLs
+          echo "Parsing sitemap.xml..."
+          URLS=$(python3 -c "
+          import xml.etree.ElementTree as ET, json, ssl, urllib.request
+          ctx = ssl.create_default_context()
+          ctx.check_hostname = False
+          ctx.verify_mode = ssl.CERT_NONE
+          xml = urllib.request.urlopen('${BASE}/sitemap.xml', context=ctx, timeout=15).read()
+          ns = {'sm': 'http://www.sitemaps.org/schemas/sitemap/0.9'}
+          root = ET.fromstring(xml)
+          urls = [e.text for e in root.findall('.//sm:loc', ns)]
+          print(json.dumps(urls))
+          ")
+
+          URL_COUNT=$(echo "$URLS" | python3 -c "import json,sys; print(len(json.load(sys.stdin)))")
+          echo "Found ${URL_COUNT} URLs to submit"
+
+          # 2. Submit to IndexNow API (covers Bing, Yandex, Naver)
+          echo "Submitting to IndexNow API..."
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
+            -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json" \
+            -d "{\"host\":\"${SITE_HOST}\",\"key\":\"${INDEXNOW_KEY}\",\"keyLocation\":\"${BASE}/${INDEXNOW_KEY}.txt\",\"urlList\":${URLS}}")
+          echo "IndexNow API response: ${STATUS} (200/202 = accepted)"
+
+          # 3. Also submit to Bing's direct IndexNow endpoint
+          echo "Submitting to Bing IndexNow..."
+          BING_STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
+            -X POST "https://www.bing.com/indexnow" \
+            -H "Content-Type: application/json" \
+            -d "{\"host\":\"${SITE_HOST}\",\"key\":\"${INDEXNOW_KEY}\",\"urlList\":${URLS}}")
+          echo "Bing IndexNow response: ${BING_STATUS} (200/202 = accepted)"
+
+          # 4. Ping Google with the sitemap URL (triggers crawl)
+          echo "Pinging Google sitemap..."
+          GOOGLE_STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
+            "https://www.google.com/ping?sitemap=${BASE}/sitemap.xml")
+          echo "Google ping response: ${GOOGLE_STATUS}"
+
+          echo ""
+          echo "✅ Auto-index complete: ${URL_COUNT} URLs submitted"
+          echo "   IndexNow API: ${STATUS}"
+          echo "   Bing IndexNow: ${BING_STATUS}"
+          echo "   Google ping: ${GOOGLE_STATUS}"
