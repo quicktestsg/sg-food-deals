@@ -85,7 +85,8 @@ def process_text(text):
 
 
 def get_best_photo(tweet):
-    """Get the highest quality photo from tweet."""
+    """Get the highest quality photo from tweet, including card preview images."""
+    # 1. Direct photos attached to the tweet
     photos = tweet.get("photos", [])
     if photos:
         photo = photos[0]
@@ -93,10 +94,26 @@ def get_best_photo(tweet):
         if "pbs.twimg.com" in url:
             return url.replace("normal", "large")
         return url
+    # 2. Media array (videos/photos)
     for media in tweet.get("media", []):
         if media.get("type") == "photo":
             url = media.get("media_url_https", "")
             return url.replace("normal", "large") if "pbs.twimg.com" in url else url
+    # 3. Card preview image (most deal tweets use link cards)
+    card = tweet.get("card", {})
+    if card:
+        bv = card.get("binding_values", {})
+        # Try largest available sizes
+        for key in ("thumbnail_image_original",
+                     "photo_image_full_size_original",
+                     "thumbnail_image_x_large",
+                     "summary_photo_image_x_large",
+                     "photo_image_full_size_large",
+                     "thumbnail_image_large"):
+            val = bv.get(key, {})
+            img_url = val.get("image_value", {}).get("url", "")
+            if img_url:
+                return img_url
     return None
 
 
