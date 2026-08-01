@@ -30,8 +30,10 @@ PROJECT_DIR = os.path.dirname(SCRIPT_DIR)
 TEMPLATE = os.path.join(PROJECT_DIR, "index_template.html")
 OUTPUT = os.path.join(PROJECT_DIR, "index.html")
 POSTS_MANIFEST = os.path.join(SCRIPT_DIR, "posts.json")
+SITEMAP = os.path.join(PROJECT_DIR, "sitemap.xml")
 
-CSS_VERSION = "1"
+BASE_URL = "https://quicktestsg.github.io/sg-food-deals"
+CSS_VERSION = "2"
 DEALS_PREVIEW_COUNT = 6
 POSTS_PREVIEW_COUNT = 4
 
@@ -121,6 +123,124 @@ def generate_post_cards(posts, limit=None):
     return "\n\n".join(generate_post_card(p) for p in sorted_posts)
 
 
+# ── Sitemap generation ──
+def generate_sitemap(posts, cache):
+    """Generate sitemap.xml for Google/SE crawlers."""
+    from datetime import datetime, timezone
+
+    urls = [
+        {"loc": f"{BASE_URL}/", "priority": "1.0", "changefreq": "daily"},
+        {"loc": f"{BASE_URL}/about.html", "priority": "0.5", "changefreq": "monthly"},
+    ]
+    for post in posts:
+        urls.append({
+            "loc": f"{BASE_URL}/posts/{post['date']}-{post['slug']}.html",
+            "priority": "0.8",
+            "changefreq": "weekly",
+            "lastmod": post["date"],
+        })
+
+    today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    lines = ['<?xml version="1.0" encoding="UTF-8"?>']
+    lines.append('<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">')
+    for u in urls:
+        lines.append("  <url>")
+        lines.append(f"    <loc>{u['loc']}</loc>")
+        if "lastmod" in u:
+            lines.append(f"    <lastmod>{u['lastmod']}</lastmod>")
+        lines.append(f"    <changefreq>{u['changefreq']}</changefreq>")
+        lines.append(f"    <priority>{u['priority']}</priority>")
+        lines.append("  </url>")
+    lines.append("</urlset>")
+    return "\n".join(lines)
+
+
+# ── JSON-LD structured data for AI SEO ──
+def generate_jsonld(posts, cache):
+    """Generate JSON-LD structured data for Google Rich Results + AI search."""
+    today = datetime.now().strftime("%Y-%m-%d")
+
+    # 1. Website schema with search action
+    website_schema = {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "SG Food Deals",
+        "url": f"{BASE_URL}/",
+        "description": "Daily-updated Singapore food deals, 1-for-1s, freebies, promos and lifestyle steals.",
+        "inLanguage": ["en", "zh"],
+    }
+
+    # 2. Blog/CollectionPage schema
+    blog_schema = {
+        "@context": "https://schema.org",
+        "@type": "Blog",
+        "name": "SG Food Deals",
+        "url": f"{BASE_URL}/",
+        "description": "Singapore food deals, dining promos, and lifestyle steals updated daily.",
+        "publisher": {
+            "@type": "Organization",
+            "name": "SG Food Deals",
+            "url": f"{BASE_URL}/",
+        },
+        "blogPost": [],
+    }
+
+    for post in sorted(posts, key=lambda p: p["date"], reverse=True)[:10]:
+        blog_schema["blogPost"].append({
+            "@type": "BlogPosting",
+            "headline": post["title_en"],
+            "url": f"{BASE_URL}/posts/{post['date']}-{post['slug']}.html",
+            "datePublished": post["date"],
+            "author": {"@type": "Organization", "name": "SG Food Deals"},
+            "description": post.get("excerpt_en", ""),
+            "inLanguage": "en",
+        })
+
+    # 3. FAQ schema for AI discovery — natural language Q&A
+    faq_schema = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": "Where can I find the best 1-for-1 food deals in Singapore?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "SG Food Deals curates daily 1-for-1 dining deals from Starbucks, Luckin Coffee, McDonald's, and more. Check the Today's Deals section for the latest buy-one-get-one offers across Singapore restaurants and cafes."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "What are the cheapest places to eat in Singapore?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Singapore hawker centres offer meals from S$3-8, including Michelin-starred stalls. Chain restaurant promos like Texas Chicken (S$9.90 for 4 pieces on Mon/Tue), Sushi Express (S$1.50 plates during anniversary), and 7-Eleven (S$1 snacks) also offer great value."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "How can I save money on food in Singapore?",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Use credit card dining promos (DBS, UOB, OCBC), subscribe to Burpple Beyond for 1-for-1 deals, check FairPrice and Cold Storage weekly specials, follow singpromos on social media for flash promos, and visit hawker centres for everyday meals."
+                }
+            },
+            {
+                "@type": "Question",
+                "name": "新加坡哪里有美食优惠和羊毛可以薅？",
+                "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "SG Food Deals 每天更新新加坡最划算的美食优惠，包括买一送一、免费福利、限时促销等。来源包括 Starbucks、Luckin Coffee、McDonald's、FairPrice、Cold Storage 等品牌的最新促销信息。"
+                }
+            },
+        ]
+    }
+
+    # Combine all schemas
+    schemas = json.dumps([website_schema, blog_schema, faq_schema], ensure_ascii=False, indent=2)
+    return f'<script type="application/ld+json">{schemas}</script>'
+
+
 # ── Main build ──
 def main():
     # Read template
@@ -161,6 +281,13 @@ def main():
     country_pills_html = generate_country_pills(countries)
     template = template.replace("<!-- COUNTRY_PILLS -->", country_pills_html)
 
+    # ── JSON-LD structured data (SEO) ──
+    jsonld = generate_jsonld(posts, cache)
+    template = template.replace("<!-- JSON_LD -->", jsonld)
+
+    # ── Deal count for meta description ──
+    template = template.replace("DEAL_COUNT", str(len(cache['deals'])))
+
     # Write output — with generated-file warning
     warning = (
         "<!-- ⚠️ AUTO-GENERATED by scripts/build_index.py — DO NOT EDIT MANUALLY.  "
@@ -170,12 +297,18 @@ def main():
     with open(OUTPUT, "w") as f:
         f.write(warning + template)
 
+    # ── Generate sitemap.xml ──
+    sitemap_content = generate_sitemap(posts, cache)
+    with open(SITEMAP, "w") as f:
+        f.write(sitemap_content)
+
     post_count = len(posts)
     deal_count = len(cache['deals'])
     print(f"\n✅ Built index.html: {post_count} posts ({POSTS_PREVIEW_COUNT} preview), "
           f"{deal_count} deals ({DEALS_PREVIEW_COUNT} preview), "
           f"{len(countries)} countries", file=sys.stderr)
     print(f"   CSS version: v={CSS_VERSION}", file=sys.stderr)
+    print(f"   Sitemap: {len(posts) + 2} URLs", file=sys.stderr)
 
 
 if __name__ == "__main__":

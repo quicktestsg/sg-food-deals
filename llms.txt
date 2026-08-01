@@ -1,0 +1,39 @@
+# SG Food Deals
+
+> SG Food Deals is a daily-updated blog that rounds up the best food deals, dining promos, travel sales, and lifestyle steals across Singapore. Updated every day by an AI agent scanning social media (Twitter/X). Starting with Singapore, expanding to more countries.
+
+## What you'll find here
+
+- **Daily Food Deals**: 1-for-1 dining, promo codes, flash sales, freebies from restaurants like McDonald's, KFC, Starbucks, Texas Chicken, BreadTalk, and more
+- **Grocery Deals**: FairPrice, Cold Storage, Sheng Siong, 7-Eleven weekly specials and promotions
+- **Travel Deals**: Scoot, Singapore Airlines, Cathay Pacific flight promos and flash sales
+- **Lifestyle Guides**: How to eat cheap in Singapore, best hawker centres, credit card dining promos, student discounts
+
+## Singapore Food Deal Categories
+
+- **1-for-1 (Buy One Get One)**: Dining promotions at restaurants and cafes
+- **Promo/Discount**: Percentage off, fixed-price deals, promo codes
+- **Free**: Free food, free coffee, freebies with purchase
+- **Grocery**: Supermarket weekly specials and bundle deals
+
+## Popular Topics
+
+- Singapore cheap eats and hawker centre guide
+- 1-for-1 dining deals Singapore
+- McDonald's Singapore promotions
+- Starbucks Singapore happy hour
+- FairPrice weekly deals
+- Scoot and Singapore Airlines flight sales
+- DBS, UOB, OCBC credit card dining promos
+- 新加坡美食优惠 (Singapore food deals in Chinese)
+
+## Links
+
+- [Home](https://quicktestsg.github.io/sg-food-deals/)
+- [About](https://quicktestsg.github.io/sg-food-deals/about.html)
+- [Food Deal Survival Guide](https://quicktestsg.github.io/sg-food-deals/posts/2026-08-01-sg-food-deal-survival-guide.html)
+- [Today's Best Deals](https://quicktestsg.github.io/sg-food-deals/#pane-deals)
+
+## Content Language
+
+Content is bilingual (English + 中文/Chinese). Every deal and article has both English and Chinese translations.
