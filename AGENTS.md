@@ -74,23 +74,34 @@ git add -A && git commit -m "Daily post: TITLE" && git push
 python3 -c "import json; c=json.load(open('scripts/deals_cache.json')); [print(f'{d[\"id\"]} {d[\"label\"]} {d.get(\"deal_type\",\"\")} {d.get(\"country\",\"\")}') for d in c['deals']]"
 ```
 
-### 2. Search for new food deals on Twitter
+### 2. Search for new food & lifestyle deals on Twitter
 
-Use `bird` CLI to search for Singapore food deals. Try multiple keyword queries:
+Use `bird` CLI to search multiple sources. The PRIMARY source is **@singpromos** (posts all SG promos). Also search **@GreatDealsSG** and keyword searches for broader 吃喝玩乐 coverage:
 
 ```bash
-# Primary searches
-/opt/homebrew/bin/bird search "Singapore food deal OR SG food promo OR 1-for-1 Singapore" -n 20 --plain
+# PRIMARY: @singpromos (most reliable SG promo account, posts everything)
+/opt/homebrew/bin/bird search "from:singpromos" -n 30 --plain
 
-# Broader searches for 羊毛 (freebies, promos)
-/opt/homebrew/bin/bird search "Singapore free food OR SG food promo code OR Singapore food discount" -n 20 --plain
+# @GreatDealsSG (lifestyle + food + shopping deals)
+/opt/homebrew/bin/bird search "from:GreatDealsSG food OR restaurant OR dining OR kopi OR coffee" -n 15 --plain
 
-# Hawker / specific deals
-/opt/homebrew/bin/bird search "Singapore hawker promotion OR SG cheap eats OR Singapore 1 for 1 dining" -n 20 --plain
+# Keyword searches for food deals
+/opt/homebrew/bin/bird search "Singapore 1-for-1 dining OR SG food promo OR SG free food" -n 20 --plain
 
-# Chinese-language searches (many SG deal accounts post in Chinese)
-/opt/homebrew/bin/bird search "新加坡 美食 优惠 OR 新加坡 买一送一 OR 新加坡 免费食物" -n 20 --plain
+# Keyword searches for leisure/travel deals
+/opt/homebrew/bin/bird search "Singapore promo flight OR Scoot sale OR Singapore Airlines promo" -n 15 --plain
+
+# Chinese-language searches
+/opt/homebrew/bin/bird search "新加坡 优惠 促销 OR 新加坡 买一送一" -n 15 --plain
 ```
+
+**Selection criteria (吃喝玩乐):**
+- ✅ Food: 1-for-1 dining, promo codes, discounts, freebies, flash sales
+- ✅ Groceries: FairPrice, Cold Storage, Sheng Siong weekly specials
+- ✅ Travel: Scoot/SIA/Cathay flight promos (tag as "deal", green badge)
+- ✅ Leisure: Theme park deals, movie promos, entertainment discounts
+- ✅ Credit card dining promos (DBS, UOB, OCBC)
+- ❌ Skip: Non-lifestyle promos (banking rates, insurance, property, electronics-only)
 
 ### 3. Add new deals
 
@@ -133,15 +144,18 @@ git add -A && git commit -m "Deals update (N new)" && git push
 
 ## Selection Criteria for Deals
 
-Pick tweets that are **actual food deals** worth sharing:
+Pick tweets that are **actual food, dining, travel or leisure deals** worth sharing:
 - ✅ 1-for-1 dining promotions
 - ✅ Free food / freebies (e.g., free coffee, free dessert)
 - ✅ Promo codes and discount codes
 - ✅ Flash sales and limited-time offers
-- ✅ Student/senior/military discounts
+- ✅ Student/senior/NS discounts
 - ✅ Credit card dining promos (e.g., DBS, UOB, OCBC)
+- ✅ Grocery deals: FairPrice, Cold Storage, Sheng Siong, 7-Eleven specials
+- ✅ Travel promos: Scoot, SIA, Cathay Pacific flight sales
+- ✅ Leisure: theme park, cinema, entertainment deals
 - ✅ New restaurant opening promos
-- ❌ Skip: generic food photos without deals, restaurant reviews, personal opinions, spam
+- ❌ Skip: banking/finance promos, insurance, property, electronics-only deals, spam
 
 ---
 
