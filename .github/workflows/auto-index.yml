@@ -60,14 +60,14 @@ jobs:
             -d "{\"host\":\"${SITE_HOST}\",\"key\":\"${INDEXNOW_KEY}\",\"urlList\":${URLS}}")
           echo "Bing IndexNow response: ${BING_STATUS} (200/202 = accepted)"
 
-          # 4. Ping Google with the sitemap URL (triggers crawl)
-          echo "Pinging Google sitemap..."
-          GOOGLE_STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
-            "https://www.google.com/ping?sitemap=${BASE}/sitemap.xml")
-          echo "Google ping response: ${GOOGLE_STATUS}"
+          # 4. Verify the sitemap is publicly accessible
+          echo "Verifying sitemap accessibility..."
+          SITEMAP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" "${BASE}/sitemap.xml")
+          echo "Sitemap status: ${SITEMAP_STATUS} (200 = OK)"
 
           echo ""
           echo "✅ Auto-index complete: ${URL_COUNT} URLs submitted"
           echo "   IndexNow API: ${STATUS}"
           echo "   Bing IndexNow: ${BING_STATUS}"
-          echo "   Google ping: ${GOOGLE_STATUS}"
+          echo "   Sitemap: ${SITEMAP_STATUS}"
+          echo "   Google: discovers via robots.txt sitemap declaration"
