@@ -594,11 +594,16 @@ a { text-decoration: none; color: inherit; }
 
 /* ─── Responsive ─── */
 @media (max-width: 640px) {
-    .nav-inner { padding: 14px 16px; }
+    .nav-inner { padding: 12px 14px; }
+    .nav-brand { font-size: 15px; gap: 6px; }
+    .nav-brand-dot { width: 7px; height: 7px; }
+    .nav-right { gap: 2px; }
+    .nav-link { padding: 6px 7px; font-size: 13px; }
+    .lang-toggle, .theme-toggle { padding: 6px 8px; min-width: 34px; }
     .wrap { padding: 0 16px 80px; }
     .intro { padding: 48px 0 32px; }
     .post-header { padding: 40px 0 32px; }
-    .feed-tabs { top: 53px; }
+    .feed-tabs { top: 49px; }
     .deal-footer { gap: 16px; }
     .post-arrow { display: none; }
 }
