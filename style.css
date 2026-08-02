@@ -135,7 +135,7 @@ a { text-decoration: none; color: inherit; }
 }
 .nav-brand {
     font-weight: 800;
-    font-size: 18px;
+    font-size: 21px;
     letter-spacing: -0.02em;
     display: flex;
     align-items: center;
@@ -646,7 +646,7 @@ a { text-decoration: none; color: inherit; }
 /* ─── Responsive ─── */
 @media (max-width: 640px) {
     .nav-inner { padding: 12px 14px; }
-    .nav-brand { font-size: 15px; gap: 6px; }
+    .nav-brand { font-size: 18px; gap: 6px; }
     .nav-brand-dot { width: 7px; height: 7px; }
     .nav-right { gap: 2px; }
     .nav-link { padding: 6px 7px; font-size: 13px; }
