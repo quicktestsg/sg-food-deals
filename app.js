@@ -204,6 +204,30 @@ window.addEventListener('scroll', () => {
     else nav?.classList.remove('scrolled');
 }, { passive: true });
 
+// ─── Nav dropdown menu ───
+(function() {
+    const menuBtn = document.getElementById('navMenuBtn');
+    const dropdown = document.getElementById('navDropdown');
+    if (!menuBtn || !dropdown) return;
+
+    menuBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        dropdown.classList.toggle('open');
+    });
+
+    // Close on outside click
+    document.addEventListener('click', (e) => {
+        if (!e.target.closest('#navDropdown') && !e.target.closest('#navMenuBtn')) {
+            dropdown.classList.remove('open');
+        }
+    });
+
+    // Close on Escape
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') dropdown.classList.remove('open');
+    });
+})();
+
 // ─── Reading progress bar ───
 const progress = document.querySelector('.progress-bar');
 window.addEventListener('scroll', () => {

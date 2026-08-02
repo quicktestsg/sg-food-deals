@@ -16,7 +16,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=3">
+<link rel="stylesheet" href="style.css?v=4">
 <style>
 /* ─── Advertise Page Styles ─── */
 .ad-section { padding: 32px 0; }
@@ -279,8 +279,13 @@
             SG Food Deals
         </a>
         <div class="nav-right">
-            <a href="about.html" class="nav-link" data-en="About" data-zh="关于">About</a>
-            <a href="advertise.html" class="nav-link" data-en="Advertise" data-zh="广告合作">Advertise</a>
+            <button class="nav-menu-btn" id="navMenuBtn" aria-label="Menu">
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+            </button>
+            <div class="nav-dropdown" id="navDropdown">
+                <a href="about.html" class="nav-dropdown-link" data-en="About" data-zh="关于">About</a>
+                <a href="advertise.html" class="nav-dropdown-link" data-en="Advertise" data-zh="广告合作">Advertise</a>
+            </div>
             <button class="lang-toggle" id="langToggle" aria-label="Switch language">
                 <span class="lang-label">中文</span>
             </button>
