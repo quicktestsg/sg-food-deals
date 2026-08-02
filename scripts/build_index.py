@@ -33,7 +33,7 @@ POSTS_MANIFEST = os.path.join(SCRIPT_DIR, "posts.json")
 SITEMAP = os.path.join(PROJECT_DIR, "sitemap.xml")
 
 BASE_URL = "https://quicktestsg.github.io/sg-food-deals"
-CSS_VERSION = "5"
+CSS_VERSION = "6"
 DEALS_PREVIEW_COUNT = 6
 POSTS_PREVIEW_COUNT = 4
 

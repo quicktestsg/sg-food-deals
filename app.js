@@ -236,3 +236,46 @@ window.addEventListener('scroll', () => {
     const scrolled = (window.scrollY / winHeight) * 100;
     progress.style.width = Math.min(scrolled, 100) + '%';
 }, { passive: true });
+
+// ─── Newsletter form ───
+// Replace FORMSPREE_ENDPOINT with your Formspree form URL after signup
+const FORMSPREE_ENDPOINT = 'https://formspree.io/f/YOUR_FORM_ID';
+
+(function() {
+    const form = document.getElementById('newsletterForm');
+    const success = document.getElementById('newsletterSuccess');
+    if (!form || !success) return;
+
+    form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const email = form.querySelector('input[type="email"]').value.trim();
+        if (!email) return;
+
+        const btn = form.querySelector('button');
+        const origText = btn.textContent;
+        btn.textContent = '...';
+        btn.disabled = true;
+
+        try {
+            // Try Formspree — if endpoint not configured yet, simulate success
+            if (FORMSPREE_ENDPOINT.includes('YOUR_FORM_ID')) {
+                // Demo mode — no backend yet, just show success
+                localStorage.setItem('newsletter_email', email);
+                await new Promise(r => setTimeout(r, 600));
+            } else {
+                const res = await fetch(FORMSPREE_ENDPOINT, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+                    body: JSON.stringify({ email, _subject: 'New newsletter signup', source: 'sg-food-deals' })
+                });
+                if (!res.ok) throw new Error('Submit failed');
+            }
+            form.style.display = 'none';
+            success.classList.add('show');
+        } catch (err) {
+            btn.textContent = origText;
+            btn.disabled = false;
+            alert('Something went wrong. Please try again.');
+        }
+    });
+})();
