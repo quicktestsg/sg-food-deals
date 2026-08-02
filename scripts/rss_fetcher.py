@@ -166,25 +166,40 @@ def clean_html(raw_html):
     return text
 
 
+def upgrade_image_url(url):
+    """Upgrade thumbnail URLs to higher resolution versions."""
+    if not url:
+        return url
+    # Blogger/Google: /s72-c/ → /s640/ (72px → 640px)
+    if "blogger.googleusercontent.com" in url or "googleusercontent.com" in url:
+        url = re.sub(r'/s\d+-c?/', '/s640/', url)
+        url = re.sub(r'/s\d+/', '/s640/', url)
+        return url
+    # WordPress thumbnails: -150x150, -300x200, -550x292, etc → strip for full-size
+    # Matches patterns like image-550x292.jpg, image-300x200.png
+    url = re.sub(r'-\d+x\d+(\.(jpg|jpeg|png|webp|gif))', r'\1', url, flags=re.IGNORECASE)
+    return url
+
+
 def get_best_image(entry):
-    """Extract the best available image URL from a feed entry."""
+    """Extract the best available image URL from a feed entry, upgraded to high-res."""
     # 1. media_content
     if 'media_content' in entry:
         for mc in entry.media_content:
             url = mc.get('url', '')
             if url and 's.w.org/images/core/emoji' not in url:
-                return url
+                return upgrade_image_url(url)
     # 2. media_thumbnail
     if 'media_thumbnail' in entry:
         for mt in entry.media_thumbnail:
             url = mt.get('url', '')
             if url and 's.w.org/images/core/emoji' not in url:
-                return url
+                return upgrade_image_url(url)
     # 3. enclosures
     if 'enclosures' in entry:
         for en in entry.enclosures:
             if 'image' in en.get('type', ''):
-                return en.get('href', '')
+                return upgrade_image_url(en.get('href', ''))
     # 4. First <img> in content/summary
     content = ""
     if 'content' in entry:
@@ -194,7 +209,7 @@ def get_best_image(entry):
     imgs = re.findall(r'<img[^>]+src=["\']([^"\']+)["\']', content)
     for img_url in imgs:
         if 's.w.org/images/core/emoji' not in img_url:
-            return img_url
+            return upgrade_image_url(img_url)
     return None
 
 
