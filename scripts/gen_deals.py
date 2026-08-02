@@ -253,27 +253,107 @@ def add_deals_to_cache(new_deals, cache):
 
 
 def _sort_by_date(deals):
-    """Sort deals by created_at descending (newest first)."""
+    """Sort deals by date descending (newest first).
+    Handles both Twitter deals (tweet_data.created_at) and RSS deals (published_at).
+    """
     def get_date(entry):
+        if entry.get("source_type") == "rss":
+            return entry.get("published_at", "")
         created = entry.get("tweet_data", {}).get("created_at", "")
-        return created or ""
+        return created or entry.get("published_at", "") or ""
     return sorted(deals, key=get_date, reverse=True)
 
 
+def generate_rss_card(entry):
+    """Generate a native HTML card for an RSS-sourced deal.
+    Matches the existing deal-card design but branded with the source site's
+    favicon and name instead of Twitter avatar/handle.
+    """
+    import html as html_module
+
+    source_name = html_module.escape(entry.get("source_name", ""))
+    source_url = entry.get("source_url", "")
+    favicon = entry.get("source_favicon", "")
+    color = entry.get("source_color", "#f59e0b")
+    title = entry.get("title", "")
+    excerpt = entry.get("excerpt", "")
+    image = entry.get("image")
+    deal_type = entry.get("deal_type", "deal")
+    country = entry.get("country", "SG")
+    translation_zh = entry.get("translation_zh", "")
+
+    # Format date
+    published_at = entry.get("published_at", "")
+    date_str = ""
+    if published_at:
+        try:
+            dt = datetime.fromisoformat(published_at.replace("Z", "+00:00"))
+            sgt = dt + timedelta(hours=8)
+            date_str = sgt.strftime("%b %-d")
+        except Exception:
+            date_str = ""
+
+    # Deal type tags
+    tag_class = f"deal-tag-{deal_type}"
+    tag_labels_en = {"1fl": "1-for-1", "deal": "PROMO", "free": "FREE"}
+    tag_labels_zh = {"1fl": "买一送一", "deal": "优惠", "free": "免费"}
+    tag_label = tag_labels_en.get(deal_type, "DEAL")
+    tag_label_zh = tag_labels_zh.get(deal_type, "优惠")
+
+    # Content with i18n
+    title_en = html_module.escape(title)
+    title_zh = html_module.escape(translation_zh) if translation_zh else title_en
+    excerpt_en = html_module.escape(excerpt)
+
+    # Media
+    media_html = ""
+    if image:
+        media_html = f'''
+        <div class="deal-media" data-full="{image}">
+            <img src="{image}" alt="" loading="lazy" />
+        </div>'''
+
+    return f'''        <article class="deal-card fade-in" data-country="{country}">
+            <div class="deal-header">
+                <img src="{favicon}" alt="" class="deal-avatar" loading="lazy" />
+                <div class="deal-author">
+                    <span class="deal-name">{source_name}</span>
+                    <span class="deal-handle">{date_str} · {country} · via RSS</span>
+                </div>
+                <span class="deal-tag {tag_class}" data-en="{tag_label}" data-zh="{tag_label_zh}">{tag_label}</span>
+            </div>
+            <div class="deal-body" data-en="{title_en}" data-zh="{title_zh}">{title_en}</div>
+            <div class="deal-excerpt" style="padding: 0 20px 8px; font-size: 13px; color: var(--text-secondary); line-height: 1.5;">{excerpt_en}</div>{media_html}
+            <div class="deal-footer">
+                <span class="deal-source">Source: {source_name}</span>
+                <a href="{source_url}" target="_blank" rel="noopener" class="deal-open">
+                    View source →
+                </a>
+            </div>
+        </article>'''
+
+
 def generate_all_cards(cache):
-    """Generate HTML cards for all cached deals (newest first by tweet date)."""
+    """Generate HTML cards for all cached deals (newest first by date).
+    Dispatches between Twitter deals (have tweet_data) and RSS deals (have source_type='rss').
+    """
     sorted_deals = _sort_by_date(cache["deals"])
     cards = []
     for entry in sorted_deals:
-        card = generate_card(
-            entry["url"],
-            entry["label"],
-            entry["color"],
-            entry["tweet_data"],
-            entry.get("translation_zh", ""),
-            entry.get("deal_type", "deal"),
-            entry.get("country", "SG"),
-        )
+        if entry.get("source_type") == "rss":
+            card = generate_rss_card(entry)
+        elif "tweet_data" in entry and entry["tweet_data"]:
+            card = generate_card(
+                entry["url"],
+                entry["label"],
+                entry["color"],
+                entry["tweet_data"],
+                entry.get("translation_zh", ""),
+                entry.get("deal_type", "deal"),
+                entry.get("country", "SG"),
+            )
+        else:
+            continue  # Skip entries with no data
         cards.append(card)
     return cards
 
