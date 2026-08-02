@@ -66,7 +66,43 @@ git add -A && git commit -m "Daily post: TITLE" && git push
 
 ---
 
-## How to Add Deal Items (from Twitter/X)
+## How to Fetch Deals (Two Sources)
+
+### Source 1: RSS Feeds (PRIMARY — zero tokens, pure script)
+
+`scripts/rss_fetcher.py` fetches from 6 SG deal blogs via their RSS feeds:
+
+| Source | Feed URL | Language |
+|--------|----------|----------|
+| SINGPromos | singpromos.com/feed/ | EN |
+| AllSingaporeDeals | allsingaporedeals.com/feeds/posts/default | EN |
+| EverydayOnSales | sg.everydayonsales.com/feed/ | EN |
+| Eatbook | eatbook.sg/feed/ | EN |
+| LadyIronChef | ladyironchef.com/feed/ | EN |
+| SG榴莲 | sgliulian.com/feed/ | ZH |
+
+```bash
+# Fetch all feeds (handles dedup, keyword filtering, age cutoff automatically)
+python3 scripts/rss_fetcher.py
+
+# Preview without saving
+python3 scripts/rss_fetcher.py --dry-run
+
+# List cached RSS deals
+python3 scripts/rss_fetcher.py --list
+```
+
+The script auto-detects deal types (1-for-1, promo, free), filters by keywords, removes non-deals, and only keeps entries from the last 7 days. RSS deals use a different card format — branded with the source site's favicon and name, with an excerpt instead of tweet text. Every card links back to the source.
+
+**Legal compliance:** RSS feeds are explicitly published for syndication. We show title + short excerpt + link back. We do NOT republish full articles. The AI agent writes original synthesized content using deal facts (prices, dates) as raw intel.
+
+### Source 2: Twitter/X (supplement)
+
+See the Twitter deal workflow below for `bird` CLI commands and `add_deals.py`.
+
+---
+
+
 
 ### 1. Check what's already cached
 
@@ -181,7 +217,8 @@ Pick tweets that are **actual food, dining, travel or leisure deals** worth shar
 | `scripts/deals_cache.json` | ✅ Yes | Cached tweet data + translations |
 | `scripts/add_deals.py` | ✅ Yes (temporarily) | Add new tweets, then clear `NEW_TWEETS` |
 | `scripts/build_index.py` | ⚠️ Careful | The build engine |
-| `scripts/gen_deals.py` | ⚠️ Careful | Tweet card generator |
+| `scripts/rss_fetcher.py` | ⚠️ Careful | RSS feed fetcher (6 sources) |
+| `scripts/gen_deals.py` | ⚠️ Careful | Tweet + RSS card generator |
 | `index_template.html` | ⚠️ Structure only | HTML skeleton with placeholders |
 | `index.html` | ❌ NEVER | Auto-generated |
 | `style.css` | ✅ Yes | Shared styles (warm food theme) |
