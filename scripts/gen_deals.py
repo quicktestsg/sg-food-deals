@@ -300,10 +300,13 @@ def generate_rss_card(entry):
     tag_label = tag_labels_en.get(deal_type, "DEAL")
     tag_label_zh = tag_labels_zh.get(deal_type, "优惠")
 
+    excerpt_zh = entry.get("excerpt_zh", "")
+
     # Content with i18n
     title_en = html_module.escape(title)
     title_zh = html_module.escape(translation_zh) if translation_zh else title_en
     excerpt_en = html_module.escape(excerpt)
+    excerpt_zh_escaped = html_module.escape(excerpt_zh) if excerpt_zh else excerpt_en
 
     # Media
     media_html = ""
@@ -323,7 +326,7 @@ def generate_rss_card(entry):
                 <span class="deal-tag {tag_class}" data-en="{tag_label}" data-zh="{tag_label_zh}">{tag_label}</span>
             </div>
             <div class="deal-body" data-en="{title_en}" data-zh="{title_zh}">{title_en}</div>
-            <div class="deal-excerpt" style="padding: 0 20px 8px; font-size: 13px; color: var(--text-secondary); line-height: 1.5;">{excerpt_en}</div>{media_html}
+            <div class="deal-excerpt" data-en="{excerpt_en}" data-zh="{excerpt_zh_escaped}" style="padding: 0 20px 8px; font-size: 13px; color: var(--text-secondary); line-height: 1.5;">{excerpt_en}</div>{media_html}
             <div class="deal-footer">
                 <span class="deal-source">Source: {source_name}</span>
                 <a href="{source_url}" target="_blank" rel="noopener" class="deal-open">
