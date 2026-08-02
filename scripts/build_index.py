@@ -131,6 +131,7 @@ def generate_sitemap(posts, cache):
     urls = [
         {"loc": f"{BASE_URL}/", "priority": "1.0", "changefreq": "daily"},
         {"loc": f"{BASE_URL}/about.html", "priority": "0.5", "changefreq": "monthly"},
+        {"loc": f"{BASE_URL}/advertise.html", "priority": "0.5", "changefreq": "monthly"},
     ]
     for post in posts:
         urls.append({

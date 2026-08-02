@@ -336,13 +336,110 @@ def generate_rss_card(entry):
         </article>'''
 
 
-def generate_all_cards(cache):
-    """Generate HTML cards for all cached deals (newest first by date).
-    Dispatches between Twitter deals (have tweet_data) and RSS deals (have source_type='rss').
+def generate_sponsored_card(entry):
+    """Generate a sponsored deal card with branded styling.
+    
+    Entry fields:
+      - brand_name:    Display name (e.g. "Hokkaido-ya")
+      - brand_avatar:  Logo/image URL
+      - title:         Deal headline
+      - excerpt:       Short description
+      - cta_url:       Click-through link
+      - cta_text:      Button label (e.g. "Order Now", "Claim Deal")
+      - image:         Optional image URL
+      - deal_type:     "1fl", "deal", "free"
+      - country:       "SG", etc.
+      - date:          Display date string
+      - end_date:      Optional expiry date (e.g. "Aug 31")
     """
-    sorted_deals = _sort_by_date(cache["deals"])
+    import html as html_module
+
+    brand = html_module.escape(entry.get("brand_name", ""))
+    brand_avatar = entry.get("brand_avatar", "")
+    title = entry.get("title", "")
+    excerpt = entry.get("excerpt", "")
+    cta_url = entry.get("cta_url", "#")
+    cta_text = entry.get("cta_text", "View Deal")
+    image = entry.get("image")
+    deal_type = entry.get("deal_type", "deal")
+    country = entry.get("country", "SG")
+    date_str = entry.get("date", "")
+    end_date = entry.get("end_date", "")
+
+    # i18n
+    title_zh = entry.get("title_zh", title)
+    excerpt_zh = entry.get("excerpt_zh", excerpt)
+    cta_zh = entry.get("cta_text_zh", cta_text)
+
+    # Tag
+    tag_class = f"deal-tag-{deal_type}"
+    tag_labels_en = {"1fl": "1-for-1", "deal": "PROMO", "free": "FREE"}
+    tag_labels_zh = {"1fl": "买一送一", "deal": "优惠", "free": "免费"}
+    tag_label = tag_labels_en.get(deal_type, "DEAL")
+    tag_label_zh = tag_labels_zh.get(deal_type, "优惠")
+
+    avatar_html = ""
+    if brand_avatar:
+        avatar_html = f'<img src="{brand_avatar}" alt="" class="deal-avatar" loading="lazy" />'
+    else:
+        avatar_html = f'<div class="deal-avatar" style="background: var(--gradient); display:flex; align-items:center; justify-content:center; color:#fff; font-weight:800; font-size:16px;">{brand[0] if brand else "S"}</div>'
+
+    media_html = ""
+    if image:
+        media_html = f'''
+        <div class="deal-media" data-full="{image}">
+            <img src="{image}" alt="" loading="lazy" />
+        </div>'''
+
+    end_badge = ""
+    if end_date:
+        end_badge = f' · <span style="color: var(--accent-2); font-weight:600;">Ends {end_date}</span>'
+
+    return f'''        <article class="deal-card deal-card-sponsored fade-in" data-country="{country}">
+            <div class="deal-header">
+                {avatar_html}
+                <div class="deal-author">
+                    <span class="deal-name">{brand}</span>
+                    <span class="deal-handle">{date_str} · {country}{end_badge}</span>
+                </div>
+                <span class="deal-tag deal-tag-sponsored" data-en="{tag_label}" data-zh="{tag_label_zh}">{tag_label}</span>
+            </div>
+            <div class="deal-body" data-en="{html_module.escape(title)}" data-zh="{html_module.escape(title_zh)}">{html_module.escape(title)}</div>
+            <div class="deal-excerpt" data-en="{html_module.escape(excerpt)}" data-zh="{html_module.escape(excerpt_zh)}" style="padding: 0 20px 8px; font-size: 13px; color: var(--text-secondary); line-height: 1.5;">{html_module.escape(excerpt)}</div>{media_html}
+            <div class="deal-footer">
+                <span class="deal-source">Sponsored</span>
+                <a href="{cta_url}" target="_blank" rel="noopener nofollow sponsored" class="deal-open">
+                    {cta_text} →
+                </a>
+            </div>
+        </article>'''
+
+
+def generate_all_cards(cache):
+    """Generate HTML cards for all cached deals.
+    
+    Sponsored deals (entry["sponsored"] == True) always appear first,
+    then organic deals sorted newest-first by date.
+    Dispatches between Twitter deals, RSS deals, and sponsored deals.
+    """
+    all_deals = cache["deals"]
+    
+    # Split sponsored vs organic
+    sponsored = [e for e in all_deals if e.get("sponsored")]
+    organic = [e for e in all_deals if not e.get("sponsored")]
+    
+    # Sort organic by date (newest first)
+    organic_sorted = _sort_by_date(organic)
+    
     cards = []
-    for entry in sorted_deals:
+    
+    # Sponsored cards first
+    for entry in sponsored:
+        card = generate_sponsored_card(entry)
+        cards.append(card)
+    
+    # Then organic deals
+    for entry in organic_sorted:
         if entry.get("source_type") == "rss":
             card = generate_rss_card(entry)
         elif "tweet_data" in entry and entry["tweet_data"]:
