@@ -239,7 +239,7 @@ window.addEventListener('scroll', () => {
 
 // ─── Newsletter form ───
 // Replace FORMSPREE_ENDPOINT with your Formspree form URL after signup
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/YOUR_FORM_ID';
+const FORMSPREE_ENDPOINT = 'https://formspree.io/f/mqervnja';
 
 (function() {
     const form = document.getElementById('newsletterForm');
