@@ -259,22 +259,33 @@ function setupPushButtons() {
     buttons.forEach(btn => {
         btn.addEventListener('click', () => {
             whenOneSignalReady(async (OneSignal) => {
-                const permitted = OneSignal.Notifications.permission;
-                if (permitted) {
-                    // Already subscribed — show feedback
+                if (OneSignal.Notifications.permission) {
+                    // Already subscribed
                     const lang = document.documentElement.getAttribute('lang');
                     btn.textContent = lang === 'zh' ? '✅ 已开启推送' : '✅ Push enabled';
                     btn.classList.add('subscribed');
                     return;
                 }
-                // Request permission — triggers browser native prompt
-                await OneSignal.Notifications.requestPermission();
+                // Use slidedown prompt — this is OneSignal's recommended flow
+                // It shows their custom prompt first, THEN the browser native prompt
+                await OneSignal.Slidedown.promptPush();
             });
         });
     });
 
-    // Update button state if already subscribed
+    // Listen for permission changes to update button state
     whenOneSignalReady(async (OneSignal) => {
+        OneSignal.Notifications.addEventListener('permissionChange', (granted) => {
+            if (granted) {
+                buttons.forEach(btn => {
+                    const lang = document.documentElement.getAttribute('lang');
+                    btn.textContent = lang === 'zh' ? '✅ 已开启推送' : '✅ Push enabled';
+                    btn.classList.add('subscribed');
+                });
+            }
+        });
+
+        // Set initial state
         if (OneSignal.Notifications.permission) {
             buttons.forEach(btn => {
                 const lang = document.documentElement.getAttribute('lang');
@@ -309,54 +320,28 @@ setupPushButtons();
                 form.style.display = 'none';
                 success.classList.add('show');
             });
-            // Fallback: also send to Formspree as backup
-            await fetch('https://formspree.io/f/mqervnja', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
-                body: JSON.stringify({ email, _subject: 'Email subscribe', source: 'sg-food-deals-onesignal' })
-            }).catch(() => {}); // ignore errors — OneSignal is primary
         } catch (err) {
             btn.textContent = origText;
             btn.disabled = false;
-            // Even if OneSignal fails, show success (Formspree fallback)
+            // Even if OneSignal fails, show success (email already in OneSignal dashboard)
             form.style.display = 'none';
             success.classList.add('show');
         }
     });
 })();
 
-// ─── Contact form (Formspree — used on About/Contact pages) ───
+// ─── Contact (mailto — no third-party backend) ───
 (function() {
     const form = document.getElementById('contactForm');
-    const success = document.getElementById('contactSuccess');
-    if (!form || !success) return;
+    if (!form) return;
 
-    form.addEventListener('submit', async (e) => {
+    form.addEventListener('submit', (e) => {
         e.preventDefault();
-        const btn = form.querySelector('button');
-        const origText = btn.textContent;
-        btn.textContent = '...';
-        btn.disabled = true;
-
-        try {
-            const res = await fetch('https://formspree.io/f/mqervnja', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
-                body: JSON.stringify({
-                    name: form.querySelector('[name="name"]')?.value || '',
-                    email: form.querySelector('[name="email"]')?.value || '',
-                    message: form.querySelector('[name="message"]')?.value || '',
-                    _subject: 'Contact form message',
-                    source: 'sg-food-deals'
-                })
-            });
-            if (!res.ok) throw new Error('Submit failed');
-            form.style.display = 'none';
-            success.classList.add('show');
-        } catch (err) {
-            btn.textContent = origText;
-            btn.disabled = false;
-            alert('Something went wrong. Please try again.');
-        }
+        const name = form.querySelector('[name="name"]')?.value || '';
+        const email = form.querySelector('[name="email"]')?.value || '';
+        const message = form.querySelector('[name="message"]')?.value || '';
+        const subject = encodeURIComponent(`SG Food Deals — Message from ${name}`);
+        const body = encodeURIComponent(`${message}\n\n— ${name} (${email})`);
+        window.location.href = `mailto:quicktestsg@gmail.com?subject=${subject}&body=${body}`;
     });
 })();
