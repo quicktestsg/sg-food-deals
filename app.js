@@ -256,19 +256,28 @@ function setupPushButtons() {
         document.getElementById('footerPushBtn'),
     ].filter(Boolean);
 
+    function getBtnText(zh, en) {
+        return document.documentElement.getAttribute('lang') === 'zh' ? zh : en;
+    }
+
     buttons.forEach(btn => {
         btn.addEventListener('click', () => {
+            // Immediate feedback — don't wait for SDK
+            if (btn.id === 'footerPushBtn') {
+                btn.textContent = getBtnText('正在开启…', 'Connecting…');
+                btn.classList.add('loading');
+            }
+            btn.style.opacity = '0.6';
+
             whenOneSignalReady(async (OneSignal) => {
                 if (OneSignal.Notifications.permission) {
-                    // Already subscribed
-                    const lang = document.documentElement.getAttribute('lang');
-                    btn.textContent = lang === 'zh' ? '✅ 已开启推送' : '✅ Push enabled';
+                    btn.textContent = getBtnText('✅ 已开启推送', '✅ Push enabled');
                     btn.classList.add('subscribed');
+                    btn.style.opacity = '';
                     return;
                 }
-                // Use slidedown prompt — this is OneSignal's recommended flow
-                // It shows their custom prompt first, THEN the browser native prompt
                 await OneSignal.Slidedown.promptPush();
+                btn.style.opacity = '';
             });
         });
     });
@@ -278,18 +287,26 @@ function setupPushButtons() {
         OneSignal.Notifications.addEventListener('permissionChange', (granted) => {
             if (granted) {
                 buttons.forEach(btn => {
-                    const lang = document.documentElement.getAttribute('lang');
-                    btn.textContent = lang === 'zh' ? '✅ 已开启推送' : '✅ Push enabled';
+                    btn.textContent = getBtnText('✅ 已开启推送', '✅ Push enabled');
                     btn.classList.add('subscribed');
+                    btn.classList.remove('loading');
+                    btn.style.opacity = '';
+                });
+            } else {
+                // User denied — restore button
+                buttons.forEach(btn => {
+                    if (btn.id === 'footerPushBtn') {
+                        btn.textContent = getBtnText('🔔 开启推送通知', '🔔 Enable Push Notifications');
+                    }
+                    btn.classList.remove('loading');
+                    btn.style.opacity = '';
                 });
             }
         });
 
-        // Set initial state
         if (OneSignal.Notifications.permission) {
             buttons.forEach(btn => {
-                const lang = document.documentElement.getAttribute('lang');
-                btn.textContent = lang === 'zh' ? '✅ 已开启推送' : '✅ Push enabled';
+                btn.textContent = getBtnText('✅ 已开启推送', '✅ Push enabled');
                 btn.classList.add('subscribed');
             });
         }
