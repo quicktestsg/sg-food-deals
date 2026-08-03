@@ -237,13 +237,59 @@ window.addEventListener('scroll', () => {
     progress.style.width = Math.min(scrolled, 100) + '%';
 }, { passive: true });
 
-// ─── Newsletter form ───
-// Replace FORMSPREE_ENDPOINT with your Formspree form URL after signup
-const FORMSPREE_ENDPOINT = 'https://formspree.io/f/mqervnja';
+// ─── OneSignal Push + Email ───
+const ONESIGNAL_APP_ID = '28fd6467-beb3-4134-b11b-e3a029f7a77d';
 
+// Helper: run code after OneSignal SDK is ready
+function whenOneSignalReady(fn) {
+    if (window.OneSignalDeferred) {
+        window.OneSignalDeferred.push(async function(OneSignal) {
+            try { await fn(OneSignal); } catch(e) { console.warn('OneSignal:', e); }
+        });
+    }
+}
+
+// ─── Push notification toggle (nav bell + footer button) ───
+function setupPushButtons() {
+    const buttons = [
+        document.getElementById('pushToggle'),
+        document.getElementById('footerPushBtn'),
+    ].filter(Boolean);
+
+    buttons.forEach(btn => {
+        btn.addEventListener('click', () => {
+            whenOneSignalReady(async (OneSignal) => {
+                const permitted = OneSignal.Notifications.permission;
+                if (permitted) {
+                    // Already subscribed — show feedback
+                    const lang = document.documentElement.getAttribute('lang');
+                    btn.textContent = lang === 'zh' ? '✅ 已开启推送' : '✅ Push enabled';
+                    btn.classList.add('subscribed');
+                    return;
+                }
+                // Request permission — triggers browser native prompt
+                await OneSignal.Notifications.requestPermission();
+            });
+        });
+    });
+
+    // Update button state if already subscribed
+    whenOneSignalReady(async (OneSignal) => {
+        if (OneSignal.Notifications.permission) {
+            buttons.forEach(btn => {
+                const lang = document.documentElement.getAttribute('lang');
+                btn.textContent = lang === 'zh' ? '✅ 已开启推送' : '✅ Push enabled';
+                btn.classList.add('subscribed');
+            });
+        }
+    });
+}
+setupPushButtons();
+
+// ─── Email subscription via OneSignal ───
 (function() {
-    const form = document.getElementById('newsletterForm');
-    const success = document.getElementById('newsletterSuccess');
+    const form = document.getElementById('emailSubscribeForm');
+    const success = document.getElementById('emailSuccess');
     if (!form || !success) return;
 
     form.addEventListener('submit', async (e) => {
@@ -257,19 +303,54 @@ const FORMSPREE_ENDPOINT = 'https://formspree.io/f/mqervnja';
         btn.disabled = true;
 
         try {
-            // Try Formspree — if endpoint not configured yet, simulate success
-            if (FORMSPREE_ENDPOINT.includes('YOUR_FORM_ID')) {
-                // Demo mode — no backend yet, just show success
-                localStorage.setItem('newsletter_email', email);
-                await new Promise(r => setTimeout(r, 600));
-            } else {
-                const res = await fetch(FORMSPREE_ENDPOINT, {
-                    method: 'POST',
-                    headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
-                    body: JSON.stringify({ email, _subject: 'New newsletter signup', source: 'sg-food-deals' })
-                });
-                if (!res.ok) throw new Error('Submit failed');
-            }
+            whenOneSignalReady(async (OneSignal) => {
+                // Add email subscription to current OneSignal user
+                await OneSignal.User.addEmail(email);
+                form.style.display = 'none';
+                success.classList.add('show');
+            });
+            // Fallback: also send to Formspree as backup
+            await fetch('https://formspree.io/f/mqervnja', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+                body: JSON.stringify({ email, _subject: 'Email subscribe', source: 'sg-food-deals-onesignal' })
+            }).catch(() => {}); // ignore errors — OneSignal is primary
+        } catch (err) {
+            btn.textContent = origText;
+            btn.disabled = false;
+            // Even if OneSignal fails, show success (Formspree fallback)
+            form.style.display = 'none';
+            success.classList.add('show');
+        }
+    });
+})();
+
+// ─── Contact form (Formspree — used on About/Contact pages) ───
+(function() {
+    const form = document.getElementById('contactForm');
+    const success = document.getElementById('contactSuccess');
+    if (!form || !success) return;
+
+    form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const btn = form.querySelector('button');
+        const origText = btn.textContent;
+        btn.textContent = '...';
+        btn.disabled = true;
+
+        try {
+            const res = await fetch('https://formspree.io/f/mqervnja', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json', 'Accept': 'application/json' },
+                body: JSON.stringify({
+                    name: form.querySelector('[name="name"]')?.value || '',
+                    email: form.querySelector('[name="email"]')?.value || '',
+                    message: form.querySelector('[name="message"]')?.value || '',
+                    _subject: 'Contact form message',
+                    source: 'sg-food-deals'
+                })
+            });
+            if (!res.ok) throw new Error('Submit failed');
             form.style.display = 'none';
             success.classList.add('show');
         } catch (err) {

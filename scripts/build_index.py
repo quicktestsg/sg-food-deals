@@ -33,7 +33,7 @@ POSTS_MANIFEST = os.path.join(SCRIPT_DIR, "posts.json")
 SITEMAP = os.path.join(PROJECT_DIR, "sitemap.xml")
 
 BASE_URL = "https://quicktestsg.github.io/sg-food-deals"
-CSS_VERSION = "6"
+CSS_VERSION = "7"
 DEALS_PREVIEW_COUNT = 6
 POSTS_PREVIEW_COUNT = 4
 
@@ -250,7 +250,7 @@ def main():
 
     # Bump CSS version
     template = re.sub(r'style\.css\?v=\d+', f'style.css?v={CSS_VERSION}', template)
-    template = re.sub(r'app\.js\?v=\d+', f'app.js?v={CSS_VERSION}', template)
+    template = re.sub(r'app\.js\?v=\d+', 'app.js?v=4', template)
 
     # ── POSTS ──
     with open(POSTS_MANIFEST, "r") as f:

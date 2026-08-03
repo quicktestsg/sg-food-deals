@@ -1,0 +1,22 @@
+{
+  "name": "SG Food Deals",
+  "short_name": "SG Food Deals",
+  "description": "Daily-updated Singapore food deals, 1-for-1 dining promos, and lifestyle steals.",
+  "start_url": "/sg-food-deals/",
+  "scope": "/sg-food-deals/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#f59e0b",
+  "icons": [
+    {
+      "src": "/sg-food-deals/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/sg-food-deals/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

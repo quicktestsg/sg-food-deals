@@ -58,7 +58,21 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="../style.css?v=6">
+<link rel="manifest" href="../manifest.json">
+<link rel="stylesheet" href="../style.css?v=7">
+
+    <!-- OneSignal Web Push SDK -->
+    <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+    <script>
+      window.OneSignalDeferred = window.OneSignalDeferred || [];
+      OneSignalDeferred.push(async function(OneSignal) {
+        await OneSignal.init({
+          appId: "28fd6467-beb3-4134-b11b-e3a029f7a77d",
+          serviceWorker: { path: "../OneSignalSDKWorker.js", scope: "/sg-food-deals/" },
+          welcomeNotification: { title: "SG Food Deals 🍜", message: "You're subscribed! Get the best deals pushed to you daily." }
+        });
+      });
+    </script>
 
 <!-- Google Analytics GA4 — Replace G-548117720 with your Measurement ID -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-548117720"></script>
@@ -255,6 +269,6 @@
 </footer>
 </div>
 
-<script src="../app.js?v=3"></script>
+<script src="../app.js?v=4"></script>
 </body>
 </html>

@@ -691,6 +691,152 @@ a { text-decoration: none; color: inherit; }
     margin-top: 12px;
 }
 .footer-newsletter-success.show { display: block; }
+
+/* ─── Subscribe Options (Push + Email) ─── */
+.footer-subscribe-options {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    max-width: 400px;
+    margin: 0 auto;
+}
+.footer-push-btn {
+    padding: 14px 20px;
+    background: var(--gradient);
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: opacity 0.2s, transform 0.15s;
+}
+.footer-push-btn:hover { opacity: 0.9; }
+.footer-push-btn:active { transform: scale(0.96); }
+.footer-push-btn.subscribed {
+    background: var(--accent-dim);
+    border: 1px solid var(--accent);
+    color: var(--accent);
+}
+.footer-email-form {
+    display: flex;
+    gap: 8px;
+}
+.footer-email-form input[type="email"] {
+    flex: 1;
+    padding: 12px 16px;
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    color: var(--text);
+    font-size: 14px;
+    font-family: inherit;
+    outline: none;
+    transition: border-color 0.2s;
+}
+.footer-email-form input[type="email"]:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-dim);
+}
+.footer-email-form button {
+    padding: 12px 20px;
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    color: var(--text);
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: opacity 0.2s, transform 0.15s, border-color 0.2s;
+}
+.footer-email-form button:hover { opacity: 0.9; border-color: var(--accent); }
+.footer-email-form button:active { transform: scale(0.96); }
+.footer-email-success {
+    display: none;
+    padding: 12px 16px;
+    background: var(--accent-dim);
+    border: 1px solid var(--accent);
+    border-radius: 10px;
+    color: var(--accent);
+    font-size: 14px;
+    font-weight: 500;
+}
+.footer-email-success.show { display: block; }
+
+/* ─── Push Toggle (nav bell) ─── */
+.push-toggle {
+    width: 32px;
+    height: 32px;
+    border-radius: 8px;
+    background: transparent;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: var(--text-secondary);
+    cursor: pointer;
+    transition: color 0.2s, background 0.2s;
+}
+.push-toggle:hover { color: var(--accent); background: var(--accent-dim); }
+.push-toggle.subscribed { color: var(--accent); }
+
+/* ─── Contact Form ─── */
+.contact-section {
+    max-width: 500px;
+    margin: 48px auto 0;
+}
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+.contact-form input,
+.contact-form textarea {
+    padding: 12px 16px;
+    background: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    color: var(--text);
+    font-size: 14px;
+    font-family: inherit;
+    outline: none;
+    transition: border-color 0.2s;
+}
+.contact-form input:focus,
+.contact-form textarea:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px var(--accent-dim);
+}
+.contact-form textarea {
+    min-height: 100px;
+    resize: vertical;
+}
+.contact-form button {
+    padding: 12px 20px;
+    background: var(--gradient);
+    border: none;
+    border-radius: 10px;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: opacity 0.2s, transform 0.15s;
+}
+.contact-form button:hover { opacity: 0.9; }
+.contact-form button:active { transform: scale(0.96); }
+.contact-form button:disabled { opacity: 0.6; cursor: default; }
+.contact-success {
+    display: none;
+    padding: 12px 16px;
+    background: var(--accent-dim);
+    border: 1px solid var(--accent);
+    border-radius: 10px;
+    color: var(--accent);
+    font-size: 14px;
+    font-weight: 500;
+}
+.contact-success.show { display: block; }
 .footer-social {
     display: flex;
     justify-content: center;

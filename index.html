@@ -31,7 +31,43 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css?v=6">
+    <link rel="manifest" href="manifest.json">
+    <link rel="stylesheet" href="style.css?v=7">
+
+    <!-- OneSignal Web Push SDK -->
+    <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+    <script>
+      window.OneSignalDeferred = window.OneSignalDeferred || [];
+      OneSignalDeferred.push(async function(OneSignal) {
+        await OneSignal.init({
+          appId: "28fd6467-beb3-4134-b11b-e3a029f7a77d",
+          serviceWorker: {
+            path: "OneSignalSDKWorker.js",
+            scope: "/sg-food-deals/"
+          },
+          welcomeNotification: {
+            title: "SG Food Deals 🍜",
+            message: "You're subscribed! Get the best deals pushed to you daily."
+          },
+          promptOptions: {
+            slidedown: {
+              prompts: [
+                {
+                  type: "push",
+                  autoPrompt: false,
+                  text: {
+                    en: "Get the best SG food deals pushed to you instantly!",
+                    zh: "第一时间获取新加坡最划算的美食优惠！"
+                  },
+                  acceptButton: { text: { en: "Allow", zh: "允许" } },
+                  cancelButton: { text: { en: "No thanks", zh: "不用了" } }
+                }
+              ]
+            }
+          }
+        });
+      });
+    </script>
 
     <!-- JSON-LD Structured Data for Google + AI Search -->
     <script type="application/ld+json">[
@@ -211,6 +247,9 @@
             <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
                 <svg class="sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.2" y1="4.2" x2="5.6" y2="5.6"/><line x1="18.4" y1="18.4" x2="19.8" y2="19.8"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.2" y1="19.8" x2="5.6" y2="18.4"/><line x1="18.4" y1="5.6" x2="19.8" y2="4.2"/></svg>
                 <svg class="moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+            </button>
+            <button class="push-toggle" id="pushToggle" aria-label="Enable push notifications" title="Enable push notifications">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
             </button>
         </div>
     </div>
@@ -3623,12 +3662,15 @@
     <footer class="footer">
         <div class="footer-newsletter">
             <h3 data-en="Never miss a deal" data-zh="不错过任何优惠">Never miss a deal</h3>
-            <p data-en="Get the best Singapore food deals delivered to your inbox. No spam, just savings." data-zh="每周精选新加坡最划算的美食优惠，直接送到你的邮箱。不发垃圾邮件，只发省钱信息。">Get the best Singapore food deals delivered to your inbox. No spam, just savings.</p>
-            <form class="footer-newsletter-form" id="newsletterForm">
-                <input type="email" placeholder="your@email.com" required data-en-placeholder="your@email.com" data-zh-placeholder="输入你的邮箱">
-                <button type="submit" data-en="Subscribe" data-zh="订阅">Subscribe</button>
-            </form>
-            <div class="footer-newsletter-success" id="newsletterSuccess" data-en="✅ Thanks! You're subscribed." data-zh="✅ 订阅成功！感谢加入。">✅ Thanks! You're subscribed.</div>
+            <p data-en="Get the best Singapore food deals pushed to you. No spam, just savings." data-zh="第一时间获取新加坡最划算的美食优惠推送。不发垃圾信息，只发省钱信息。">Get the best Singapore food deals pushed to you. No spam, just savings.</p>
+            <div class="footer-subscribe-options">
+                <button class="footer-push-btn" id="footerPushBtn" data-en="🔔 Enable Push Notifications" data-zh="🔔 开启推送通知">🔔 Enable Push Notifications</button>
+                <form class="footer-email-form" id="emailSubscribeForm">
+                    <input type="email" placeholder="your@email.com" required data-en-placeholder="your@email.com" data-zh-placeholder="输入你的邮箱">
+                    <button type="submit" data-en="📧 Subscribe" data-zh="📧 订阅">📧 Subscribe</button>
+                </form>
+                <div class="footer-email-success" id="emailSuccess" data-en="✅ Email subscribed!" data-zh="✅ 邮箱订阅成功！">✅ Email subscribed!</div>
+            </div>
         </div>
         <div class="footer-social">
             <a href="#" id="socialTelegram" aria-label="Telegram" title="Telegram">
@@ -3649,6 +3691,6 @@
     </footer>
 </div>
 
-<script src="app.js?v=6"></script>
+<script src="app.js?v=4"></script>
 </body>
 </html>

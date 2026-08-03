@@ -16,7 +16,21 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css?v=6">
+<link rel="manifest" href="manifest.json">
+<link rel="stylesheet" href="style.css?v=7">
+
+    <!-- OneSignal Web Push SDK -->
+    <script src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js" defer></script>
+    <script>
+      window.OneSignalDeferred = window.OneSignalDeferred || [];
+      OneSignalDeferred.push(async function(OneSignal) {
+        await OneSignal.init({
+          appId: "28fd6467-beb3-4134-b11b-e3a029f7a77d",
+          serviceWorker: { path: "OneSignalSDKWorker.js", scope: "/sg-food-deals/" },
+          welcomeNotification: { title: "SG Food Deals 🍜", message: "You're subscribed! Get the best deals pushed to you daily." }
+        });
+      });
+    </script>
 
     <!-- Google Analytics GA4 — Replace G-548117720 with your Measurement ID -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-548117720"></script>
@@ -71,15 +85,31 @@
     <p data-en="Updated daily by an AI agent scanning social media. Built with Hermes Agent." data-zh="每天由 AI 智能体从社交媒体精选更新。使用 Hermes Agent 构建。">Updated daily by an AI agent scanning social media. Built with Hermes Agent.</p>
 </section>
 
+<section class="about-section">
+    <h2 data-en="Contact Us" data-zh="联系我们">Contact Us</h2>
+    <p data-en="Have a deal to share, want to partner with us, or just say hi? Drop us a message." data-zh="有优惠要分享、想合作、或者就想打个招呼？给我们留言吧。">Have a deal to share, want to partner with us, or just say hi? Drop us a message.</p>
+    <form class="contact-form" id="contactForm">
+        <input type="text" name="name" placeholder="Your name" required data-en-placeholder="Your name" data-zh-placeholder="你的名字">
+        <input type="email" name="email" placeholder="Your email" required data-en-placeholder="Your email" data-zh-placeholder="你的邮箱">
+        <textarea name="message" placeholder="Your message" required data-en-placeholder="Your message" data-zh-placeholder="留言内容"></textarea>
+        <button type="submit" data-en="Send Message" data-zh="发送">Send Message</button>
+    </form>
+    <div class="contact-success" id="contactSuccess" data-en="✅ Message sent! We'll get back to you soon." data-zh="✅ 消息已发送！我们会尽快回复你。">✅ Message sent! We'll get back to you soon.</div>
+</section>
+
 <footer class="footer">
         <div class="footer-newsletter">
             <h3 data-en="Never miss a deal" data-zh="不错过任何优惠">Never miss a deal</h3>
-            <p data-en="Get the best Singapore food deals delivered to your inbox. No spam, just savings." data-zh="每周精选新加坡最划算的美食优惠，直接送到你的邮箱。不发垃圾邮件，只发省钱信息。">Get the best Singapore food deals delivered to your inbox. No spam, just savings.</p>
-            <form class="footer-newsletter-form" id="newsletterForm">
-                <input type="email" placeholder="your@email.com" required data-en-placeholder="your@email.com" data-zh-placeholder="输入你的邮箱">
-                <button type="submit" data-en="Subscribe" data-zh="订阅">Subscribe</button>
-            </form>
-            <div class="footer-newsletter-success" id="newsletterSuccess" data-en="✅ Thanks! You're subscribed." data-zh="✅ 订阅成功！感谢加入。">✅ Thanks! You're subscribed.</div>
+            <p data-en="Get the best Singapore food deals pushed to you. No spam, just savings." data-zh="每周精选新加坡最划算的美食优惠，直接送到你的邮箱。不发垃圾邮件，只发省钱信息。">Get the best Singapore food deals pushed to you. No spam, just savings.</p>
+            <div class="footer-subscribe-options">
+                <button class="footer-push-btn" id="footerPushBtn" data-en="🔔 Enable Push Notifications" data-zh="🔔 开启推送通知">🔔 Enable Push Notifications</button>
+                <form class="footer-email-form" id="emailSubscribeForm">
+                    <input type="email" placeholder="your@email.com" required data-en-placeholder="your@email.com" data-zh-placeholder="输入你的邮箱">
+                    <button type="submit" data-en="📧 Subscribe" data-zh="📧 订阅">📧 Subscribe</button>
+                </form>
+                <div class="footer-email-success" id="emailSuccess" data-en="✅ Email subscribed!" data-zh="✅ 邮箱订阅成功！">✅ Email subscribed!</div>
+            </div>
+            <div class="footer-email-success" id="emailSuccess" data-en="✅ Thanks! You're subscribed." data-zh="✅ 订阅成功！感谢加入。">✅ Thanks! You're subscribed.</div>
         </div>
         <div class="footer-social">
             <a href="#" id="socialTelegram" aria-label="Telegram" title="Telegram">
@@ -100,6 +130,6 @@
 </footer>
 </div>
 
-<script src="app.js?v=3"></script>
+<script src="app.js?v=4"></script>
 </body>
 </html>
