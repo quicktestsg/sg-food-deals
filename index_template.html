@@ -40,10 +40,7 @@
       OneSignalDeferred.push(async function(OneSignal) {
         await OneSignal.init({
           appId: "28fd6467-beb3-4134-b11b-e3a029f7a77d",
-          serviceWorker: {
-            path: "OneSignalSDKWorker.js",
-            scope: "/sg-food-deals/"
-          },
+          serviceWorker: { path: "/sg-food-deals/OneSignalSDKWorker.js", scope: "/sg-food-deals/" },
           welcomeNotification: {
             title: "SG Food Deals 🍜",
             message: "You're subscribed! Get the best deals pushed to you daily."
