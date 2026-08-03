@@ -896,7 +896,8 @@ a { text-decoration: none; color: inherit; }
     .nav-inner { padding: 12px 14px; }
     .nav-brand { font-size: 18px; gap: 6px; }
     .nav-brand-dot { width: 7px; height: 7px; }
-    .nav-right { gap: 2px; }
+    .nav-right { gap: 4px; }
+    .push-toggle { display: none; }
     .nav-link { padding: 6px 7px; font-size: 13px; }
     .lang-toggle, .theme-toggle { padding: 6px 8px; min-width: 34px; }
     .wrap { padding: 0 16px 80px; }
