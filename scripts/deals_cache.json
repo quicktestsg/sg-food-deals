@@ -18795,6 +18795,790 @@
         "isEdited": false,
         "isStaleEdit": false
       }
+    },
+    {
+      "id": "c7dc2d10e9351b4c",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/08/don-don-donki-meat-meat-deli-festival.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Don Don Donki Meat & Meat Deli Festival | Valid Till 31 Aug",
+      "excerpt": "DON DON DONKI MEAT/MEAT DELI FESTIVAL TILL 31 AUGUST Don Don Donki is running two meat promotions across all outlets in Singapore throughout August. The Meat Festival covers raw/fresh cuts for home cooking, with the highlight being A5 Wagyu (sliced for shabu shabu, sukiyaki, and yakiniku) priced at...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDFO7xz4B5ukZctkW8BmKlnq3pdePpwGuafPlhXIghuykYMrjQH8cG3FsEAybfnNBmegFV7ap2wWVFnLZvvpmuehw_C1a2uIYQI2Av8MIAfEo6K0C9MsaINw4Y-HMFrryaBZ6AVS7i3b4UIdl_eHPSBebsTSQvjWr2nPoechb6lXdbAzu_0LRwIeoQtfI0/s640/all%20singapore%20deals%20donki%20meat%20festival%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T03:00:45+00:00",
+      "fetched_at": "2026-08-05T04:00:32.558677+00:00",
+      "translation_zh": "Don Don Donki 肉类熟食节 | 即日起至8月31日"
+    },
+    {
+      "id": "e5ef72fdd36a0099",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/08/national-day-celebrations-orchid.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "National Day Celebrations, Orchid Displays & Eco Experiences At Allgreen Malls",
+      "excerpt": "NATIONAL DAY CELEBRATIONS @ GREAT WORLD, PASIR RIS MALL, TANGLIN MALL & SELETAR MALL This month, Great World, Pasir Ris Mall, Tanglin Mall and Seletar Mall are bringing shoppers a vibrant line-up of National Day celebrations, family-friendly experiences, rewarding promotions and community events....",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFaVtBZARbA3KTunonCcdyqfp_WdK9lWlTDuxpFz2b3mdDefMv3Vt1ytTE_xSW5pqf3LjvufHvvSj0l0XoIgvIb4jJwCDmgwlgwXjOXZTJXEVz7g8zalWwOgh1yhvS7Ko_Z4ee-DH504kZhPUqmjRz6isplkI5Hz9QbuX_qiQT7xp2ANczmtLqmPblL0kp/s640/all%20singapore%20deals%20allgreen%20malls%20july%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T00:23:56+00:00",
+      "fetched_at": "2026-08-05T04:00:32.559738+00:00",
+      "translation_zh": "Allgreen旗下商场国庆庆典：兰花展览与环保体验活动"
+    },
+    {
+      "id": "ca5fcde8f61ca346",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/04/luckin-coffee-wednesday-deal-2-for-799.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Luckin Coffee Wednesday Deal: 2 For $7.99 On 5 August",
+      "excerpt": "LUCKIN COFFEE WEDNESDAY SPECIAL - $7.99 FOR 2 CUPS Luckin Coffee is making your midweek coffee break more exciting with LUCKIN DAY, taking place on Wednesday, 5 August 2026. For a limited time, customers can enjoy two beverages for just $7.99 — the perfect opportunity to treat a friend or indulge...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLacH8F626n1My6qOI_Jhwb9hcoJJRjCjNaDfEaBr_BGNANXGVOV-PhVR3DfHCpNrQwVed73CQHe7HiJfr-IKIeK5SOYdxtPqVEdhLndyNYSYQn65Snjh6XNctfuGiiWpWTf3yQCg3AsTtaOlKlBwffuF5EOOld8pnzfVvri2xyYAxS2zHo4p6sxmhK72g/s72-w637-h315-c/all%20singapore%20deals%20luckin%20coffee%20wednesday%20deal%2022%20apr%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-04T23:38:09+00:00",
+      "fetched_at": "2026-08-05T04:00:32.559988+00:00",
+      "translation_zh": "Luckin Coffee 周三优惠：8月5日两杯 $7.99"
+    },
+    {
+      "id": "e70a326a7e752374",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/5-august-2026-onwards-golden-pillow-933-national-day-set-meal-promotion-for-a-special-singapore-61st-birthday-celebration/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "5 August 2026 onwards: Golden Pillow 933: National Day Set Meal Promotion for a Special Singapore 61st Birthday Celebration",
+      "excerpt": "Celebrate Singapore’s 61st National Day with Golden Pillow 933’s special Set Meal promotion from 5 August 2026 onward. Enjoy a festive dining experience with family and friends while making the most of this special celebration meal deal in Singapore. Continue reading 5 August 2026 onwards: Golden...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Golden-Pillow-933-National-Day-Set-Meal-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T01:49:54+00:00",
+      "fetched_at": "2026-08-05T04:00:43.478442+00:00",
+      "translation_zh": "Golden Pillow 933 国庆套餐促销，庆祝新加坡61岁生日"
+    },
+    {
+      "id": "de51ec3ef0b9b406",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/5-11-august-2026-sheng-siong-supermarket-seafood-specials-promotion-fresh-seafood-deals-and-catch-of-the-day-offers-in-singapore/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "5-11 August 2026: Sheng Siong Supermarket Seafood Specials Promotion: Fresh Seafood Deals and Catch of the Day Offers in Singapore",
+      "excerpt": "Sheng Siong Supermarket is offering seafood specials from 5 to 11 August 2026, giving Singapore shoppers a chance to enjoy fresh seafood deals and quality ingredients at better value. Discover the latest seafood offers and plan delicious home-cooked meals with these limited-time promotions....",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Sheng-Siong-Supermarket-Seafood-Specials-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T01:47:08+00:00",
+      "fetched_at": "2026-08-05T04:00:43.478591+00:00",
+      "translation_zh": "Sheng Siong 超市海鲜特价（8月5-11日）：新鲜海鲜优惠与每日精选"
+    },
+    {
+      "id": "c81bb51b68986e70",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/7-10-august-2026-u-supermarket-singapore-national-day-limited-sale-promotion-enjoy-lg-whole-grain-noodles-and-yellow-noodles-at-great-value-prices/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "7-10 August 2026: U Supermarket Singapore National Day Limited Sale Promotion: Enjoy LG Whole Grain Noodles and Yellow Noodles at Great Value Prices",
+      "excerpt": "U Supermarket Singapore celebrates National Day 2026 with a limited 4-day sale promotion from 7 to 10 August 2026. Enjoy special prices on LG Whole Grain Noodles at $2.30 and 1kg LG Yellow Noodles at only $1.95 while stocks last. Perfect for families looking for affordable grocery savings and...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/U-Supermarket-Singapore-National-Day-Limited-Sale.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T01:44:26+00:00",
+      "fetched_at": "2026-08-05T04:00:43.478728+00:00",
+      "translation_zh": "U Supermarket 国庆限定促销（8月7-10日）：LG全谷面条与黄面超值价"
+    },
+    {
+      "id": "6f676938620545f8",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/1-31-august-2026-don-don-donki-singapore-promotion-featuring-juicy-meat-deli-deals-and-affordable-japanese-rice-bowls-across-all-outlets/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "1-31 August 2026: DON DON DONKI Singapore: Promotion Featuring Juicy Meat Deli Deals and Affordable Japanese Rice Bowls Across All Outlets",
+      "excerpt": "DON DON DONKI Singapore is offering delicious meat deli deals from 1 to 31 August 2026, featuring discounted favourites such as Pork Belly Char Siew Don, Beef Rice Bowl, Fried Chicken Kaarage Don, MALA Whole Chicken and Yakitori sets across all outlets while stocks last. Continue reading 1-31...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/DON-DON-DONKI-Singapore-Promotion-Featuring-Juicy-Meat-Deli-Deals.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T01:42:49+00:00",
+      "fetched_at": "2026-08-05T04:00:43.478856+00:00",
+      "translation_zh": "Don Don Donki 8月促销：日式肉熟食优惠与平价日式饭团，全门店通用"
+    },
+    {
+      "id": "94e7492aa719a324",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/7-10-august-2026-chocoexpress-8-8-sale-promotion-enjoy-storewide-savings-up-to-20-off-on-snacks-and-teachers-day-gift-sets/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "7-10 August 2026: ChocoExpress 8.8 Sale Promotion, Enjoy Storewide Savings Up to 20% OFF on Snacks and Teacher’s Day Gift Sets",
+      "excerpt": "ChocoExpress is bringing back the 8.8 Sale Promotion from 7-10 August 2026, offering Singapore shoppers storewide savings of up to 20% OFF on snacks and selected products. Customers can also discover specially curated Teacher’s Day Gift Sets featuring premium honey, gift packaging, and greeting...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/ChocoExpress-8.8-Sale-Promotion-Enjoy-Storewide-Savings.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T01:40:32+00:00",
+      "fetched_at": "2026-08-05T04:00:43.478998+00:00",
+      "translation_zh": "ChocoExpress 8.8 大促：零食与教师节礼盒全场低至8折"
+    },
+    {
+      "id": "b0ce0699e81c9071",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/5-august-2026-onwards-luckin-coffee-singapore-promotion-luckin-day-2-cups-for-7-99-coffee-deal-every-wednesday/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "5 August 2026 onwards: Luckin Coffee Singapore: Promotion – LUCKIN DAY 2 Cups for $7.99 Coffee Deal Every Wednesday",
+      "excerpt": "Luckin Coffee Singapore is bringing back the perfect mid-week coffee treat with its LUCKIN DAY promotion. From 5 August 2026 onwards, customers can enjoy 2 cups of coffee for only $7.99 every Wednesday. Bring a friend, share a coffee moment and enjoy this affordable coffee deal available at...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Luckin-Coffee-Singapore-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T01:38:39+00:00",
+      "fetched_at": "2026-08-05T04:00:43.479142+00:00",
+      "translation_zh": "Luckin Coffee 每周三 LUCKIN DAY：两杯咖啡 $7.99"
+    },
+    {
+      "id": "ae6045b6933076db",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-31-august-2026-fassler-gourmet-national-day-seafood-laksa-broth-bundle-promotion-with-2-packets-for-10/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now till 31 August 2026: Fassler Gourmet: National Day Seafood Laksa Broth Bundle Promotion With 2 Packets For $10",
+      "excerpt": "Celebrate Singapore’s National Day with Fassler Gourmet’s Seafood Laksa Broth National Day Bundle Promotion. Enjoy 2 packets for only $10 and prepare a delicious homemade laksa meal with your favourite ingredients. Available now till 31 August 2026 while stocks last. Continue reading Now till 31...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Fassler-Gourmet-National-Day-Seafood-Laksa-Broth-Bundle-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T00:38:27+00:00",
+      "fetched_at": "2026-08-05T04:00:43.479276+00:00",
+      "translation_zh": "Fassler Gourmet 国庆海鲜叻沙汤底套餐：两包 $10"
+    },
+    {
+      "id": "3e28f2aaada4d1d6",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-23-august-2026-mst-golf-singapore-g-fore-members-sale-promotion-with-3x-points-discounts-on-apparel-bags-and-free-headwear-offer/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now till 23 August 2026: MST Golf Singapore: G/FORE Members Sale Promotion with 3X Points, Discounts on Apparel, Bags and Free Headwear Offer",
+      "excerpt": "MST Golf Singapore is offering a special Members Sale promotion featuring G/FORE products, exclusive discounts, 3X points rewards and a free headwear gift with selected footwear purchases. Discover how golfers can enjoy better value on apparel, accessories and equipment until 23 August 2026....",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/MST-Golf-Singapore-G-FORE-Members-Sale.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-08-05T00:36:45+00:00",
+      "fetched_at": "2026-08-05T04:00:43.479400+00:00",
+      "translation_zh": "MST Golf G/FORE 会员特卖：3倍积分、服饰包包折扣，送免费帽子"
+    },
+    {
+      "id": "4e1a6a1c39412c0d",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/3-31-august-2026-haidilao-singapore-sg61-local-flavours-hotpot-promotion-with-laksa-broth-yong-tau-foo-platter-and-ice-kacang-dessert-event/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "3-31 August 2026: Haidilao Singapore: SG61 Local Flavours Hotpot Promotion with Laksa Broth, Yong Tau Foo Platter and Ice Kacang Dessert Event",
+      "excerpt": "Haidilao Singapore celebrates National Day with the SG61 Local Flavours Hotpot Promotion from 3 August to 31 August 2026. Enjoy local-inspired creations including Laksa Soup Base, Yong Tau Foo Platter, Fresh Kangkong and Red Bean Ice Kacang dessert at all Singapore outlets for a limited time....",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Haidilao-Singapore-SG61-Local-Flavours-Hotpot-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T00:34:41+00:00",
+      "fetched_at": "2026-08-05T04:00:43.479526+00:00",
+      "translation_zh": "海底捞 SG61 本地风味火锅促销：叻沙汤底、酿豆腐拼盘与红豆冰甜品"
+    },
+    {
+      "id": "89d59ffdd4051eb6",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-august-2026-marrybrown-singapore-national-day-promotion-stand-a-chance-to-enjoy-free-mb-crispy-chicken-for-1-year-with-combo-meal-purchase-at-fuchun-woodlands/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9 August 2026: Marrybrown Singapore National Day Promotion: Stand A Chance To Enjoy Free MB Crispy Chicken™ For 1 Year With Combo Meal Purchase At Fuchun Woodlands",
+      "excerpt": "Celebrate Singapore National Day with Marrybrown Singapore at Fuchun Woodlands and stand a chance to enjoy free MB Crispy Chicken™ for 1 year. Available on 9 August 2026 from 11:00 AM onwards for the first 100 customers with any Combo Meal purchase. Terms and conditions apply. Continue reading 9...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Marrybrown-Singapore-National-Day-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-08-05T00:32:32+00:00",
+      "fetched_at": "2026-08-05T04:00:43.479663+00:00",
+      "translation_zh": "Marrybrown 国庆促销（8月9日）：购买套餐有机会赢一年免费炸鸡"
+    },
+    {
+      "id": "981e673373ddd888",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/1-7-august-2026-uncle-lees-confectionery-cake-promotion-with-10-off-all-cakes-at-new-vending-machine-location-in-bedok-mall/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "1-7 August 2026: Uncle Lee’s Confectionery: Cake Promotion With 10% Off All Cakes at New Vending Machine Location in Bedok Mall",
+      "excerpt": "Uncle Lee’s Confectionery introduces a new cake vending machine at Bedok Mall with a limited-time 10% off promotion on all cakes from 1 August to 7 August 2026. Discover popular favourites including Peanut Buttercream Cake and Chocolate Rice Buttercream Cake while enjoying a convenient new way to...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Uncle-Lees-Confectionery-Cake-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T00:30:48+00:00",
+      "fetched_at": "2026-08-05T04:00:43.479795+00:00",
+      "translation_zh": "Uncle Lee's 西饼店蛋糕促销：Bedok Mall 新自动售卖机地点全场蛋糕9折"
+    },
+    {
+      "id": "f9e79ffc10474d36",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/27-july-10-august-2026-kimly-coffeeshop-national-day-promotion-bak-kwa-bao-8pcs-special-offer-at-6-10-with-cdc-vouchers-accepted/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "27 July-10 August 2026: Kimly Coffeeshop National Day Promotion: Bak Kwa Bao 8pcs Special Offer at $6.10 with CDC Vouchers Accepted",
+      "excerpt": "Kimly Coffeeshop celebrates Singapore National Day 2026 with a special Bak Kwa Bao promotion from 27 July to 10 August 2026. Customers can enjoy 8 pieces of Bak Kwa Bao at only $6.10 instead of $8.80, with CDC Vouchers accepted at selected outlets. This limited-time food deal is a great chance to...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Kimly-Coffeeshop-National-Day-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T00:28:43+00:00",
+      "fetched_at": "2026-08-05T04:00:43.479919+00:00",
+      "translation_zh": "Kimly 咖啡店国庆促销：肉干包8个 $6.10，可使用CDC券"
+    },
+    {
+      "id": "fab3b59f371f5814",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/4-august-2026-onwards-burger-king-singapore-chrysanthemum-cream-cheese-pie-promotion-new-limited-edition-dessert-launch/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "4 August 2026 onwards: Burger King Singapore Chrysanthemum Cream Cheese Pie Promotion, New Limited Edition Dessert Launch",
+      "excerpt": "Burger King Singapore introduces the new Chrysanthemum Cream Cheese Pie from 4 August 2026 onward. Discover this limited-time dessert featuring a crispy pastry shell with a creamy cheese filling and unique chrysanthemum-inspired flavour, available at participating outlets across Singapore. Continue...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Burger-King-Singapore-Chrysanthemum-Cream-Cheese-Pie-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T00:26:15+00:00",
+      "fetched_at": "2026-08-05T04:00:43.480038+00:00",
+      "translation_zh": "Burger King 新品上市：菊花奶油芝士派限量甜点"
+    },
+    {
+      "id": "0beb79291903c17f",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-13-september-2026-kiddy-palace-lot-one-closing-down-sale-promotion-enjoy-great-deals-on-baby-products-toys-and-more-in-singapore/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now till 13 September 2026: Kiddy Palace Lot One Closing Down Sale Promotion: Enjoy Great Deals on Baby Products, Toys and More in Singapore",
+      "excerpt": "Kiddy Palace Lot One is having a Closing Down Sale Promotion now till 13 September 2026. Families can enjoy great deals on baby essentials, toys, children’s products and more at Lot One Mall, Singapore. Visit early to enjoy more choices before stocks run out. Continue reading Now till 13 September...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Kiddy-Palace-Lot-One-Closing-Down-Sale.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T00:23:44+00:00",
+      "fetched_at": "2026-08-05T04:00:43.480168+00:00",
+      "translation_zh": "Kiddy Palace Lot One 结业清仓：婴童用品与玩具特价"
+    },
+    {
+      "id": "f8a3dc92b13fedd3",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-17-august-2026-new-balance-singapore-mega-clearance-sale-enjoy-up-to-60-off-on-sneakers-and-sportswear-at-takashimaya-talking-hall-b1/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now Till 17 August 2026: New Balance Singapore Mega Clearance Sale: Enjoy Up To 60% OFF On Sneakers And Sportswear At Takashimaya Talking Hall B1",
+      "excerpt": "New Balance Singapore Mega Clearance Sale is happening at Takashimaya Talking Hall B1 until 17 August 2026. Shoppers can enjoy up to 60% OFF selected sneakers, footwear and sportswear during this limited-time clearance event. A great opportunity to grab quality New Balance products at more...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/New-Balance-Singapore-Mega-Clearance-Sale.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T00:21:51+00:00",
+      "fetched_at": "2026-08-05T04:00:43.480297+00:00",
+      "translation_zh": "New Balance 大清仓特卖（至8月17日）：运动鞋与运动服低至4折，在高岛地库B1"
+    },
+    {
+      "id": "a6f4846c48ac211d",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/6-10-august-2026-hunter-singapore-west-the-sale-promotion-enjoy-up-to-60-off-selected-boots-footwear-bags-accessories-at-imm/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "6-10 August 2026: Hunter Singapore West The Sale Promotion: Enjoy Up To 60% OFF Selected Boots, Footwear, Bags & Accessories at IMM",
+      "excerpt": "Hunter Singapore is bringing exciting savings to IMM during West The Sale from 6-10 August 2026. Shoppers can enjoy up to 60% OFF selected boots, footwear, bags and accessories, plus an additional 5% OFF when purchasing two or more items. Discover great value deals on Hunter favourites during this...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Hunter-Singapore-West-The-Sale-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T00:20:24+00:00",
+      "fetched_at": "2026-08-05T04:00:43.480428+00:00",
+      "translation_zh": "Hunter 靴子特卖（8月6-10日）：精选靴鞋包配低至4折，在IMM"
+    },
+    {
+      "id": "8ad817a376d19476",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-while-stocks-last-bata-singapore-national-day-sale-promotion-with-up-to-50-off-shoes-and-deals-from-just-9-at-imm/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now Till While Stocks Last: Bata Singapore: National Day Sale Promotion With Up To 50% Off Shoes And Deals From Just $9 At IMM",
+      "excerpt": "Bata Singapore’s National Day Sale at IMM offers shoppers great footwear bargains with deals from just $9, up to 50% off selected styles and additional bundle savings. Discover affordable sneakers, work shoes and casual footwear while stocks last. Continue reading Now Till While Stocks Last: Bata...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Bata-Singapore-National-Day-Sale.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-08-05T00:17:32+00:00",
+      "fetched_at": "2026-08-05T04:00:43.480559+00:00",
+      "translation_zh": "Bata 国庆促销：鞋类低至5折，$9起，在IMM"
+    },
+    {
+      "id": "2084685457846313383",
+      "url": "https://x.com/singpromos/status/2084685457846313383",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-08-05T04:00:52.155424+00:00",
+      "translation_zh": "KFC 新加坡国庆 App 外送优惠（8月5-10日）：最高省 $6.10",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 1,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-08-04T16:58:39.000Z",
+        "display_text_range": [
+          0,
+          193
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                105,
+                115
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                116,
+                119
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                120,
+                128
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                129,
+                136
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                137,
+                147
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                148,
+                155
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                156,
+                167
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                168,
+                176
+              ],
+              "text": "SGhalal"
+            },
+            {
+              "indices": [
+                177,
+                185
+              ],
+              "text": "halalSG"
+            },
+            {
+              "indices": [
+                186,
+                192
+              ],
+              "text": "kfcsg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/kfc-spore-national-day-app-delivery-deals-from-5-to-10-august-2026-305030/",
+              "indices": [
+                81,
+                104
+              ],
+              "url": "https://t.co/3gQL3mW8jO"
+            }
+          ]
+        },
+        "id_str": "2084685457846313383",
+        "text": "KFC S'pore National Day App Delivery Deals from 5 to 10 Aug - up to S$6.10 off 🎉 https://t.co/3gQL3mW8jO #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #SGhalal #halalSG #kfcsg",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2084685457846313383"
+          ],
+          "editable_until_msecs": "1785866319000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/3gQL3mW8jO",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 147,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Delivery savings for National Day celebrations",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 628,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 628,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 628,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 36.7,
+                    "rgb": {
+                      "blue": 42,
+                      "green": 0,
+                      "red": 215
+                    }
+                  },
+                  {
+                    "percentage": 17.84,
+                    "rgb": {
+                      "blue": 238,
+                      "green": 235,
+                      "red": 250
+                    }
+                  },
+                  {
+                    "percentage": 6.75,
+                    "rgb": {
+                      "blue": 33,
+                      "green": 121,
+                      "red": 211
+                    }
+                  },
+                  {
+                    "percentage": 6.7,
+                    "rgb": {
+                      "blue": 109,
+                      "green": 81,
+                      "red": 227
+                    }
+                  },
+                  {
+                    "percentage": 5.8,
+                    "rgb": {
+                      "blue": 41,
+                      "green": 31,
+                      "red": 31
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "KFC S’pore National Day App Delivery Deals from 5 to 10 August 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 36.7,
+                    "rgb": {
+                      "blue": 42,
+                      "green": 0,
+                      "red": 215
+                    }
+                  },
+                  {
+                    "percentage": 17.84,
+                    "rgb": {
+                      "blue": 238,
+                      "green": 235,
+                      "red": 250
+                    }
+                  },
+                  {
+                    "percentage": 6.75,
+                    "rgb": {
+                      "blue": 33,
+                      "green": 121,
+                      "red": 211
+                    }
+                  },
+                  {
+                    "percentage": 6.7,
+                    "rgb": {
+                      "blue": 109,
+                      "green": 81,
+                      "red": 227
+                    }
+                  },
+                  {
+                    "percentage": 5.8,
+                    "rgb": {
+                      "blue": 41,
+                      "green": 31,
+                      "red": 31
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 628,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 36.7,
+                    "rgb": {
+                      "blue": 42,
+                      "green": 0,
+                      "red": 215
+                    }
+                  },
+                  {
+                    "percentage": 17.84,
+                    "rgb": {
+                      "blue": 238,
+                      "green": 235,
+                      "red": 250
+                    }
+                  },
+                  {
+                    "percentage": 6.75,
+                    "rgb": {
+                      "blue": 33,
+                      "green": 121,
+                      "red": 211
+                    }
+                  },
+                  {
+                    "percentage": 6.7,
+                    "rgb": {
+                      "blue": 109,
+                      "green": 81,
+                      "red": 227
+                    }
+                  },
+                  {
+                    "percentage": 5.8,
+                    "rgb": {
+                      "blue": 41,
+                      "green": 31,
+                      "red": 31
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 628,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/3gQL3mW8jO",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 628,
+                "url": "https://pbs.twimg.com/card_img/2084685409796440064/cKK77t9h?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
     }
   ]
 }
