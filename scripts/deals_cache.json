@@ -25328,6 +25328,60 @@
         "isEdited": false,
         "isStaleEdit": false
       }
+    },
+    {
+      "id": "2ca9a98fe25be634",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/milo-van-to-visit-kaki-bukit-on-10-aug-2026-304941/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "MILO Van to visit Kaki Bukit on 10 Aug 2026",
+      "excerpt": "Enjoy a free cup of iconic MILO [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2025/04/MILO-Van-to-feat-singpromos.com-10-Apr-2025.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-08-09T08:44:37+00:00",
+      "fetched_at": "2026-08-09T16:00:36.460400+00:00",
+      "translation_zh": "MILO巡回车8月10日到访加基武吉",
+      "excerpt_zh": "免费领取一杯经典MILO饮品"
+    },
+    {
+      "id": "2ab2fbfe727ca8e9",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/popeyes-singapore-midnight-crunch-1-for-1-9-90-chicken-meal-from-10-to-14-aug-2026-10pm-2am-305206/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Popeyes Singapore Midnight Crunch 1-for-1 $9.90 Chicken Meal from 10 to 14 Aug 2026, 10pm – 2am",
+      "excerpt": "Late-night cravings get a tasty upgrade [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2025/04/Popeyes-feat-singpromos.com-1-Apr-2025.jpg",
+      "deal_type": "1fl",
+      "country": "SG",
+      "published_at": "2026-08-09T07:07:36+00:00",
+      "fetched_at": "2026-08-09T16:00:36.460746+00:00",
+      "translation_zh": "Popeyes Singapore Midnight Crunch套餐买一送一 仅需S.90 8月10日至14日晚10点至凌晨2点",
+      "excerpt_zh": "深夜解馋好去处，Popeyes推出限时Midnight Crunch套餐买一送一"
+    },
+    {
+      "id": "b62a513cbe93f473",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/08/mcdonalds-bus-shelter-bagel-hunt-from.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "McDonald's Bus Shelter Bagel Hunt From 10 - 12 Aug: Snap & Share To Win A Breakfast Bagel",
+      "excerpt": "HOW YOU CAN WIN A MCDONALD'S BREAKFAST BAGEL FROM 10 - 12 AUG McDonald's is running a \"Breakfast Bagel\" game from 10 to 12 August 2026, giving fans a chance to win a free à la carte Breakfast Bagel (Chicken Ham/Sausage). Participants need to spot the bagel visuals on bus shelter screens at...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhNAmiBsTJlrn4RGo4baI3TJsqIw0R6X2gTHdDPdc4K53KBukL6yW5fv_uCaFFI0i4agxXkU4-34wl4EyoPxCYKDOQQcBTi8ADmXj_yZveUc_AB2bPhFk2sOF1C4KXQ_7BGxsJjAKwj8IDbyMEzuu_DkC1Jo4dqC9VlgdsFONgv9ZHrwZ3mdl5WG_OO9sBA/s640/all%20singapore%20deals%20mcdonalds%20free%20breakfast%20bagel%2010%20aug%20a.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-08-09T04:13:19+00:00",
+      "fetched_at": "2026-08-09T16:00:37.203772+00:00",
+      "translation_zh": "McDonald's Bagel寻宝活动 8月10日至12日 拍照分享赢早餐Bagel",
+      "excerpt_zh": "参与方式：McDonald's举办Breakfast Bagel互动游戏，粉丝拍照分享即有机会赢取免费早餐Bagel"
     }
   ]
 }
