@@ -220,8 +220,48 @@ def load_cache():
 
 
 def save_cache(cache):
+    prune_cache(cache)
     with open(CACHE_PATH, "w") as f:
         json.dump(cache, f, ensure_ascii=False, indent=2)
+
+
+def prune_cache(cache, max_age_days=21, max_deals=400):
+    """Keep the cache small: newest-first cap + age window.
+
+    The gateway terminal guard bounded-reads path-like tokens in commands;
+    a data file over 1 MiB fails closed and blocks innocent python3 -c
+    commands mentioning it. Cap deals + age keeps the file ~800KB.
+    Deals without timestamps are kept (dedupe anchors).
+    Mutates cache['deals'] in place.
+    """
+    from datetime import datetime, timedelta, timezone
+
+    deals = cache.get("deals", [])
+    cutoff = datetime.now(timezone.utc) - timedelta(days=max_age_days)
+
+    def ts(d):
+        return d.get("published_at") or d.get("fetched_at") or ""
+
+    def fresh(d):
+        t = ts(d)
+        if not t:
+            return True
+        try:
+            return datetime.fromisoformat(t.replace("Z", "+00:00")) >= cutoff
+        except ValueError:
+            return True
+
+    kept = [d for d in deals if fresh(d)]
+    kept.sort(key=ts, reverse=True)
+    kept = kept[:max_deals]
+    keep_ids = {id(d) for d in kept}
+    result = [d for d in deals if id(d) in keep_ids]
+    if len(result) < len(deals):
+        print(
+            f"  [prune] {len(deals)} → {len(result)} deals (age>{max_age_days}d or over cap {max_deals})",
+            file=sys.stderr,
+        )
+    cache["deals"] = result
 
 
 def fetch_tweet_data_full(tweet_id):
