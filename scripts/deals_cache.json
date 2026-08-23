@@ -289,24 +289,6 @@
       "excerpt_zh": "在Plaza Singapura的Tavola Aperta，自带一颗新鲜柠檬即可免费获得一份柠檬意面。"
     },
     {
-      "id": "3b4bc7f69d142117",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/11-august-2026-onwards-krispy-kreme-singapore-student-promotion-2-original-glazed-doughnuts-for-3-90-every-monday-tuesday/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "11 August 2026 onwards: Krispy Kreme Singapore Student Promotion – 2 Original Glazed Doughnuts for $3.90 Every Monday & Tuesday",
-      "excerpt": "Students can enjoy 2 Krispy Kreme Original Glazed doughnuts for just $3.90 every Monday and Tuesday from 2.30pm to 5.30pm. Find out the participating outlets, redemption rules and why this student deal is worth checking out. Continue reading 11 August 2026 onwards: Krispy Kreme Singapore Student...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Krispy-Kreme-Singapore-Student-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-11T11:27:48+00:00",
-      "fetched_at": "2026-08-11T16:00:33.361094+00:00",
-      "translation_zh": "Krispy Kreme 学生优惠：每周一至二2个Original Glazed甜甜圈$3.90（8月11日起）",
-      "excerpt_zh": "学生凭学生证可于每周一至二下午2:30–5:30，以$3.90购2个Original Glazed甜甜圈。"
-    },
-    {
       "id": "2087060235542499556",
       "url": "https://x.com/singpromos/status/2087060235542499556",
       "label": "SINGPromos",
@@ -14228,6 +14210,24 @@
       "fetched_at": "2026-08-22T10:30:48.269460+00:00",
       "translation_zh": "CHAS 卡持有者福利 — 8月29&30日 Bee Cheng Hiang Clementi Central 免费领100g肉干粒",
       "excerpt_zh": "Bee Cheng Hiang 于8月29日和30日,在 Clementi Central 门店为蓝色和橙色 CHAS 卡持有者免费派发100g肉干粒,每天两个时段可领:中午12点至下午2点。"
+    },
+    {
+      "id": "b619159e8a13b341",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/08/dunkin-buy-1-get-1-free-sunny-egg.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Dunkin’ Buy 1 Get 1 FREE Sunny Egg Sunday Deal",
+      "excerpt": "BUY 1, GET 1 FREE DUNKIN' SUNNY EGG THIS SUNDAY Dunkin’ is running a Sunday Buy 1, Get 1 FREE Sunny Egg promotion at selected outlets. Buy any two eligible Sunny Egg items and the lower-priced Sunny Egg will be free. Customers can choose from options including whole egg or egg white, with selected...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIHPWfXzCm4kM-iskh-YhDPSTR4_W_Jnefd_1oBtV0qu5K035mSEMIs9mbdDIMTRvU7TilsgvzWfrb5Ad4hNAOVTxJVB6N_-iR3ne0oMkqfW-hSE6YCAGjUO13Cd2_3RX3uRRrl9Yt90xLpZz0rPIBlWu2mVcxfSgWIH3CSRDcC-ByJ5V953OPS4pDlEfj/s640/all%20singapore%20deals%20dunkin%20sunday%201-for-1%20A.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-08-23T01:38:08+00:00",
+      "fetched_at": "2026-08-23T10:30:28.968521+00:00",
+      "translation_zh": "Dunkin’ Sunny Egg 周日买一送一",
+      "excerpt_zh": "Dunkin’ 指定门店周日推出 Sunny Egg 买一送一优惠：购买任意两份符合条件的 Sunny Egg 商品，价格较低的一份免费。可选全蛋或蛋白口味，指定门店参与。"
     }
   ]
 }
