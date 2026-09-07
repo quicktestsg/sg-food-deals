@@ -235,42 +235,6 @@
       "excerpt_zh": "8月25日至9月5日，Hello Arigato Cross Street店精选咖啡汽水$2.99、抹茶$3.99，每日限量50杯，手快有手慢无。"
     },
     {
-      "id": "4af369837f7fab69",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/1-30-september-2026-typhoon-taiwanese-cafe-promotion-kids-dine-free-with-2-paying-buffet-adults-at-orchard-road/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "1-30 September 2026: Typhoon Taiwanese Cafe: Promotion – Kids Dine Free with 2 Paying Buffet Adults at Orchard Road",
-      "excerpt": "Looking for a family-friendly dining deal during the September school holidays? Typhoon Taiwanese Cafe is offering a Kids Dine Free promotion from 1-30 September 2026, with children dining free when accompanied by two paying buffet adults. Head to Orchard Road and enjoy a Taiwanese buffet feast...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Typhoon-Taiwanese-Cafe-Promotion-–-Kids-Dine-Free.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-08-27T13:00:21+00:00",
-      "fetched_at": "2026-08-28T00:01:03.319265+00:00",
-      "translation_zh": "Typhoon台湾料理 9月小孩免费吃：2位付费自助成人同行（Orchard Road）",
-      "excerpt_zh": "9月学校假期，Typhoon Taiwanese Cafe 9月1至30日推出小孩免费吃，2位付费自助成人同行即可。"
-    },
-    {
-      "id": "82b9dcfd9eb6656d",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/28-30-august-2026-kei-kaisendon-1-for-1-kaisendon-promotion-at-amk-hub/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "28-30 August 2026: Kei Kaisendon: 1-for-1 Kaisendon Promotion at AMK Hub",
-      "excerpt": "Looking for a good Japanese food deal in Ang Mo Kio? Kei Kaisendon at AMK Hub is offering a limited-time 1-for-1 Kaisendon promotion from 28-30 August 2026. Bring a friend or family member and enjoy more seafood donburi while making the most of this short promotional offer. Continue reading 28-30...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Kei-Kaisendon-1-for-1-Kaisendon-Promotion-at-AMK-Hub.jpg",
-      "deal_type": "1fl",
-      "country": "SG",
-      "published_at": "2026-08-27T12:55:00+00:00",
-      "fetched_at": "2026-08-28T00:01:03.319387+00:00",
-      "translation_zh": "Kei Kaisendon AMK Hub 1-for-1凯鲜丼（8月28-30日）",
-      "excerpt_zh": "Kei Kaisendon AMK Hub店8月28至30日限时1-for-1凯鲜丼，带朋友或家人一起吃更划算。"
-    },
-    {
       "id": "2093047774623436983",
       "url": "https://x.com/singpromos/status/2093047774623436983",
       "label": "SINGPromos",
@@ -15925,6 +15889,440 @@
         ],
         "conversation_count": 0,
         "news_action_type": "conversation",
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "84f74a5be678e3a7",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/footwear/crocs-singapore-9-9-flash-sale-30-off-almost-everything-till-9-sep-2026-306243/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Crocs Singapore 9.9 Flash Sale 30% Off Almost Everything till 9 Sep 2026",
+      "excerpt": "Save 30% on selected Crocs footwear, with doorbusters offering even bigger bargains. [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/09/Crocs-feat-singpromos.com-6-Sep-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-06T13:22:38+00:00",
+      "fetched_at": "2026-09-07T00:00:31.998687+00:00",
+      "translation_zh": "Crocs Singapore 9.9 闪购：全场近乎 7 折，优惠至 2026年9月9日",
+      "excerpt_zh": "Crocs 精选鞋款 30% off，doorbuster 限时爆款折上更狠。"
+    },
+    {
+      "id": "2096591452822507874",
+      "url": "https://x.com/singpromos/status/2096591452822507874",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-09-07T00:00:43.263285+00:00",
+      "translation_zh": "Crocs Singapore 9.9 闪购：全场近乎 7 折，优惠至 2026年9月9日",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 1,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-09-06T13:28:49.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                90,
+                100
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                101,
+                104
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                105,
+                113
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                114,
+                121
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                122,
+                133
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                134,
+                142
+              ],
+              "text": "crocssg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/footwear/crocs…",
+              "expanded_url": "https://singpromos.com/footwear/crocs-singapore-9-9-flash-sale-30-off-almost-everything-till-9-sep-2026-306243/",
+              "indices": [
+                66,
+                89
+              ],
+              "url": "https://t.co/jML0upPCW4"
+            }
+          ]
+        },
+        "id_str": "2096591452822507874",
+        "text": "Crocs SG 9.9 Flash Sale 30% Off Almost Everything till 9 Sep 2026 https://t.co/jML0upPCW4 #SINGAPORE #SG #SGpromo #SGsale #singpromos #crocssg",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2096591452822507874"
+          ],
+          "editable_until_msecs": "1788704929000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/jML0upPCW4",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 146,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Save 30% on selected Crocs footwear, with doorbusters offering even bigger bargains.",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 312,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 528,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=jpg&name=orig",
+                "width": 1014
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 528,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=png&name=2048x2048_2_exp",
+                "width": 1014
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 528,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=jpg&name=orig",
+                "width": 1014
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 47.89,
+                    "rgb": {
+                      "blue": 41,
+                      "green": 45,
+                      "red": 163
+                    }
+                  },
+                  {
+                    "percentage": 29.69,
+                    "rgb": {
+                      "blue": 186,
+                      "green": 194,
+                      "red": 202
+                    }
+                  },
+                  {
+                    "percentage": 6.04,
+                    "rgb": {
+                      "blue": 107,
+                      "green": 135,
+                      "red": 182
+                    }
+                  },
+                  {
+                    "percentage": 3.37,
+                    "rgb": {
+                      "blue": 2,
+                      "green": 215,
+                      "red": 251
+                    }
+                  },
+                  {
+                    "percentage": 2.57,
+                    "rgb": {
+                      "blue": 70,
+                      "green": 57,
+                      "red": 56
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "Crocs Singapore 9.9 Flash Sale 30% Off Almost Everything till 9 Sep 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 47.89,
+                    "rgb": {
+                      "blue": 41,
+                      "green": 45,
+                      "red": 163
+                    }
+                  },
+                  {
+                    "percentage": 29.69,
+                    "rgb": {
+                      "blue": 186,
+                      "green": 194,
+                      "red": 202
+                    }
+                  },
+                  {
+                    "percentage": 6.04,
+                    "rgb": {
+                      "blue": 107,
+                      "green": 135,
+                      "red": 182
+                    }
+                  },
+                  {
+                    "percentage": 3.37,
+                    "rgb": {
+                      "blue": 2,
+                      "green": 215,
+                      "red": 251
+                    }
+                  },
+                  {
+                    "percentage": 2.57,
+                    "rgb": {
+                      "blue": 70,
+                      "green": 57,
+                      "red": 56
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 528,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=png&name=2048x2048_2_exp",
+                "width": 1014
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 47.89,
+                    "rgb": {
+                      "blue": 41,
+                      "green": 45,
+                      "red": 163
+                    }
+                  },
+                  {
+                    "percentage": 29.69,
+                    "rgb": {
+                      "blue": 186,
+                      "green": 194,
+                      "red": 202
+                    }
+                  },
+                  {
+                    "percentage": 6.04,
+                    "rgb": {
+                      "blue": 107,
+                      "green": 135,
+                      "red": 182
+                    }
+                  },
+                  {
+                    "percentage": 3.37,
+                    "rgb": {
+                      "blue": 2,
+                      "green": 215,
+                      "red": 251
+                    }
+                  },
+                  {
+                    "percentage": 2.57,
+                    "rgb": {
+                      "blue": 70,
+                      "green": 57,
+                      "red": 56
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 528,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=png&name=2048x2048_2_exp",
+                "width": 1014
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/jML0upPCW4",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 528,
+                "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=jpg&name=orig",
+                "width": 1014
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
         "isEdited": false,
         "isStaleEdit": false
       }
