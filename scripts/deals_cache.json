@@ -1,1121 +1,6 @@
 {
   "deals": [
     {
-      "id": "bce3a84bcdb43065",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/dining-restaurants-food/seoul-garden-spore-two-gentlemen-dine-free-with-two-paying-adults-every-thursday-this-sept-2026-305859/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Seoul Garden S’pore Two Gentlemen Dine Free With Two Paying Adults Every Thursday this Sept 2026",
-      "excerpt": "Gather four diners for Thursday dinner and enjoy two complimentary gentlemen buffet places. [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2025/06/Seoul-Garden-feat-singpromos.com-25-Jun-2025.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-08-27T18:44:22+00:00",
-      "fetched_at": "2026-08-28T00:00:54.106606+00:00",
-      "translation_zh": "Seoul Garden 9月每逢周四：两位付费成人可带两位男士免费吃自助餐",
-      "excerpt_zh": "约齐四人周四晚去Seoul Garden吃自助餐，两位男士的餐位免费。"
-    },
-    {
-      "id": "6ebf4f31a76b3082",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/warehouse-sales/key-power-sports-fitness-warehouse-sale-until-30-august-2026-305842/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Key Power Sports & Fitness Warehouse Sale until 30 August 2026",
-      "excerpt": "Score deals on running, yoga, swim, fitness and compression gear [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/08/Key-Power-Sports-feat-singpromos.com-27-Aug-2026.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-27T17:21:23+00:00",
-      "fetched_at": "2026-08-28T00:00:54.106952+00:00",
-      "translation_zh": "Key Power Sports 运动健身仓库大促至8月30日",
-      "excerpt_zh": "跑步、瑜伽、游泳、健身及压缩装备仓库特价，快趁8月30日前入手。"
-    },
-    {
-      "id": "02f411a3e2e1b0d3",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/08/sheng-siong-4-days-offer-housebrand.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Sheng Siong 4 Days Offer: Housebrand Deals Up To 50% Off From 28 - 31 Aug",
-      "excerpt": "SHENG SIONG 4-DAY HOUSEBRAND DEALS UP TO 50% OFF Sheng Siong is running a Housebrand 4 Days Offer from 28 to 31 August 2026, with discounts of up to 50% on selected housebrand products. The short promotion covers a mix of everyday groceries, snacks, household and personal care essentials. Shoppers...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwyvBTVS7c7XNwmvp3sr9tYrYYDI-KRU9BQ_YbKxsnPNZ153iXOYWCB9XAk0ruggQAeYacygOkeHsIlnC-luYL_0t_9c_GNM5B1xmizQAvLmtgxMUyQRQiicX_hVkT44D0RzkUE4bGHK9fcV_BN6thRsUxrq9M59e-Y0DuGxgasCxo_rzttXLlnrZefz7C/s640/all%20singapore%20deals%20sheng%20siong%20housebrand%204%20days%20offer%2028%20aug%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-27T22:24:12+00:00",
-      "fetched_at": "2026-08-28T00:00:54.718296+00:00",
-      "translation_zh": "Sheng Siong 4天特惠：自家品牌产品低至5折（8月28-31日）",
-      "excerpt_zh": "Sheng Siong自家品牌4天大促，8月28至31日精选自家品牌产品折扣高达50%，促销期短，抓紧囤货。"
-    },
-    {
-      "id": "e96a6902dfa86008",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/08/fairprice-2-week-promotion-singapore.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "FairPrice 2-Week Promotion Singapore: Price Drops Up To 61% & Buy 1 Get 1 Free Deals",
-      "excerpt": "FAIRPRICE 2-WEEK DEALS: PRICE DROPS & BIG SAVINGS UP TO 61% TILL 9 SEPTEMBER FairPrice is running a two-week promotion from 27 August to 9 September 2026, covering groceries, snacks, household essentials, personal care items, honey and wines. The promotion includes Price Drop deals, multi-buy...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZtz0JHmBBN2m3OcQQEIJoePgKm5lVdSwDPBjD3mqovI_7B_9-yFbTo91TrBBedrcIm4eHl85qELyUUmiX6RXJzy1KE5omdX1dCm_0MQpAJKE7HK3aaTTX4RS-MRY4jNBDWXyLAvji5oa_fdryRa83kA5b96n3XZZ08_iH97lfgq4CxZXeUCWiBjxnWljB/s640/all%20singapore%20deals%20fairprice%202-week%20special%20a.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-08-27T21:57:51+00:00",
-      "fetched_at": "2026-08-28T00:00:54.718808+00:00",
-      "translation_zh": "FairPrice 两周大促：降价高达61% + 买一送一，至9月9日",
-      "excerpt_zh": "FairPrice 8月27日至9月9日两周促销，杂货、零食、家居必需品降价高达61%，另有买一送一优惠。"
-    },
-    {
-      "id": "39cbcaff7042ce5b",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/08/giant-yuu-member-deals-save-up-to-50.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Giant yuu Member Deals: Save Up to 50% From 28 - 30 Aug",
-      "excerpt": "3 DAYS OF EXCLUSIVE YUU MEMBER DEALS (28 - 30 AUGUST) Giant is running a yuu Members Specials promotion from 28 to 30 August 2026, featuring special prices and discounts exclusively for yuu members. The limited-time promotion includes savings across selected fresh fruits, meat and other food...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg57_UM3sxzlNqxB_Z6fKT5islFtSMhryXCvak_4-OWwJ2ivbB4vuW-2UxxSZ2h7oCtsCXrDsZcNLXK-hsjrgsMfNihWthx0EHgKYAmg4_fiIm4K1C8bPEsvYeqVh9MTYG4D3TqttweJC9tNNiCgRM67d_wHW3Ejs__BHp9cRPlChC1uEmz5te0qAPW-SAA/s640/all%20singapore%20deals%20giant%20yuu%20member%20special%2028%20aug%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-27T21:36:07+00:00",
-      "fetched_at": "2026-08-28T00:00:54.719193+00:00",
-      "translation_zh": "Giant yuu会员专享：高达5折优惠（8月28-30日）",
-      "excerpt_zh": "Giant 8月28至30日yuu会员特惠，会员独享特价与折扣，需有yuu会员资格。"
-    },
-    {
-      "id": "ea533643131de474",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/1-30-september-2026-tsujiri-singapore-mid-autumn-buy-2-get-1-free-tea-promotion-with-new-japanese-tea-collection-at-selected-outlets/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "1-30 September 2026: TSUJIRI Singapore: Mid-Autumn Buy 2 Get 1 Free Tea Promotion with New Japanese Tea Collection at Selected Outlets",
-      "excerpt": "TSUJIRI Singapore welcomes September with two new Japanese tea additions and a limited-time Mid-Autumn Buy 2, Get 1 Free promotion. From 1-30 September 2026, discover TSUJIRI Matcha Sencha and Hoshi No Midori while enjoying selected tea deals at four participating Singapore outlets. Continue...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/TSUJIRI-Singapore-Mid-Autumn-Buy-2-Get-1-Free-Tea-Promotion.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-08-27T13:21:43+00:00",
-      "fetched_at": "2026-08-28T00:01:03.318104+00:00",
-      "translation_zh": "TSUJIRI 中秋买2送1日本茶促销，9月1-30日指定门店",
-      "excerpt_zh": "TSUJIRI 9月推出两款新日本茶，9月1至30日指定门店中秋限定买2送1促销。"
-    },
-    {
-      "id": "4c1b9e3cb65412e3",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/27-31-august-2026-eu-yan-sang-singapore-teachers-day-promotion-spend-80-and-enjoy-herbal-drinks-from-9-90/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "27-31 August 2026: Eu Yan Sang Singapore Teachers’ Day Promotion – Spend $80 and Enjoy Herbal Drinks from $9.90",
-      "excerpt": "Celebrate Teachers’ Day with Eu Yan Sang Singapore from 27-31 August 2026. Spend a minimum of $80 and enjoy special purchase-with-purchase prices on 6s Herbal Drinks at $9.90 or 6s Herbal Jelly at $18, with a maximum of two sets per customer. Continue reading 27-31 August 2026: Eu Yan Sang...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Eu-Yan-Sang-Singapore-Teachers-Day-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-27T13:19:36+00:00",
-      "fetched_at": "2026-08-28T00:01:03.318259+00:00",
-      "translation_zh": "Eu Yan Sang 教师节促销：满$80草药饮品$9.90起（8月27-31日）",
-      "excerpt_zh": "8月27至31日消费满$80，可以$9.90购6瓶装草药饮品，或$18购6瓶装凉粉，教师节送礼自用皆宜。"
-    },
-    {
-      "id": "5ac298191482bc4c",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/20-august-31-december-2026-anna-craft-creative-tufting-promotion-from-38-per-person-plus-creative-workshops-in-singapore/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "20 August-31 December 2026: Anna Craft Creative: Tufting Promotion From $38 Per Person Plus Creative Workshops in Singapore",
-      "excerpt": "Looking for a fun alternative to the usual café hopping or shopping trip? Anna Craft Creative is offering tufting from $38 per person from 20 August to 31 December 2026. With craft workshops including tufting, fuse beads and punch needle at its Pioneer and Chinatown outlets, it is an affordable...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Anna-Craft-Creative-Tufting-Promotion-From-38-Per-Person-Plus.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-27T13:16:38+00:00",
-      "fetched_at": "2026-08-28T00:01:03.318401+00:00",
-      "translation_zh": "Anna Craft Creative 手作tufting每人$38起（8月20日-12月31日）",
-      "excerpt_zh": "想换个玩法？Anna Craft Creative 8月20日至12月31日提供每人$38起的tufting体验及多种创意工作坊。"
-    },
-    {
-      "id": "0af597e658192e51",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/1-august-4-november-2026-circles-life-5-month-ai-student-bundle-promotion-with-premium-ai-tools-1tb-data-and-unlimited-talktime-for-smu-students/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "1 August-4 November 2026: Circles.Life: $5/month AI Student Bundle Promotion with Premium AI Tools, 1TB Data and Unlimited Talktime for SMU Students",
-      "excerpt": "SMU students can enjoy Circles.Life's Ultimate AI Superplan for just $5/month from 1 August to 4 November 2026, with premium AI tools, 1TB 4G data, unlimited talktime and no contract. Find out why this student-exclusive promotion is worth checking out. Continue reading 1 August-4 November 2026:...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Circles.Life-5-month-AI-Student-Bundle-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-27T13:14:05+00:00",
-      "fetched_at": "2026-08-28T00:01:03.318545+00:00",
-      "translation_zh": "Circles.Life SMU学生AI套餐每月$5（8月1日-11月4日）",
-      "excerpt_zh": "SMU学生8月1日至11月4日可享Circles.Life Ultimate AI Superplan每月$5，含premium AI工具、1TB 4G流量、无限通话，无合约。"
-    },
-    {
-      "id": "9dd403f2e8ab1398",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/28-august-2026-shopback-singapore-promotion-get-up-to-25-cashback-on-shopee-plus-up-to-50-bonus-per-order/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "28 August 2026: ShopBack Singapore: Promotion – Get Up to 25% Cashback on Shopee Plus Up to $50 Bonus Per Order",
-      "excerpt": "ShopBack is bringing a Shopee shopping promotion to Singapore on 28 August 2026, offering up to 25% Cashback, plus up to $50 bonus per order and selected deals on Medicube, Blackmores and more. Find out how shoppers can make the most of this one-day cashback opportunity. Continue reading 28 August...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/ShopBack-Singapore-Promotion-–-Get-Up-to-25.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-27T13:11:05+00:00",
-      "fetched_at": "2026-08-28T00:01:03.318699+00:00",
-      "translation_zh": "ShopBack x Shopee：高达25%现金回扣+每单最高$50奖励（8月28日）",
-      "excerpt_zh": "8月28日ShopBack Shopee购物日，高达25%现金回扣，每单再加最高$50奖励，Medicube、Blackmores等精选特惠。"
-    },
-    {
-      "id": "e50b2707745244d5",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/22-28-august-2026-robinsons-singapore-twice-brand-collection-promotion-with-extra-10-off-shop-exclusive-k-pop-lifestyle-items-online/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "22-28 August 2026: Robinsons Singapore: TWICE Brand Collection Promotion with Extra 10% OFF, Shop Exclusive K-Pop Lifestyle Items Online",
-      "excerpt": "TWICE fans in Singapore can enjoy an extra 10% OFF the new TWICE Brand Collection at Robinsons Singapore from 22-28 August 2026. Use promo code TWICE10 at checkout and discover a range of TWICE collectibles and lifestyle merchandise during this limited-time promotion. Continue reading 22-28 August...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Robinsons-Singapore-TWICE-Brand-Collection-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-27T13:08:07+00:00",
-      "fetched_at": "2026-08-28T00:01:03.318829+00:00",
-      "translation_zh": "Robinsons TWICE联名系列额外9折，优惠码TWICE10（8月22-28日）",
-      "excerpt_zh": "TWICE粉丝8月22至28日在Robinsons网购新TWICE Brand Collection可享额外10%折扣，结账输入优惠码TWICE10。"
-    },
-    {
-      "id": "ede120e31907ed4d",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/25-28-august-2026-the-coffee-bean-tea-leaf-20-mocha-or-vanilla-ice-blended-members-promotion-with-4-drinks/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "25-28 August 2026: The Coffee Bean & Tea Leaf: $20 Mocha or Vanilla Ice Blended® Members Promotion with 4 Drinks",
-      "excerpt": "Cool down with The Coffee Bean & Tea Leaf’s limited-time members promotion from 25 to 28 August 2026. Enjoy four small Original Mocha or Vanilla Ice Blended® drinks for just $20, making it only $5 per drink. Download the Rewards app, gather your friends and check participating outlets before...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/The-Coffee-Bean-Tea-Leaf-20-Mocha-or-Vanilla-Ice-Blended.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-27T13:05:14+00:00",
-      "fetched_at": "2026-08-28T00:01:03.318986+00:00",
-      "translation_zh": "The Coffee Bean & Tea Leaf 会员$20购4杯Ice Blended（8月25-28日）",
-      "excerpt_zh": "8月25至28日会员限定，4杯小杯Original Mocha或Vanilla Ice Blended只需$20，平均每杯$5。"
-    },
-    {
-      "id": "389f10fa04a542dc",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/25-august-5-september-2026-hello-arigato-drinks-from-2-99-at-cross-street-limited-time-coffee-matcha-and-soda-promotion/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "25 August-5 September 2026: Hello Arigato: Drinks from $2.99 at Cross Street: Limited-Time Coffee, Matcha and Soda Promotion",
-      "excerpt": "Enjoy selected coffee and soda for just $2.99, or matcha for $3.99, at Hello Arigato’s Cross Street outlet from 25 August to 5 September 2026. The promotion is limited to 50 cups daily, so claim the AwesomeFree voucher and visit early to enjoy this limited-time Singapore drink deal. Continue...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Hello-Arigato-Drinks-from-2.99-at-Cross-Street.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-08-27T13:03:00+00:00",
-      "fetched_at": "2026-08-28T00:01:03.319129+00:00",
-      "translation_zh": "Hello Arigato Cross Street店：咖啡汽水$2.99、抹茶$3.99（8月25日-9月5日）",
-      "excerpt_zh": "8月25日至9月5日，Hello Arigato Cross Street店精选咖啡汽水$2.99、抹茶$3.99，每日限量50杯，手快有手慢无。"
-    },
-    {
-      "id": "2093047774623436983",
-      "url": "https://x.com/singpromos/status/2093047774623436983",
-      "label": "SINGPromos",
-      "color": "#f59e0b",
-      "deal_type": "free",
-      "country": "SG",
-      "fetched_at": "2026-08-28T00:01:06.485209+00:00",
-      "translation_zh": "Seoul Garden 9月每逢周四：两位付费成人可带两位男士免费吃自助餐",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-08-27T18:47:31.000Z",
-        "display_text_range": [
-          0,
-          216
-        ],
-        "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                121,
-                131
-              ],
-              "text": "SINGAPORE"
-            },
-            {
-              "indices": [
-                132,
-                135
-              ],
-              "text": "SG"
-            },
-            {
-              "indices": [
-                136,
-                144
-              ],
-              "text": "SGpromo"
-            },
-            {
-              "indices": [
-                145,
-                152
-              ],
-              "text": "SGsale"
-            },
-            {
-              "indices": [
-                153,
-                163
-              ],
-              "text": "SGfoodies"
-            },
-            {
-              "indices": [
-                164,
-                171
-              ],
-              "text": "SGeats"
-            },
-            {
-              "indices": [
-                172,
-                183
-              ],
-              "text": "singpromos"
-            },
-            {
-              "indices": [
-                184,
-                192
-              ],
-              "text": "SGhalal"
-            },
-            {
-              "indices": [
-                193,
-                201
-              ],
-              "text": "halalSG"
-            },
-            {
-              "indices": [
-                202,
-                216
-              ],
-              "text": "seoulgardensg"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "singpromos.com/dining-restaur…",
-              "expanded_url": "https://singpromos.com/dining-restaurants-food/seoul-garden-spore-two-gentlemen-dine-free-with-two-paying-adults-every-thursday-this-sept-2026-305859/",
-              "indices": [
-                97,
-                120
-              ],
-              "url": "https://t.co/laFKCxtmjB"
-            }
-          ]
-        },
-        "id_str": "2093047774623436983",
-        "text": "Seoul Garden S'pore Two Gentlemen Dine Free With Two Paying Adults Every Thursday this Sept 2026 https://t.co/laFKCxtmjB #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #SGhalal #halalSG #seoulgardensg",
-        "user": {
-          "id_str": "229470448",
-          "name": "SINGPromos",
-          "screen_name": "singpromos",
-          "is_blue_verified": false,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2093047774623436983"
-          ],
-          "editable_until_msecs": "1787860051000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "card": {
-          "card_platform": {
-            "platform": {
-              "audience": {
-                "name": "production"
-              },
-              "device": {
-                "name": "iPhone",
-                "version": "13"
-              }
-            }
-          },
-          "name": "summary_large_image",
-          "url": "https://t.co/laFKCxtmjB",
-          "binding_values": {
-            "photo_image_full_size_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image": {
-              "image_value": {
-                "height": 146,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=jpg&name=280x150",
-                "width": 280
-              },
-              "type": "IMAGE"
-            },
-            "description": {
-              "string_value": "Gather four diners for Thursday dinner and enjoy two complimentary gentlemen buffet places.",
-              "type": "STRING"
-            },
-            "domain": {
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "thumbnail_image_large": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=jpg&name=600x600",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_original": {
-              "image_value": {
-                "height": 502,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=jpg&name=orig",
-                "width": 960
-              },
-              "type": "IMAGE"
-            },
-            "site": {
-              "scribe_key": "publisher_id",
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "photo_image_full_size_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_small": {
-              "image_value": {
-                "height": 75,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=jpg&name=144x144",
-                "width": 144
-              },
-              "type": "IMAGE"
-            },
-            "creator": {
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "thumbnail_image_x_large": {
-              "image_value": {
-                "height": 502,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=png&name=2048x2048_2_exp",
-                "width": 960
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_original": {
-              "image_value": {
-                "height": 502,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=jpg&name=orig",
-                "width": 960
-              },
-              "type": "IMAGE"
-            },
-            "vanity_url": {
-              "scribe_key": "vanity_url",
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "photo_image_full_size": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 35.54,
-                    "rgb": {
-                      "blue": 178,
-                      "green": 187,
-                      "red": 190
-                    }
-                  },
-                  {
-                    "percentage": 20.76,
-                    "rgb": {
-                      "blue": 50,
-                      "green": 45,
-                      "red": 48
-                    }
-                  },
-                  {
-                    "percentage": 17.89,
-                    "rgb": {
-                      "blue": 78,
-                      "green": 110,
-                      "red": 138
-                    }
-                  },
-                  {
-                    "percentage": 3.98,
-                    "rgb": {
-                      "blue": 127,
-                      "green": 158,
-                      "red": 196
-                    }
-                  },
-                  {
-                    "percentage": 2.26,
-                    "rgb": {
-                      "blue": 70,
-                      "green": 30,
-                      "red": 25
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "title": {
-              "string_value": "Seoul Garden S’pore Two Gentlemen Dine Free With Two Paying Adults Every Thursday this Sept 2026",
-              "type": "STRING"
-            },
-            "summary_photo_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 35.54,
-                    "rgb": {
-                      "blue": 178,
-                      "green": 187,
-                      "red": 190
-                    }
-                  },
-                  {
-                    "percentage": 20.76,
-                    "rgb": {
-                      "blue": 50,
-                      "green": 45,
-                      "red": 48
-                    }
-                  },
-                  {
-                    "percentage": 17.89,
-                    "rgb": {
-                      "blue": 78,
-                      "green": 110,
-                      "red": 138
-                    }
-                  },
-                  {
-                    "percentage": 3.98,
-                    "rgb": {
-                      "blue": 127,
-                      "green": 158,
-                      "red": 196
-                    }
-                  },
-                  {
-                    "percentage": 2.26,
-                    "rgb": {
-                      "blue": 70,
-                      "green": 30,
-                      "red": 25
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "summary_photo_image_x_large": {
-              "image_value": {
-                "height": 502,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=png&name=2048x2048_2_exp",
-                "width": 960
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 35.54,
-                    "rgb": {
-                      "blue": 178,
-                      "green": 187,
-                      "red": 190
-                    }
-                  },
-                  {
-                    "percentage": 20.76,
-                    "rgb": {
-                      "blue": 50,
-                      "green": 45,
-                      "red": 48
-                    }
-                  },
-                  {
-                    "percentage": 17.89,
-                    "rgb": {
-                      "blue": 78,
-                      "green": 110,
-                      "red": 138
-                    }
-                  },
-                  {
-                    "percentage": 3.98,
-                    "rgb": {
-                      "blue": 127,
-                      "green": 158,
-                      "red": 196
-                    }
-                  },
-                  {
-                    "percentage": 2.26,
-                    "rgb": {
-                      "blue": 70,
-                      "green": 30,
-                      "red": 25
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "photo_image_full_size_x_large": {
-              "image_value": {
-                "height": 502,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=png&name=2048x2048_2_exp",
-                "width": 960
-              },
-              "type": "IMAGE"
-            },
-            "card_url": {
-              "scribe_key": "card_url",
-              "string_value": "https://t.co/laFKCxtmjB",
-              "type": "STRING"
-            },
-            "summary_photo_image_original": {
-              "image_value": {
-                "height": 502,
-                "url": "https://pbs.twimg.com/card_img/2093047658571259904/48E1kOwq?format=jpg&name=orig",
-                "width": 960
-              },
-              "type": "IMAGE"
-            }
-          }
-        },
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
-      "id": "2092934077376774396",
-      "url": "https://x.com/singpromos/status/2092934077376774396",
-      "label": "SINGPromos",
-      "color": "#f59e0b",
-      "deal_type": "deal",
-      "country": "SG",
-      "fetched_at": "2026-08-28T00:01:06.492632+00:00",
-      "translation_zh": "7-Eleven Magnum雪糕等高达47%折扣，4天特惠至8月30日",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-08-27T11:15:43.000Z",
-        "display_text_range": [
-          0,
-          192
-        ],
-        "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                107,
-                117
-              ],
-              "text": "SINGAPORE"
-            },
-            {
-              "indices": [
-                118,
-                121
-              ],
-              "text": "SG"
-            },
-            {
-              "indices": [
-                122,
-                130
-              ],
-              "text": "SGpromo"
-            },
-            {
-              "indices": [
-                131,
-                138
-              ],
-              "text": "SGsale"
-            },
-            {
-              "indices": [
-                139,
-                149
-              ],
-              "text": "SGfoodies"
-            },
-            {
-              "indices": [
-                150,
-                157
-              ],
-              "text": "SGeats"
-            },
-            {
-              "indices": [
-                158,
-                169
-              ],
-              "text": "singpromos"
-            },
-            {
-              "indices": [
-                170,
-                180
-              ],
-              "text": "7elevensg"
-            },
-            {
-              "indices": [
-                181,
-                192
-              ],
-              "text": "icecreamsg"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "singpromos.com/dining-restaur…",
-              "expanded_url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-47-off-magnum-stickbar-more-4-day-specials-till-30-aug-2026-305822/",
-              "indices": [
-                83,
-                106
-              ],
-              "url": "https://t.co/xpc7pHgAB8"
-            }
-          ]
-        },
-        "id_str": "2092934077376774396",
-        "text": "7-Eleven S'pore 47% OFF Magnum Stickbar &amp; More 4-Day Specials Till 30 Aug 2026 https://t.co/xpc7pHgAB8 #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #7elevensg #icecreamsg",
-        "user": {
-          "id_str": "229470448",
-          "name": "SINGPromos",
-          "screen_name": "singpromos",
-          "is_blue_verified": false,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2092934077376774396"
-          ],
-          "editable_until_msecs": "1787832943000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "card": {
-          "card_platform": {
-            "platform": {
-              "audience": {
-                "name": "production"
-              },
-              "device": {
-                "name": "iPhone",
-                "version": "13"
-              }
-            }
-          },
-          "name": "summary_large_image",
-          "url": "https://t.co/xpc7pHgAB8",
-          "binding_values": {
-            "photo_image_full_size_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image": {
-              "image_value": {
-                "height": 146,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=jpg&name=280x150",
-                "width": 280
-              },
-              "type": "IMAGE"
-            },
-            "description": {
-              "string_value": "Magnum ice cream, Ferrero Rocher, noodles and more",
-              "type": "STRING"
-            },
-            "domain": {
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "thumbnail_image_large": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=jpg&name=600x600",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_original": {
-              "image_value": {
-                "height": 627,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "site": {
-              "scribe_key": "publisher_id",
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "photo_image_full_size_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_small": {
-              "image_value": {
-                "height": 75,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=jpg&name=144x144",
-                "width": 144
-              },
-              "type": "IMAGE"
-            },
-            "creator": {
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "thumbnail_image_x_large": {
-              "image_value": {
-                "height": 627,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_original": {
-              "image_value": {
-                "height": 627,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "vanity_url": {
-              "scribe_key": "vanity_url",
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "photo_image_full_size": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 70.85,
-                    "rgb": {
-                      "blue": 253,
-                      "green": 253,
-                      "red": 253
-                    }
-                  },
-                  {
-                    "percentage": 6.38,
-                    "rgb": {
-                      "blue": 32,
-                      "green": 61,
-                      "red": 133
-                    }
-                  },
-                  {
-                    "percentage": 4.62,
-                    "rgb": {
-                      "blue": 96,
-                      "green": 175,
-                      "red": 198
-                    }
-                  },
-                  {
-                    "percentage": 3.47,
-                    "rgb": {
-                      "blue": 48,
-                      "green": 91,
-                      "red": 56
-                    }
-                  },
-                  {
-                    "percentage": 2.52,
-                    "rgb": {
-                      "blue": 51,
-                      "green": 27,
-                      "red": 235
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "title": {
-              "string_value": "7-Eleven S’pore 47% OFF Magnum Stickbar & More 4-Day Specials Till 30 Aug 2026",
-              "type": "STRING"
-            },
-            "summary_photo_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 70.85,
-                    "rgb": {
-                      "blue": 253,
-                      "green": 253,
-                      "red": 253
-                    }
-                  },
-                  {
-                    "percentage": 6.38,
-                    "rgb": {
-                      "blue": 32,
-                      "green": 61,
-                      "red": 133
-                    }
-                  },
-                  {
-                    "percentage": 4.62,
-                    "rgb": {
-                      "blue": 96,
-                      "green": 175,
-                      "red": 198
-                    }
-                  },
-                  {
-                    "percentage": 3.47,
-                    "rgb": {
-                      "blue": 48,
-                      "green": 91,
-                      "red": 56
-                    }
-                  },
-                  {
-                    "percentage": 2.52,
-                    "rgb": {
-                      "blue": 51,
-                      "green": 27,
-                      "red": 235
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "summary_photo_image_x_large": {
-              "image_value": {
-                "height": 627,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 70.85,
-                    "rgb": {
-                      "blue": 253,
-                      "green": 253,
-                      "red": 253
-                    }
-                  },
-                  {
-                    "percentage": 6.38,
-                    "rgb": {
-                      "blue": 32,
-                      "green": 61,
-                      "red": 133
-                    }
-                  },
-                  {
-                    "percentage": 4.62,
-                    "rgb": {
-                      "blue": 96,
-                      "green": 175,
-                      "red": 198
-                    }
-                  },
-                  {
-                    "percentage": 3.47,
-                    "rgb": {
-                      "blue": 48,
-                      "green": 91,
-                      "red": 56
-                    }
-                  },
-                  {
-                    "percentage": 2.52,
-                    "rgb": {
-                      "blue": 51,
-                      "green": 27,
-                      "red": 235
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "photo_image_full_size_x_large": {
-              "image_value": {
-                "height": 627,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "card_url": {
-              "scribe_key": "card_url",
-              "string_value": "https://t.co/xpc7pHgAB8",
-              "type": "STRING"
-            },
-            "summary_photo_image_original": {
-              "image_value": {
-                "height": 627,
-                "url": "https://pbs.twimg.com/card_img/2092933905443917824/2SdnNJeU?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            }
-          }
-        },
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
       "id": "b2b62a298df6da31",
       "source_type": "rss",
       "source_name": "SINGPromos",
@@ -1150,60 +35,6 @@
       "fetched_at": "2026-08-28T10:30:12.890991+00:00",
       "translation_zh": "Sheng Siong 自家品牌大促销+冷冻食品优惠，直到8月31日",
       "excerpt_zh": "自家品牌杂货、冷冻美食和家用必需品最高省54%，售完即止。"
-    },
-    {
-      "id": "7c4633fd43e3facb",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/08/prime-supermarket-mid-autumn-promotion.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Prime Supermarket Mid-Autumn Promotion From 28 Aug - 25 Sep",
-      "excerpt": "MID-AUTUMN DEALS AT PRIME SUPERMARKET: MOONCAKES AND TREATS ON SALE Prime Supermarket is holding a Mid-Autumn Festival promotion from 28 August to 25 September 2026, featuring selected festive treats from Hong Kong MX. Shoppers can find mooncakes in traditional and assorted flavours, along with egg...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgw8emTIkfA8-R0br9tcxXBILpp63xxC-Ow9Ni_GrsFmsKVhteRBnYjfsufVkraOailagQr-_iz8t0KREYFcRA0Hg7GPy0bzJHU5a-o3xr7WeRLZKcvu6DSEY7UMIWDyd5AHWNV3V_1sKt8lwNxpNVIA5g4ZiC89yPYMof6LBHBX_xFAgRpgDZhXD9-Z5w/s640/all%20singapore%20deals%20prime%20supermarket%20mid-autumn%20festival%2028%20aug%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-28T04:12:51+00:00",
-      "fetched_at": "2026-08-28T10:30:13.405719+00:00",
-      "translation_zh": "Prime Supermarket 中秋促销 8月28日至9月25日",
-      "excerpt_zh": "Prime Supermarket 8月28日至9月25日推出中秋促销，月饼和应节美食特价中。"
-    },
-    {
-      "id": "69df77c41e4e3487",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/08/scarlett-supermarket-fruits-promotion.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Scarlett Supermarket Fruits Promotion From 28 Aug - 3 Sep",
-      "excerpt": "SAVE ON FRESH FRUITS THIS WEEK @ SCARLETT WEEKLY PROMOTION Scarlett Supermarket weekly fruits promotions are back from 28 August to 3 September 2026. Shoppers can find promotional prices and multi-buy deals on a range of fresh fruits, including grapes, berries, melons, pears, peaches, apples and...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibBn4lfTXWco9QF5En-KiWSG3N5Mo7XPSCnBd3Cc-GjHYnwfeWc1PS6nbvQrzl-7kjhIFumFhY0KapS43AArAYANIKuJ-4uRkyUK8BTC2K1oDuSrHAgFF9-udw8W68zKEz6wRRpIuseogHCx0wJttpO0imJjKKxDXxqCX20W4K8zV0maouOh_XKAAravv4/s640/all%20singapore%20deals%20scarlett%20uts%20fruits%20%20promotion%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-28T03:34:49+00:00",
-      "fetched_at": "2026-08-28T10:30:13.406362+00:00",
-      "translation_zh": "Scarlett Supermarket 水果周促销 8月28日至9月3日",
-      "excerpt_zh": "Scarlett Supermarket 每周水果促销回归，8月28日至9月3日新鲜水果省钱买。"
-    },
-    {
-      "id": "0acfbf66f73818cd",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/08/prime-supermarket-4-days-grocery-deals.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Prime Supermarket 4 Days Fresh & Grocery Deals From 28 - 31 Aug",
-      "excerpt": "4 DAYS ONLY, PRIME WOW DEALS FROM 28 - 31 AUGUST Prime Supermarket is running a 4 Days Only WOW Deals promotion, with offers valid till 31 August 2026, while stocks last. The promotion covers everyday groceries and household essentials, including fresh vegetables and fruits, meat, seafood, pantry...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCO4fcKRKpFVf6Qo5yE8h1IntFyhN3UMvRtFqwjyYoo1aBhTjSA6MgmqSeB_ZT_wCnd4vEvVdbk7vlJyTvcFNLlEQjm3R71Z5jpEAA2qJUKkLm8CbT4LV8NImpqpHpvg01YdJWluHVNc361PzVA_Jb-NholGvEOti8GDiLhuTmDkQmYfwZqc2zUmnYacb3/s640/all%20singapore%20deals%20prime%20supermarket%204%20days%20special%2028%20aug%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-28T00:03:00+00:00",
-      "fetched_at": "2026-08-28T10:30:13.406664+00:00",
-      "translation_zh": "Prime Supermarket 四天生鲜特惠 8月28日至31日",
-      "excerpt_zh": "仅限4天！Prime WOW特惠8月28日至31日，生鲜杂货折扣截止8月31日。"
     },
     {
       "id": "5699c174b594b564",
@@ -1278,114 +109,6 @@
       "excerpt_zh": "平价日常服饰哪里买？Giordano Causeway Point精选商品8月28日起低至3折。"
     },
     {
-      "id": "cc030142141c913d",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/14-20-september-2026-heytea-ion-orchard-free-oil-wax-bag-with-any-drink-purchase-opening-promotion/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "14-20 September 2026: HEYTEA ION Orchard: Free Oil Wax Bag With Any Drink Purchase: Opening Promotion",
-      "excerpt": "HEYTEA ION Orchard is celebrating its reopening with a series of limited-time promotions. From 14-20 September 2026, customers who purchase a drink in-store can receive a free oil wax bag, with only 100 bags available each day while stocks last. Continue reading 14-20 September 2026: HEYTEA ION...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/HEYTEA-ION-Orchard-Free-Oil-Wax-Bag-With-Any-Drink-Purchase.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-08-28T03:28:49+00:00",
-      "fetched_at": "2026-08-28T10:30:20.985715+00:00",
-      "translation_zh": "9月14-20日 HEYTEA ION Orchard 开业促销：买饮品送油蜡包",
-      "excerpt_zh": "HEYTEA ION Orchard重新开业，9月14-20日买任意饮品即送油蜡帆布包，限量送完为止。"
-    },
-    {
-      "id": "35c4677a9ee86208",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/28-august-30-september-2026-esso-singapore-esso-smiles-surprise-evoucher-promotion-with-up-to-8-off-fuel-purchases/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "28 August-30 September 2026: Esso Singapore: Esso Smiles Surprise eVoucher Promotion with Up to $8 Off Fuel Purchases",
-      "excerpt": "Esso Singapore is offering surprise eVouchers to eligible Esso Smiles Classic members from 28 August to 30 September 2026. Drivers may receive vouchers worth $4 off $60, $5 off $70 or up to $8 off $80 for Supreme+ members, while riders can enjoy $1 off $10 vouchers. Check the Esso app to see what...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Esso-Singapore-Esso-Smiles-Surprise-eVoucher-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-28T03:23:26+00:00",
-      "fetched_at": "2026-08-28T10:30:20.985843+00:00",
-      "translation_zh": "8月28日-9月30日 Esso Smiles 惊喜电子礼券，加油最多省S$8",
-      "excerpt_zh": "8月28日至9月30日，Esso Smiles Classic会员可获惊喜电子礼券，加油最多省S$8。"
-    },
-    {
-      "id": "8e2054e6e7de10d9",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/27-august-2-september-2026-xiaomi-singapore-redmi-note-17-series-pre-order-promotion-with-up-to-1266-in-free-gifts/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "27 August-2 September 2026: Xiaomi Singapore: REDMI Note 17 Series Pre-Order Promotion with Up to $1,266 in Free Gifts",
-      "excerpt": "Xiaomi Singapore's REDMI Note 17 Series pre-order promotion runs from 27 August to 2 September 2026, with free gifts worth up to $1,266. Find out which REDMI Note 17 model may suit your needs and why this limited-time launch deal is worth checking. Continue reading 27 August-2 September 2026:...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Xiaomi-Singapore-REDMI-Note-17-Series-Pre-Order-Promotion.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-08-28T03:20:40+00:00",
-      "fetched_at": "2026-08-28T10:30:20.985967+00:00",
-      "translation_zh": "8月27日-9月2日 小米 REDMI Note 17 系列预购，好礼价值高达S$1,266",
-      "excerpt_zh": "小米REDMI Note 17系列预购8月27日至9月2日进行中，免费好礼价值高达S$1,266。"
-    },
-    {
-      "id": "cc368e03c3cac949",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/24-30-august-2026-parisilk-samsung-oled-august-superdeals-at-national-day-roadshow-one-week-tv-promotion-at-woodleigh-mall/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "24-30 August 2026: Parisilk: Samsung OLED August SuperDeals at National Day Roadshow: One-Week TV Promotion at Woodleigh Mall",
-      "excerpt": "Looking for a new Samsung OLED TV? Parisilk is holding its Samsung OLED August SuperDeals at Woodleigh Mall from 24-30 August 2026, with exclusive August rates, limited-time roadshow deals and its price-match approach. Find out why this one-week promotion could be worth checking out before it ends....",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Parisilk-Samsung-OLED-August-SuperDeals.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-28T03:16:57+00:00",
-      "fetched_at": "2026-08-28T10:30:20.986088+00:00",
-      "translation_zh": "8月24-30日 Parisilk Samsung OLED 8月超级特卖（Woodleigh路演）",
-      "excerpt_zh": "想换Samsung OLED电视？Parisilk 8月24-30日在Woodleigh Mall举行8月超级特卖路演。"
-    },
-    {
-      "id": "9c8f3426cc9b40dc",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/28-august-30-september-2026-giant-singapore-spend-30-at-bedok-marketplace-and-get-3-return-voucher-promotion/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "28 August-30 September 2026: Giant Singapore: Spend $30 at Bedok Marketplace and Get $3 Return Voucher Promotion",
-      "excerpt": "Spend $30 in a single receipt at Giant Bedok Market Place from now till 30 September 2026 and receive a $3 return voucher for a future shopping trip. Find out the voucher redemption period and how shoppers can make the most of this Giant Singapore promotion. Continue reading 28 August-30 September...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/Giant-Singapore-Spend-30-at-Bedok-Marketplace.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-28T03:13:41+00:00",
-      "fetched_at": "2026-08-28T10:30:20.986210+00:00",
-      "translation_zh": "8月28日-9月30日 Giant Bedok Marketplace 消费满S$30送S$3回头礼券",
-      "excerpt_zh": "即日起至9月30日，在Giant Bedok Marketplace单张收据满S$30，即获S$3回头礼券。"
-    },
-    {
-      "id": "7e7a0338c3e49b18",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/3-7-september-2026-king-koil-singapore-annual-warehouse-sale-up-to-70-off-selected-items-sale/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "3-7 September 2026: King Koil Singapore: Annual Warehouse Sale Up to 70% OFF Selected Items: Sale",
-      "excerpt": "King Koil Singapore Annual Warehouse Sale returns from 3-7 September 2026 with up to 70% OFF selected items. Find the deals across four showrooms, from Sungei Kadut and Alexandra to Marina Square and Bendemeer. Continue reading 3-7 September 2026: King Koil Singapore: Annual Warehouse Sale Up to...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/King-Koil-Singapore-Annual-Warehouse-Sale-Up-to-70-OFF.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-28T03:10:05+00:00",
-      "fetched_at": "2026-08-28T10:30:20.986332+00:00",
-      "translation_zh": "9月3-7日 King Koil 年度仓库大甩卖，精选商品低至3折",
-      "excerpt_zh": "King Koil年度仓库大甩卖9月3-7日回归，四大展厅精选商品低至3折。"
-    },
-    {
       "id": "dcb4841995a1000c",
       "source_type": "rss",
       "source_name": "Eatbook",
@@ -1402,60 +125,6 @@
       "fetched_at": "2026-08-28T10:30:21.273796+00:00",
       "translation_zh": "韩国人气烘焙店Noci Bakehouse推出盐面包\"袋子\"，内有hotteok和咖椰黄油",
       "excerpt_zh": "Noci Bakehouse在Suntec City推出盐面包\"袋子\"新品，内藏hotteok韩式糖饼和咖椰黄油。"
-    },
-    {
-      "id": "de36c185ca020935",
-      "source_type": "rss",
-      "source_name": "Eatbook",
-      "source_url": "https://eatbook.sg/hock-prawn-mee/",
-      "source_color": "#ef4444",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
-      "source_lang": "en",
-      "title": "This 24/7 Stall In Jalan Besar Serves Old-School Prawn Mee",
-      "excerpt": "Hock Prawn Mee opens 24/7 in Jalan Besar Image credit: Wil ly via Google Maps Tucked away in a humble coffee shop in Jalan Besar is Hock Prawn Mee , serving up old-school prawn mee . This hawker stall accepts CDC Vouchers and opens for 24 hours daily—perfect if you’re looking for a late-night...",
-      "image": "https://eatbook.sg/wp-content/uploads/2026/08/hock-prawn-mee-coverpic-1.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-28T03:11:17+00:00",
-      "fetched_at": "2026-08-28T10:30:21.275850+00:00",
-      "translation_zh": "Jalan Besar这家24小时营业的老字号虾面档",
-      "excerpt_zh": "隐藏在Jalan Besar咖啡店里的Hock Prawn Mee，24小时营业的老字号虾面。"
-    },
-    {
-      "id": "4849530a58838304",
-      "source_type": "rss",
-      "source_name": "Eatbook",
-      "source_url": "https://eatbook.sg/business-lunch-sets-cbd/",
-      "source_color": "#ef4444",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
-      "source_lang": "en",
-      "title": "11 Affordable Lunch Sets In The CBD From $18++ Per Person",
-      "excerpt": "Affordable business lunch deals in the CBD Say goodbye to the days of fretting over your company’s lunch expenses when entertaining clients or colleagues, because we’ve got you covered with these restaurants offering affordable business lunch deals in the CBD . The next time you plan a power lunch,...",
-      "image": "https://eatbook.sg/wp-content/uploads/2026/04/6-PICS-1.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-28T02:00:47+00:00",
-      "fetched_at": "2026-08-28T10:30:21.281644+00:00",
-      "translation_zh": "CBD 11家高性价比午餐套餐，每人低至S$18++",
-      "excerpt_zh": "CBD商务午餐不再心疼钱包，11家高性价比午餐套餐，每人低至S$18++。"
-    },
-    {
-      "id": "517cc43de2246b8a",
-      "source_type": "rss",
-      "source_name": "SG榴莲",
-      "source_url": "https://sgliulian.com/promotion-deals/dbs-paylah-cashback-back-saturdays-august-december-2026/",
-      "source_color": "#84cc16",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=sgliulian.com&sz=64",
-      "source_lang": "zh",
-      "title": "周六出门薅羊毛！星展银行PayLah!3元现金回扣正式回归！直到12月中旬！",
-      "excerpt": "打工人和家庭主妇们注意了 通货膨胀、物价飞涨的日子里 能省下一份冰饮钱都是幸福的！ 星展银行（DBS）和邮政储蓄银行（POSB）再次发力 从8月29日至12月19日 推出长达17周的周六3元现金回扣活动！ 时间比去年延长了整整一个月 总回馈预算更直接拉满到 270 万元（暴增40%） 怎么领？怎么花最划算？ 这份吃喝攻略请收好！ 第一弹：周六去小贩中心/邻里小店，PayLah! 扫码免费“加料” 从本周六（8月29日）开始一直到12月中旬 每个星期六出门吃早餐、买菜、逛邻里商店时 千万别直接掏现金！ 首16万名消费者 在参与活动的小贩摊位、咖啡店、湿巴刹或邻里商店 使用 DBS...",
-      "image": "https://cdn2.sgliulian.com/wp-content/uploads/2026/08/DBSPayLah-1024x682-1.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-08-28T01:45:01+00:00",
-      "fetched_at": "2026-08-28T10:30:22.788497+00:00",
-      "translation_zh": "周六出门薅羊毛！DBS PayLah! S$3现金回扣回归，直到12月19日",
-      "excerpt_zh": "DBS和POSB从8月29日至12月19日推出长达17周的周六S$3现金回扣，总预算高达270万元，比去年暴增40%。"
     },
     {
       "id": "2093236221996859728",
@@ -16318,6 +14987,2168 @@
                 "height": 528,
                 "url": "https://pbs.twimg.com/card_img/2096591440893943808/tOtRpzdk?format=jpg&name=orig",
                 "width": 1014
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "b0e9fb82a32a3dae",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-dragon-ball-super-king-jr-meal-toys-from-7-sep-2026-306272/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Burger King S’pore Dragon Ball Super King Jr. Meal Toys from 7 Sep 2026",
+      "excerpt": "Six Dragon Ball Super collectibles to collect [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/09/Burger-King-feat-singpromos.com-7-Sep-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-07T10:19:24+00:00",
+      "fetched_at": "2026-09-07T10:30:40.111182+00:00",
+      "translation_zh": "Burger King《龙珠超》King Jr套餐玩具 9月7日起开收",
+      "excerpt_zh": "随King Jr儿童餐收集六款《龙珠超》限定收藏品。"
+    },
+    {
+      "id": "e151f0730c6d486e",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-2pc-chicken-meal-monday-app-deal-on-7-sep-2026-306238/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "KFC S’pore $6.50 2pc Chicken Meal Monday App Deal on 7 Sep 2026",
+      "excerpt": "2pc chicken, two sides and Coke Zero Sugar for just $6.50 [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/08/KFC-feat-2-singpromos.com-3-Aug-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-07T08:46:26+00:00",
+      "fetched_at": "2026-09-07T10:30:40.111501+00:00",
+      "translation_zh": "KFC App周一特惠：$6.50两块炸鸡套餐（9月7日）",
+      "excerpt_zh": "2块炸鸡、两份配菜加Coke Zero Sugar，只需$6.50。"
+    },
+    {
+      "id": "57a4e449bb3ee2b6",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/airlines-flights/dbs-posb-cardholders-get-s50-off-sia-return-flights-from-8-14-sep-2026-306224/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "DBS/POSB Cardholders Get S$50 Off SIA Return Flights from 8-14 Sep 2026",
+      "excerpt": "Save S$50 per eligible adult on qualifying SIA return fares [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/01/Singapore-Airlines-feat-singpromos.com-13-Jan-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-07T08:35:05+00:00",
+      "fetched_at": "2026-09-07T10:30:40.111764+00:00",
+      "translation_zh": "DBS/POSB卡友专享：新航往返机票立减S$50（9月8-14日）",
+      "excerpt_zh": "符合条件的新航往返成人机票，每张立省S$50。"
+    },
+    {
+      "id": "84e296415f1d80f7",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/pizza-hut-sg-all-you-can-eat-buffet-returns-with-unlimited-pizzas-and-more-locations-this-sept-2026-306260/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Pizza Hut SG All-You-Can-Eat Buffet Returns with Unlimited Pizzas and More Locations this Sept 2026",
+      "excerpt": "Feast on unlimited pizzas, pastas, sides, soft drinks and ice cream across six outlets [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/09/Pizza-Hut-feat-singpromos.com-7-Sep-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-07T07:33:05+00:00",
+      "fetched_at": "2026-09-07T10:30:40.112010+00:00",
+      "translation_zh": "Pizza Hut自助餐回归：无限量披萨 9月分店更多",
+      "excerpt_zh": "六家门店无限量享用披萨、意面、小食、饮料和冰淇淋。"
+    },
+    {
+      "id": "fb7a2d040612a219",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-25-off-storewide-voucher-till-13-sep-2026-306252/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Starbucks S’pore 25% Off Storewide Voucher till 13 Sep 2026",
+      "excerpt": "Get just two items in one transaction to enjoy the discount [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/09/Starbucks-feat-singpromos.com-7-Sep-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-07T06:41:16+00:00",
+      "fetched_at": "2026-09-07T10:30:40.112260+00:00",
+      "translation_zh": "Starbucks全店75折优惠券 至9月13日",
+      "excerpt_zh": "单笔交易购买两件商品，即可享25%折扣。"
+    },
+    {
+      "id": "3498ff06d581e01f",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/web-hosting/hostinger-ai-builder-idea-to-live-website-in-minutes-start-free-306086/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Hostinger AI Builder: idea to live website in minutes, start free",
+      "excerpt": "No coding, no design skills, no separate providers. AI handles the build from front page to backend. [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/09/Hostinger-feat-singpromos.com-3-Sep-2026.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-09-07T05:03:30+00:00",
+      "fetched_at": "2026-09-07T10:30:40.112500+00:00",
+      "translation_zh": "Hostinger AI Builder：从点子到网站上线只需几分钟 免费开始",
+      "excerpt_zh": "无需编程、无需设计技能，AI从首页到后端全程搞定。"
+    },
+    {
+      "id": "b0be254f3d8095da",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/09/pizza-hut-90-minute-all-you-can-eat.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Pizza Hut 90-minute All-You-Can-Eat Buffet Returns From 10 - 27 Sep",
+      "excerpt": "Pizza Hut Singapore’s popular Dine-In Buffet makes its highly anticipated return from 10 to 27 September 2026. Following sell-out success in January this year, Pizza Hut is bringing this buffet to 6 different Pizza Hut outlets islandwide (3 Dine-In Stores and 3 Eat-In Stores). For 90 delicious...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTJwnE0G4t8zTggAdlrkQq5SwjbXEubIJOol7rvSAxkKuhXhQBtvuwb0Y5RJI-9DKOt_jMtS6S8-a-Rfp1ib7bUkhBXzH1zqN97SAYusiJTidM0tKlXw_2Q77EAjsBOdQv-df3pFX4wwO_ztDZ7LawSjPz2EgL845GFxwJ_hmzKcBVQJzs8swPoweqe6UV/s640/all%20singapore%20deals%20pizza%20hut%20buffet%2010%20sep%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-07T06:19:15+00:00",
+      "fetched_at": "2026-09-07T10:30:40.664602+00:00",
+      "translation_zh": "Pizza Hut 90分钟自助餐回归 9月10-27日",
+      "excerpt_zh": "Pizza Hut大受欢迎的堂食自助餐9月10日至27日回归，1月场场爆满后再度开吃。"
+    },
+    {
+      "id": "0626c3311b92a299",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/09/7-eleven-app-exclusive-easycollect-4.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "7-Eleven App Exclusive EasyCollect $4 OFF Min $20 Spend From 7 - 9 Sep",
+      "excerpt": "From 7 to 9 September 2026, 7-Eleven customers who use the EasyCollect on the app can redeem $4 off on minimum spend of $20. This offer is valid with the application of promo code 4OFF20 . Refer to the app for full terms & conditions.",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXP3HgsZcOveols8rSkHBb4G8nEsJjxH6uFoqyXN1PmgEl-7nGr5phmIfPKpcDfkj5KjrtpDogOvLbuER97KUwAOi54oi8H5AKvBsZ2pAVh19Msqh6-8eAaYS7-OReVf6-H22PFPHPpLsseJ-z4O9rdgjAo6tv_RAMr91V5HqQHo7nUxFMLXRSrVm0kdrc/s640/all%20singapore%20deals%207-11%20easy%20collect%20$4%20off%20$20%207%20aug%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-07T06:02:55+00:00",
+      "fetched_at": "2026-09-07T10:30:40.664876+00:00",
+      "translation_zh": "7-Eleven App专属EasyCollect优惠：满$20减$4（9月7-9日）",
+      "excerpt_zh": "9月7日至9日，通过7-Eleven App使用EasyCollect自取，满$20立减$4。"
+    },
+    {
+      "id": "7005e6c6120e339c",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/09/tripcom-99-mega-sale-book-smart-with.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Trip.com 9.9 Mega Sale: Book Smart With Amazing Deals From 9 - 12 Sep",
+      "excerpt": "TRIP 9.9 MEGA SALE IS BACK WITH MORE AMAZING DEALS FROM 9 TO 12 SEPTEMBER Trip.com's 9.9 Mega Sale offers limited-time deals across flights, hotels, attractions, tours and travel essentials starting on 9 September till 12 September 2026. From daily coupon drops providing up to S$199 OFF travel...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlzpAk0YT8jMgw4Gik_z0Efn_GCW8h9tmYmi_5kzcoJ_e_7ptt5CBwVP9eGjsJmALEPI_7MxOUXH9jxaCs3mLzO9edzG3oISgvP4oI4S_N6bMUF04VU6Z70DMYz5obboSqEPX2smafL7T8x9Dn59qDVbt7EkslEqzAyjZqPSDji6NTwecR6jZjqHkV05X0/s640/all%20singapore%20deals%20trip%209_9%20mega%20sale%209%20sep%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-07T03:38:28+00:00",
+      "fetched_at": "2026-09-07T10:30:40.665683+00:00",
+      "translation_zh": "Trip.com 9.9大促：机票酒店超值好价（9月9-12日）",
+      "excerpt_zh": "Trip.com 9.9大促限时开跑，机票、酒店、景点一站搞定超值好价。"
+    },
+    {
+      "id": "b4049c071bbaa7b4",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/09/ikeas-kids-eat-free-promotion-returns.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "IKEA's \"Kids Eat Free\" Promotion Returns From 7 - 11 Sep",
+      "excerpt": "IKEA’s popular Kids Eat Free promotion returns from 7 to 11 September, giving families additional value when dining at IKEA restaurants across the island during the week-long school holiday. For a limited time during this weekday promotion, children, aged below 12 years old, can enjoy a...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4mTDxgn0MbHoXhD-KpacHvkZsMqyb5-vj8SEpvEbY8g7V_RL6EjC8sL1rv-7lv5GP2bBx3I_J6KlhDTIC17H5KeoB2yo5CNLJklBfglvXJXe2s1raYV8Beap4vfXSs82eKGvd-0VPtPanNdQjXi8CPkNwAqTb2rBcCjLotC_dPK5y9ne4jUIE4gORKaXy/s640/all%20singapore%20deals%20ikea%20kids%20eat%20free%20promo%207%20sep%20a.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-09-07T00:01:54+00:00",
+      "fetched_at": "2026-09-07T10:30:40.665994+00:00",
+      "translation_zh": "IKEA\"儿童免费吃\"回归 9月7-11日",
+      "excerpt_zh": "IKEA人气\"儿童免费吃\"活动9月7日至11日回归，全家用餐更划算。"
+    },
+    {
+      "id": "777d861eed177493",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-to-29-september-2026-tim-hortons-singapore-matcha-cloud-series-and-signature-bakes-promotion/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now to 29 September 2026: Tim Hortons Singapore: Matcha Cloud Series and Signature Bakes Promotion",
+      "excerpt": "Tim Hortons Singapore has introduced its new Matcha Cloud Series featuring Japanese matcha from Matchaya, alongside Yuzu Matcha Cheesecake and Matcha Lava Cake. Available at all Tim Hortons Singapore outlets until 29 September 2026, this limited-time collection offers four matcha drinks and two...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Tim-Hortons-Singapore-Matcha-Cloud-Series-and-Signature-Bakes.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-07T10:15:56+00:00",
+      "fetched_at": "2026-09-07T10:30:47.869223+00:00",
+      "translation_zh": "Tim Hortons抹茶云朵系列与招牌烘焙促销 至9月29日",
+      "excerpt_zh": "Tim Hortons推出Matcha Cloud系列，采用Matchaya日本抹茶，还有Yuzu抹茶芝士蛋糕等新品。"
+    },
+    {
+      "id": "87f5f759d509f8e9",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/7-september-2026-onwards-metro-singapore-beauty-promotion-with-up-to-15-off-30-off-300-spend-and-60-off-500-spend/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "7 September 2026 onwards: METRO Singapore: Beauty Promotion with Up to 15% Off, $30 Off $300 Spend and $60 Off $500 Spend",
+      "excerpt": "Looking for a beauty bargain in Singapore? From 7 September 2026 onwards, METRO features Lancôme, YSL Beauty, Shu Uemura, SkinCeuticals and Giorgio Armani with up to 15% off regular-priced items, plus $30 off $300 nett spend or $60 off $500 nett spend, along with selected value sets and...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/METRO-Singapore-Beauty-Promotion-with-Up-to-15-Off-1.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-07T10:14:05+00:00",
+      "fetched_at": "2026-09-07T10:30:47.869379+00:00",
+      "translation_zh": "METRO美妆促销：最高85折 满$300减$30、满$500减$60（9月7日起）",
+      "excerpt_zh": "Lancôme、YSL Beauty、Shu Uemura、SkinCeuticals等大牌齐参与。"
+    },
+    {
+      "id": "cf5dbe0c1125d679",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/7-20-september-2026-sushi-express-singapore-buy-5-bento-and-get-1-free-bento-promotion-cashless-payment-only/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "7-20 September 2026: Sushi Express Singapore: Buy 5 Bento and Get 1 FREE Bento Promotion, Cashless Payment Only",
+      "excerpt": "Sushi Express Singapore is offering a limited-time bento promotion from 7-20 September 2026. Buy 5 bento sets and get the lowest-priced bento FREE, with cashless payment required. Perfect for group lunches, family meals and dining with friends. Continue reading 7-20 September 2026: Sushi Express...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Sushi-Express-Singapore-Buy-5-Bento-and-Get-1-FREE-Bento-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-09-07T10:10:15+00:00",
+      "fetched_at": "2026-09-07T10:30:47.869511+00:00",
+      "translation_zh": "Sushi Express买5份便当送1份 无现金支付专享（9月7-20日）",
+      "excerpt_zh": "9月7日至20日限时优惠：买5份便当，最低价那份免费，需无现金支付。"
+    },
+    {
+      "id": "e66eb0f5e70ac927",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/7-11-september-2026-ikea-singapore-free-kids-meal-promotion-with-every-adult-main-course-at-swedish-restaurant/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "7-11 September 2026: IKEA Singapore: Free Kids’ Meal Promotion With Every Adult Main Course at Swedish Restaurant",
+      "excerpt": "Families can enjoy better value at IKEA Singapore from 7-11 September 2026, with IKEA Family members able to redeem one free children's meal with every qualifying adult main course purchased at the Swedish Restaurant. Four children's meal choices are available, with Kivik juice and ice cream...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/IKEA-Singapore-Free-Kids-Meal-Promotion-With-Every-Adult.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-09-07T10:08:16+00:00",
+      "fetched_at": "2026-09-07T10:30:47.869657+00:00",
+      "translation_zh": "IKEA瑞典餐厅：点成人主菜免费送儿童餐（9月7-11日）",
+      "excerpt_zh": "IKEA Family会员点任意成人主菜，即可兑换一份免费儿童餐。"
+    },
+    {
+      "id": "88bc8551f5f7cef7",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/7-13-september-2026-mcdonalds-singapore-free-mini-cone-school-holiday-promotion-for-kids/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "7-13 September 2026: McDonald’s Singapore: Free Mini Cone School Holiday Promotion for Kids",
+      "excerpt": "Looking for an affordable school holiday treat for the kids? McDonald’s Singapore is offering a free Mini Cone for kids until 13 September 2026 at all McDonald’s restaurants in Singapore. Find out how families can enjoy this simple sweet deal during the September school holidays. Continue reading...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/McDonalds-Singapore-Free-Mini-Cone-School-Holiday-Promotion-for-Kids.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-09-07T10:05:28+00:00",
+      "fetched_at": "2026-09-07T10:30:47.869801+00:00",
+      "translation_zh": "McDonald's学校假期好康：儿童免费迷你甜筒（至9月13日）",
+      "excerpt_zh": "9月13日前，全岛McDonald’s为小朋友送出免费迷你甜筒。"
+    },
+    {
+      "id": "2045d5d9e0753de7",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/7-september-7-october-2026-curry-times-8-90-roasted-super-drum-chicken-rice-bento-promotion-at-woodlands-mrt/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "7 September-7 October 2026: Curry Times: $8.90 Roasted Super Drum Chicken Rice Bento Promotion at Woodlands MRT",
+      "excerpt": "Enjoy a hearty Roasted Super Drum Chicken Rice Bento from Curry Times for just $8.90 from 7 September to 7 October 2026 at Woodlands MRT Station. The bento comes with roasted chicken, fragrant chicken rice, mini spring rolls and in-house garlic chilli and ginger sauces. Continue reading 7...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Curry-Times-8.90-Roasted-Super-Drum-Chicken-Rice-Bento-Promotio.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-07T10:02:00+00:00",
+      "fetched_at": "2026-09-07T10:30:47.869948+00:00",
+      "translation_zh": "Curry Times：$8.90烤大鸡腿饭便当 Woodlands MRT（至10月7日）",
+      "excerpt_zh": "9月7日至10月7日，Curry Times份量十足的烤大鸡腿饭便当仅售$8.90。"
+    },
+    {
+      "id": "7a4a02aa184f6944",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/7-13-september-2026-fujifilm-and-quicksnap-free-merch-claw-machine-games-and-photobooth-at-little-big-views-exhibition/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "7-13 September 2026: FUJIFILM and QuickSnap: Free Merch, Claw Machine Games and Photobooth at Little Big Views Exhibition",
+      "excerpt": "Head to One Punggol from 7-13 September 2026 for the Little Big Views Exhibition celebrating 40 years of QuickSnap. Enjoy a free photobooth, sign up for the FUJIFILM newsletter to receive two claw machine tokens and stand a chance to win QuickSnap cameras, pins, charms and more. Continue reading...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/FUJIFILM-and-QuickSnap-Free-Merch-Claw-Machine-Games.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-09-07T09:58:37+00:00",
+      "fetched_at": "2026-09-07T10:30:47.870080+00:00",
+      "translation_zh": "FUJIFILM QuickSnap 40周年展：免费周边、夹娃娃机与拍贴（9月7-13日）",
+      "excerpt_zh": "9月7日至13日到One Punggol看展，享免费拍贴、免费周边等好康。"
+    },
+    {
+      "id": "3c6d68604b3df8a9",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/7-september-2026-onwards-burger-king-singapore-promotion-collect-dragon-ball-super-character-figures-with-king-jr-meals/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "7 September 2026 onwards: Burger King Singapore Promotion: Collect Dragon Ball Super Character Figures with King Jr® Meals",
+      "excerpt": "Burger King Singapore is bringing Dragon Ball Super to its King Jr® Meal promotion from 7 September 2026 onwards. Fans can collect limited-edition figures featuring Goku, Super Saiyan Goku, Vegeta, Super Saiyan Vegeta, Piccolo and Beerus, while stocks last. Continue reading 7 September 2026...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Burger-King-Singapore-Promotion-Collect-Dragon-Ball-Super.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-07T09:56:02+00:00",
+      "fetched_at": "2026-09-07T10:30:47.870206+00:00",
+      "translation_zh": "Burger King《龙珠超》角色公仔：King Jr套餐附赠（9月7日起）",
+      "excerpt_zh": "9月7日起，King Jr儿童餐附赠限量《龙珠超》角色公仔，粉丝别错过。"
+    },
+    {
+      "id": "138a2f2c7c757b17",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/3-september-2026-hokkaido-baked-cheese-tart-10th-anniversary-1-for-1-promotion-at-bugis-junction-and-changi-airport-terminal-3/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "3 September 2026: Hokkaido Baked Cheese Tart 10th Anniversary 1-for-1 Promotion at Bugis Junction and Changi Airport Terminal 3",
+      "excerpt": "Hokkaido Baked Cheese Tart celebrates its 10th anniversary with a special 1-for-1 promotion on Original Cheese Tarts. On 3 September 2026 from 12pm onwards, customers can buy one and get another free at Bugis Junction and Changi Airport Terminal 3, while stocks last. Continue reading 3 September...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Hokkaido-Baked-Cheese-Tart-10th-Anniversary-1-for-1-Promotion.jpg",
+      "deal_type": "1fl",
+      "country": "SG",
+      "published_at": "2026-09-07T09:54:02+00:00",
+      "fetched_at": "2026-09-07T10:30:47.870341+00:00",
+      "translation_zh": "Hokkaido Baked Cheese Tart十周年：原味芝士挞买一送一",
+      "excerpt_zh": "庆祝十周年，Original Cheese Tart限定买一送一，Bugis Junction与樟宜机场店。"
+    },
+    {
+      "id": "8a2004d54ceef8e2",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/7-13-september-2026-zespri-free-kiwifruit-kiwibrother-plushies-more-at-lau-pa-sat-promotion/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "7-13 September 2026: Zespri: Free Kiwifruit, KiwiBrother Plushies & More at Lau Pa Sat Promotion",
+      "excerpt": "Head to Lau Pa Sat from 7-13 September 2026 for the Zespri pop-up promotion. Scan the QR code to redeem a FREE two-piece pack of Zespri Kiwifruit, enjoy weekday free samples and spin the sure-win wheel for a chance to win KiwiBrother merchandise, plushies and more. Continue reading 7-13 September...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Zespri-Free-Kiwifruit-KiwiBrother-Plushies-More.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-09-07T09:52:43+00:00",
+      "fetched_at": "2026-09-07T10:30:47.870483+00:00",
+      "translation_zh": "Zespri Lau Pa Sat快闪：免费奇异果、Kiwibrother玩偶等好康（9月7-13日）",
+      "excerpt_zh": "到Lau Pa Sat扫码即免费兑换两粒装Zespri奇异果，还有更多惊喜。"
+    },
+    {
+      "id": "725169ca4ff25b54",
+      "source_type": "rss",
+      "source_name": "Eatbook",
+      "source_url": "https://eatbook.sg/sansok-restaurant/",
+      "source_color": "#ef4444",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
+      "source_lang": "en",
+      "title": "Culinary Class Wars Chef Opens Korean Restaurant With Mains From $12.90++ And Free-Flow Banchan",
+      "excerpt": "Sansok is serving traditional Korean meals in Hougang Image credit: Sansok Here’s some good news for Korean food fanatics : Culinary Class Wars Season 1 contestant and celebrity chef Min Yohan has just opened Sansok in Hougang Mall , after the viral success of sister restaurant Bibim Deli . The new...",
+      "image": "https://eatbook.sg/wp-content/uploads/2026/09/sansok-coverpic.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-09-07T07:21:47+00:00",
+      "fetched_at": "2026-09-07T10:30:48.245446+00:00",
+      "translation_zh": "《黑白大厨》主厨开韩餐馆：主菜$12.90++起、小菜免费续",
+      "excerpt_zh": "Sansok在后港供应传统韩餐，主菜$12.90++起，banchan小菜无限续。"
+    },
+    {
+      "id": "2437efc02b2e8da1",
+      "source_type": "rss",
+      "source_name": "Eatbook",
+      "source_url": "https://eatbook.sg/pizza-hut-buffet/",
+      "source_color": "#ef4444",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
+      "source_lang": "en",
+      "title": "Pizza Hut’s $19.95++ Dine-In Buffet Returns For A Limited Time",
+      "excerpt": "Pizza Hut’s $19.95++ buffet is back Pizza Hut Singapore ’s latest promotion is a dream come true for pizza fans . Their dine-in buffet is back from 10 September to 27 September 2026 , this time with more variety and value! Available at six selected outlets, The Great Pizza Carnival now includes...",
+      "image": "https://eatbook.sg/wp-content/uploads/2025/10/pizza-hut-buffet-cover.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-07T06:00:11+00:00",
+      "fetched_at": "2026-09-07T10:30:48.246374+00:00",
+      "translation_zh": "Pizza Hut $19.95++堂食自助餐限时回归",
+      "excerpt_zh": "披萨迷的梦回合：Pizza Hut自助餐9月10日起限时回归。"
+    },
+    {
+      "id": "f7d1445d7cc383c5",
+      "source_type": "rss",
+      "source_name": "SG榴莲",
+      "source_url": "https://sgliulian.com/new-product/starbucks-jay-chou-collection-singapore-2026/",
+      "source_color": "#84cc16",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=sgliulian.com&sz=64",
+      "source_lang": "zh",
+      "title": "抢先看！周杰伦 x Starbucks联名商品即将开卖，杰迷必入周边公开！",
+      "excerpt": "各位“杰迷”们的钱包要破洞啦！ 周杰伦与Starbucks的主题联名 即将于9月9日正式在新加坡贩售！ 这一回，周董音乐的温情浪漫与星巴克的咖啡香完美交融 推出了几款极具收藏价值的联名周边 让你的每一次 Coffee Run 都充满音乐仪式感！ 抢先直击！联名爆款周边细节 《稻香》经典歌词哑光黑随行杯 低调高级的哑光黑色杯身 正面刻着那句抚慰过无数人的经典歌词：“让自己快乐快乐，这才叫做意义” 下方印有「稻香 / Jay 周杰伦」字样 最吸睛的是杯侧挂着一条黑色编绳挂饰 搭配立体 JAY 字母和 Starbucks 经典美人鱼圆牌 细节满满，质感拉满！ 白色粉字歌词随行杯...",
+      "image": "https://cdn3.sgliulian.com/wp-content/uploads/2026/09/IMG_20260907093304201.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-07T01:34:45+00:00",
+      "fetched_at": "2026-09-07T10:30:49.418427+00:00",
+      "translation_zh": "周杰伦 x Starbucks联名周边9月9日开卖，杰迷必入！",
+      "excerpt_zh": "周董音乐的温情浪漫遇上星巴克咖啡香，多款联名收藏周边即将贩售。"
+    },
+    {
+      "id": "2096884620684124545",
+      "url": "https://x.com/singpromos/status/2096884620684124545",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-09-07T10:30:50.679414+00:00",
+      "translation_zh": "KFC App周一特惠：$6.50两块炸鸡套餐（9月7日）",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-09-07T08:53:46.000Z",
+        "display_text_range": [
+          0,
+          175
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                88,
+                98
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                99,
+                102
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                103,
+                111
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                112,
+                119
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                120,
+                130
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                131,
+                138
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                139,
+                150
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                151,
+                159
+              ],
+              "text": "SGhalal"
+            },
+            {
+              "indices": [
+                160,
+                168
+              ],
+              "text": "halalSG"
+            },
+            {
+              "indices": [
+                169,
+                175
+              ],
+              "text": "kfcsg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-2pc-chicken-meal-monday-app-deal-on-7-sep-2026-306238/",
+              "indices": [
+                64,
+                87
+              ],
+              "url": "https://t.co/1pa50IZ7Zc"
+            }
+          ]
+        },
+        "id_str": "2096884620684124545",
+        "text": "KFC S'pore $6.50 2pc Chicken Meal Monday App Deal on 7 Sep 2026 https://t.co/1pa50IZ7Zc #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #SGhalal #halalSG #kfcsg",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2096884620684124545"
+          ],
+          "editable_until_msecs": "1788774826000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/1pa50IZ7Zc",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 146,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "2pc chicken, two sides and Coke Zero Sugar for just $6.50",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 544,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=jpg&name=orig",
+                "width": 1041
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 544,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=png&name=2048x2048_2_exp",
+                "width": 1041
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 544,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=jpg&name=orig",
+                "width": 1041
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 29.94,
+                    "rgb": {
+                      "blue": 215,
+                      "green": 206,
+                      "red": 208
+                    }
+                  },
+                  {
+                    "percentage": 17.54,
+                    "rgb": {
+                      "blue": 126,
+                      "green": 133,
+                      "red": 193
+                    }
+                  },
+                  {
+                    "percentage": 13.39,
+                    "rgb": {
+                      "blue": 33,
+                      "green": 18,
+                      "red": 152
+                    }
+                  },
+                  {
+                    "percentage": 6.68,
+                    "rgb": {
+                      "blue": 112,
+                      "green": 102,
+                      "red": 217
+                    }
+                  },
+                  {
+                    "percentage": 6.55,
+                    "rgb": {
+                      "blue": 137,
+                      "green": 166,
+                      "red": 190
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "KFC S’pore $6.50 2pc Chicken Meal Monday App Deal on 7 Sep 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 29.94,
+                    "rgb": {
+                      "blue": 215,
+                      "green": 206,
+                      "red": 208
+                    }
+                  },
+                  {
+                    "percentage": 17.54,
+                    "rgb": {
+                      "blue": 126,
+                      "green": 133,
+                      "red": 193
+                    }
+                  },
+                  {
+                    "percentage": 13.39,
+                    "rgb": {
+                      "blue": 33,
+                      "green": 18,
+                      "red": 152
+                    }
+                  },
+                  {
+                    "percentage": 6.68,
+                    "rgb": {
+                      "blue": 112,
+                      "green": 102,
+                      "red": 217
+                    }
+                  },
+                  {
+                    "percentage": 6.55,
+                    "rgb": {
+                      "blue": 137,
+                      "green": 166,
+                      "red": 190
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 544,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=png&name=2048x2048_2_exp",
+                "width": 1041
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 29.94,
+                    "rgb": {
+                      "blue": 215,
+                      "green": 206,
+                      "red": 208
+                    }
+                  },
+                  {
+                    "percentage": 17.54,
+                    "rgb": {
+                      "blue": 126,
+                      "green": 133,
+                      "red": 193
+                    }
+                  },
+                  {
+                    "percentage": 13.39,
+                    "rgb": {
+                      "blue": 33,
+                      "green": 18,
+                      "red": 152
+                    }
+                  },
+                  {
+                    "percentage": 6.68,
+                    "rgb": {
+                      "blue": 112,
+                      "green": 102,
+                      "red": 217
+                    }
+                  },
+                  {
+                    "percentage": 6.55,
+                    "rgb": {
+                      "blue": 137,
+                      "green": 166,
+                      "red": 190
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 544,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=png&name=2048x2048_2_exp",
+                "width": 1041
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/1pa50IZ7Zc",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 544,
+                "url": "https://pbs.twimg.com/card_img/2094450062021816320/upZcFlZn?format=jpg&name=orig",
+                "width": 1041
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2096882584869548542",
+      "url": "https://x.com/singpromos/status/2096882584869548542",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-09-07T10:30:50.685226+00:00",
+      "translation_zh": "DBS/POSB卡友新航往返机票立减S$50（9月8-14日）",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-09-07T08:45:41.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                96,
+                106
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                107,
+                110
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                111,
+                119
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                120,
+                127
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                128,
+                139
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                140,
+                153
+              ],
+              "text": "singaporeair"
+            },
+            {
+              "indices": [
+                154,
+                158
+              ],
+              "text": "dbs"
+            },
+            {
+              "indices": [
+                159,
+                164
+              ],
+              "text": "posb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/airlines-fligh…",
+              "expanded_url": "https://singpromos.com/airlines-flights/dbs-posb-cardholders-get-s50-off-sia-return-flights-from-8-14-sep-2026-306224/",
+              "indices": [
+                72,
+                95
+              ],
+              "url": "https://t.co/0cawlGMOLj"
+            }
+          ]
+        },
+        "id_str": "2096882584869548542",
+        "text": "DBS/POSB Cardholders Get S$50 Off SIA Return Flights from 8-14 Sep 2026 https://t.co/0cawlGMOLj #SINGAPORE #SG #SGpromo #SGsale #singpromos #singaporeair #dbs #posb",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2096882584869548542"
+          ],
+          "editable_until_msecs": "1788774341000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/0cawlGMOLj",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 147,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Save S$50 per eligible adult on qualifying SIA return fares",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 316,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 632,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 76,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 632,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 632,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 87.77,
+                    "rgb": {
+                      "blue": 217,
+                      "green": 217,
+                      "red": 217
+                    }
+                  },
+                  {
+                    "percentage": 3.79,
+                    "rgb": {
+                      "blue": 59,
+                      "green": 68,
+                      "red": 79
+                    }
+                  },
+                  {
+                    "percentage": 2.78,
+                    "rgb": {
+                      "blue": 104,
+                      "green": 124,
+                      "red": 174
+                    }
+                  },
+                  {
+                    "percentage": 0.62,
+                    "rgb": {
+                      "blue": 53,
+                      "green": 46,
+                      "red": 230
+                    }
+                  },
+                  {
+                    "percentage": 0.51,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 177,
+                      "red": 149
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "DBS/POSB Cardholders Get S$50 Off SIA Return Flights from 8-14 Sep 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 87.77,
+                    "rgb": {
+                      "blue": 217,
+                      "green": 217,
+                      "red": 217
+                    }
+                  },
+                  {
+                    "percentage": 3.79,
+                    "rgb": {
+                      "blue": 59,
+                      "green": 68,
+                      "red": 79
+                    }
+                  },
+                  {
+                    "percentage": 2.78,
+                    "rgb": {
+                      "blue": 104,
+                      "green": 124,
+                      "red": 174
+                    }
+                  },
+                  {
+                    "percentage": 0.62,
+                    "rgb": {
+                      "blue": 53,
+                      "green": 46,
+                      "red": 230
+                    }
+                  },
+                  {
+                    "percentage": 0.51,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 177,
+                      "red": 149
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 632,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 87.77,
+                    "rgb": {
+                      "blue": 217,
+                      "green": 217,
+                      "red": 217
+                    }
+                  },
+                  {
+                    "percentage": 3.79,
+                    "rgb": {
+                      "blue": 59,
+                      "green": 68,
+                      "red": 79
+                    }
+                  },
+                  {
+                    "percentage": 2.78,
+                    "rgb": {
+                      "blue": 104,
+                      "green": 124,
+                      "red": 174
+                    }
+                  },
+                  {
+                    "percentage": 0.62,
+                    "rgb": {
+                      "blue": 53,
+                      "green": 46,
+                      "red": 230
+                    }
+                  },
+                  {
+                    "percentage": 0.51,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 177,
+                      "red": 149
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 632,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/0cawlGMOLj",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 632,
+                "url": "https://pbs.twimg.com/card_img/2096882565840048128/BcffHn-1?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2096864672649822251",
+      "url": "https://x.com/singpromos/status/2096864672649822251",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-09-07T10:30:50.685267+00:00",
+      "translation_zh": "Pizza Hut自助餐回归：无限量披萨 9月新增更多分店",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-09-07T07:34:30.000Z",
+        "display_text_range": [
+          0,
+          216
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                124,
+                134
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                135,
+                138
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                139,
+                147
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                148,
+                155
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                156,
+                166
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                167,
+                174
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                175,
+                186
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                187,
+                195
+              ],
+              "text": "SGhalal"
+            },
+            {
+              "indices": [
+                196,
+                204
+              ],
+              "text": "halalSG"
+            },
+            {
+              "indices": [
+                205,
+                216
+              ],
+              "text": "pizzahutsg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/pizza-hut-sg-all-you-can-eat-buffet-returns-with-unlimited-pizzas-and-more-locations-this-sept-2026-306260/",
+              "indices": [
+                100,
+                123
+              ],
+              "url": "https://t.co/MMjuS3ALVs"
+            }
+          ]
+        },
+        "id_str": "2096864672649822251",
+        "text": "Pizza Hut SG All-You-Can-Eat Buffet Returns with Unlimited Pizzas and More Locations this Sept 2026 https://t.co/MMjuS3ALVs #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #SGhalal #halalSG #pizzahutsg",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2096864672649822251"
+          ],
+          "editable_until_msecs": "1788770070000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/MMjuS3ALVs",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 146,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Feast on unlimited pizzas, pastas, sides, soft drinks and ice cream across six outlets",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 627,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 627,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 627,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 30.89,
+                    "rgb": {
+                      "blue": 59,
+                      "green": 120,
+                      "red": 198
+                    }
+                  },
+                  {
+                    "percentage": 18.18,
+                    "rgb": {
+                      "blue": 18,
+                      "green": 13,
+                      "red": 138
+                    }
+                  },
+                  {
+                    "percentage": 14.1,
+                    "rgb": {
+                      "blue": 29,
+                      "green": 56,
+                      "red": 99
+                    }
+                  },
+                  {
+                    "percentage": 8.79,
+                    "rgb": {
+                      "blue": 87,
+                      "green": 165,
+                      "red": 212
+                    }
+                  },
+                  {
+                    "percentage": 7.25,
+                    "rgb": {
+                      "blue": 201,
+                      "green": 209,
+                      "red": 218
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "Pizza Hut SG All-You-Can-Eat Buffet Returns with Unlimited Pizzas and More Locations this Sept 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 30.89,
+                    "rgb": {
+                      "blue": 59,
+                      "green": 120,
+                      "red": 198
+                    }
+                  },
+                  {
+                    "percentage": 18.18,
+                    "rgb": {
+                      "blue": 18,
+                      "green": 13,
+                      "red": 138
+                    }
+                  },
+                  {
+                    "percentage": 14.1,
+                    "rgb": {
+                      "blue": 29,
+                      "green": 56,
+                      "red": 99
+                    }
+                  },
+                  {
+                    "percentage": 8.79,
+                    "rgb": {
+                      "blue": 87,
+                      "green": 165,
+                      "red": 212
+                    }
+                  },
+                  {
+                    "percentage": 7.25,
+                    "rgb": {
+                      "blue": 201,
+                      "green": 209,
+                      "red": 218
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 627,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 30.89,
+                    "rgb": {
+                      "blue": 59,
+                      "green": 120,
+                      "red": 198
+                    }
+                  },
+                  {
+                    "percentage": 18.18,
+                    "rgb": {
+                      "blue": 18,
+                      "green": 13,
+                      "red": 138
+                    }
+                  },
+                  {
+                    "percentage": 14.1,
+                    "rgb": {
+                      "blue": 29,
+                      "green": 56,
+                      "red": 99
+                    }
+                  },
+                  {
+                    "percentage": 8.79,
+                    "rgb": {
+                      "blue": 87,
+                      "green": 165,
+                      "red": 212
+                    }
+                  },
+                  {
+                    "percentage": 7.25,
+                    "rgb": {
+                      "blue": 201,
+                      "green": 209,
+                      "red": 218
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 627,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/MMjuS3ALVs",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 627,
+                "url": "https://pbs.twimg.com/card_img/2096864663602651136/Q6yWUd0Z?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2096851765941747807",
+      "url": "https://x.com/singpromos/status/2096851765941747807",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-09-07T10:30:50.685295+00:00",
+      "translation_zh": "Starbucks全店75折优惠 至9月13日",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-09-07T06:43:13.000Z",
+        "display_text_range": [
+          0,
+          159
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                84,
+                94
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                95,
+                98
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                99,
+                107
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                108,
+                115
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                116,
+                126
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                127,
+                134
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                135,
+                146
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                147,
+                159
+              ],
+              "text": "starbuckssg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/starbucks-spore-25-off-storewide-voucher-till-13-sep-2026-306252/",
+              "indices": [
+                60,
+                83
+              ],
+              "url": "https://t.co/di8OdNjyUA"
+            }
+          ]
+        },
+        "id_str": "2096851765941747807",
+        "text": "Starbucks S'pore 25% Off Storewide Voucher till 13 Sep 2026 https://t.co/di8OdNjyUA #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #starbuckssg",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2096851765941747807"
+          ],
+          "editable_until_msecs": "1788766993000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/di8OdNjyUA",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 146,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Get just two items in one transaction to enjoy the discount",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 313,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 626,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 626,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 626,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 40.85,
+                    "rgb": {
+                      "blue": 215,
+                      "green": 230,
+                      "red": 239
+                    }
+                  },
+                  {
+                    "percentage": 14.09,
+                    "rgb": {
+                      "blue": 50,
+                      "green": 55,
+                      "red": 60
+                    }
+                  },
+                  {
+                    "percentage": 8.13,
+                    "rgb": {
+                      "blue": 64,
+                      "green": 118,
+                      "red": 172
+                    }
+                  },
+                  {
+                    "percentage": 3.88,
+                    "rgb": {
+                      "blue": 38,
+                      "green": 66,
+                      "red": 108
+                    }
+                  },
+                  {
+                    "percentage": 3.5,
+                    "rgb": {
+                      "blue": 68,
+                      "green": 104,
+                      "red": 209
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "Starbucks S’pore 25% Off Storewide Voucher till 13 Sep 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 40.85,
+                    "rgb": {
+                      "blue": 215,
+                      "green": 230,
+                      "red": 239
+                    }
+                  },
+                  {
+                    "percentage": 14.09,
+                    "rgb": {
+                      "blue": 50,
+                      "green": 55,
+                      "red": 60
+                    }
+                  },
+                  {
+                    "percentage": 8.13,
+                    "rgb": {
+                      "blue": 64,
+                      "green": 118,
+                      "red": 172
+                    }
+                  },
+                  {
+                    "percentage": 3.88,
+                    "rgb": {
+                      "blue": 38,
+                      "green": 66,
+                      "red": 108
+                    }
+                  },
+                  {
+                    "percentage": 3.5,
+                    "rgb": {
+                      "blue": 68,
+                      "green": 104,
+                      "red": 209
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 626,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 40.85,
+                    "rgb": {
+                      "blue": 215,
+                      "green": 230,
+                      "red": 239
+                    }
+                  },
+                  {
+                    "percentage": 14.09,
+                    "rgb": {
+                      "blue": 50,
+                      "green": 55,
+                      "red": 60
+                    }
+                  },
+                  {
+                    "percentage": 8.13,
+                    "rgb": {
+                      "blue": 64,
+                      "green": 118,
+                      "red": 172
+                    }
+                  },
+                  {
+                    "percentage": 3.88,
+                    "rgb": {
+                      "blue": 38,
+                      "green": 66,
+                      "red": 108
+                    }
+                  },
+                  {
+                    "percentage": 3.5,
+                    "rgb": {
+                      "blue": 68,
+                      "green": 104,
+                      "red": 209
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 626,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/di8OdNjyUA",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 626,
+                "url": "https://pbs.twimg.com/card_img/2096851766168244224/1Bl1L296?format=jpg&name=orig",
+                "width": 1200
               },
               "type": "IMAGE"
             }
