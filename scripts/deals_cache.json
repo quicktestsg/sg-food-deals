@@ -1,211 +1,6 @@
 {
   "deals": [
     {
-      "id": "6a79651029072b34",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/30-august-2026-mr-bean-singapore-1-for-1-soy-drinks-promotion-all-soy-drinks-from-2-30-on-singapore-soymilk-sunday/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "30 August 2026: Mr Bean Singapore 1-for-1 Soy Drinks Promotion, All Soy Drinks From $2.30 on Singapore Soymilk Sunday",
-      "excerpt": "Enjoy a refreshing treat for less with Mr Bean Singapore's 1-for-1 Soy Drinks Promotion on 30 August 2026. Grab eligible soy drinks including fruity favourites such as Pearly Melon, with drinks from $2.30. Available for one day only at participating Mr Bean outlets across Singapore, while stocks...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/08/788208279_1034037659498319_5050995453899672574_n.jpg",
-      "deal_type": "1fl",
-      "country": "SG",
-      "published_at": "2026-08-30T01:25:30+00:00",
-      "fetched_at": "2026-08-30T10:30:35.605826+00:00",
-      "translation_zh": "2026年8月30日新加坡豆奶日：Mr Bean 豆制饮品1-for-1，低至 $2.30 起",
-      "excerpt_zh": "2026年8月30日 Mr Bean 新加坡豆制饮品1-for-1优惠，符合条件的饮品包括 Pearly Melon 等水果系列，价格低至 $2.30 起。"
-    },
-    {
-      "id": "2093902328479076776",
-      "url": "https://x.com/GreatDealsSG/status/2093902328479076776",
-      "label": "GreatDealsSG",
-      "color": "#ef4444",
-      "deal_type": "free",
-      "country": "SG",
-      "fetched_at": "2026-08-30T10:30:38.390417+00:00",
-      "translation_zh": "你的奶茶搭子等于在喝免费的 🧋",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-08-30T03:23:12.000Z",
-        "display_text_range": [
-          0,
-          72
-        ],
-        "entities": {
-          "media": [
-            {
-              "display_url": "pic.x.com/klC5NNAKD7",
-              "expanded_url": "https://x.com/GreatDealsSG/status/2093902328479076776/photo/1",
-              "indices": [
-                72,
-                95
-              ],
-              "url": "https://t.co/klC5NNAKD7"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "gds.sg/kSbtbl",
-              "expanded_url": "https://gds.sg/kSbtbl",
-              "indices": [
-                48,
-                71
-              ],
-              "url": "https://t.co/1sK2DRTdtZ"
-            }
-          ]
-        },
-        "id_str": "2093902328479076776",
-        "text": "Your milk tea kaki is basically drinking free 🧋 https://t.co/1sK2DRTdtZ https://t.co/klC5NNAKD7",
-        "user": {
-          "id_str": "45308068",
-          "name": "Great Deals Singapore",
-          "screen_name": "GreatDealsSG",
-          "is_blue_verified": true,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/582440654132785152/UJNsUZAL_normal.png"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2093902328479076776"
-          ],
-          "editable_until_msecs": "1788063792000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "mediaDetails": [
-          {
-            "display_url": "pic.x.com/klC5NNAKD7",
-            "expanded_url": "https://x.com/GreatDealsSG/status/2093902328479076776/photo/1",
-            "ext_media_availability": {
-              "status": "Available"
-            },
-            "indices": [
-              72,
-              95
-            ],
-            "media_url_https": "https://pbs.twimg.com/media/HQ8I-FqasAAHZNB.jpg",
-            "original_info": {
-              "focus_rects": [
-                {
-                  "h": 605,
-                  "w": 1080,
-                  "x": 0,
-                  "y": 676
-                },
-                {
-                  "h": 1080,
-                  "w": 1080,
-                  "x": 0,
-                  "y": 270
-                },
-                {
-                  "h": 1231,
-                  "w": 1080,
-                  "x": 0,
-                  "y": 119
-                },
-                {
-                  "h": 1350,
-                  "w": 675,
-                  "x": 405,
-                  "y": 0
-                },
-                {
-                  "h": 1350,
-                  "w": 1080,
-                  "x": 0,
-                  "y": 0
-                }
-              ],
-              "height": 1350,
-              "width": 1080
-            },
-            "sizes": {
-              "large": {
-                "h": 1350,
-                "resize": "fit",
-                "w": 1080
-              },
-              "medium": {
-                "h": 1200,
-                "resize": "fit",
-                "w": 960
-              },
-              "small": {
-                "h": 680,
-                "resize": "fit",
-                "w": 544
-              },
-              "thumb": {
-                "h": 150,
-                "resize": "crop",
-                "w": 150
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/klC5NNAKD7"
-          }
-        ],
-        "photos": [
-          {
-            "backgroundColor": {
-              "red": 204,
-              "green": 214,
-              "blue": 221
-            },
-            "cropCandidates": [
-              {
-                "h": 605,
-                "w": 1080,
-                "x": 0,
-                "y": 676
-              },
-              {
-                "h": 1080,
-                "w": 1080,
-                "x": 0,
-                "y": 270
-              },
-              {
-                "h": 1231,
-                "w": 1080,
-                "x": 0,
-                "y": 119
-              },
-              {
-                "h": 1350,
-                "w": 675,
-                "x": 405,
-                "y": 0
-              },
-              {
-                "h": 1350,
-                "w": 1080,
-                "x": 0,
-                "y": 0
-              }
-            ],
-            "expandedUrl": "https://x.com/GreatDealsSG/status/2093902328479076776/photo/1",
-            "url": "https://pbs.twimg.com/media/HQ8I-FqasAAHZNB.jpg",
-            "width": 1080,
-            "height": 1350
-          }
-        ],
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
       "id": "63d7bbe70d098cc4",
       "source_type": "rss",
       "source_name": "SINGPromos",
@@ -240,78 +35,6 @@
       "fetched_at": "2026-08-31T10:30:34.249856+00:00",
       "translation_zh": "Bari Bari Grand 9月1日登陆The Capitol Kempinski，开业铁板烧1-for-1、和牛30% OFF",
       "excerpt_zh": "香港铁板牛排品牌Bari Bari Steak旗下高端概念Bari Bari Grand于9月1日开业，开业当天铁板料理1-for-1，和牛享30% OFF。"
-    },
-    {
-      "id": "e60ac24fa28963ea",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/08/giant-is-extending-6-chas-discount-till.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Giant Is Extending 6% CHAS Discount Till 25 Sep 2026",
-      "excerpt": "GIANT EXTENDS 6% CHAS DISCOUNT TILL 25 SEPTEMBER Giant Singapore has extended its 6% CHAS discount until 25 September 2026, doubling the usual 3% discount for eligible CHAS cardholders. Blue CHAS cardholders can enjoy the 6% discount every Thursday, while Orange CHAS cardholders receive it every...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS4gAzTNMB-J85XAYM0jauHdjHZW9ChIBc-ewpUkzY0S6df9eMv9hZ_khvfP2at4-_YE7iAit6CJJ7gCdFT_8GO3G5tLhfH4rZWLCHaaBr4T-pGuT35LGC7b-dEgGvcqdBc4Qq-Roecke0GhW4Vo5zZOqqbMAU_fgfA2W6YYP8BTHBNVrorQmmSQWnYN3W/s640/all%20singapore%20deals%20giant%206%20percent%20chas%20card%20promo%20extension%203%20sep%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-31T05:34:12+00:00",
-      "fetched_at": "2026-08-31T10:30:34.250179+00:00",
-      "translation_zh": "Giant延长6% CHAS折扣至9月25日",
-      "excerpt_zh": "Giant Singapore将6% CHAS折扣延长至2026年9月25日，符合资格的CHAS卡持有者可享双倍于平时的3%折扣。"
-    },
-    {
-      "id": "5939068d7fe678ba",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/08/the-finest-cellar-fairprice-finest.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "The Finest Cellar @ FairPrice Finest, Tiong Bahru Plaza L1 Atrium",
-      "excerpt": "Discover a world of spirits, wines and brews with over 380 labels from around the globe at Tiong Bahru Plaza (Level 1 Atrium) from 31 August to 6 September from 10am to 10pm. Save up to 54% and enhance the experience with exclusive promotions and gifts with purchases Learn more about the featured...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUhzLzFos1j6uZ3oHuRqR_zPeq15yxKTqj4gHwUxLtqBB38jbu2tt-uppUY2aeFu0VU1ukbmtglP4NRLWfAYM2bx7hmoUtjBogHREmvI-ZQZW_W8CtJg7X6oOAJrnd9VMJw-9S1tcxPcFiSbG0ushlacb5fZeYbqxqaq5uw3cGl0UlaL1gSQ6OtVoK9SfN/s640/all%20singapore%20deals%20fairprice%20liquor%20deals%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-31T05:01:19+00:00",
-      "fetched_at": "2026-08-31T10:30:34.250644+00:00",
-      "translation_zh": "FairPrice Finest美酒大展The Finest Cellar登陆中巴鲁广场，最高省54%",
-      "excerpt_zh": "8月31日至9月6日，中巴鲁广场一楼中庭呈现超过380款来自世界各地的洋酒、葡萄酒与啤酒，最高省54%。"
-    },
-    {
-      "id": "a63af1aae91c86f3",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/08/don-don-donki-sushi-day-890-sushi-deals.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "DON DON DONKI Sushi Day: $8.90 Sushi Deals on 1 Sep",
-      "excerpt": "DON DON DONKI CELEBRATES SUSHI DAY WITH $8.90 SPECIALS DON DON DONKI is celebrating Sushi Day on 1 September 2026 with a one-day promotion featuring selected sushi packs at $8.90 each. Salmon Aburi Mentaimayo Sushi (10pcs) — Save $4.10! Salmon Nigiri (10pcs) — Save $2.10! California Roll (8pcs)...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj77mVna6tmqLovg4OLvx2-rezUSPBgbylIYdIZTUofa9HvgEfzttbgpMqvjynsh4qTl54RV9_Og9hS8oe9Qt2Lsbj0fWtkJZk24DH43Klv5AkcRcIk4RaByR3fpcpIvZi2-oAXGigzcnI8YISGaWwSY2fSlkt9omGTIz6AHWSCNnPA1ieRn9UYrbgZ8Dkr/s640/all%20singapore%20deals%20don%20don%20donki%20sushi%20day%201%20sep%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-31T04:38:35+00:00",
-      "fetched_at": "2026-08-31T10:30:34.251043+00:00",
-      "translation_zh": "Don Don Donki寿司日：9月1日精选寿司$8.90",
-      "excerpt_zh": "Don Don Donki于2026年9月1日庆祝寿司日，指定寿司拼盘每份$8.90，包括Salmon Aburi等人气款式。"
-    },
-    {
-      "id": "8d056e9660febdd3",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/08/mcdonalds-app-exclusive-deal-samurai.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "McDonald’s App Exclusive Deal: Samurai Chicken/Beef Burger Meal For $7.90 From 31 Aug - 4 Sep",
-      "excerpt": "MCDONALD'S OFFERING SAMURAI MEAL FOR $7.90 TILL 4 SEP McDonald’s Singapore is offering an app-exclusive Samurai Burger meal deal from 31 August to 4 September 2026. Customers can get a Samurai Chicken or Beef Burger Meal for $7.90, down from the usual price starting from $8.50. The offer must be...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5FeQP5pVGrx82zraMW32NzbYVnp1Zjf68nQVzsIqvEeTh5W2SYzS7M4bDYaPqCRuMtkauZorEi2cmjqFdDLo-vS2iNqf2N1wgS2uFxkopt3xVI7Q1inxgWtIKCba0obmVo4Fb1jLHBgr29VmWTX4OekvvRGoO_-PrZNTTEyERXs8jqbsw1SpUARD9NJK2/s640/all%20singapore%20deals%20mcdonalds%20samurai%20chicken%20burger%20meal%2031%20aug%20A.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-08-31T03:46:05+00:00",
-      "fetched_at": "2026-08-31T10:30:34.251342+00:00",
-      "translation_zh": "McDonald’s App专属：Samurai汉堡套餐$7.90，8月31日至9月4日",
-      "excerpt_zh": "McDonald’s Singapore推出App专属优惠，8月31日至9月4日Samurai鸡肉/牛肉汉堡套餐只需$7.90。"
     },
     {
       "id": "08c9d79a4cc5c8e4",
@@ -528,42 +251,6 @@
       "fetched_at": "2026-08-31T10:30:42.481312+00:00",
       "translation_zh": "Luckin Coffee联名Quby：黑芝麻焙茶拿铁、盲盒及限定周边登场",
       "excerpt_zh": "Luckin Coffee与Quby推出联名系列，黑芝麻焙茶拿铁、盲盒及限定周边一次到位。"
-    },
-    {
-      "id": "32134578ddd11fb8",
-      "source_type": "rss",
-      "source_name": "Eatbook",
-      "source_url": "https://eatbook.sg/1-for-1-buffet-2026/",
-      "source_color": "#ef4444",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
-      "source_lang": "en",
-      "title": "10 Best 1-For-1 Buffet Deals In 2026, From $28++ Per Person",
-      "excerpt": "Best 1-for-1 buffet deals in 2026 Buffets are best enjoyed with a good friend, relative, or partner. That’s why 1-for-1 buffets have such appeal—they let you and one other person feast on a wide spread of food for the price of one. If that sounds good to you, then you’re in luck, for we’ve compiled...",
-      "image": "https://eatbook.sg/wp-content/uploads/2026/06/1-for-1-buffets-cover.jpg",
-      "deal_type": "1fl",
-      "country": "SG",
-      "published_at": "2026-08-31T06:32:57+00:00",
-      "fetched_at": "2026-08-31T10:30:42.485032+00:00",
-      "translation_zh": "2026年10大自助餐1-for-1优惠，每人$28++起",
-      "excerpt_zh": "自助餐最适合与亲友分享，1-for-1优惠让你和朋友以每人$28++起的价格大快朵颐——盘点2026年最值得冲的自助餐优惠。"
-    },
-    {
-      "id": "da9ed8c08997c022",
-      "source_type": "rss",
-      "source_name": "SG榴莲",
-      "source_url": "https://sgliulian.com/event-and-festival/air-force-day-2026/",
-      "source_color": "#84cc16",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=sgliulian.com&sz=64",
-      "source_lang": "zh",
-      "title": "这个周末带娃去打卡！2026空军博物馆Air Force Day超全攻略✈️近距离看战机、限定纪念品等你拿！免费入场！",
-      "excerpt": "9月学校假期开启~ 爸妈又该头痛要带家里的小朋友去哪里玩了 不怕不慌！就在本周末将迎来空军博物馆Air Force Day 绝对能让你一家大小玩得过瘾~ 必玩亮点速览：从静态展示到极限飞行体验！ 1. 沉浸式战机体验与酷炫互动 重型装备近距离接触： 零距离打卡退役与现役的经典机型与装备 感受守护新加坡领空的钢铁力量 随便一拍都是大片！ 精彩的互动体验游戏： 结合线上与线下元素的全新互动体验！ 挑战以新加坡空军（RSAF）不同岗位为灵感设计的五大关卡 完成任务还能兑换独家限量纪念品！ 冲云霄！F-16 模拟飞行体验： 化身顶级飞行员 坐进 F-16 战斗机模拟器...",
-      "image": "https://cdn4.sgliulian.com/wp-content/uploads/2026/08/39F8D97F-76C6-4770-BEC1-C151FB075314.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-08-31T03:47:43+00:00",
-      "fetched_at": "2026-08-31T10:30:43.724704+00:00",
-      "translation_zh": "2026空军博物馆Air Force Day超全攻略：免费入场近距离看战机",
-      "excerpt_zh": "9月学校假期好去处！本周末空军博物馆Air Force Day免费入场，近距离打卡退役与现役战机，还有限定纪念品等你拿。"
     },
     {
       "id": "2094350669117559137",
@@ -16707,6 +16394,738 @@
             }
           }
         },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "a6b0bb64b0a40b90",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/airlines-flights/qatar-airways-fares-from-s838-till-17-sep-2026-nordic-escapes-more-306347/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Qatar Airways fares from S$838 till 17 Sep 2026: Nordic escapes & more",
+      "excerpt": "Explore Qatar Airways fares from S$838 with Nordic escapes and more [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2016/12/Qatar-Airways-Feat-13-Dec-2016.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-08T18:18:28+00:00",
+      "fetched_at": "2026-09-09T00:00:42.890031+00:00",
+      "translation_zh": "Qatar Airways 北欧航线 S$838 起，9月17日截止",
+      "excerpt_zh": "Qatar Airways 机票 S$838 起，北欧之旅说走就走"
+    },
+    {
+      "id": "cb3ab5719c0ee82e",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/vacations/trip-com-spore-9-9-mega-sale-from-9-to-12-sep-2026-306337/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Trip.com S’pore 9.9 Mega Sale from 9 to 12 Sep 2026",
+      "excerpt": "Score travel savings on flights, hotels, attractions, tours and more [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/09/Trip.com-feat-singpromos.com-8-Sep-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-08T17:24:54+00:00",
+      "fetched_at": "2026-09-09T00:00:42.890423+00:00",
+      "translation_zh": "Trip.com 新加坡 9.9 大促销：9月9日至12日",
+      "excerpt_zh": "机票、酒店、景点、一日游通通有折扣"
+    },
+    {
+      "id": "34da84af3f6ab28b",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/liho-spore-matcha-muse-launches-with-yoghurt-strawberry-matcha-from-8-sep-2026-306323/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "LiHO S’pore Matcha Muse Launches with Yoghurt & Strawberry Matcha from 8 Sep 2026",
+      "excerpt": "New Matcha Muse duo gives the usual matcha fix a twist [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/09/LiHO-Spore-feat-singpromos.com-8-Sep-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-08T12:37:25+00:00",
+      "fetched_at": "2026-09-09T00:00:42.890921+00:00",
+      "translation_zh": "LiHO 新品 Matcha Muse 酸奶草莓抹茶 9月8日起上市",
+      "excerpt_zh": "Matcha Muse 新品双拼，给经典抹茶来点新花样"
+    },
+    {
+      "id": "f0df0a1ac117831d",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-september-2026-refash-9-9-sale-40-off-sitewide-free-delivery-promotion/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9 September 2026: Refash: 9.9 Sale 40% Off Sitewide + Free Delivery Promotion",
+      "excerpt": "Refash is having a one-day 9.9 Sale on 9 September 2026, offering 40% off sitewide with promo code 99DEAL, plus free delivery for orders of $60 or more. Browse more than 20,000 pre-loved styles from brands including Coach, COS and The Tinsel Rack. Continue reading 9 September 2026: Refash: 9.9 Sale...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Refash-9.9-Sale-40-Off-Sitewide-Free-Delivery-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-09-08T23:27:50+00:00",
+      "fetched_at": "2026-09-09T00:00:51.728054+00:00",
+      "translation_zh": "9月9日 Refash 9.9 全场 7 折 + 满额免运费",
+      "excerpt_zh": "Refash 9月9日一天限定：优惠码 99DEAL 享全场 40% OFF，订单满 $60 免运费，两万多件二手好货等你淘"
+    },
+    {
+      "id": "6daf8e1ca8f2ace2",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-13-september-2026-sa-sa-singapore-makeup-must-haves-up-to-50-off-promotion-at-stores-and-online/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9-13 September 2026: Sa Sa Singapore: Makeup Must-Haves Up to 50% OFF Promotion at Stores and Online",
+      "excerpt": "Sa Sa Singapore is offering up to 50% OFF selected makeup from 9-13 September 2026. Shop discounted beauty products from brands including Artdeco, Moira, Missha, Cyber Colors, Klavuu, Rivera, A’pieu and Eleanor at participating stores or online while stocks last. Continue reading 9-13 September...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Sa-Sa-Singapore-Makeup-Must-Haves-Up-to-50-OFF.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-08T23:24:45+00:00",
+      "fetched_at": "2026-09-09T00:00:51.728207+00:00",
+      "translation_zh": "9月9日至13日 Sa Sa 彩妆精选低至 5 折",
+      "excerpt_zh": "Sa Sa 精选彩妆最高 5 折，涵盖 Artdeco、Missha、A'pieu 等品牌，门店线上同步"
+    },
+    {
+      "id": "be45d2c00111cd35",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-13-september-2026-og-singapore-9-9-99-deals-promotion-featuring-philips-panasonic-more/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now Till 13 September 2026: OG Singapore: 9.9 $99 Deals Promotion Featuring Philips, Panasonic & More",
+      "excerpt": "OG Singapore's 9.9 promotion is bringing selected Philips, Panasonic and other products down to just $99. Find out why Singapore shoppers should check out these limited-time deals before the promotion ends on 13 September 2026. Continue reading Now Till 13 September 2026: OG Singapore: 9.9 $99...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/OG-Singapore-9.9-99-Deals-Promotion-Featuring-Philips.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-08T11:32:07+00:00",
+      "fetched_at": "2026-09-09T00:00:51.728351+00:00",
+      "translation_zh": "OG 9.9 $99 特惠：Philips、Panasonic 等精选商品，至 9月13日",
+      "excerpt_zh": "OG 9.9 促销把 Philips、Panasonic 等精选商品压到 $99，限时特惠手慢无"
+    },
+    {
+      "id": "2097304643852439697",
+      "url": "https://x.com/singpromos/status/2097304643852439697",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-09-09T00:00:54.421776+00:00",
+      "translation_zh": "LiHO 新品 Matcha Muse 酸奶草莓抹茶 9月8日起上市",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-09-08T12:42:47.000Z",
+        "display_text_range": [
+          0,
+          189
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                110,
+                120
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                121,
+                124
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                125,
+                133
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                134,
+                141
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                142,
+                152
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                153,
+                160
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                161,
+                172
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                173,
+                181
+              ],
+              "text": "LiHOTEA"
+            },
+            {
+              "indices": [
+                182,
+                189
+              ],
+              "text": "lihosg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/liho-spore-matcha-muse-launches-with-yoghurt-strawberry-matcha-from-8-sep-2026-306323/",
+              "indices": [
+                86,
+                109
+              ],
+              "url": "https://t.co/GD33owjhAr"
+            }
+          ]
+        },
+        "id_str": "2097304643852439697",
+        "text": "LiHO S'pore Matcha Muse Launches with Yoghurt &amp; Strawberry Matcha from 8 Sep 2026 https://t.co/GD33owjhAr #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #LiHOTEA #lihosg",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2097304643852439697"
+          ],
+          "editable_until_msecs": "1788874967000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/GD33owjhAr",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 146,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "New Matcha Muse duo gives the usual matcha fix a twist",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 312,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 624,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 624,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 624,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 30.25,
+                    "rgb": {
+                      "blue": 204,
+                      "green": 208,
+                      "red": 215
+                    }
+                  },
+                  {
+                    "percentage": 28.31,
+                    "rgb": {
+                      "blue": 64,
+                      "green": 105,
+                      "red": 95
+                    }
+                  },
+                  {
+                    "percentage": 14.11,
+                    "rgb": {
+                      "blue": 32,
+                      "green": 32,
+                      "red": 36
+                    }
+                  },
+                  {
+                    "percentage": 7.07,
+                    "rgb": {
+                      "blue": 86,
+                      "green": 149,
+                      "red": 142
+                    }
+                  },
+                  {
+                    "percentage": 3.19,
+                    "rgb": {
+                      "blue": 37,
+                      "green": 48,
+                      "red": 85
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "LiHO S’pore Matcha Muse Launches with Yoghurt & Strawberry Matcha from 8 Sep 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 30.25,
+                    "rgb": {
+                      "blue": 204,
+                      "green": 208,
+                      "red": 215
+                    }
+                  },
+                  {
+                    "percentage": 28.31,
+                    "rgb": {
+                      "blue": 64,
+                      "green": 105,
+                      "red": 95
+                    }
+                  },
+                  {
+                    "percentage": 14.11,
+                    "rgb": {
+                      "blue": 32,
+                      "green": 32,
+                      "red": 36
+                    }
+                  },
+                  {
+                    "percentage": 7.07,
+                    "rgb": {
+                      "blue": 86,
+                      "green": 149,
+                      "red": 142
+                    }
+                  },
+                  {
+                    "percentage": 3.19,
+                    "rgb": {
+                      "blue": 37,
+                      "green": 48,
+                      "red": 85
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 624,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 30.25,
+                    "rgb": {
+                      "blue": 204,
+                      "green": 208,
+                      "red": 215
+                    }
+                  },
+                  {
+                    "percentage": 28.31,
+                    "rgb": {
+                      "blue": 64,
+                      "green": 105,
+                      "red": 95
+                    }
+                  },
+                  {
+                    "percentage": 14.11,
+                    "rgb": {
+                      "blue": 32,
+                      "green": 32,
+                      "red": 36
+                    }
+                  },
+                  {
+                    "percentage": 7.07,
+                    "rgb": {
+                      "blue": 86,
+                      "green": 149,
+                      "red": 142
+                    }
+                  },
+                  {
+                    "percentage": 3.19,
+                    "rgb": {
+                      "blue": 37,
+                      "green": 48,
+                      "red": 85
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 624,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/GD33owjhAr",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 624,
+                "url": "https://pbs.twimg.com/card_img/2097304644095709184/gSvwIPqh?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2097328237508780034",
+      "url": "https://x.com/GreatDealsSG/status/2097328237508780034",
+      "label": "GreatDealsSG",
+      "color": "#ef4444",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-09-09T00:00:56.977873+00:00",
+      "translation_zh": "[9.9 特卖] Creative Pebble V3 极简 USB-C 音箱限时 S$39.67（返现前，原价 S$59）",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-09-08T14:16:32.000Z",
+        "display_text_range": [
+          0,
+          255
+        ],
+        "entities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/8FnQBIXt81",
+              "expanded_url": "https://x.com/GreatDealsSG/status/2097328237508780034/photo/1",
+              "indices": [
+                253,
+                276
+              ],
+              "url": "https://t.co/8FnQBIXt81"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "s.shopee.sg/6fh83r5aJD",
+              "expanded_url": "https://s.shopee.sg/6fh83r5aJD",
+              "indices": [
+                229,
+                252
+              ],
+              "url": "https://t.co/B6ur11PFCG"
+            }
+          ]
+        },
+        "id_str": "2097328237508780034",
+        "text": "[9.9 SALE] Creative Pebble V3 Minimalistic USB-C Speakers on Flash Sale for S$39.67 before cashback (33% OFF | U.P. S$59.00)\n\n🔊Larger 2.25-inch drivers\n🛜 Bluetooth 5.0, USB-C audio &amp; AUX-in\n💬 Clear Dialog processing\n\nShopee: https://t.co/B6ur11PFCG https://t.co/8FnQBIXt81",
+        "user": {
+          "id_str": "45308068",
+          "name": "Great Deals Singapore",
+          "screen_name": "GreatDealsSG",
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/582440654132785152/UJNsUZAL_normal.png"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2097328237508780034"
+          ],
+          "editable_until_msecs": "1788880592000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "mediaDetails": [
+          {
+            "display_url": "pic.x.com/8FnQBIXt81",
+            "expanded_url": "https://x.com/GreatDealsSG/status/2097328237508780034/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "indices": [
+              253,
+              276
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/HRs05ZDacAA2kJb.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 605,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 676
+                },
+                {
+                  "h": 1080,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 270
+                },
+                {
+                  "h": 1231,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 119
+                },
+                {
+                  "h": 1350,
+                  "w": 675,
+                  "x": 405,
+                  "y": 0
+                },
+                {
+                  "h": 1350,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1350,
+              "width": 1080
+            },
+            "sizes": {
+              "large": {
+                "h": 1350,
+                "resize": "fit",
+                "w": 1080
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 960
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/8FnQBIXt81"
+          }
+        ],
+        "photos": [
+          {
+            "backgroundColor": {
+              "red": 204,
+              "green": 214,
+              "blue": 221
+            },
+            "cropCandidates": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 676
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 270
+              },
+              {
+                "h": 1231,
+                "w": 1080,
+                "x": 0,
+                "y": 119
+              },
+              {
+                "h": 1350,
+                "w": 675,
+                "x": 405,
+                "y": 0
+              },
+              {
+                "h": 1350,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "expandedUrl": "https://x.com/GreatDealsSG/status/2097328237508780034/photo/1",
+            "url": "https://pbs.twimg.com/media/HRs05ZDacAA2kJb.jpg",
+            "width": 1080,
+            "height": 1350
+          }
+        ],
+        "conversation_count": 0,
+        "news_action_type": "conversation",
         "isEdited": false,
         "isStaleEdit": false
       }
