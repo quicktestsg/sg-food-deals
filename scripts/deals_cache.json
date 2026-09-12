@@ -127,24 +127,6 @@
       "excerpt_zh": "9月1日至27日，foodpanda 精选人气餐点25%折扣，点外卖更划算，参与餐点以平台为准。"
     },
     {
-      "id": "27bf0d85334c5d85",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/4-september-2026-108-matcha-saro-teachers-day-promotion-free-soft-serve-with-warabi-mochi-box-purchase-at-singapore-outlets/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "4 September 2026: 108 Matcha Saro Teachers’ Day Promotion, Free Soft Serve with Warabi Mochi Box Purchase at Singapore Outlets",
-      "excerpt": "Teachers in Singapore can enjoy a sweet Teachers’ Day treat at 108 Matcha Saro on 4 September 2026. Purchase a Warabi Mochi Box and receive a FREE Soft Serve of any available flavour with a valid teacher’s ID. Available for one day only while stocks last at selected 108 Matcha Saro locations...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/108-Matcha-Saro-Teachers-Day-Promotion-Free-Soft-Serve.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-09-02T14:58:22+00:00",
-      "fetched_at": "2026-09-03T00:01:07.875734+00:00",
-      "translation_zh": "2026年9月4日：108 Matcha Saro 教师节优惠，买 Warabi Mochi 盒装送免费软冰淇淋",
-      "excerpt_zh": "9月4日教师节当天，凭教师证在 108 Matcha Saro 购买 Warabi Mochi 盒装，即送任口味软冰淇淋一份，限量送完为止。"
-    },
-    {
       "id": "2095097357075681575",
       "url": "https://x.com/singpromos/status/2095097357075681575",
       "label": "SINGPromos",
@@ -16009,6 +15991,24 @@
         "isEdited": false,
         "isStaleEdit": false
       }
+    },
+    {
+      "id": "fc9e53b20a2deb90",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/09/giant-hypermarket-exclusives-save-up-to.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Giant Hypermarket Exclusives: Save Up to 46% This Weekend @ Tampines @ IMM",
+      "excerpt": "SAVE UP TO 46% AT GIANT TAMPINES & IMM HYPERMARKETS Giant is running a 2-day Hypermarket Exclusives promotion at Tampines Hypermarket and IMM on 12 and 13 September 2026, featuring limited-time savings across fresh food, groceries and household items. The promotion includes discounts of up to 46%...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEha8I0wiI5Tn4EVytVaJAhyKw50oK6wlAStKTu_LIE4Lw3UnUv9vHukOiDyEAVb014eYi0FbKPTVh6W8m-csoL8DmMCg7FFZNMZWr8mwstHZNnTvrli5TCl2BQI2IyX4CLcvIcCOFes5AODkPhDmSq8uQlBtZ0gqwP6yObOyRmUCJUurHokja1YrtpRB5LH/s640/all%20singapore%20deals%20giant%20tampines%20imm%20hypermarket%20special%2012%20sep.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-11T23:15:21+00:00",
+      "fetched_at": "2026-09-12T00:00:29.278767+00:00",
+      "translation_zh": "Giant 超市独家优惠：本周末 Tampines / IMM 门店低至 6 折",
+      "excerpt_zh": "Giant 于 2026 年 9 月 12 日至 13 日在 Tampines 和 IMM 两家大型超市举行为期 2 天的独家促销，生鲜、杂货和家居用品限时优惠，折扣高达 46%。"
     }
   ]
 }
