@@ -19,24 +19,6 @@
       "excerpt_zh": "可选原味或辣味，售完即止。"
     },
     {
-      "id": "00e7e57efe5301b6",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/09/fairprice-weekly-storewide-promotion-up.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "FairPrice Weekly Storewide Promotion Up To 59% Off From 3 - 9 Sep",
-      "excerpt": "FAIRPRICE'S LATEST WEEKLY STOREWIDE SPECIAL OFFERS UP TO 59% OFF FairPrice's latest weekly promotion offer savings of up to 59% across fresh produce, frozen and chilled food, pantry staples, beverages, and household products. FairPrice is increasing CHAS discounts to 6% from 3 September 2026 to 1...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNQmgzB0O_zGw_mcJwGLGy6iK3P2opc8sOfMW2L_8eiPveEHv1H6iXVF3ATvw5S9daXvc8iXySbbTmeJj9qamlap3M0DoK9G9PJ_g4rp6KAr4OSskQicvNqMAuwLDAhGpX2E6b9mlY_Q8e0e63H_QgPqAtJc2nSanGThAwyXCoa5mU8ZECIJsBO80hd2N2/s640/all%20singapore%20deals%20fairprice%20weekly%20special%203%20sep%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-02T22:28:17+00:00",
-      "fetched_at": "2026-09-03T00:00:58.492289+00:00",
-      "translation_zh": "FairPrice 全场周促销 低至59%折扣 9月3日至9日",
-      "excerpt_zh": "FairPrice 最新全场周促销，生鲜、冷冻食品、粮油、饮料和家庭用品最高省59%。9月3日起 CHAS 折扣也加倍至6%。"
-    },
-    {
       "id": "2095097357075681575",
       "url": "https://x.com/singpromos/status/2095097357075681575",
       "label": "SINGPromos",
@@ -16414,6 +16396,24 @@
         "isEdited": false,
         "isStaleEdit": false
       }
+    },
+    {
+      "id": "3ada6dd73c952511",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/09/shopback-x-harrys-099-fish-chips-from.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "ShopBack x Harry's $0.99 Fish & Chips From 14 - 27 Sep",
+      "excerpt": "ShopBack has teamed up with Harry’s to bring back the iconic $0.99 Fish & Chips for two weeks only! From 14 to 27 September 2026, diners can dig into Harry’s Fish & Chips for just $0.99 with a minimum spend of $10++. How to snag this exclusive deal: 1. Download or open the ShopBack app to claim the...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYNJibuZtsz3UmgjRSougkfVcZufRH-g6E4rsM7iCRMxa6FI-WvbyoMuARHo57yA0blDNEmfcAArPIMhk7ml29XcKtfxhssjxUyFUSf9qZfS0ucWbtfDFAcwBM3e7THpCS2Rc8G0b3Nfzar-Tfu0eLaAkCFBCABSib7ngzxk5en7IYpAodyvgie5tqlgqf/s640/all%20singapore%20deals%20shopback%20x%20harry's%2099%20cents%20fish%20and%20chips%2014%20sep%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-13T12:51:11+00:00",
+      "fetched_at": "2026-09-14T00:00:56.995085+00:00",
+      "translation_zh": "ShopBack x Harry's $0.99 鱼薯特惠（9月14日至27日）",
+      "excerpt_zh": "ShopBack 携手 Harry's 重磅回归经典 $0.99 Fish & Chips！2026年9月14日至27日限定两周，在 Harry's 最低消费 $10++ 即可以 $0.99 吃到一份鱼薯。参与方式：下载或打开 ShopBack app 领取优惠后再下单。"
     }
   ]
 }
