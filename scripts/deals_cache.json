@@ -1,742 +1,6 @@
 {
   "deals": [
     {
-      "id": "79f5f26035ee53a2",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/telecoms/flash-sale-free-gift-circles-life-ai-superplan-just-6-month-free-10-voucher-306575/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "🚨FLASH SALE + FREE GIFT: Circles.Life AI Superplan – Just $6/month + FREE $10 Voucher",
-      "excerpt": "Sign up for the Circles.Life AI Superplan at just $6/month and get a FREE $10 gift voucher with your successful signup [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/09/Circles-singpromos.com-15-Sep-2026.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-09-15T10:06:05+00:00",
-      "fetched_at": "2026-09-15T10:30:28.167007+00:00",
-      "translation_zh": "🚨闪购+免费赠品：Circles.Life AI Superplan 月费仅 再送 0 礼券",
-      "excerpt_zh": "订阅 Circles.Life AI Superplan 月费仅，成功签约即送 0 礼券。"
-    },
-    {
-      "id": "818e15fed27cd5a9",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/airlines-flights/scoot-sg-everywhere-sale-fly-from-s79-to-60-destinations-till-20-sep-2026-306569/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Scoot SG Everywhere Sale Fly from S$79 to 60 Destinations till 20 Sep 2026",
-      "excerpt": "For selected travel dates up to August 2027 [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/01/Scoot-feat-singpromos.com-7-Jan-2026.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-15T06:20:53+00:00",
-      "fetched_at": "2026-09-15T10:30:28.167304+00:00",
-      "translation_zh": "Scoot 全场大促销 60个目的地 S9起 至9月20日",
-      "excerpt_zh": "适用旅行日期至2027年8月，详情见 SINGPROMOS.COM。"
-    },
-    {
-      "id": "5f3861ca4b7d89b4",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/09/sheng-siong-housebrand1-for-1-deals.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Sheng Siong Housebrand 1-For-1 Deals From 15 - 21 Sep",
-      "excerpt": "BUY 1 GET 1 FREE: SHENG SIONG'S HOUSEBRAND SALE IS HERE Sheng Siong is running its Housebrand Weekly Special from 15 to 21 September 2026, offering Buy 1 Free 1 deals on Tasty Bites and Happy Family housebrands. Additional rebates apply for DBS/POSB, Citi, and OCBC cardholders, plus senior and CHAS...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYvnHHhPsQXX4KTvi01Q0uxdiobzMtUnmbgE_CMFVMDt3CjR9SdaUQVBAJNLoLA9xaKdAsz9J4bOdiJNfId8ItDYkAgFohKdoB710_DmExU4wrq3IY-TL11_poFZdYUeN8tZFMXd4gHP2kMfKPSQcR4CJyUYXCjw2p0grha03sXOCnjcKb58wAGndONF-u/s640/all%20singapore%20deals%20sheng%20siong%20housebrand%20weekly%20special%2015%20sep%20a.jpg",
-      "deal_type": "1fl",
-      "country": "SG",
-      "published_at": "2026-09-15T05:14:07+00:00",
-      "fetched_at": "2026-09-15T10:30:29.054000+00:00",
-      "translation_zh": "Sheng Siong 自家品牌买一送一 9月15日至21日",
-      "excerpt_zh": "买一送一！Sheng Siong 自家品牌周特卖回归，9月15日至21日期间旗下自家品牌商品全部买一送一。"
-    },
-    {
-      "id": "c917653669c02bbe",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/09/scoot-everywhere-sale-to-popular.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Scoot Everywhere Sale To Popular Destinations From 15 - 20 Sep",
-      "excerpt": "Snag great deals to dream destinations like Tokyo, X'ian, Taipei and more at Scoot's Everywhere Sale running from 15 to 20 September 2026. Whether you're exploring underrated cities, strolling along sun-kissed beaches, getting closer to nature, or indulging in mouthwatering cuisine, these deals are...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjt5o06P1fpizDR-65fl9LvdKgXwuJiL9E-eLqKrqZZ4Mc8JpRtFdbtkQ4DBLvUHANL4Rlzoffg3Cy2zIoRe40g1WiUSb0KmffPDjbYvXLze0V69D3iHESrLumj0NrJ_UXUXd-pQLBSMkQoo0Y2IWWgwb6kBWeSJYyH2AeNlFDcUeFbTw3_IbyF8MH_psSJ/s640/all%20singapore%20deals%20scoot%20everywhere%20sale%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-15T04:57:41+00:00",
-      "fetched_at": "2026-09-15T10:30:29.057667+00:00",
-      "translation_zh": "Scoot 热门目的地大促销 9月15日至20日",
-      "excerpt_zh": "Scoot 全场大促销 9月15日至20日，东京、西安、台北等梦想目的地超值机票等你抢。"
-    },
-    {
-      "id": "a8a05d14d349c828",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/09/sheng-siong-purchase-with-purchase.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Sheng Siong Purchase With Purchase Deals Up To 66% Off From 15 - 21 Sep",
-      "excerpt": "SPEND $20, SAVE UP TO 66% — SHENG SIONG'S PWP DEAL IS BACK FROM 15 - 21 SEP Sheng Siong is running a Purchase With Purchase promotion from 15 to 21 September 2026. Every $20 spent entitles customers to purchase featured items at special prices, with savings of up to 66% off. The offer is limited to...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigmaKYYobJypgxijUDPSxsMApyitf2uIIdRbEIn31PsmQlrCB3xMJdRAkWine6UXvwg27Osay0D13JO4ZnCpuVQJ__aOE1-4anJeTHcZUEBu2U8_KdcuajbIFrFduJLRUKnbMw9LJByQ0y6DKGPWO8G_dR0Na_1rvzlQYWY7khsdOL3E7vgU9PzoYL_MGS/s640/all%20singapore%20deals%20sheng%20siong%20pwp%20deals%2015%20sep%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-15T00:45:13+00:00",
-      "fetched_at": "2026-09-15T10:30:29.057956+00:00",
-      "translation_zh": "Sheng Siong 加购优惠 低至66%折扣 9月15日至21日",
-      "excerpt_zh": "满0即享加购优惠，最高省66%！Sheng Siong PWP 促销 9月15日至21日回归。"
-    },
-    {
-      "id": "03ac2643045eecfa",
-      "source_type": "rss",
-      "source_name": "Eatbook",
-      "source_url": "https://eatbook.sg/torikizoku-express-raffles-place/",
-      "source_color": "#ef4444",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
-      "source_lang": "en",
-      "title": "Torikizoku To Open First Kiosk In Raffles Place With Famous Yakitori From $2.20",
-      "excerpt": "Torikizoku Express has famous yakitori at One Raffles Place CBD workers hunting for a quick, affordable lunch spot are about to get another option, as Torikizoku prepares to open its third Singapore outlet at One Raffles Place by September 2026 . This time, the popular Japanese yakitori chain is...",
-      "image": "https://eatbook.sg/wp-content/uploads/2026/09/torikizoku-raffles-place.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-15T07:13:08+00:00",
-      "fetched_at": "2026-09-15T10:30:36.837081+00:00",
-      "translation_zh": "Torikizoku 首间快餐亭登陆 Raffles Place 人气烤鸡串 .20起",
-      "excerpt_zh": "Torikizoku Express 快餐亭登陆 One Raffles Place，CBD 上班族又多一个平价午餐好去处。"
-    },
-    {
-      "id": "2099746095199076814",
-      "url": "https://x.com/singpromos/status/2099746095199076814",
-      "label": "SINGPromos",
-      "color": "#f59e0b",
-      "deal_type": "deal",
-      "country": "SG",
-      "fetched_at": "2026-09-15T10:30:42.984210+00:00",
-      "translation_zh": "Scoot 全场大促销 60个目的地 S9起 至9月20日",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-09-15T06:24:15.000Z",
-        "display_text_range": [
-          0,
-          164
-        ],
-        "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                99,
-                109
-              ],
-              "text": "SINGAPORE"
-            },
-            {
-              "indices": [
-                110,
-                113
-              ],
-              "text": "SG"
-            },
-            {
-              "indices": [
-                114,
-                122
-              ],
-              "text": "SGpromo"
-            },
-            {
-              "indices": [
-                123,
-                130
-              ],
-              "text": "SGsale"
-            },
-            {
-              "indices": [
-                131,
-                142
-              ],
-              "text": "singpromos"
-            },
-            {
-              "indices": [
-                143,
-                152
-              ],
-              "text": "FlyScoot"
-            },
-            {
-              "indices": [
-                153,
-                164
-              ],
-              "text": "FlyScootSG"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "singpromos.com/airlines-fligh…",
-              "expanded_url": "https://singpromos.com/airlines-flights/scoot-sg-everywhere-sale-fly-from-s79-to-60-destinations-till-20-sep-2026-306569/",
-              "indices": [
-                75,
-                98
-              ],
-              "url": "https://t.co/6nuZi6nS4d"
-            }
-          ]
-        },
-        "id_str": "2099746095199076814",
-        "text": "Scoot SG Everywhere Sale Fly from S$79 to 60 Destinations till 20 Sep 2026 https://t.co/6nuZi6nS4d #SINGAPORE #SG #SGpromo #SGsale #singpromos #FlyScoot #FlyScootSG",
-        "user": {
-          "id_str": "229470448",
-          "name": "SINGPromos",
-          "screen_name": "singpromos",
-          "is_blue_verified": false,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2099746095199076814"
-          ],
-          "editable_until_msecs": "1789457055000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "card": {
-          "card_platform": {
-            "platform": {
-              "audience": {
-                "name": "production"
-              },
-              "device": {
-                "name": "iPhone",
-                "version": "13"
-              }
-            }
-          },
-          "name": "summary_large_image",
-          "url": "https://t.co/6nuZi6nS4d",
-          "binding_values": {
-            "photo_image_full_size_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image": {
-              "image_value": {
-                "height": 146,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=jpg&name=280x150",
-                "width": 280
-              },
-              "type": "IMAGE"
-            },
-            "description": {
-              "string_value": "For selected travel dates up to August 2027",
-              "type": "STRING"
-            },
-            "domain": {
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "thumbnail_image_large": {
-              "image_value": {
-                "height": 313,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=jpg&name=600x600",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_original": {
-              "image_value": {
-                "height": 485,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=jpg&name=orig",
-                "width": 930
-              },
-              "type": "IMAGE"
-            },
-            "site": {
-              "scribe_key": "publisher_id",
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "photo_image_full_size_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_small": {
-              "image_value": {
-                "height": 75,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=jpg&name=144x144",
-                "width": 144
-              },
-              "type": "IMAGE"
-            },
-            "creator": {
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "thumbnail_image_x_large": {
-              "image_value": {
-                "height": 485,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=png&name=2048x2048_2_exp",
-                "width": 930
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_original": {
-              "image_value": {
-                "height": 485,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=jpg&name=orig",
-                "width": 930
-              },
-              "type": "IMAGE"
-            },
-            "vanity_url": {
-              "scribe_key": "vanity_url",
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "photo_image_full_size": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 76.18,
-                    "rgb": {
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    }
-                  },
-                  {
-                    "percentage": 5.61,
-                    "rgb": {
-                      "blue": 202,
-                      "green": 182,
-                      "red": 166
-                    }
-                  },
-                  {
-                    "percentage": 4.31,
-                    "rgb": {
-                      "blue": 1,
-                      "green": 238,
-                      "red": 244
-                    }
-                  },
-                  {
-                    "percentage": 1.91,
-                    "rgb": {
-                      "blue": 1,
-                      "green": 65,
-                      "red": 67
-                    }
-                  },
-                  {
-                    "percentage": 1.69,
-                    "rgb": {
-                      "blue": 1,
-                      "green": 130,
-                      "red": 133
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "title": {
-              "string_value": "Scoot SG Everywhere Sale Fly from S$79 to 60 Destinations till 20 Sep 2026",
-              "type": "STRING"
-            },
-            "summary_photo_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 76.18,
-                    "rgb": {
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    }
-                  },
-                  {
-                    "percentage": 5.61,
-                    "rgb": {
-                      "blue": 202,
-                      "green": 182,
-                      "red": 166
-                    }
-                  },
-                  {
-                    "percentage": 4.31,
-                    "rgb": {
-                      "blue": 1,
-                      "green": 238,
-                      "red": 244
-                    }
-                  },
-                  {
-                    "percentage": 1.91,
-                    "rgb": {
-                      "blue": 1,
-                      "green": 65,
-                      "red": 67
-                    }
-                  },
-                  {
-                    "percentage": 1.69,
-                    "rgb": {
-                      "blue": 1,
-                      "green": 130,
-                      "red": 133
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "summary_photo_image_x_large": {
-              "image_value": {
-                "height": 485,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=png&name=2048x2048_2_exp",
-                "width": 930
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 76.18,
-                    "rgb": {
-                      "blue": 0,
-                      "green": 0,
-                      "red": 0
-                    }
-                  },
-                  {
-                    "percentage": 5.61,
-                    "rgb": {
-                      "blue": 202,
-                      "green": 182,
-                      "red": 166
-                    }
-                  },
-                  {
-                    "percentage": 4.31,
-                    "rgb": {
-                      "blue": 1,
-                      "green": 238,
-                      "red": 244
-                    }
-                  },
-                  {
-                    "percentage": 1.91,
-                    "rgb": {
-                      "blue": 1,
-                      "green": 65,
-                      "red": 67
-                    }
-                  },
-                  {
-                    "percentage": 1.69,
-                    "rgb": {
-                      "blue": 1,
-                      "green": 130,
-                      "red": 133
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "photo_image_full_size_x_large": {
-              "image_value": {
-                "height": 485,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=png&name=2048x2048_2_exp",
-                "width": 930
-              },
-              "type": "IMAGE"
-            },
-            "card_url": {
-              "scribe_key": "card_url",
-              "string_value": "https://t.co/6nuZi6nS4d",
-              "type": "STRING"
-            },
-            "summary_photo_image_original": {
-              "image_value": {
-                "height": 485,
-                "url": "https://pbs.twimg.com/card_img/2099746088349827072/gL2Fs-JJ?format=jpg&name=orig",
-                "width": 930
-              },
-              "type": "IMAGE"
-            }
-          }
-        },
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
-      "id": "2099757822838022166",
-      "url": "https://x.com/GreatDealsSG/status/2099757822838022166",
-      "label": "GreatDealsSG",
-      "color": "#ef4444",
-      "deal_type": "deal",
-      "country": "SG",
-      "fetched_at": "2026-09-15T10:30:45.276873+00:00",
-      "translation_zh": "Pandan Waffle 班兰华夫饼也能穿上身啦 🧃",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-09-15T07:10:51.000Z",
-        "display_text_range": [
-          0,
-          71
-        ],
-        "entities": {
-          "media": [
-            {
-              "display_url": "pic.x.com/AjCFNyrDSa",
-              "expanded_url": "https://x.com/GreatDealsSG/status/2099757822838022166/photo/1",
-              "indices": [
-                71,
-                94
-              ],
-              "url": "https://t.co/AjCFNyrDSa"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "gds.sg/RwtjHG",
-              "expanded_url": "https://gds.sg/RwtjHG",
-              "indices": [
-                47,
-                70
-              ],
-              "url": "https://t.co/49YejSURVj"
-            }
-          ]
-        },
-        "id_str": "2099757822838022166",
-        "text": "Pandan Waffle has officially become wearable 🧃 https://t.co/49YejSURVj https://t.co/AjCFNyrDSa",
-        "user": {
-          "id_str": "45308068",
-          "name": "Great Deals Singapore",
-          "screen_name": "GreatDealsSG",
-          "is_blue_verified": true,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/582440654132785152/UJNsUZAL_normal.png"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2099757822838022166"
-          ],
-          "editable_until_msecs": "1789459851000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "mediaDetails": [
-          {
-            "display_url": "pic.x.com/AjCFNyrDSa",
-            "expanded_url": "https://x.com/GreatDealsSG/status/2099757822838022166/photo/1",
-            "ext_media_availability": {
-              "status": "Available"
-            },
-            "indices": [
-              71,
-              94
-            ],
-            "media_url_https": "https://pbs.twimg.com/media/HSPWifSbUAAth3U.jpg",
-            "original_info": {
-              "focus_rects": [
-                {
-                  "h": 605,
-                  "w": 1080,
-                  "x": 0,
-                  "y": 745
-                },
-                {
-                  "h": 1080,
-                  "w": 1080,
-                  "x": 0,
-                  "y": 270
-                },
-                {
-                  "h": 1231,
-                  "w": 1080,
-                  "x": 0,
-                  "y": 119
-                },
-                {
-                  "h": 1350,
-                  "w": 675,
-                  "x": 101,
-                  "y": 0
-                },
-                {
-                  "h": 1350,
-                  "w": 1080,
-                  "x": 0,
-                  "y": 0
-                }
-              ],
-              "height": 1350,
-              "width": 1080
-            },
-            "sizes": {
-              "large": {
-                "h": 1350,
-                "resize": "fit",
-                "w": 1080
-              },
-              "medium": {
-                "h": 1200,
-                "resize": "fit",
-                "w": 960
-              },
-              "small": {
-                "h": 680,
-                "resize": "fit",
-                "w": 544
-              },
-              "thumb": {
-                "h": 150,
-                "resize": "crop",
-                "w": 150
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/AjCFNyrDSa"
-          }
-        ],
-        "photos": [
-          {
-            "backgroundColor": {
-              "red": 204,
-              "green": 214,
-              "blue": 221
-            },
-            "cropCandidates": [
-              {
-                "h": 605,
-                "w": 1080,
-                "x": 0,
-                "y": 745
-              },
-              {
-                "h": 1080,
-                "w": 1080,
-                "x": 0,
-                "y": 270
-              },
-              {
-                "h": 1231,
-                "w": 1080,
-                "x": 0,
-                "y": 119
-              },
-              {
-                "h": 1350,
-                "w": 675,
-                "x": 101,
-                "y": 0
-              },
-              {
-                "h": 1350,
-                "w": 1080,
-                "x": 0,
-                "y": 0
-              }
-            ],
-            "expandedUrl": "https://x.com/GreatDealsSG/status/2099757822838022166/photo/1",
-            "url": "https://pbs.twimg.com/media/HSPWifSbUAAth3U.jpg",
-            "width": 1080,
-            "height": 1350
-          }
-        ],
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
-      "id": "d689126e1b38a2d3",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/09/mcdonalds-1-for-1-deals-exclusively-on.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "McDonald’s 1-for-1 Deals Exclusively on foodpanda From 17–30 Sep",
-      "excerpt": "foodpanda and McDonald’s Singapore are teaming up for an exclusive 1-for-1 promotion from 17 to 30 September 2026, giving customers two selected McDonald’s favourites for the price of one when ordering through foodpanda. The promotion covers selected breakfast, burger and all-day favourites, with...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh08n5Xp_pq-vjSvGsaZF9A47B9tGufy01-halJUUxyUZ_YBoT7-IJDtAFDmbf4kMf7D1Nveig6ruqyt56VKPL1MLKVBHEYgqG0yoOox_cJqFiNe4Nuxqpo80f8c0PtRtIbtnNM3SwQOhN0XKqPpPcnfYow462N1NRSVO3i7tEV-A3PQxO6ee8M0Bf1q1D2/s640/all%20singapore%20deals%20foodpanda%201-for-1%20mcdonalds%20deals%20a.png",
-      "deal_type": "1fl",
-      "country": "SG",
-      "published_at": "2026-09-15T22:00:00+00:00",
-      "fetched_at": "2026-09-16T00:00:27.515410+00:00",
-      "translation_zh": "McDonald’s x foodpanda 独家 1-for-1 优惠，9月17日至30日限时开跑",
-      "excerpt_zh": "foodpanda 携手 McDonald’s Singapore，9月17日至30日推出独家 1-for-1 优惠，指定 McDonald’s 人气单品买一送一。"
-    },
-    {
       "id": "0f40b63a1400058b",
       "source_type": "rss",
       "source_name": "EverydayOnSales",
@@ -969,132 +233,6 @@
       "fetched_at": "2026-09-16T00:00:35.186960+00:00",
       "translation_zh": "9月16日上午10时起：Toys“R”Us Pokémon TCG 30 周年庆祝活动，限定周边与 Pitch Black 补充包开卖",
       "excerpt_zh": "Toys“R”Us Singapore 9月16日上午10时起开卖 Pokémon TCG 30 周年庆祝系列，含限定周年商品及 Pitch Black Booster，数量有限。"
-    },
-    {
-      "id": "2f194319989e54c4",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/18-20-september-2026-ikea-singapore-swedish-meatball-ice-cream-returns-at-4-90-for-three-days-only-limited-swedish-bistro-dessert-promotion/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "18-20 September 2026: IKEA Singapore: Swedish Meatball Ice Cream Returns at $4.90 for Three Days Only, Limited Swedish Bistro Dessert Promotion",
-      "excerpt": "IKEA Singapore is bringing back its quirky Swedish Meatball Ice Cream for just three days from 18 to 20 September 2026. Priced at $4.90, the limited-time dessert comes with five meatball-shaped pieces of ice cream, caramel sauce and lingonberry jam at the Swedish Bistro, while stocks last. Continue...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/IKEA-Singapore-Swedish-Meatball-Ice-Cream-Returns-at-4.90.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-15T23:08:10+00:00",
-      "fetched_at": "2026-09-16T00:00:35.187101+00:00",
-      "translation_zh": "9月18日至20日：IKEA 瑞典肉丸冰淇淋三天限定回归，一支 $4.90",
-      "excerpt_zh": "IKEA Singapore 人气 Swedish Meatball Ice Cream 9月18日至20日限量回归，一支 $4.90，还有 Swedish Bistro 其他限定甜品。"
-    },
-    {
-      "id": "034aa7530d34bf7e",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/16-30-september-2026-singapore-airlines-krisflyer-spontaneous-escapes-30-off-saver-award-rates-promotion-october-travel-deals/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "16–30 September 2026: Singapore Airlines: KrisFlyer Spontaneous Escapes 30% Off Saver Award Rates Promotion, October Travel Deals",
-      "excerpt": "Singapore Airlines KrisFlyer members can enjoy 30% off selected Saver award rates with KrisFlyer Spontaneous Escapes for October 2026 travel. Book by 30 September 2026 through singaporeair.com or the SingaporeAir mobile app, with selected destinations across South East Asia, North Asia, Europe,...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Singapore-Airlines-KrisFlyer-Spontaneous-Escapes-30-Off.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-15T23:05:13+00:00",
-      "fetched_at": "2026-09-16T00:00:35.187235+00:00",
-      "translation_zh": "9月16日至30日：新航 KrisFlyer Spontaneous Escapes，10月出行 Saver 里程票 30% 折扣",
-      "excerpt_zh": "KrisFlyer 会员预订10月出行的指定 Saver 机票可享 30% 里程折扣（Spontaneous Escapes），须在9月30日前完成预订。"
-    },
-    {
-      "id": "1d9f356cb610d4bd",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/16-september-2026-onwards-toysrus-singapore-pokemon-tcg-30th-anniversary-collection-launch-promotion-limited-stocks-me05-pitch-black-booster-packs/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "16 September 2026 onwards: Toys“R”Us Singapore: Pokémon TCG 30th Anniversary Collection Launch Promotion, Limited Stocks & ME05 Pitch Black Booster Packs",
-      "excerpt": "Toys“R”Us Singapore launches the Pokémon TCG 30th Anniversary Collection from 16 September 2026, featuring limited-edition products from $18.99 and ME05 Pitch Black Boosters at $6.99. Find out participating stores, queue ticket timings, purchase limits and availability before heading down. Continue...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/ToysRUs-Singapore-Pokemon-TCG-30th-Anniversary-Collection-Launch.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-15T23:02:16+00:00",
-      "fetched_at": "2026-09-16T00:00:35.187370+00:00",
-      "translation_zh": "9月16日起：Toys“R”Us Pokémon TCG 30 周年收藏系列开卖，$18.99 起，含 ME05 Pitch Black",
-      "excerpt_zh": "Toys“R”Us Singapore 9月16日起发售 Pokémon TCG 30 周年收藏系列，限定商品 $18.99 起，含 ME05 Pitch Black 系列，数量有限。"
-    },
-    {
-      "id": "eb8fba79de07ec58",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/15-september-2026-onwards-shell-singapore-x-pop-mart-hacipupu-little-racer-collectibles-from-24-90-promotion-and-four-station-stamp-hunt/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "15 September 2026 onwards: Shell Singapore x POP MART, HACIPUPU Little Racer Collectibles from $24.90, Promotion and Four-Station Stamp Hunt",
-      "excerpt": "Shell Singapore and POP MART have teamed up for the HACIPUPU Little Racer’s Great Adventure from 15 September 2026 onwards. Discover limited-edition collectibles from $24.90, visit four HACIPUPU-themed Shell stations, collect exclusive stamps and unlock special rewards and a chance to win the full...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Shell-Singapore-x-POP-MART-HACIPUPU-Little-Racer-Collectibles.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-15T22:58:26+00:00",
-      "fetched_at": "2026-09-16T00:00:35.187514+00:00",
-      "translation_zh": "9月15日起：Shell x POP MART HACIPUPU Little Racer 收藏系列 $24.90 起，四站联动活动",
-      "excerpt_zh": "Shell Singapore 携手 POP MART 推出 HACIPUPU Little Racer’s Great Adventure，9月15日起限量收藏精品 $24.90 起，另有四站联动活动。"
-    },
-    {
-      "id": "ecd935a7c69160c2",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/15-28-september-2026-luckin-coffee-1-for-1-drinks-grand-opening-promotion-at-bugis-junction-and-international-plaza/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "15–28 September 2026: Luckin Coffee: 1-for-1 Drinks Grand Opening Promotion at Bugis Junction and International Plaza",
-      "excerpt": "Luckin Coffee has opened two new outlets at Bugis Junction and International Plaza, with a limited-time 1-for-1 drinks promotion. First-time app users can also enjoy their first cup for just $0.99, with different promotional dates and opening hours at each location. Continue reading 15–28 September...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Luckin-Coffee-1-for-1-Drinks-Grand-Opening-Promotion.jpg",
-      "deal_type": "1fl",
-      "country": "SG",
-      "published_at": "2026-09-15T22:51:17+00:00",
-      "fetched_at": "2026-09-16T00:00:35.187650+00:00",
-      "translation_zh": "9月15日至28日：Luckin Coffee 新店开业 1-for-1——Bugis Junction 与 International Plaza 两店同庆",
-      "excerpt_zh": "Luckin Coffee 在 Bugis Junction 和 International Plaza 开设新店，限时推出 1-for-1 饮品优惠，首次下载 app 的用户还有额外好礼。"
-    },
-    {
-      "id": "0585b0abca99c6e8",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/14-27-september-2026-harrys-famous-0-99-fish-chips-promotion-returns-across-singapore-rewards-members-limited-time-deal/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "14–27 September 2026: Harry’s Famous $0.99 Fish & Chips Promotion Returns Across Singapore, Rewards Members’ Limited-Time Deal",
-      "excerpt": "Harry’s brings back its popular $0.99 Fish & Chips promotion from 14–27 September 2026. Harry’s Rewards members can enjoy the deal with a minimum $10++ spend and ShopBack payment, while stocks last at participating outlets across Singapore. Continue reading 14–27 September 2026: Harry’s Famous...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Harrys-Famous-0.99-Fish-Chips-Promotion-Returns-Across.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-15T22:48:37+00:00",
-      "fetched_at": "2026-09-16T00:00:35.187789+00:00",
-      "translation_zh": "9月14日至27日：Harry’s 经典 $0.99 Fish & Chips 回归，Rewards 会员限时优惠",
-      "excerpt_zh": "Harry’s 人气 $0.99 Fish & Chips 9月14日至27日回归全岛门店，Harry’s Rewards 会员最低消费 $10++ 即可以 $0.99 加点炸鱼薯条。"
-    },
-    {
-      "id": "bdf66c8fa797af64",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/15-september-2026-onwards-milo-singapore-limited-edition-breaktime-plush-sling-bag-promotion-pandan-waffle-pink-gem-biscuit-designs-at-selected-retailers/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "15 September 2026 onwards: MILO Singapore: Limited-Edition BREAKTIME Plush Sling Bag Promotion – Pandan Waffle & Pink Gem Biscuit Designs at Selected Retailers",
-      "excerpt": "MILO Singapore launches its limited-edition BREAKTIME Plush Sling Bags from 15 September 2026. Collect the Pandan Waffle or Pink Gem Biscuit designs with selected MILO UHT Less Sugar promotion packs at participating retailers and online platforms, while stocks last. Continue reading 15 September...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/MILO-Singapore-Limited-Edition-BREAKTIME-Plush-Sling-Bag-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-15T22:45:39+00:00",
-      "fetched_at": "2026-09-16T00:00:35.187928+00:00",
-      "translation_zh": "9月15日起：MILO 限定 BREAKTIME 绒布斜挎包——Pandan Waffle 与 Pink Gem Biscuit 两款造型",
-      "excerpt_zh": "MILO Singapore 9月15日起推出限定 BREAKTIME Plush Sling Bag，有 Pandan Waffle 和 Pink Gem Biscuit 两款造型，选购指定商品即可入手。"
     },
     {
       "id": "2099834365245362198",
@@ -18045,6 +17183,294 @@
         "isEdited": false,
         "isStaleEdit": false
       }
+    },
+    {
+      "id": "5131d871d2c9be3c",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/giant-spore-selling-ben-jerrys-at-3-for-25-more-weekly-deals-till-30-sep-2026-307002/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Giant S’pore Selling Ben & Jerry’s at 3-for-$25 & More Weekly Deals Till 30 Sep 2026",
+      "excerpt": "Scoop up Ben & Jerry's at 3 for $25 plus coffee, snacks, groceries and household bargains. [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2024/08/Ben-Jerry-feat-singpromos.com-8-Aug-2024.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-24T12:35:46+00:00",
+      "fetched_at": "2026-09-25T00:00:11.647326+00:00",
+      "translation_zh": "Giant超市 Ben & Jerry's 3件$25 及更多每周特惠 至9月30日",
+      "excerpt_zh": "Ben & Jerry's 3件$25，还有咖啡、零食、日用品等超值好价。"
+    },
+    {
+      "id": "48310167e840f1dd",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/health/unity-pharmacy-buy-1-get-1-wellness-deals-till-30-sep-2026-307004/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Unity Pharmacy Buy 1 Get 1 Wellness Deals Till 30 Sep 2026",
+      "excerpt": "Stock up for less with Buy 1 Get 1 offers [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2025/07/Unity-feat-singpromos.com-24-Jul-2025.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-24T12:29:39+00:00",
+      "fetched_at": "2026-09-25T00:00:11.647619+00:00",
+      "translation_zh": "Unity药房 买一送一保健品优惠 至9月30日",
+      "excerpt_zh": "保健品买一送一，趁优惠囤货更划算。"
+    },
+    {
+      "id": "74e281495bfd6a83",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/warehouse-sales/goldlion-warehouse-sale-up-to-90-off-warehouse-sale-from-25-sep-4-oct-2026-fri-sun-only-306866/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Goldlion Warehouse Sale Up to 90% Off Warehouse Sale from 25 Sep – 4 Oct 2026 (Fri-Sun only)",
+      "excerpt": "Score up to 90% off Goldlion menswear and leather accessories [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/06/Goldlion-feat-singpromos.com-5-Jun-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-24T11:29:52+00:00",
+      "fetched_at": "2026-09-25T00:00:11.647888+00:00",
+      "translation_zh": "Goldlion仓库大甩卖 低至1折 9月25日-10月4日（仅限周五至周日）",
+      "excerpt_zh": "Goldlion男装及皮具配件仓库特卖，低至1折。"
+    },
+    {
+      "id": "8ee800843d9ea94c",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/09/prime-supermarket-4-day-special-from-25.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Prime Supermarket 4-Day Special From 25 - 26 Sep",
+      "excerpt": "4 DAYS ONLY, PRIME WOW DEALS FROM 25 - 28 September Prime Supermarket is running a 4 Days Only WOW Deals promotion, with offers valid till 28 September 2026, while stocks last. The promotion covers everyday groceries and household essentials, including fresh vegetables and fruits, meat, seafood,...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBT58_sLEyappB0YQFWkeyDDgOFIH0ftIPzBw48_fsNWE4FxAyovkKR1oJ7kYY58zOoVaSr6XS6uDq4I5Rkba5kLobAphBEdCELP9ZI_tYBCVTF8LZUm98_xPWcuPNh4BV7t01H5knwunp5-PHlBGM6uaKPbpOz0bqC3nOIXTGciru86zkFJ5ZwDO6RyAo/s640/all%20singapore%20deals%20prime%204%20days%20special%2025%20sep%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-24T21:27:06+00:00",
+      "fetched_at": "2026-09-25T00:00:12.272489+00:00",
+      "translation_zh": "Prime超市 4天限定特惠 9月25-28日",
+      "excerpt_zh": "仅限4天！Prime超市WOW特惠9月28日截止，售完即止，涵盖各类商品。"
+    },
+    {
+      "id": "51858991d6e4b328",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/09/giant-3-day-yuu-member-special-up-to-50.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Giant 3-Day yuu Member Special Up To 50% Off From 25 - 27 Sep",
+      "excerpt": "GIANT 3 DAYS OF EXCLUSIVE YUU MEMBER DEALS FROM 25 - 27 SEPTEMBER Giant is offering a 3-day yuu Members Special from 25 to 27 September 2026 at participating stores across Singapore. During the promotion, yuu members can enjoy discounts on selected fresh produce, fruits and meats, with savings of...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyIkulsIOaRjBWKQvzzuUifpAbu5ufJ6KRAnShyphenhypheniwjEU3qskAYnEhKW_YnoIx-LywnOYN1dOKQEmozGldw6LpBWJVyU8_6I6L4HwsYV4DyubJoagRSUKdVue8d5AywI_ge6i9Lk5Elrc3uxSXkM3S94P4_fmjJZs30RaGEDlJeJt5nzE1G-3tsn9XJraA6/s640/all%20singapore%20deals%20giant%20yuu%20member%20special%2025%20sep%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-24T21:08:56+00:00",
+      "fetched_at": "2026-09-25T00:00:12.272913+00:00",
+      "translation_zh": "Giant 3天yuu会员专属优惠 低至5折 9月25-27日",
+      "excerpt_zh": "Giant于9月25-27日推出yuu会员3天专属优惠，全岛参与门店低至5折。"
+    },
+    {
+      "id": "9236e860490d5238",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/25-28-september-2026-luckin-coffee-singapore-100-stores-milestone-promotion-claim-2-99-coupon-packs-on-mobile-app/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "25-28 September 2026: Luckin Coffee Singapore 100 Stores Milestone Promotion – Claim $2.99 Coupon Packs on Mobile App",
+      "excerpt": "Luckin Coffee is celebrating reaching 100 stores across Singapore with a huge treat! Claim a $2.99 Coupon Pack on their app from 25 to 28 September 2026 and enjoy signature drinks for just $2.99 from 29 September to 2 October. Only 5,000 packs released daily, so grab yours early! Continue reading...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Luckin-Coffee-Singapore-100-Stores-Milestone-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-24T23:50:31+00:00",
+      "fetched_at": "2026-09-25T00:00:23.242178+00:00",
+      "translation_zh": "9月25-28日：Luckin Coffee新加坡百店庆 App领取$2.99优惠券包",
+      "excerpt_zh": "Luckin Coffee庆祝新加坡门店突破100家！9月25-28日在App领取$2.99优惠券包，招牌饮品只需$2.99。"
+    },
+    {
+      "id": "7f676d57f2a978c6",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/24-september-2026-onwards-og-singapore-childrens-day-sale-promotion-toys-games-and-kids-essentials-special-deals-at-albert-peoples-park-and-online-store/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "24 September 2026 onwards: OG Singapore Children’s Day Sale Promotion – Toys, Games, and Kids Essentials Special Deals at Albert, People’s Park, and Online Store",
+      "excerpt": "Discover unbeatable savings at the OG Singapore Children's Day Sale starting 23 September 2026! Explore fantastic deals on toys, games, and adorable kids' fashion in-store at OG Albert and OG People's Park, or shop online at og.sg/ChildrenDay26-1. Perfect opportunity to treat the little ones for...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/OG-Singapore-Childrens-Day-Sale-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-24T23:48:20+00:00",
+      "fetched_at": "2026-09-25T00:00:23.242356+00:00",
+      "translation_zh": "9月24日起：OG新加坡儿童节促销 玩具游戏儿童用品特价",
+      "excerpt_zh": "OG新加坡儿童节特卖9月23日起开始，Albert和People's Park门店玩具、游戏及儿童服饰特价中。"
+    },
+    {
+      "id": "3764b1a5e8f70518",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/24-27-september-2026-link-outlet-store-singapore-expo-atrium-event-up-to-80-percent-off-big-brand-sale/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "24-27 September 2026: LINK Outlet Store Singapore Expo Atrium Event Up to 80 Percent Off Big Brand Sale",
+      "excerpt": "Head down to Singapore Expo Level 2 Foyer 2 from 24 to 27 September 2026 for the massive LINK Outlet Store Atrium Event. Enjoy huge discounts of up to 80% off top lifestyle and sportswear brands daily from 11AM to 9PM. Continue reading 24-27 September 2026: LINK Outlet Store Singapore Expo Atrium...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/LINK-Outlet-Store-Singapore-Expo-Atrium-Event-Up-to-80-Percent.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-24T23:45:24+00:00",
+      "fetched_at": "2026-09-25T00:00:23.242497+00:00",
+      "translation_zh": "9月24-27日：LINK Outlet新加坡Expo中庭特卖 大牌低至2折",
+      "excerpt_zh": "9月24-27日前往新加坡Expo二楼Foyer 2，LINK Outlet中庭特卖，生活方式及运动品牌低至2折。"
+    },
+    {
+      "id": "da8bba8511aee8b0",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/25-27-september-2026-bhg-singapore-storewide-payday-weekend-sale-beauty-voucher-giveaway/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "25-27 September 2026: BHG Singapore Storewide Payday Weekend Sale & Beauty Voucher Giveaway",
+      "excerpt": "Enjoy 20% off regular items, 10% off sale items, and score up to $50 in Beauty Vouchers at BHG Singapore's Payday Weekend Sale from 25 to 27 September 2026. Continue reading 25-27 September 2026: BHG Singapore Storewide Payday Weekend Sale & Beauty Voucher Giveaway at SG.EverydayOnSales.com.",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/BHG-Singapore-Storewide-Payday-Weekend-Sale-Beauty-Voucher-Giveaway.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-09-24T23:42:18+00:00",
+      "fetched_at": "2026-09-25T00:00:23.242628+00:00",
+      "translation_zh": "9月25-27日：BHG新加坡全店发薪日周末特卖 送美妆礼券",
+      "excerpt_zh": "BHG发薪日周末特卖：正价品8折、特价品再9折，还可赢取高达$50美妆礼券。"
+    },
+    {
+      "id": "782f913ac08e293b",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-30-september-2026-cold-storage-singapore-grocery-selections-promotion-save-on-everyday-essentials-and-more/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now till 30 September 2026: Cold Storage Singapore: Grocery Selections Promotion – Save on Everyday Essentials and More",
+      "excerpt": "Cold Storage Singapore is offering selected Grocery Selections promotions until 30 September 2026. Find out why this grocery promotion is worth checking when planning your next supermarket shopping trip and how to make the most of the available offers. Continue reading Now till 30 September 2026:...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Cold-Storage-Singapore-Grocery-Selections-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-24T14:17:56+00:00",
+      "fetched_at": "2026-09-25T00:00:23.242769+00:00",
+      "translation_zh": "即日起至9月30日：Cold Storage日常必需品促销 省钱采购好时机",
+      "excerpt_zh": "Cold Storage精选日用品促销至9月30日，采购前先看看这周有什么值得买。"
+    },
+    {
+      "id": "5c283cf26c6fec4b",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-26-september-2026-wingstop-singapore-1-for-1-8pc-boneless-wings-promotion-on-grabfood-get-16-pieces-for-14-50/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now till 26 September 2026: Wingstop Singapore: 1-for-1 8pc Boneless Wings Promotion on GrabFood, Get 16 Pieces for $14.50",
+      "excerpt": "Wingstop Singapore is offering a 1-for-1 promotion on 8pc Boneless Wings via GrabFood until 26 September 2026. Get 16 boneless wings for just $14.50, with different flavours available for each portion, subject to outlet and GrabFood availability. Continue reading Now till 26 September 2026:...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/1-2.jpg",
+      "deal_type": "1fl",
+      "country": "SG",
+      "published_at": "2026-09-24T14:16:23+00:00",
+      "fetched_at": "2026-09-25T00:00:23.242903+00:00",
+      "translation_zh": "即日起至9月26日：Wingstop新加坡 GrabFood 8块无骨鸡翅买一送一 16块仅$14.50",
+      "excerpt_zh": "Wingstop新加坡通过GrabFood推出8块无骨鸡翅买一送一，16块只需$14.50，两份可选不同口味。"
+    },
+    {
+      "id": "d3135402db252f98",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-30-september-2026-sushi-express-singapore-extra-salmon-treat-promotion-get-more-salmon-sashimi-at-the-same-price-at-%e4%ba%89%e9%b2%9cgogo/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now till 30 September 2026: Sushi Express Singapore, Extra Salmon Treat Promotion, Get More Salmon Sashimi at the Same Price at 争鲜gogo",
+      "excerpt": "Enjoy more salmon for the same price at 争鲜gogo with Sushi Express Singapore’s Extra Salmon Treat promotion. Get 9 pieces of salmon sashimi for $8.50 or 14 pieces for $13, available until 30 September 2026 while stocks last. Continue reading Now till 30 September 2026: Sushi Express Singapore, Extra...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Sushi-Express-Singapore-Extra-Salmon-Treat-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-24T14:10:40+00:00",
+      "fetched_at": "2026-09-25T00:00:23.243042+00:00",
+      "translation_zh": "即日起至9月30日：争鲜gogo三文鱼加量不加价 9片$8.50 14片$13",
+      "excerpt_zh": "争鲜gogo三文鱼加量不加价：9片$8.50、14片$13，优惠至9月30日。"
+    },
+    {
+      "id": "bd83e43b5472c3a2",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/24-27-september-2026-link-outlet-store-singapore-sale-up-to-80-off-footwear-apparels-accessories-at-singapore-expo-level-2/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "24-27 September 2026: LINK Outlet Store Singapore: Sale Up to 80% Off Footwear, Apparels & Accessories at Singapore Expo Level 2",
+      "excerpt": "Looking for branded footwear, apparel and accessories at bargain prices? LINK Outlet Store Singapore is holding a four-day atrium sale at Singapore Expo from 24-27 September 2026, with discounts of up to 80% on selected items from brands including ADIAS, Under Armour, Waveline, Crocs and more....",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/LINK-Outlet-Store-Singapore-Sale-Up-to-80-Off-Footwear.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-24T14:07:21+00:00",
+      "fetched_at": "2026-09-25T00:00:23.243173+00:00",
+      "translation_zh": "9月24-27日：LINK Outlet新加坡Expo特卖 鞋履服饰配件低至2折",
+      "excerpt_zh": "品牌鞋履、服饰、配件白菜价！LINK Outlet于9月24-27日在新加坡Expo二楼举行4天中庭特卖。"
+    },
+    {
+      "id": "a08c015f85551e6f",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/25-27-september-2026-welcia-singapore-20-off-storewide-month-end-shopping-promotion-at-participating-stores/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "25-27 September 2026: Welcia Singapore: 20% Off Storewide Month-End Shopping Promotion at Participating Stores",
+      "excerpt": "Welcia Singapore is offering 20% off storewide on participating brands from 25-27 September 2026. Find savings on beauty, personal care, health supplements and daily essentials at participating stores across Singapore, excluding Bedok Mall and Takashimaya Shopping Centre. Continue reading 25-27...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Welcia-Singapore-20-Off-Storewide-Month-End-Shopping-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-24T14:03:09+00:00",
+      "fetched_at": "2026-09-25T00:00:23.243293+00:00",
+      "translation_zh": "9月25-27日：Welcia新加坡全店8折 月末采购促销",
+      "excerpt_zh": "Welcia新加坡9月25-27日全店8折，美妆、个护、保健品及日常用品都有优惠。"
+    },
+    {
+      "id": "6bba564e3795cf1a",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-5-october-2026-takashimaya-department-store-travel-bonanza-promotion-with-up-to-50-off-and-30-instant-rebate-at-mens-department-level-3/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now till 5 October 2026: Takashimaya Department Store: Travel Bonanza Promotion with Up to 50% Off and $30 Instant Rebate at Men’s Department, Level 3",
+      "excerpt": "Planning your next getaway? Takashimaya Department Store is having a Travel Bonanza with up to 50% off selected travel essentials. From now until 5 October 2026, the first 10 customers daily who spend at least $500 on luggage and travel accessories can also receive a $30 instant rebate. Head to the...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Takashimaya-Department-Store-Travel-Bonanza-Promotion-with-Up-to-50.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-24T13:59:44+00:00",
+      "fetched_at": "2026-09-25T00:00:23.243433+00:00",
+      "translation_zh": "即日起至10月5日：Takashimaya旅行用品特卖 低至5折 每日首10名消费送$30即时回扣",
+      "excerpt_zh": "计划出游？Takashimaya旅行用品特卖低至5折，至10月5日，每日前10名消费者可获$30即时回扣。"
+    },
+    {
+      "id": "6020b174f972eaea",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/1-31-october-2026-mcdonalds-singapore-g-dragon-korean-inspired-burgers-collectibles-peaceminusone-merchandise-promotion-at-participating-outlets/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "1–31 October 2026: McDonald’s Singapore: G-DRAGON Korean-Inspired Burgers, Collectibles & PEACEMINUSONE Merchandise Promotion at Participating Outlets",
+      "excerpt": "McDonald’s Singapore teams up with G-DRAGON and PEACEMINUSONE this October with Korean-inspired burgers, Mystery Photocards, returning Spicy Chicken McNuggets, Hershey’s Soft Serve and limited-edition merchandise from $5.90. Find out the launch dates, prices, participating locations and details...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/McDonalds-Singapore-G-DRAGON-Korean-Inspired-Burgers-Collectibles.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-24T11:33:18+00:00",
+      "fetched_at": "2026-09-25T00:00:23.243573+00:00",
+      "translation_zh": "10月1-31日：McDonald's新加坡 x G-DRAGON韩式汉堡 联名周边及PEACEMINUSONE限量商品",
+      "excerpt_zh": "McDonald's新加坡10月与G-DRAGON和PEACEMINUSONE联名，推出韩式汉堡、神秘小卡、辣味麦乐鸡回归及Hershey's软雪糕。"
     }
   ]
 }
