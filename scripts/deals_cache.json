@@ -1,211 +1,6 @@
 {
   "deals": [
     {
-      "id": "0f40b63a1400058b",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/15-september-2026-onwards-singtel-6-seniors-plan-promotion-with-340gb-5g-data-unlimited-calls-malaysia-roaming/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "15 September 2026 onwards: Singtel: $6 Seniors Plan Promotion with 340GB 5G+ Data, Unlimited Calls & Malaysia Roaming",
-      "excerpt": "Singtel is offering its 5G+ Seniors Plan from 15 September 2026 onwards at just $6 per month, with 340GB 5G+ local data, unlimited local calls and 6GB Malaysia roaming data. Find out how seniors can sign up online or at Singtel Shops and Exclusive Retailers. Continue reading 15 September 2026...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Singtel-6-Seniors-Plan-Promotion-with-340GB-5G.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-15T23:54:26+00:00",
-      "fetched_at": "2026-09-16T00:00:35.185258+00:00",
-      "translation_zh": "9月15日起：Singtel 长者套餐每月 $6，340GB 5G+ 流量、无限通话加马来西亚漫游",
-      "excerpt_zh": "Singtel 9月15日起推出 5G+ 长者套餐，每月仅 $6，含 340GB 5G+ 本地流量、无限本地通话及 6GB 马来西亚漫游流量。"
-    },
-    {
-      "id": "2099834365245362198",
-      "url": "https://x.com/GreatDealsSG/status/2099834365245362198",
-      "label": "GreatDealsSG",
-      "color": "#ef4444",
-      "deal_type": "1fl",
-      "country": "SG",
-      "fetched_at": "2026-09-16T00:00:38.762905+00:00",
-      "translation_zh": "McDonald’s 每周轮换不同 1-for-1 优惠，这周轮到哪款？🍔",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-09-15T12:15:00.000Z",
-        "display_text_range": [
-          0,
-          85
-        ],
-        "entities": {
-          "media": [
-            {
-              "display_url": "pic.x.com/SqSE6YVr6b",
-              "expanded_url": "https://x.com/GreatDealsSG/status/2099834365245362198/photo/1",
-              "indices": [
-                85,
-                108
-              ],
-              "url": "https://t.co/SqSE6YVr6b"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "gds.sg/qd4xTp",
-              "expanded_url": "https://gds.sg/qd4xTp",
-              "indices": [
-                61,
-                84
-              ],
-              "url": "https://t.co/PtHnEFqw3T"
-            }
-          ]
-        },
-        "id_str": "2099834365245362198",
-        "text": "Different McDonald’s 1-for-1 deals are available each week 🍔 https://t.co/PtHnEFqw3T https://t.co/SqSE6YVr6b",
-        "user": {
-          "id_str": "45308068",
-          "name": "Great Deals Singapore",
-          "screen_name": "GreatDealsSG",
-          "is_blue_verified": true,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/582440654132785152/UJNsUZAL_normal.png"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2099834365245362198"
-          ],
-          "editable_until_msecs": "1789478100000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "mediaDetails": [
-          {
-            "display_url": "pic.x.com/SqSE6YVr6b",
-            "expanded_url": "https://x.com/GreatDealsSG/status/2099834365245362198/photo/1",
-            "ext_media_availability": {
-              "status": "Available"
-            },
-            "indices": [
-              85,
-              108
-            ],
-            "media_url_https": "https://pbs.twimg.com/media/HSQcFxdacAATf3t.jpg",
-            "original_info": {
-              "focus_rects": [
-                {
-                  "h": 605,
-                  "w": 1080,
-                  "x": 0,
-                  "y": 745
-                },
-                {
-                  "h": 1080,
-                  "w": 1080,
-                  "x": 0,
-                  "y": 270
-                },
-                {
-                  "h": 1231,
-                  "w": 1080,
-                  "x": 0,
-                  "y": 119
-                },
-                {
-                  "h": 1350,
-                  "w": 675,
-                  "x": 101,
-                  "y": 0
-                },
-                {
-                  "h": 1350,
-                  "w": 1080,
-                  "x": 0,
-                  "y": 0
-                }
-              ],
-              "height": 1350,
-              "width": 1080
-            },
-            "sizes": {
-              "large": {
-                "h": 1350,
-                "resize": "fit",
-                "w": 1080
-              },
-              "medium": {
-                "h": 1200,
-                "resize": "fit",
-                "w": 960
-              },
-              "small": {
-                "h": 680,
-                "resize": "fit",
-                "w": 544
-              },
-              "thumb": {
-                "h": 150,
-                "resize": "crop",
-                "w": 150
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/SqSE6YVr6b"
-          }
-        ],
-        "photos": [
-          {
-            "backgroundColor": {
-              "red": 204,
-              "green": 214,
-              "blue": 221
-            },
-            "cropCandidates": [
-              {
-                "h": 605,
-                "w": 1080,
-                "x": 0,
-                "y": 745
-              },
-              {
-                "h": 1080,
-                "w": 1080,
-                "x": 0,
-                "y": 270
-              },
-              {
-                "h": 1231,
-                "w": 1080,
-                "x": 0,
-                "y": 119
-              },
-              {
-                "h": 1350,
-                "w": 675,
-                "x": 101,
-                "y": 0
-              },
-              {
-                "h": 1350,
-                "w": 1080,
-                "x": 0,
-                "y": 0
-              }
-            ],
-            "expandedUrl": "https://x.com/GreatDealsSG/status/2099834365245362198/photo/1",
-            "url": "https://pbs.twimg.com/media/HSQcFxdacAATf3t.jpg",
-            "width": 1080,
-            "height": 1350
-          }
-        ],
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
       "id": "1cd40747c92e4a46",
       "source_type": "rss",
       "source_name": "SINGPromos",
@@ -348,24 +143,6 @@
       "fetched_at": "2026-09-16T10:31:10.560098+00:00",
       "translation_zh": "日本人气汉堡排Yamamoto's Hamburg登陆老巴刹，主菜低于S$20",
       "excerpt_zh": "日式汉堡排连锁Yamamoto's Hamburg将在老巴刹开设新加坡首店，主菜价格低于S$20，日式汉堡排爱好者别错过。"
-    },
-    {
-      "id": "d296559b40ab9295",
-      "source_type": "rss",
-      "source_name": "SG榴莲",
-      "source_url": "https://sgliulian.com/shopping/new-milo-breaktime-plush-sling-bags-2026/",
-      "source_color": "#84cc16",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=sgliulian.com&sz=64",
-      "source_lang": "zh",
-      "title": "买MILO送限量玩偶毛绒包！变大更好装！各大超市/网购平台都能买到了~",
-      "excerpt": "今天睡醒就刷到了好消息！ 大家最爱的 MILO 早餐系列毛绒玩偶现在升级变大啦！ 全新设计的 MILO BREAKTIME 毛绒斜挎包 不仅保留了让人爱不释手的可爱外形 还拥有了更大的容量来装下你的日常随身小物 不管是带出去逛街、上学还是上班都没问题啦 这次毛绒斜挎包的主角 是大家熟悉并喜爱的两大经典本地风味美食~ 香兰华夫饼（Pandan Waffle） 粉红宝石饼干（Pink Gem Biscuit） 童年杀回忆美食 现在都变身成了带有可拆卸肩带的实用斜挎包，可爱与实用兼备！ 购买详情 开售时间：2026年9月15日起 线下实体店：FairPrice、Cold...",
-      "image": "https://cdn3.sgliulian.com/wp-content/uploads/2026/09/IMG_20260916093206857.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-16T01:34:07+00:00",
-      "fetched_at": "2026-09-16T10:31:12.032907+00:00",
-      "translation_zh": "买MILO送限量玩偶毛绒斜挎包！变大更好装！各大超市/网购平台都能买到",
-      "excerpt_zh": "MILO早餐系列毛绒玩偶全新升级！全新MILO BREAKTIME毛绒斜挎包容量更大，香兰华夫饼和粉红宝石饼干两大经典造型，逛街上学上班都好背。"
     },
     {
       "id": "2100142414828806217",
@@ -18302,6 +18079,60 @@
         "isEdited": false,
         "isStaleEdit": false
       }
+    },
+    {
+      "id": "be18e93963be927d",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/09/don-don-donki-mooncake-promotion-buy-1.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "DON DON DONKI Mooncake Promotion: Buy 1 Free 1 For $9.90",
+      "excerpt": "DON DON DONKI Singapore is offering a Buy 1 Free 1 deal on its mooncake for $9.90, available in-store for a limited time this Mid-Autumn Festival. Featuring four flavours inspired by the seasons: Matcha Red Bean, Matcha Strawberry Milk, Sweet Potato with Yolk, and Black Sesame with Almond Slices...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjuOxif89VoTkOn1rJil2CgwJeAE5SVMLzPPv0xS_CvgDgAQv94bBIr3qFrW89I6I58RuLj73RgaFOVmyaKOL_JKgpbzR-Mgt6RR_YlcvvfOarhduPZA7kPbSRVqjNFw9N8twT_o5q6r0bxvqEE9IpQDh0rpd7j0LyvN34LSetVBaoqnEgxWpSwv7rjoFDe/s640/all%20singapore%20deals%20donki%201-for-1%20mooncake%2026%20sep%20A.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-09-26T03:28:50+00:00",
+      "fetched_at": "2026-09-26T10:30:31.009692+00:00",
+      "translation_zh": "DON DON DONKI 中秋月饼买一送一，仅售 $9.90",
+      "excerpt_zh": "DON DON DONKI 新加坡推出月饼买一送一，仅 $9.90，中秋限时店内发售。共四种季节风味：抹茶红豆、抹茶草莓牛奶、蛋黄红薯、杏仁黑芝麻。售完即止。"
+    },
+    {
+      "id": "0119155153e9aa85",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/09/best-denki-price-drop-promotion-from-26.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Best Denki Price Drop Promotion From 26 Sep–2 Oct",
+      "excerpt": "BEST DENKI PRICE DROP DEALS FROM 26 SEP–2 OCT Best Denki is running a Members Exclusive Price Drop promotion from 26 September to 2 October 2026, featuring discounts and special offers across electronics, home appliances and selected gadgets. The promotion covers TVs, laptops, smartphones,...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQog5smL8qH9ADplp-vnzwX-ATFNen9iz_ykoRwaUwfwMRCE6_7ff_sRWB2DTzs3jnbvj2Rkx17JnSjKE5jTvCUI5uTiycndyiwuXxHgzVcwtnGGalCtzjSS3zw5y4BV1UX-hsoCMPG8DgKzQm7a6AAVwlyi_VunbAxs_YqzG-bzXmDd3WilBOlJfPke7t/s640/all%20singapore%20deals%20best%20denki%20price%20drop%20promo%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-26T00:51:52+00:00",
+      "fetched_at": "2026-09-26T10:30:31.010073+00:00",
+      "translation_zh": "Best Denki 会员特价来袭：9月26日至10月2日",
+      "excerpt_zh": "Best Denki 会员专享降价促销，9月26日至10月2日，电视、笔记本电脑、智能手机及各类家电 gadgets 全面特惠。登录会员即可享优惠价。"
+    },
+    {
+      "id": "f0dcc6f4886a9daa",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/09/giant-tampines-imm-hypermarket-deals.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Giant Tampines & IMM Hypermarket Deals From 26–27 Sep",
+      "excerpt": "GIANT TAMPINES & IMM 2-DAY EXCLUSIVE DEALS ON 26 & 27 SEP Giant is offering Tampines Hypermarket and IMM exclusives from 26–27 September 2026, with a selection of fresh food, groceries and household essentials at promotional prices. The two-day promotion includes savings on fresh produce, meat,...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjq4uXG42t3JaJAyS4lonrqdUP3oNnlCNUP54EXfqj9m66VNI25SE6vKLe9d2-eXGMW8OihI7FI7xZT6UFad56HnogfFcTbjKn8O47A9-yrrlMS_o75tQW-B0MNStTK9PZTkm4BmgEj0V6ycQJvI3tqkrm8pcmL7mSSxf1Ro-l4-mxwz1HFgLQ2szExFu6a/s640/all%20singapore%20deals%20giant%20hypermarket%20promo%2026%20sep%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-26T00:37:47+00:00",
+      "fetched_at": "2026-09-26T10:30:31.010438+00:00",
+      "translation_zh": "Giant 淡滨尼 & IMM 两天独家特惠（9月26–27日）",
+      "excerpt_zh": "Giant 淡滨尼和 IMM 两家旗舰店 9月26–27日两天独家特惠，生鲜、杂货和家居用品超值折扣。仅限这两家门店，周末采购别错过。"
     }
   ]
 }
