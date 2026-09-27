@@ -91,24 +91,6 @@
       "excerpt_zh": "DON DON DONKI 9月16-30日推出新一轮会员优惠券，DONKI App会员专享，优惠涵盖零食、饮料、生鲜等多种商品。"
     },
     {
-      "id": "130c4ff6b6d926ab",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/09/sheng-siong-blk-181-hougang-store.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Sheng Siong Blk 181 Hougang Store Opening Deals From 16 - 22 Sep",
-      "excerpt": "SHENG SIONG BLK 181 HOUGANG NEW STORE OPENS ON 16 SEP Sheng Siong has opened a new supermarket at Blk 181 Hougang Street 13 #02-01, with a 7 Days Special running from 16 to 22 September 2026. The outlet operates daily from 7am to 11pm. The official opening on 16 September features free ice cream...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi79m65RIP1qO0l3bDJFzMpwErm7FnD4AqeaL15C6snfbQjK9QyGfjS5Zx7M8eUFUqvP0tubX8lHzB-6aTZwA982RpclrL_Bt_V_Wa3phc-fYria8YJaVsS223Gh4EPiYR3Gj1MOtHirBqXw3acqqMMW7QGzMwCaOzVvzzqCKSpLw_g8u1plMwwiXVEfIFy/s640/all%20singapore%20deals%20sheng%20siong%20181%20hougang%20opening%20special%2016%20sep%20a.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-09-16T04:44:31+00:00",
-      "fetched_at": "2026-09-16T10:31:02.620038+00:00",
-      "translation_zh": "Sheng Siong 后港181座新店开业优惠，9月16-22日",
-      "excerpt_zh": "Sheng Siong 位于后港181座（Hougang Street 13 #02-01）的新店9月16日开业，开业特惠为期7天（9月16-22日），多种日用品和食材超值促销。"
-    },
-    {
       "id": "bcd658a07721e8fd",
       "source_type": "rss",
       "source_name": "EverydayOnSales",
@@ -18133,6 +18115,24 @@
       "fetched_at": "2026-09-26T10:30:31.010438+00:00",
       "translation_zh": "Giant 淡滨尼 & IMM 两天独家特惠（9月26–27日）",
       "excerpt_zh": "Giant 淡滨尼和 IMM 两家旗舰店 9月26–27日两天独家特惠，生鲜、杂货和家居用品超值折扣。仅限这两家门店，周末采购别错过。"
+    },
+    {
+      "id": "bf7198acd857784a",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/places-of-interest/kidzania-spore-50-off-tickets-on-3-oct-valid-for-visits-till-31-dec-2026-307045/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "KidZania S’pore 50% Off Tickets on 3 Oct, Valid for Visits till 31 Dec 2026",
+      "excerpt": "Half-price savings on KidZania tickets [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2024/05/KidZania-feat-singpromos.com-11-May-2024.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-26T10:45:33+00:00",
+      "fetched_at": "2026-09-27T00:00:34.131145+00:00",
+      "translation_zh": "KidZania新加坡10月3日门票半价，有效期至2026年12月31日",
+      "excerpt_zh": "KidZania门票半价优惠，省一半入场费"
     }
   ]
 }
