@@ -1,528 +1,6 @@
 {
   "deals": [
     {
-      "id": "1cd40747c92e4a46",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/dining-restaurants-food/kfc-spore-2-chicken-meals-for-10-returns-21-23-sep-2026-306629/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "KFC S’pore 2 Chicken Meals for $10 Returns 21-23 Sep 2026",
-      "excerpt": "Score two KFC chicken meals for only $10, with four chicken pieces, sides and drinks included. [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/09/KFC-feat-singpromos.com-16-Sep-2026.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-16T09:04:11+00:00",
-      "fetched_at": "2026-09-16T10:31:01.567144+00:00",
-      "translation_zh": "KFC 2份鸡肉套餐仅S$10，9月21-23日限时回归",
-      "excerpt_zh": "仅需S$10即可享两份KFC鸡肉套餐，含4块炸鸡、小食和饮料。"
-    },
-    {
-      "id": "82066f370e8f1178",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-1-for-1-oreo-mcflurry-from-17-19-sep-2026-306624/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "McDonald’s S’pore 1-for-1 OREO® McFlurry® from 17-19 Sep 2026",
-      "excerpt": "Enjoy two OREO® McFlurry® treats for the price of one [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2021/12/McDonalds-feat-9-Dec-2021.jpg",
-      "deal_type": "1fl",
-      "country": "SG",
-      "published_at": "2026-09-16T08:33:24+00:00",
-      "fetched_at": "2026-09-16T10:31:01.567532+00:00",
-      "translation_zh": "McDonald's OREO®麦旋风1-for-1，9月17-19日",
-      "excerpt_zh": "一份价格买两份OREO®麦旋风，9月17-19日限时优惠。"
-    },
-    {
-      "id": "1627eeeba8171f15",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/09/kfc-offering-two-chicken-meals-for-10.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "KFC Offering Two Chicken Meals for $10 From 21–23 Sep",
-      "excerpt": "KFC 2 CHICKEN MEALS FOR $10 IS BACK FROM 21 - 23 SEPTEMBER KFC Singapore is bringing back its 2 Chicken Meals for $10 promotion for three days only, from 21 to 23 September 2026. The two meals usually cost $31.70, giving customers $21.70 in savings during the promotion. The $10 deal includes a...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwEf70rLXjuIT1NavESWuMJv6zY4TdURD1zR6r_ViXLVsfOxmqDgAhp6RwquuUKzqz_Wa09yvgs06KUPmzRD5V8a0a9Xa1cHvkGnaS6nTX8mqbCEfFYQY5SQOqq0Jp37NjZjlVGwGNSM2oqOHx3X43zi7-df2lrjdV97thk2MZX-DWGTwPiaOf_pPRUC6i/s640/all%20singapore%20deals%20kfc%202%20meals%20for%20$10%2021%20sep%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-16T09:10:52+00:00",
-      "fetched_at": "2026-09-16T10:31:02.619005+00:00",
-      "translation_zh": "KFC两份鸡肉套餐S$10，9月21-23日回归",
-      "excerpt_zh": "KFC Singapore 2份鸡肉套餐S$10优惠回归，仅限9月21-23日三天，套餐通常包含炸鸡、小食和饮料。"
-    },
-    {
-      "id": "6f4db46c2fc3c0a8",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/09/hip-pot-launches-weekday-lunch-specials.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "HIP POT Launches Weekday Lunch Specials Starting @ $14.90++",
-      "excerpt": "HIP POT at One Holland Village is offering weekday lunch specials from just $14.90++, available Monday to Friday, 11am to 5pm. From hearty hotpot sets to grilled fish and Mala Tang options, the lunch selection brings together quality ingredients, generous portions and great value for a satisfying...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhu4ZVRWyaqadXsUz4_n4hfu63nWsgb0eKBiBjnCO8svUEza8Ir1m5cLDJfl3KgppGBNSwQAIh_NFjUiSUbDUA21VsP7FmRpKabEDr06W4NnoBIzpux8OMUEl0EklCNG-1mlOO8AO34R5PsZiuc6DlFYDBEygwbQBaYRvY2amNOLFJ-7WXrmyjtOmGK0D7h/s640/all%20singapore%20deals%20hip%20pot%20weekday%20lunch%20special%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-16T08:27:17+00:00",
-      "fetched_at": "2026-09-16T10:31:02.619430+00:00",
-      "translation_zh": "HIP POT 平日午餐特惠 S$14.90++ 起",
-      "excerpt_zh": "位于One Holland Village的HIP POT推出平日午餐特惠，S$14.90++起，周一至周五11am-5pm供应，有火锅套餐、烤鱼和麻辣烫可选。"
-    },
-    {
-      "id": "0e959769213a138c",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/09/don-don-donki-member-coupon-deals-from.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "DON DON DONKI Member Coupon Deals From 16–30 Sep",
-      "excerpt": "DONKI APP MEMBER SPECIALS UNTIL 30 SEPTEMBER DON DON DONKI is offering a new round of Member Coupon Deals from 16 to 30 September 2026, exclusively for DONKI App members. The bi-weekly promotion features special prices across fresh produce, Japanese favourites, ready-to-eat food and everyday...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbINK5R9Dlh-suBIiHJ5vmqK7S3fzeaU0LyEkl2q3sO-vNZgVa2xcAyjr95KFcGG6FXxCrpiMehWRZroECAQkGIU8WWdGE4Anupgw5Nf3K2Jj_6uZQZrG7OBA5SA0tIWxwA1iPoyc4ac6iy_LQ8CLs57hjdWw15EfMBDTSWFfXggTApF7k8441WzB2pjjb/s640/all%20singapore%20deals%20don%20don%20donki%20member%20coupon%20special%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-16T05:53:02+00:00",
-      "fetched_at": "2026-09-16T10:31:02.619746+00:00",
-      "translation_zh": "DON DON DONKI 会员优惠券，9月16-30日",
-      "excerpt_zh": "DON DON DONKI 9月16-30日推出新一轮会员优惠券，DONKI App会员专享，优惠涵盖零食、饮料、生鲜等多种商品。"
-    },
-    {
-      "id": "bcd658a07721e8fd",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/now-till-30-september-2026-burger-king-singapore-burger-king-promo-codes-e-coupons-promotion-1-for-1-spicy-chicken-king-deals-meal-offers-and-more/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "Now till 30 September 2026: Burger King Singapore: Burger King Promo Codes & E-Coupons Promotion, 1-for-1 Spicy Chicken King Deals, Meal Offers and More",
-      "excerpt": "Burger King Singapore fans can check a range of September 2026 promo codes and e-coupons covering burgers, nuggets, drinks, meal sets and more, including a 1-for-1 Spicy Chicken King promotion available until 30 September 2026. Check the latest coupon terms before ordering to enjoy the available...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Burger-King-Singapore-Burger-King-Promo-Codes-E-Coupons-Promotion.jpg",
-      "deal_type": "1fl",
-      "country": "SG",
-      "published_at": "2026-09-16T05:23:33+00:00",
-      "fetched_at": "2026-09-16T10:31:10.263837+00:00",
-      "translation_zh": "Burger King 9月优惠码与电子券：Spicy Chicken King 1-for-1等",
-      "excerpt_zh": "Burger King Singapore 2026年9月优惠码与电子券大汇总，涵盖汉堡、鸡块、饮料、套餐等，包括Spicy Chicken King 1-for-1优惠。"
-    },
-    {
-      "id": "e7bb8a2167490e4b",
-      "source_type": "rss",
-      "source_name": "Eatbook",
-      "source_url": "https://eatbook.sg/yamamotos-hamburg-singapore/",
-      "source_color": "#ef4444",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
-      "source_lang": "en",
-      "title": "Popular Japanese Hamburg Chain To Open At Lau Pa Sat With Mains Under $20",
-      "excerpt": "Yamamoto’s Hamburg opens its first Singapore restaurant Image credit: Yamamoto’s Hamburg Fans of Japanese hamburg steaks, take note: Yamamoto’s Hamburg is opening its first Singapore outlet at Lau Pa Sat , and most hamburg mains on the menu come in under $20. Image credit: ゆう【寄り道メモ】via Google Maps...",
-      "image": "https://eatbook.sg/wp-content/uploads/2026/09/yamamoto-hamburg-singapore-cover.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-09-16T08:31:35+00:00",
-      "fetched_at": "2026-09-16T10:31:10.560098+00:00",
-      "translation_zh": "日本人气汉堡排Yamamoto's Hamburg登陆老巴刹，主菜低于S$20",
-      "excerpt_zh": "日式汉堡排连锁Yamamoto's Hamburg将在老巴刹开设新加坡首店，主菜价格低于S$20，日式汉堡排爱好者别错过。"
-    },
-    {
-      "id": "2100142414828806217",
-      "url": "https://x.com/singpromos/status/2100142414828806217",
-      "label": "SINGPromos",
-      "color": "#f59e0b",
-      "deal_type": "1fl",
-      "country": "SG",
-      "fetched_at": "2026-09-16T10:31:13.559532+00:00",
-      "translation_zh": "McDonald's OREO®麦旋风1-for-1，9月17-19日",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-09-16T08:39:05.000Z",
-        "display_text_range": [
-          0,
-          173
-        ],
-        "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                86,
-                96
-              ],
-              "text": "SINGAPORE"
-            },
-            {
-              "indices": [
-                97,
-                100
-              ],
-              "text": "SG"
-            },
-            {
-              "indices": [
-                101,
-                109
-              ],
-              "text": "SGpromo"
-            },
-            {
-              "indices": [
-                110,
-                117
-              ],
-              "text": "SGsale"
-            },
-            {
-              "indices": [
-                118,
-                128
-              ],
-              "text": "SGfoodies"
-            },
-            {
-              "indices": [
-                129,
-                136
-              ],
-              "text": "SGeats"
-            },
-            {
-              "indices": [
-                137,
-                148
-              ],
-              "text": "singpromos"
-            },
-            {
-              "indices": [
-                149,
-                157
-              ],
-              "text": "SGhalal"
-            },
-            {
-              "indices": [
-                158,
-                166
-              ],
-              "text": "halalSG"
-            },
-            {
-              "indices": [
-                167,
-                173
-              ],
-              "text": "mcdsg"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "singpromos.com/dining-restaur…",
-              "expanded_url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-1-for-1-oreo-mcflurry-from-17-19-sep-2026-306624/",
-              "indices": [
-                62,
-                85
-              ],
-              "url": "https://t.co/1hVMoPxAS9"
-            }
-          ]
-        },
-        "id_str": "2100142414828806217",
-        "text": "McDonald's S'pore 1-for-1 OREO® McFlurry® from 17-19 Sep 2026 https://t.co/1hVMoPxAS9 #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #SGhalal #halalSG #mcdsg",
-        "user": {
-          "id_str": "229470448",
-          "name": "SINGPromos",
-          "screen_name": "singpromos",
-          "is_blue_verified": false,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2100142414828806217"
-          ],
-          "editable_until_msecs": "1789551545000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "card": {
-          "card_platform": {
-            "platform": {
-              "audience": {
-                "name": "production"
-              },
-              "device": {
-                "name": "iPhone",
-                "version": "13"
-              }
-            }
-          },
-          "name": "summary_large_image",
-          "url": "https://t.co/1hVMoPxAS9",
-          "binding_values": {
-            "photo_image_full_size_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image": {
-              "image_value": {
-                "height": 147,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=jpg&name=280x150",
-                "width": 280
-              },
-              "type": "IMAGE"
-            },
-            "description": {
-              "string_value": "Enjoy two OREO® McFlurry® treats for the price of one",
-              "type": "STRING"
-            },
-            "domain": {
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "thumbnail_image_large": {
-              "image_value": {
-                "height": 315,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=jpg&name=600x600",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_original": {
-              "image_value": {
-                "height": 482,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=jpg&name=orig",
-                "width": 919
-              },
-              "type": "IMAGE"
-            },
-            "site": {
-              "scribe_key": "publisher_id",
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "photo_image_full_size_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_small": {
-              "image_value": {
-                "height": 76,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=jpg&name=144x144",
-                "width": 144
-              },
-              "type": "IMAGE"
-            },
-            "creator": {
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "thumbnail_image_x_large": {
-              "image_value": {
-                "height": 482,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=png&name=2048x2048_2_exp",
-                "width": 919
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_original": {
-              "image_value": {
-                "height": 482,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=jpg&name=orig",
-                "width": 919
-              },
-              "type": "IMAGE"
-            },
-            "vanity_url": {
-              "scribe_key": "vanity_url",
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "photo_image_full_size": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 96,
-                    "rgb": {
-                      "blue": 232,
-                      "green": 233,
-                      "red": 236
-                    }
-                  },
-                  {
-                    "percentage": 2.33,
-                    "rgb": {
-                      "blue": 18,
-                      "green": 19,
-                      "red": 20
-                    }
-                  },
-                  {
-                    "percentage": 2.06,
-                    "rgb": {
-                      "blue": 117,
-                      "green": 118,
-                      "red": 118
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "title": {
-              "string_value": "McDonald’s S’pore 1-for-1 OREO® McFlurry® from 17-19 Sep 2026",
-              "type": "STRING"
-            },
-            "summary_photo_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 96,
-                    "rgb": {
-                      "blue": 232,
-                      "green": 233,
-                      "red": 236
-                    }
-                  },
-                  {
-                    "percentage": 2.33,
-                    "rgb": {
-                      "blue": 18,
-                      "green": 19,
-                      "red": 20
-                    }
-                  },
-                  {
-                    "percentage": 2.06,
-                    "rgb": {
-                      "blue": 117,
-                      "green": 118,
-                      "red": 118
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "summary_photo_image_x_large": {
-              "image_value": {
-                "height": 482,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=png&name=2048x2048_2_exp",
-                "width": 919
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 96,
-                    "rgb": {
-                      "blue": 232,
-                      "green": 233,
-                      "red": 236
-                    }
-                  },
-                  {
-                    "percentage": 2.33,
-                    "rgb": {
-                      "blue": 18,
-                      "green": 19,
-                      "red": 20
-                    }
-                  },
-                  {
-                    "percentage": 2.06,
-                    "rgb": {
-                      "blue": 117,
-                      "green": 118,
-                      "red": 118
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "photo_image_full_size_x_large": {
-              "image_value": {
-                "height": 482,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=png&name=2048x2048_2_exp",
-                "width": 919
-              },
-              "type": "IMAGE"
-            },
-            "card_url": {
-              "scribe_key": "card_url",
-              "string_value": "https://t.co/1hVMoPxAS9",
-              "type": "STRING"
-            },
-            "summary_photo_image_original": {
-              "image_value": {
-                "height": 482,
-                "url": "https://pbs.twimg.com/card_img/2100142415038529536/LuY65vku?format=jpg&name=orig",
-                "width": 919
-              },
-              "type": "IMAGE"
-            }
-          }
-        },
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
       "id": "d0d71e4f772088e4",
       "source_type": "rss",
       "source_name": "SINGPromos",
@@ -18133,6 +17611,150 @@
       "fetched_at": "2026-09-27T00:00:34.131145+00:00",
       "translation_zh": "KidZania新加坡10月3日门票半价，有效期至2026年12月31日",
       "excerpt_zh": "KidZania门票半价优惠，省一半入场费"
+    },
+    {
+      "id": "e7f60c428adc2a01",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/happenings/royal-caribbean-singapore-roadshow-at-nex-from-28-sep-to-4-oct-2026-307052/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Royal Caribbean Singapore Roadshow at NEX from 28 Sep to 4 Oct 2026",
+      "excerpt": "Cruise deals, extra passenger savings and a free blind box await [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/09/Royal-Caribbean-feat-singpromos.com-27-Sep-2026.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-09-27T03:03:24+00:00",
+      "fetched_at": "2026-09-27T10:30:09.519484+00:00",
+      "translation_zh": "Royal Caribbean 新加坡路演 9月28日–10月4日登陆 NEX",
+      "excerpt_zh": "邮轮优惠、同行乘客额外立省，现场还有免费盲盒等你来拿。"
+    },
+    {
+      "id": "9cc6c21fbc40777e",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/09/kfc-breakfast-promotion-every-mon-wed.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "KFC Breakfast Promotion Every Mon - Wed: Up To 40% Off On GrabFood & foodpanda",
+      "excerpt": "GET UP TO 40% OFF KFC BREAKFAST EVERY MONDAY TO WEDNESDAY ON GRABFOOD & FOODPANDA KFC Singapore is offering up to 40% off selected breakfast items on GrabFood and foodpanda from 28 September to 31 December 2026. Available every Monday to Wednesday, the promotion features selected KFC breakfast...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYd3O8oXGu0yeEsVPo8YXkgalVdJ8tacrZzEw4K_6JEt7ogj5LahqiXftAkspXORVnhBFiqDFxBHQWVRa-LptaAIkMZb4JblDm4IxIYddFeknYo4H6pzDcLclXPj5346IfbbZx_Zu5lH8JwWXLrhgfXnLH8GJZgUaSJj_rE1RTQvjNluqLDPPFd12ZfD-C/s640/all%20singapore%20deals%20kfc%20delivery%2040%20off%2028%20sep%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-27T04:36:50+00:00",
+      "fetched_at": "2026-09-27T10:30:10.135699+00:00",
+      "translation_zh": "KFC 早餐优惠：每周一至周三 GrabFood 和 foodpanda 高达 40% 折扣",
+      "excerpt_zh": "每周一至周三，在 GrabFood 和 foodpanda 订购 KFC 指定早餐可享高达 40% 折扣。"
+    },
+    {
+      "id": "50fb2720f193f3b7",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/09/popeyes-50-off-1-for-1-delivery-deals.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Popeyes 50% Off & 1-for-1 Delivery Deals From 28 Sep - 27 Oct",
+      "excerpt": "GET 50% OFF ON GRAB & 1-FOR-1 ON FOODPANDA (28 SEP - 17 OCT) Popeyes Singapore is launching a month-long delivery promotion from 28 September, 10am to 27 October 2026, 10am, with separate deals available through Grab and foodpanda. Customers ordering through Grab can enjoy 50% off selected Popeyes...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp4i6UIe5GwBJCHA29sofFBzEcBMCDXOL_RqmO3pItVxu06oq_ambuW_oNlzAH2Lf2lB8isJRdDUyBPXysJJHwIfHS1DvOt95Lpi4N8FkKs_OMKCFIZA_55GW2a63WaI2yNuxDkXdacjvlu5di1bqFOIC4BxL5SAIeg8nlFegHmYQW1xx3TbYPw5TLv_GD/s640/all%20singapore%20deals%20popeyes%20delivery%20deals%2028%20sep%20a.jpg",
+      "deal_type": "1fl",
+      "country": "SG",
+      "published_at": "2026-09-27T04:10:38+00:00",
+      "fetched_at": "2026-09-27T10:30:10.136391+00:00",
+      "translation_zh": "Popeyes 外送优惠：Grab 半价 + foodpanda 买一送一（9月28日–10月27日）",
+      "excerpt_zh": "9月28日起 Popeyes 推出为期一个月的外送优惠：Grab 订单半价，foodpanda 买一送一。"
+    },
+    {
+      "id": "a6e69c0b15b64808",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/25-28-september-2026-luckin-coffee-singapore-1-for-1-coffee-promotion-buy-one-get-one-free-during-payday/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "25–28 September 2026: luckin coffee Singapore 1-for-1 Coffee Promotion – Buy One, Get One Free During Payday",
+      "excerpt": "luckin coffee Singapore is making payday coffee breaks more rewarding with a 1-for-1 coffee promotion from 25 to 28 September 2026. Order through the luckin coffee app and enjoy a second coffee as part of this limited-time deal. Continue reading 25–28 September 2026: luckin coffee Singapore 1-for-1...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/luckin-coffee-Singapore-Offers-1-for-1-Coffee-for-Payday-Treats.jpg",
+      "deal_type": "1fl",
+      "country": "SG",
+      "published_at": "2026-09-27T05:03:52+00:00",
+      "fetched_at": "2026-09-27T10:30:17.075077+00:00",
+      "translation_zh": "luckin coffee 发薪日买一送一咖啡促销（9月25日–28日）",
+      "excerpt_zh": "9月25日至28日，luckin coffee 买一送一，发薪日的咖啡时光更划算。"
+    },
+    {
+      "id": "353f348cf29d6222",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/27-29-september-2026-sheng-siong-seafood-promotion-fresh-grouper-seabass-threadfin-salmon-more-from-0-88-100g/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "27–29 September 2026: Sheng Siong Seafood Promotion – Fresh Grouper, Seabass, Threadfin, Salmon & More from $0.88/100g",
+      "excerpt": "Sheng Siong seafood promotion in Singapore is bringing a range of fresh fish and seafood deals from 23–29 September 2026, including a special 2-day promotion from 27–28 September. Find fresh seabass, grouper, threadfin, salmon, squid, crab and more from just $0.88/100g, while stocks last. Continue...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Sheng-Siong-Seafood-Promotion-from-0.88100g-–-27–29-Sep-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-27T02:13:07+00:00",
+      "fetched_at": "2026-09-27T10:30:17.075266+00:00",
+      "translation_zh": "Sheng Siong 海鲜促销：新鲜石斑鱼、鲈鱼、马友鱼、三文鱼低至 $0.88/100g（至9月29日）",
+      "excerpt_zh": "Sheng Siong 海鲜促销火热进行，多种新鲜鱼类和海鲜优惠，还有特别 2 天虾类促销。"
+    },
+    {
+      "id": "2fa7e00ca81e92f1",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/1-june-30-september-2026-snow-city-singapore-farewell-promotion-up-to-30-off-tickets-from-16-final-snow-experience-before-closure/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "1 June–30 September 2026: Snow City Singapore Farewell Promotion – Up to 30% OFF, Tickets From $16, Final Snow Experience Before Closure",
+      "excerpt": "Snow City Singapore is saying goodbye after 26 years. From 1 June to 30 September 2026, enjoy the One Last Snowfall Farewell Promotion with tickets from just $16 for children and $19 for adults, including 1-hour snow play and an ice bumper car ride. The final day is 30 September 2026, so this is...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Snow-City-Singapore-Farewell-Promotion-–-Up-to-30-OFF-Tickets-From-16-Final-Snow-Experience-Before-Closure.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-27T01:05:32+00:00",
+      "fetched_at": "2026-09-27T10:30:17.075485+00:00",
+      "translation_zh": "Snow City 告别促销：门票 $16 起，高达 30% 折扣（至9月30日）",
+      "excerpt_zh": "经营 26 年的 Snow City 即将谢幕，推出「最后一场雪」告别促销，门票 $16 起，高达 30% 折扣。"
+    },
+    {
+      "id": "4e4ec2b6bf098bdb",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/26-27-september-2026-marrybrown-singapore-promotion-and-marsiling-yew-tee-welcome-event-with-smoky-cheese-overload-at-fuchun-cc/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "26–27 September 2026: Marrybrown Singapore Promotion and Marsiling-Yew Tee Welcome Event with Smoky Cheese Overload at Fuchun CC",
+      "excerpt": "Marrybrown Singapore is welcoming Marsiling-Yew Tee with a two-day family event at Fuchun CC on 26 and 27 September 2026. Discover robotics and AI experiences, drone challenges, cultural performances, family activities and Smoky Cheese Overload meals from 10am to 6pm. Continue reading 26–27...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/Marrybrown-Singapore-Promotion-and-Marsiling-Yew-Tee-Welcome-Event-with-Smoky-Cheese-Overload-at-Fuchun-CC.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-09-27T00:58:06+00:00",
+      "fetched_at": "2026-09-27T10:30:17.075680+00:00",
+      "translation_zh": "Marrybrown Marsiling-Yew Tee 欢迎活动：Smoky Cheese Overload 新品登场（9月26日–27日）",
+      "excerpt_zh": "9月26日至27日，Marrybrown 在 Fuchun CC 举办两天亲子活动，新品 Smoky Cheese Overload 同步登场。"
+    },
+    {
+      "id": "6ceef40c328c5030",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/27-september-2026-myrepublic-singapore-opening-promotion-at-tampines-1-with-up-to-420-savings-free-vouchers-installation-and-goodie-bag/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "27 September 2026: MyRepublic Singapore: Opening Promotion at Tampines 1 with Up to $420 Savings, Free Vouchers, Installation and Goodie Bag",
+      "excerpt": "MyRepublic Singapore is bringing its opening specials to Tampines 1, with selected broadband plans offering up to $420 in savings, free shopping vouchers, free installation, free NLT activation and a free goodie bag. Selected HyperSpeed 10Gbps Broadband plans start from $16.99/month, while GAMER+...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/09/MyRepublic-Tampines-1-Opening-Promotion-Save-Up-to-420.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-09-27T00:51:51+00:00",
+      "fetched_at": "2026-09-27T10:30:17.075841+00:00",
+      "translation_zh": "MyRepublic Tampines 1 开业促销：指定宽带最高省 $420，还送购物券",
+      "excerpt_zh": "MyRepublic 开业优惠登陆 Tampines 1，指定宽带套餐最高省 $420，还附赠免费购物券。"
     }
   ]
 }
