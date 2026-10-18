@@ -1,42 +1,6 @@
 {
   "deals": [
     {
-      "id": "44a5132bf6608e34",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/happenings/royal-caribbean-sg-roadshow-at-waterway-point-with-cruise-deals-till-11-oct-2026-307796/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Royal Caribbean SG roadshow at Waterway Point with cruise deals till 11 Oct 2026",
-      "excerpt": "Enjoy up to 60% off second guest fares, free guest deals and fly-cruise packages [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/10/Royal-Caribbean-feat-singpromos.com-9-Oct-2026.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-09T06:39:50+00:00",
-      "fetched_at": "2026-10-09T10:30:49.214852+00:00",
-      "translation_zh": "Royal SG 河畔坊路展邮轮优惠至 2026年10月11日",
-      "excerpt_zh": "第二位乘客船票最高6折，还有免费客人优惠和飞行+邮轮套餐。"
-    },
-    {
-      "id": "f65a03d95a8a7157",
-      "source_type": "rss",
-      "source_name": "Eatbook",
-      "source_url": "https://eatbook.sg/molly-tea-hillion-mall/",
-      "source_color": "#ef4444",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
-      "source_lang": "en",
-      "title": "Molly Tea Has 1-For-1 Opening Promo At Hillion Mall: Here’s What To Expect",
-      "excerpt": "Molly Tea has a new store in Bukit Panjang Image credit: Molly Tea I visit 313 Somerset often, and here’s my regular itinerary: dinner at Bari Bari Steak , a sweet treat at Yo-Chi Frozen Yoghurt , and a drink to end the day at Molly Tea . Sometimes, though, those cravings strike when I’m all the...",
-      "image": "https://eatbook.sg/wp-content/uploads/2026/10/molly-tea-coverpic.jpg",
-      "deal_type": "1fl",
-      "country": "SG",
-      "published_at": "2026-10-09T06:26:01+00:00",
-      "fetched_at": "2026-10-09T10:30:58.828072+00:00",
-      "translation_zh": "Molly Tea Hillion Mall新店开业买1送1优惠抢先看",
-      "excerpt_zh": "Molly Tea在武吉班让Hillion Mall开了新店，开业期间有买1送1优惠，一起来看看有什么好喝的。"
-    },
-    {
       "id": "df736c124d269f2d",
       "source_type": "rss",
       "source_name": "SINGPromos",
@@ -287,96 +251,6 @@
       "fetched_at": "2026-10-10T00:01:04.498748+00:00",
       "translation_zh": "SUKIYA 月见蛋牛肉寿喜烧火锅套餐上市（10月9日起）",
       "excerpt_zh": "SUKIYA 新套餐：嫩牛肉在咸香汤底中慢煮，配上双倍溏心蛋。"
-    },
-    {
-      "id": "5ac1923a40783448",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/9-10-october-2026-la-mer-free-travel-sized-skincare-sample-and-dopa-ice-cream-promotion-at-marina-bay-sands-singapore-no-purchase-required/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "9-10 October 2026: La Mer: FREE Travel-Sized Skincare Sample and Dopa Ice Cream Promotion at Marina Bay Sands, Singapore – No Purchase Required",
-      "excerpt": "Enjoy a touch of luxury for FREE at La Mer's Crèmer y experience at The Shoppes at Marina Bay Sands on 9-10 October 2026. Discover La Mer's moisturising creams, complete the QR-code journey-card activity and redeem a FREE travel-sized skincare sample plus complimentary Dopa ice cream, with no...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/La-Mer-FREE-Travel-Sized-Skincare-Sample-and-Dopa-Ice-Cream.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-09T12:19:56+00:00",
-      "fetched_at": "2026-10-10T00:01:04.498879+00:00",
-      "translation_zh": "La Mer 免费护肤小样+Dopa冰淇淋（10月9–10日，滨海湾金沙）",
-      "excerpt_zh": "10月9–10日到金沙 La Mer 体验站，免费领护肤小样和 Dopa 冰淇淋。"
-    },
-    {
-      "id": "669ef8594d423f31",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/8-18-october-2026-decathlon-free-8-gift-card-with-no-minimum-spend-and-free-shopping-bag-promotion-at-junction-8-singapore/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "8-18 October 2026: Decathlon: Free $8 Gift Card with No Minimum Spend and Free Shopping Bag Promotion at Junction 8 Singapore",
-      "excerpt": "Get a FREE $8 Decathlon gift card with no minimum spend when you complete 8,000 steps in a single day, plus a FREE shopping bag at Decathlon Junction 8 from 8-18 October 2026. Track your steps, prepare your Decathlon app membership and enjoy extra savings on your next sports shopping trip. Continue...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Decathlon-Free-8-Gift-Card-with-No-Minimum-Spend-and-Free.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-09T11:54:37+00:00",
-      "fetched_at": "2026-10-10T00:01:04.499021+00:00",
-      "translation_zh": "Decathlon 单日走满8000步免费领$8礼卡（10月8–18日，Junction 8）",
-      "excerpt_zh": "10月8–18日 Junction 8 店，单日走满8000步即送$8礼卡，无最低消费，还送购物袋。"
-    },
-    {
-      "id": "6025bf7879358fce",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/9-october-2026-onwards-automobile-association-of-singapore-aas-aa-youth-membership-promotion-with-a-choice-of-sanag-wireless-speaker-or-headphones-and-24-7-roadside-assistance/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "9 October 2026 Onwards: Automobile Association of Singapore (AAS): AA Youth Membership Promotion with a Choice of Sanag Wireless Speaker or Headphones and 24/7 Roadside Assistance",
-      "excerpt": "Young drivers in Singapore can explore the AA Youth Membership promotion from 9 October 2026 onwards. Enjoy access to 24/7 Roadside Assistance Service and exclusive member benefits, plus choose a Sanag X6SII Pro Wireless Portable Speaker or Sanag Z60S Wireless Headphones as a welcome gift when...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Automobile-Association-of-Singapore-AAS.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-09T11:50:29+00:00",
-      "fetched_at": "2026-10-10T00:01:04.499166+00:00",
-      "translation_zh": "AAS 青年会员促销：入会送Sanag蓝牙音箱（10月9日起）",
-      "excerpt_zh": "年轻车主10月9日起加入新加坡汽车协会青年会员，可选Sanag蓝牙音箱等好礼。"
-    },
-    {
-      "id": "f201783be69b57f5",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/9-october-2026-onwards-old-chang-kee-singapore-ultimate-snack-race-featuring-pop-a-corn-tots-cheezy-chicken-ball-onstik-and-crab-nugget-onstik/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "9 October 2026 onwards: Old Chang Kee Singapore: Ultimate Snack Race Featuring Pop A Corn Tots, Cheezy Chicken Ball OnStik and Crab Nugget OnStik",
-      "excerpt": "Old Chang Kee Singapore kicks off its Ultimate Snack Race from 9 October 2026 onwards, featuring Pop A Corn Tots, Cheezy Chicken Ball OnStik and Crab Nugget OnStik. Discover the three featured snacks, plan your next snack break and decide which contender deserves the crown. Check the official...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Old-Chang-Kee-Singapore-Ultimate-Snack-Race-Featuring-Pop.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-09T11:43:48+00:00",
-      "fetched_at": "2026-10-10T00:01:04.499302+00:00",
-      "translation_zh": "Old Chang Kee 零食大赛：Pop A Corn Tots、芝士鸡球OnStik新登场（10月9日起）",
-      "excerpt_zh": "老曾记10月9日起推出多款新零食：Pop A Corn Tots、芝士鸡球OnStik等。"
-    },
-    {
-      "id": "89290e02a58ceec3",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/3-31-october-2026-auntie-annes-singapore-kids-eat-free-promotion-get-1-free-set-of-3-pretzel-stix-with-every-qualifying-adult-pretzel-purchase-every-saturday-and-sunday-12pm/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "3-31 October 2026: Auntie Anne’s Singapore: Kids Eat Free Promotion – Get 1 FREE Set of 3 Pretzel Stix with Every Qualifying Adult Pretzel Purchase, Every Saturday and Sunday, 12pm–5pm at Participating Outlets",
-      "excerpt": "Treat the little ones to something delicious with Auntie Anne’s Singapore Kids Eat Free promotion from 3 to 31 October 2026. Every Saturday and Sunday, from 12pm to 5pm, enjoy one FREE set of three Pretzel Stix with every qualifying adult pretzel purchase. A tasty way to add extra value to your...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Auntie-Annes-Singapore-Kids-Eat-Free-Promotion.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-09T11:41:43+00:00",
-      "fetched_at": "2026-10-10T00:01:04.499441+00:00",
-      "translation_zh": "Auntie Anne’s 儿童免费吃：周末送3支Pretzel Stix（10月3–31日）",
-      "excerpt_zh": "10月3–31日每逢周六日，符合条件的消费即免费送一份3支装Pretzel Stix。"
     },
     {
       "id": "2108538729350746323",
@@ -14804,6 +14678,646 @@
             }
           }
         },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "28c0feca6951cdae",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/10/auntie-annes-halloween-promotion-buy-3.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Auntie Anne's Halloween Promotion: Buy 3 Get 1 Free From 19–23 Oct",
+      "excerpt": "HALLOWEEN SPECIAL: BUY 3 GET 1 FREE PRETZEL AT AUNTIE ANNE'S FROM 19–23 OCTOBER Auntie Anne's is celebrating Halloween early with a Buy 3 Get 1 Free promotion from 19 to 23 October 2026. Customers who purchase three items can receive one free item from the Signature Pretzel category, with the free...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYnJWr9-U4LZo63qbU60cGpzNSUx6ap3fX2mBC2OeX9GPw5lYsW63u4UU6p1UEMWODDMGVRlv3NDbNts7RfbkFk4ghoa_ODykdBhQA4a0DXCM1aR_29xR8ZyGq79Wiv_zj6N7ViA78UH_qI1k5EdXFlFRDuThqVckwESgFnh8Odlzw7TZUbVdQLOuqusqf/s640/all%20singapore%20deals%20auntie%20annes%20halloween%2019%20oct%20a.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-18T06:37:41+00:00",
+      "fetched_at": "2026-10-18T10:30:40.680577+00:00",
+      "translation_zh": "Auntie Anne's 万圣节优惠：10月19–23日买3送1",
+      "excerpt_zh": "Auntie Anne's 提前庆祝万圣节，10月19至23日推出买3送1优惠：购买任意3件商品，即可免费获得1件 Signature Pretzel 系列商品，免费商品为三者中价格最低的一款。"
+    },
+    {
+      "id": "6fd7a666be7060c3",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/10/pastamania-1-for-1-pasta-promotion-from.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "PastaMania 1-for-1 Pasta Promotion From 19–23 October 2026",
+      "excerpt": "PASTAMANIA 1-FOR-1 PASTA PROMOTION FOR WORLD PASTA DAY 2026 PastaMania is celebrating World Pasta Day 2026 with a 1-for-1 pasta promotion from 19 to 23 October 2026. Customers can enjoy 1-for-1 pasta on any pasta selection, making it a good opportunity to order their favourite pasta dishes or try...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2SRR7ljGMypbXpD4aQKaPTe2KgYK9_A9sfWN8tV4J5vCNr67WF4KQHa0EEkEP79fCS_WmjLAJayIVpGU_kuspiybny-gqQOAwx2ISjdb3dilQhyv_zXJrSwRhXs67ZTQWvf6vRVT3jMEMqlkO9MpIkjWhwEU_iDjrkXGKl6rX1Ikwy7rW-N2Ej2zwGKXK/s640/all%20singapore%20deals%20pastamania%201-for-1%2019%20oct%20a.jpg",
+      "deal_type": "1fl",
+      "country": "SG",
+      "published_at": "2026-10-18T03:56:07+00:00",
+      "fetched_at": "2026-10-18T10:30:40.681501+00:00",
+      "translation_zh": "PastaMania 世界意面日 1-for-1 意面优惠（10月19–23日）",
+      "excerpt_zh": "PastaMania 为庆祝2026世界意面日，10月19至23日推出全场意面 1-for-1 优惠。任意意面都能买一送一，是重温最爱口味或尝试新口味的好机会。"
+    },
+    {
+      "id": "1aff32827f173f13",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/10/sushi-tei-jewel-reopening-promotion.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Sushi Tei Jewel Reopening Promotion: FREE Salmon Sashimi & $6 Whisky",
+      "excerpt": "Jewel Changi’s Sushi Tei is celebrating its reopening with two exclusive dining deals: 19 to 25 October 2026 : Sip on Kirin Fuji Sanroku 50 Degree Whisky at just $6 per glass! Limited to the first 20 orders daily. 26 October to 1 November 2026 : Enjoy Free Salmon Sashimi (3pcs) with a minimum...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi5pTngWy5DU2e_cUUXx6Sx2vesqUQmLGwiJlNAX7xVYXi2epQCjTMt54IrmY-f0h2k3lnmI1cpbkxQlMvGLKrV9F3UCyNQAKSSIr_TzaieMjgwSaOUduCz0-WHOvqL9bVKJG0qlKJ5RVH2DBNBWsV7dUNbYGXkJ-NDrw8SMQBpIX0qVwZcElXIi_VkSHOu/s640/all%20singapore%20deals%20sushi%20tei%20jewl%20reopneing%20special%2019%20oct%20a.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-18T02:44:08+00:00",
+      "fetched_at": "2026-10-18T10:30:40.682023+00:00",
+      "translation_zh": "Sushi Tei Jewel 重开优惠：免费三文鱼刺身 & $6 威士忌",
+      "excerpt_zh": "Jewel Changi 的 Sushi Tei 重开庆祝，推出两项专属优惠：10月19至25日，Kirin Fuji Sanroku 50度威士忌每杯仅售 $6，每日限前20份；10月26日至11月1日，消费满额即赠免费三文鱼刺身（3片）。"
+    },
+    {
+      "id": "33bfe49c3146c5ce",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/10/mcdonalds-690-pre-payday-weekday-deals.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "McDonald's App Exclusive $6.90 Pre-Payday Weekday Deals From 19 - 23 Oct",
+      "excerpt": "McDonald's is offering MyM app exclusive weekday $6.90 deals under its \"Members Save More\" pre-payday promotion Monday - Wednesday Scrambled Egg Burger with Sausage Meal from $6.90 (U.P. from $8.00). Valid Monday to Wednesday during breakfast hours. T&Cs apply and can be found in the app. McCrispy...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiUq0tNJlEBcIBAJ3dneDr3ktZFw8DQxPXeIVJc1H8bIwSB50PkVWROYMbMSNIge3YBCX1Sroa0PpoBsq6V8zNBImhWoxNVwu1bRWR2gsqrnAT3rn0KDdvSBzd3yX6uD4aSuffL0EZfFOJSNcodlRu-a9mCV_54NR_MI4_y5MCMZX3Y2QO-gn3FcO7J6Se/s640/all%20singapore%20deals%20mcdonald's%20app%20pre-payday%20deals%2019%20oct%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-18T01:58:48+00:00",
+      "fetched_at": "2026-10-18T10:30:40.682542+00:00",
+      "translation_zh": "McDonald's App 专属 $6.90 发薪前工作日优惠（10月19–23日）",
+      "excerpt_zh": "McDonald's 推出 MyM App 专属的\"Members Save More\"发薪前工作日优惠，低至 $6.90：周一至周三早餐时段 Scrambled Egg Burger with Sausage 套餐 $6.90 起（原价 $8.00 起），详细条款见 App 内说明。"
+    },
+    {
+      "id": "b619159e8a13b341",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/08/dunkin-buy-1-get-1-free-sunny-egg.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Dunkin’ Buy 1 Get 1 FREE Sunny Egg Sunday Deal",
+      "excerpt": "BUY 1, GET 1 FREE DUNKIN' SUNNY EGG THIS SUNDAY Dunkin’ is running a Sunday Buy 1, Get 1 FREE Sunny Egg promotion at selected outlets. Buy any two eligible Sunny Egg items and the lower-priced Sunny Egg will be free. Customers can choose from options including whole egg or egg white, with selected...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIHPWfXzCm4kM-iskh-YhDPSTR4_W_Jnefd_1oBtV0qu5K035mSEMIs9mbdDIMTRvU7TilsgvzWfrb5Ad4hNAOVTxJVB6N_-iR3ne0oMkqfW-hSE6YCAGjUO13Cd2_3RX3uRRrl9Yt90xLpZz0rPIBlWu2mVcxfSgWIH3CSRDcC-ByJ5V953OPS4pDlEfj/s640/all%20singapore%20deals%20dunkin%20sunday%201-for-1%20A.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-18T01:32:10+00:00",
+      "fetched_at": "2026-10-18T10:30:40.683066+00:00",
+      "translation_zh": "Dunkin' 周日买1送1 Sunny Egg 优惠",
+      "excerpt_zh": "Dunkin' 周日限定买1送1！购买任意两件 Sunny Egg 系列商品，价格较低的那件免费。全蛋或蛋白口味均可选，仅限指定门店参与。"
+    },
+    {
+      "id": "1fe1332fa85f88f3",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/10/mr-bean-buy-1-free-1-soymilk-on-18-oct.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Mr Bean Offering Buy 1 Free 1 Soymilk On 18 Oct",
+      "excerpt": "Mr Bean is bringing a simple yet enticing treat on 18 October. Customers can enjoy a buy-one-get-one-free deal on soymilk beverages, making it the perfect excuse to indulge in their signature drinks while sharing the experience with a friend or loved one. This offer applies to all drinks on the...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik1lFAclzCwDAA0FRXBMEYwTUsQ-kaKQ5ZtiInUj6JaqozUGbc3rl8uS5flzObTLz-GHPqofUmrxSvHM6UDR2i2eL2d-nASzBzA9Hy46zBqaNKcEz8Hro-LjfEsmWAbV3Uj359BB-vrvy3yN531QjhrzFC_Pqi-Y98_ZOpK3ULhL748mdhyphenhyphen1U_2I-lqCDg/s640/all%20singapore%20deals%20mr%20bean%201-for-1%20a.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-18T01:26:34+00:00",
+      "fetched_at": "2026-10-18T10:30:40.683362+00:00",
+      "translation_zh": "Mr Bean 10月18日豆奶买1送1",
+      "excerpt_zh": "Mr Bean 10月18日带来豆奶买一送一优惠，所有饮品均适用。趁着优惠享用招牌豆奶，和朋友或家人一起分享正合适。"
+    },
+    {
+      "id": "2111735236153536981",
+      "url": "https://x.com/GreatDealsSG/status/2111735236153536981",
+      "label": "GreatDealsSG",
+      "color": "#ef4444",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-10-18T10:30:53.331460+00:00",
+      "translation_zh": "不用飞日本也能吃到！Baskin-Robbins SG 推出 Popping Shower、Matcha 和 Musk Melon 冰淇淋",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-10-18T08:24:49.000Z",
+        "display_text_range": [
+          0,
+          183
+        ],
+        "entities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/xrSWUUh6V8",
+              "expanded_url": "https://x.com/GreatDealsSG/status/2111735236153536981/photo/1",
+              "indices": [
+                184,
+                207
+              ],
+              "url": "https://t.co/xrSWUUh6V8"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "gds.sg/EEPih9",
+              "expanded_url": "https://gds.sg/EEPih9",
+              "indices": [
+                160,
+                183
+              ],
+              "url": "https://t.co/KXHeOdahM7"
+            }
+          ]
+        },
+        "id_str": "2111735236153536981",
+        "text": "No need to book flights to Japan for this one. Baskin-Robbins SG now has Popping Shower, Matcha and Musk Melon ice cream! All 3 flavours in one cone for S$8.50 https://t.co/KXHeOdahM7 https://t.co/xrSWUUh6V8",
+        "user": {
+          "id_str": "45308068",
+          "name": "Great Deals Singapore",
+          "screen_name": "GreatDealsSG",
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/582440654132785152/UJNsUZAL_normal.png"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2111735236153536981"
+          ],
+          "editable_until_msecs": "1792315489000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "mediaDetails": [
+          {
+            "display_url": "pic.x.com/xrSWUUh6V8",
+            "expanded_url": "https://x.com/GreatDealsSG/status/2111735236153536981/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "indices": [
+              184,
+              207
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/HU5j0okbgAAkdb2.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 448,
+                  "w": 800,
+                  "x": 0,
+                  "y": 251
+                },
+                {
+                  "h": 800,
+                  "w": 800,
+                  "x": 0,
+                  "y": 75
+                },
+                {
+                  "h": 912,
+                  "w": 800,
+                  "x": 0,
+                  "y": 19
+                },
+                {
+                  "h": 1000,
+                  "w": 500,
+                  "x": 275,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 800,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1000,
+              "width": 800
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "resize": "fit",
+                "w": 800
+              },
+              "medium": {
+                "h": 1000,
+                "resize": "fit",
+                "w": 800
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xrSWUUh6V8"
+          },
+          {
+            "display_url": "pic.x.com/xrSWUUh6V8",
+            "expanded_url": "https://x.com/GreatDealsSG/status/2111735236153536981/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "indices": [
+              184,
+              207
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/HU5j0ombAAAe0Za.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 918,
+                  "w": 1639,
+                  "x": 0,
+                  "y": 411
+                },
+                {
+                  "h": 1639,
+                  "w": 1639,
+                  "x": 0,
+                  "y": 51
+                },
+                {
+                  "h": 1868,
+                  "w": 1639,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1024,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1639,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 2048,
+              "width": 1639
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1639
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 960
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xrSWUUh6V8"
+          },
+          {
+            "display_url": "pic.x.com/xrSWUUh6V8",
+            "expanded_url": "https://x.com/GreatDealsSG/status/2111735236153536981/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "indices": [
+              184,
+              207
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/HU5j0oXb0AAz1FD.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 918,
+                  "w": 1639,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1639,
+                  "w": 1639,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1868,
+                  "w": 1639,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1024,
+                  "x": 256,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1639,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 2048,
+              "width": 1639
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1639
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 960
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xrSWUUh6V8"
+          },
+          {
+            "display_url": "pic.x.com/xrSWUUh6V8",
+            "expanded_url": "https://x.com/GreatDealsSG/status/2111735236153536981/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "indices": [
+              184,
+              207
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/HU5j0ona8AA2vrd.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 605,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 69
+                },
+                {
+                  "h": 1080,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1231,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1350,
+                  "w": 675,
+                  "x": 169,
+                  "y": 0
+                },
+                {
+                  "h": 1350,
+                  "w": 1080,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1350,
+              "width": 1080
+            },
+            "sizes": {
+              "large": {
+                "h": 1350,
+                "resize": "fit",
+                "w": 1080
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 960
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/xrSWUUh6V8"
+          }
+        ],
+        "photos": [
+          {
+            "backgroundColor": {
+              "red": 204,
+              "green": 214,
+              "blue": 221
+            },
+            "cropCandidates": [
+              {
+                "h": 448,
+                "w": 800,
+                "x": 0,
+                "y": 251
+              },
+              {
+                "h": 800,
+                "w": 800,
+                "x": 0,
+                "y": 75
+              },
+              {
+                "h": 912,
+                "w": 800,
+                "x": 0,
+                "y": 19
+              },
+              {
+                "h": 1000,
+                "w": 500,
+                "x": 275,
+                "y": 0
+              },
+              {
+                "h": 1000,
+                "w": 800,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "expandedUrl": "https://x.com/GreatDealsSG/status/2111735236153536981/photo/1",
+            "url": "https://pbs.twimg.com/media/HU5j0okbgAAkdb2.jpg",
+            "width": 800,
+            "height": 1000
+          },
+          {
+            "backgroundColor": {
+              "red": 204,
+              "green": 214,
+              "blue": 221
+            },
+            "cropCandidates": [
+              {
+                "h": 918,
+                "w": 1639,
+                "x": 0,
+                "y": 411
+              },
+              {
+                "h": 1639,
+                "w": 1639,
+                "x": 0,
+                "y": 51
+              },
+              {
+                "h": 1868,
+                "w": 1639,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1024,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1639,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "expandedUrl": "https://x.com/GreatDealsSG/status/2111735236153536981/photo/1",
+            "url": "https://pbs.twimg.com/media/HU5j0ombAAAe0Za.jpg",
+            "width": 1639,
+            "height": 2048
+          },
+          {
+            "backgroundColor": {
+              "red": 204,
+              "green": 214,
+              "blue": 221
+            },
+            "cropCandidates": [
+              {
+                "h": 918,
+                "w": 1639,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1639,
+                "w": 1639,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1868,
+                "w": 1639,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1024,
+                "x": 256,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1639,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "expandedUrl": "https://x.com/GreatDealsSG/status/2111735236153536981/photo/1",
+            "url": "https://pbs.twimg.com/media/HU5j0oXb0AAz1FD.jpg",
+            "width": 1639,
+            "height": 2048
+          },
+          {
+            "backgroundColor": {
+              "red": 204,
+              "green": 214,
+              "blue": 221
+            },
+            "cropCandidates": [
+              {
+                "h": 605,
+                "w": 1080,
+                "x": 0,
+                "y": 69
+              },
+              {
+                "h": 1080,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1231,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1350,
+                "w": 675,
+                "x": 169,
+                "y": 0
+              },
+              {
+                "h": 1350,
+                "w": 1080,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "expandedUrl": "https://x.com/GreatDealsSG/status/2111735236153536981/photo/1",
+            "url": "https://pbs.twimg.com/media/HU5j0ona8AA2vrd.jpg",
+            "width": 1080,
+            "height": 1350
+          }
+        ],
+        "conversation_count": 0,
+        "news_action_type": "conversation",
         "isEdited": false,
         "isStaleEdit": false
       }
