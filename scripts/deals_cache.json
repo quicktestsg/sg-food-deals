@@ -1,24 +1,6 @@
 {
   "deals": [
     {
-      "id": "0f27b5eca700b1c2",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-7-95-quarter-chicken-leg-drink-2-kitkat-drink-deals-till-1-nov-2026-308000/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Burger King S’pore $7.95 Quarter Chicken Leg & Drink, $2 KitKat Drink Deals Till 1 Nov 2026",
-      "excerpt": "Enjoy Hot KitKat, Iced KitKat and a chicken meal at special prices with these BK app rewards. [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/10/Burger-King-feat-singpromos.com-14-Oct-2026.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-14T17:33:17+00:00",
-      "fetched_at": "2026-10-15T00:00:34.746295+00:00",
-      "translation_zh": "Burger King 优惠：$7.95 Quarter 鸡腿套餐+饮料，$2 KitKat 饮品，至11月1日",
-      "excerpt_zh": "通过 BK App 会员奖励，Hot KitKat、Iced KitKat 和鸡腿套餐都以特价入手。"
-    },
-    {
       "id": "3d6ba1535e94240c",
       "source_type": "rss",
       "source_name": "AllSingaporeDeals",
@@ -35,204 +17,6 @@
       "fetched_at": "2026-10-15T00:00:35.392119+00:00",
       "translation_zh": "FairPrice 本周全场促销低至56%折扣，10月15日至21日",
       "excerpt_zh": "FairPrice 本周特价涵盖新鲜蔬果、冷冻食品、粮油主食、饮料和家居用品，最高省56%。"
-    },
-    {
-      "id": "fcd4175f577ee8ad",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/10/giant-weekly-promotions-up-to-61-off.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Giant Weekly Promotions Up To 61% Off From 15–21 Oct",
-      "excerpt": "Giant Singapore is running three promotions from 15 to 21 October 2026, featuring its Super Savings, Taste of China and Tampines Hypermarket Opening Specials. The Giant Super Savings promotion covers fresh produce, meat, seafood, groceries, beverages and household essentials, with weekly discounts,...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaSAMobnjBCgGlfP-WAxaaF6k5OjfGxKR14sjymAKc1IZvZHmadrb9He3UA34BzLluLIsYz2xEeASKhhhYc42JVKfJfrecV3p_oaDOyxsxp_kMxmVvu3QX7ISHqFBTdTMV-Aq0MCdrrlkfN229ZJKAdiAbdV7SzyQg4bN5dBCRSnUFJ1YmuLjF85F6qwwb/s640/all%20singapore%20deals%20giant%20super%20savings%2015%20oct%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-14T21:39:03+00:00",
-      "fetched_at": "2026-10-15T00:00:35.392572+00:00",
-      "translation_zh": "Giant 每周促销最高61% off，10月15日至21日",
-      "excerpt_zh": "Giant 十月十五至二十一日推出三项促销：Super Savings、Taste of China 及淡滨尼旗舰店开业特惠。"
-    },
-    {
-      "id": "c800c0381dfde2b2",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/10/mcdonalds-offering-free-4pc-chicken.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "McDonald's Offering Free 4pc Chicken McNuggets With Selected Meals From 15 Oct",
-      "excerpt": "BUY A DOUBLE MCSPICY OR BULGOGI MEAL & GET FREE NUGGETS For a limited time only, McDonald's is offering 4 FREE pieces of Chicken McNuggets with the purchase of selected Double McSpicy and Double Bulgogi Burger Meals, starting on 15 October 2026. The promotion covers four meal options: Double...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkAzDaxhtwxEKpVNKEcL-7ljou62bgO8FvFYeGGcNeuh_Y6Bur1KrcSVvTRCz76BGjfUVDjEPN7d4Xdk2i-m9q4DpnSohghWQq9VdgqG-WnjIc1aq1Byus9VuKLnHxfn1qjF356QiJ4j43W4VrdYO6gA34lOWMD64k5sQtm0NpHauUrC5ZLiym4jfdsiOz/s640/all%20singapore%20deals%20mcd%20free%204pc%20chicken%20mcnuggets%20a.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-14T21:02:56+00:00",
-      "fetched_at": "2026-10-15T00:00:35.392899+00:00",
-      "translation_zh": "McDonald's 优惠：购买指定双份 McSpicy 或 Bulgogi 套餐，免费送4块 McNuggets，10月15日起",
-      "excerpt_zh": "限时优惠：购买指定双份 McSpicy 或双份 Bulgogi 套餐，即免费获赠4块鸡块。"
-    },
-    {
-      "id": "8e25a843cc77dedc",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/10/cold-storage-weekly-promotions-buy-1.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Cold Storage Weekly Promotions: Buy 1 Get 1 Free & Up to 50% Off From 15 - 21 Oct",
-      "excerpt": "Cold Storage Singapore is running its Fresh & Grocery Selections promotion from 15 to 21 October 2026, offering discounts across fresh produce, meat, seafood, deli items, groceries, beverages and household essentials. The weekly promotion includes multi-buy savings, special prices and Buy 1 Get 1...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZUZBRM3eAeEfY8m9pCeuMcecundXNeDQ0kq7L5QFALdc-OxQgxVFjpK8q8_5Rh4RyqzQg9JS30thzZA4p0Mh1GEBCQB9QnENNU7gmzTLjHCACKiQfIKyO7TgPUWEtQgFSlob_WyAzC4yTxk1F1X7pGOBue831K_891_WnU3g1B6yu3zhpWeuxGYtbFz-q/s640/all%20singapore%20deals%20cold%20storage%20weekly%20promo%2015%20oct%20a.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-14T20:33:23+00:00",
-      "fetched_at": "2026-10-15T00:00:35.393419+00:00",
-      "translation_zh": "Cold Storage 每周促销：买一送一及最高50% off，10月15日至21日",
-      "excerpt_zh": "Cold Storage 鲜食与杂货精选促销，新鲜食材、肉类海鲜、熟食杂货、饮料家居全面折扣。"
-    },
-    {
-      "id": "73991efaf6f25b0e",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/15-18-october-2026-sa-sa-singapore-weekend-hot-picks-beauty-promotion-on-skincare-makeup-and-everyday-beauty-essentials/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "15-18 October 2026: Sa Sa Singapore: Weekend Hot Picks Beauty Promotion on Skincare, Makeup and Everyday Beauty Essentials",
-      "excerpt": "Refresh your beauty collection with Sa Sa Singapore's Weekend Hot Picks promotion from 15 to 18 October 2026. Explore skincare favourites, glow-boosting makeup and everyday beauty essentials at Sa Sa Singapore stores. Check the official promotion page for the latest details and make the most of...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Sa-Sa-Singapore-Weekend-Hot-Picks-Beauty-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-14T14:48:43+00:00",
-      "fetched_at": "2026-10-15T00:00:45.538839+00:00",
-      "translation_zh": "Sa Sa 周末精选美妆促销，护肤彩妆低至优惠价，10月15日至18日",
-      "excerpt_zh": "Sa Sa 周末精选促销，护肤心头好、提亮彩妆与日常美妆必备通通有优惠。"
-    },
-    {
-      "id": "fa6802ccea7a5e05",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/now-till-26-october-2026-takashimaya-department-store-fila-and-anta-fair-in-singapore-enjoy-up-to-70-off-sportswear-footwear-and-more-at-talking-hall-b1/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "Now Till 26 October 2026: Takashimaya Department Store: Fila and Anta Fair in Singapore – Enjoy Up to 70% Off Sportswear, Footwear and More at Talking Hall, B1",
-      "excerpt": "Looking for affordable branded sportswear in Singapore? Visit the Fila and Anta Fair at Takashimaya Department Store and enjoy up to 70% off selected sportswear, footwear and more. Happening at Talking Hall, Basement 1, until 26 October 2026, this limited-time fair is worth exploring if you are...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Takashimaya-Department-Store-Fila-and-Anta-Fair-in-Singapore.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-14T14:33:23+00:00",
-      "fetched_at": "2026-10-15T00:00:45.539020+00:00",
-      "translation_zh": "Takashimaya Fila 与 Anta 运动品牌展销会，运动服饰鞋类最高70% off，至10月26日",
-      "excerpt_zh": "想买平价品牌运动装？Takashimaya 的 Fila 与 Anta 展销会，指定运动服饰鞋类最高70% off。"
-    },
-    {
-      "id": "fb87f89d7b07a4f5",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/now-till-30-october-2026-challenger-singapore-cygnett-october-tech-sale-enjoy-up-to-55-off-selected-accessories-chargers-cables-and-more/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "Now Till 30 October 2026: Challenger Singapore: CYGNETT October Tech Sale – Enjoy Up to 55% Off Selected Accessories, Chargers, Cables and More",
-      "excerpt": "Looking for affordable tech accessories in Singapore? Challenger's CYGNETT October Sale offers up to 55% off selected products, including charging cables, Apple Watch bands, iPhone cases, wireless CarPlay and Android Auto adapters, power banks and travel chargers. Find out what is included and how...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Challenger-Singapore-CYGNETT-October-Tech-Sale.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-14T14:32:33+00:00",
-      "fetched_at": "2026-10-15T00:00:45.539179+00:00",
-      "translation_zh": "Challenger CYGNETT 十月科技促销，配件充电线等最高55% off，至10月30日",
-      "excerpt_zh": "Challenger CYGNETT 十月促销，充电线、Apple Watch 表带、手机壳、无线车充等最高55% off。"
-    },
-    {
-      "id": "2490fd16aaef112f",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/14-october-2026-onwards-tong-garden-singapore-spend-30-online-to-redeem-a-mystery-blind-box-gift-while-stocks-last/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "14 October 2026 Onwards: Tong Garden Singapore: Spend $30 Online to Redeem a Mystery Blind Box Gift, While Stocks Last",
-      "excerpt": "Tong Garden Singapore is giving online shoppers an extra surprise from 14 October 2026 onwards. Spend $30 or more on the official website to redeem one Tong Garden Blind Box per order, while stocks last. Browse your favourite snacks, plan your shopping basket and enjoy this limited-stock...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Tong-Garden-Singapore-Spend-30-Online-to-Redeem.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-14T14:27:08+00:00",
-      "fetched_at": "2026-10-15T00:00:45.539326+00:00",
-      "translation_zh": "Tong Garden 网店消费满$30 送神秘盲盒礼，10月14日起，送完为止",
-      "excerpt_zh": "Tong Garden 官网下单满$30，即每单赠送一个神秘盲盒，数量有限送完为止。"
-    },
-    {
-      "id": "d4a190acfbc852ae",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/15-18-october-2026-sasa-singapore-50-off-selected-personal-care-essentials-promotion-at-sasa-stores/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "15-18 October 2026: SaSa Singapore: 50% OFF Selected Personal Care Essentials Promotion at SaSa Stores",
-      "excerpt": "Refresh your everyday self-care routine with SaSa Singapore's 50% OFF selected personal care essentials promotion from 15 to 18 October 2026. Discover potential savings on eligible body lotions, haircare products, eye masks and more at SaSa Singapore stores. Selected items only, while stocks last....",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/SaSa-Singapore-50-OFF-Selected-Personal-Care-Essentials-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-14T14:24:16+00:00",
-      "fetched_at": "2026-10-15T00:00:45.539464+00:00",
-      "translation_zh": "SaSa 个人护理精选50% off，10月15日至18日",
-      "excerpt_zh": "SaSa 个人护理精选半价，润肤乳、护发等各类日常护理好物都在促销名单内。"
-    },
-    {
-      "id": "0d97b1533be9fa76",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/14-october-2026-onwards-muji-singapore-get-10-off-your-first-online-order-with-a-new-account-shop-home-essentials-fashion-and-lifestyle-products/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "14 October 2026 onwards: MUJI Singapore: Get 10% OFF Your First Online Order with a New Account – Shop Home Essentials, Fashion and Lifestyle Products",
-      "excerpt": "Enjoy 10% OFF your first online order at MUJI Singapore from 14 October 2026 onwards. Create and activate your online account, receive your welcome coupon by email and use it at checkout to save on eligible regular-priced and promotional items. Visit the official MUJI Singapore online store to...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/MUJI-Singapore-Get-10-OFF-Your-First-Online-Order.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-14T14:15:05+00:00",
-      "fetched_at": "2026-10-15T00:00:45.539611+00:00",
-      "translation_zh": "MUJI 新账号首单9折，家居服饰生活用品通通适用，10月14日起",
-      "excerpt_zh": "注册并激活 MUJI 线上账号，欢迎优惠券会发到邮箱，结账时输入即可享首单9折。"
-    },
-    {
-      "id": "4758b26439d773b8",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/22-25-october-2026-jean-perry-warehouse-clearance-sale-with-up-to-90-off-bedding-bed-linens-and-home-accessories-at-safra-toa-payoh/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "22-25 October 2026: Jean Perry: Warehouse Clearance Sale with Up to 90% Off Bedding, Bed Linens and Home Accessories at SAFRA Toa Payoh",
-      "excerpt": "Looking for affordable bedding and home essentials? Visit the Jean Perry Warehouse Clearance Sale at SAFRA Toa Payoh from 22-25 October 2026, from 10am to 8pm daily, and enjoy advertised discounts of up to 90% off premium bedding, bed linens and home accessories. Head down early to browse the...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Jean-Perry-Warehouse-Clearance-Sale-with-Up-to-90-Off.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-14T14:11:10+00:00",
-      "fetched_at": "2026-10-15T00:00:45.539770+00:00",
-      "translation_zh": "Jean Perry 仓库清仓大甩卖，床品家居最高90% off，10月22日至25日 SAFRA Toa Payoh",
-      "excerpt_zh": "Jean Perry 仓库清仓在 SAFRA Toa Payoh 举行，每天上午10点至晚上8点，床品低至一折起。"
-    },
-    {
-      "id": "99e36c01f2bd49c7",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/14-october-2026-onwards-ntuc-membership-exclusive-promotion-sentosa-4d-adventureland-albatross-speedboat-adventure-for-just-24-save-on-a-thrilling-land-and-sea-experience/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "14 October 2026 Onwards: NTUC Membership Exclusive Promotion – Sentosa 4D Adventureland + Albatross Speedboat Adventure for Just $24, Save on a Thrilling Land and Sea Experience",
-      "excerpt": "NTUC members can enjoy a land and sea adventure at Sentosa with a special bundle featuring 4D Adventureland and the Albatross Speedboat Adventure for just $24, down from the stated usual price of $35.90. Save $11.90 per bundle and check out the complimentary Sentosa admission benefit before...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/NTUC-Membership-Exclusive-Promotion-–-Sentosa-4D-Adventureland.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-14T14:07:06+00:00",
-      "fetched_at": "2026-10-15T00:00:45.539927+00:00",
-      "translation_zh": "NTUC 会员专属：Sentosa 4D Adventureland + Albatross 快艇探险只需$24（原价$35），10月14日起",
-      "excerpt_zh": "NTUC 会员独享陆海双重冒险套餐，4D Adventureland 加 Albatross 快艇，$24 搞定原价$35 的组合。"
     },
     {
       "id": "2110439493673378038",
@@ -16330,6 +16114,634 @@
               "image_value": {
                 "height": 625,
                 "url": "https://pbs.twimg.com/card_img/2113362806770987008/Rn2hdxEN?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "ab803011cf2a1ff3",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/yakiniku-go-7-90-meat-it-yourself-set-u-p-17-90-on-30-oct-2026-308479/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Yakiniku-GO $7.90++ Meat It Yourself Set (U.P. $17.90) on 30 Oct 2026",
+      "excerpt": "Celebrate Yakiniku-GO's 5th anniversary with a sizzling meat set deal and an extra members-only perk. [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/10/YakinikuGO-feat-singpromos.com-23-Oct-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-23T07:29:36+00:00",
+      "fetched_at": "2026-10-23T10:30:34.223315+00:00",
+      "translation_zh": "Yakiniku-GO 5周年 $7.90++ 自助烤肉套餐（原价 $17.90），仅限 10月30日",
+      "excerpt_zh": "Yakiniku-GO 5周年庆推出超值烤肉套餐，会员还有额外福利，吃货别错过。"
+    },
+    {
+      "id": "5f9e9f948b5cfbcb",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/10/celebrate-kai-ducks-6th-anniversary.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Kai Duck’s 6th Anniversary Special: 60% OFF Weekday Lunch Dim Sum Specials",
+      "excerpt": "To celebrate its 6th Anniversary, Kai Duck is treating diners to an exciting weekday lunch promotion with 60% OFF on any 2 of 6 of their specially curated Dim Sum dishes when you spend a minimum of $60. Available from Monday to Friday during lunch hours at Kai Duck Ngee Ann City. Choose from a...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpty7qsIy-sqd_ovycgSIi-LCc3iMZ6goVk1f1nfk9GL44W9dtobPu-n1TofGxFnxnqJqLmNk6EkmC2vK36Etm-ljMUbJkS0gCrno5tcsnJ3FoJPKTDvO360VQSRy9Y2QPUmRof_quRGyfuvpfpJo76bwvBIxVorP9sHrcQyz5vSHnSgbdLrEkakNFbmwb/s640/all%20singapore%20deals%20kai%20duck%206th%20anniversary%20promo%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-23T04:34:22+00:00",
+      "fetched_at": "2026-10-23T10:30:34.740523+00:00",
+      "translation_zh": "Kai Duck 6周年庆：工作日午餐点心 60% OFF",
+      "excerpt_zh": "为庆祝6周年，Kai Duck 推出工作日午餐优惠：消费满 $6，6款精选点心中任选2件即享 60% OFF。"
+    },
+    {
+      "id": "c7581398ce24562e",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/10/scarlett-supermarket-fresh-fruits-deals.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Scarlett Supermarket Fresh Fruits Deals (23–29 Oct)",
+      "excerpt": "Scarlett Supermarket Singapore is bringing shoppers another round of fresh fruit savings with its Weekly Fresh Deals from 23 to 29 October 2026, featuring attractive prices on imported grapes, pears, plums, kiwifruit and other seasonal fruits. Shoppers can find deals on apples, pears, plums,...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhrC6DYEcA2WG5pTQblgaCsUpl1fa-x_4W62tdk-HVc5iRNRt-wpnmM0tUt3-x7l0Rm_eszYN-JJIBYxm5GWiHzZMKFTxGA8NCa_-vCNwwjYB_eY-MYpJ87eMI4Gch6wIBZfNWGLo2vFmRownC6Y75BkNOFcT5wGHOoCy3KOQF96XeHu-Qaf0JRqxMKUSD/s640/all%20singapore%20deals%20scarlett%20weekly%20fruits%20deals%2023%20oct%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-23T03:18:57+00:00",
+      "fetched_at": "2026-10-23T10:30:34.740902+00:00",
+      "translation_zh": "Scarlett 超市本周新鲜水果特价（10月23–29日）",
+      "excerpt_zh": "Scarlett 超市10月23–29日推出每周鲜果特惠，进口葡萄、梨等价格相当划算。"
+    },
+    {
+      "id": "63c643e78dabee21",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/10/fairprice-price-cut-promotion-weekend.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "FairPrice Price Cut Promotion: Weekend Super Picks Deals From 23 - 25 Oct",
+      "excerpt": "FAIRPRICE 3-DAY PRICE CUT DEALS FROM 23 - 25 OCTOBER FairPrice Weekend Super Picks promotion runs from 23 to 25 October 2026, featuring price cuts on selected fresh produce for three days only. Shoppers can enjoy South Africa Blueberries (125g) at 2 for $4.65, down from the usual price of $7.90,...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdFm4d9tCuWpO47IGCWWqBb7cN3ND07Wxq12d5456s0GrVEKkoWJCwgugOWDF3Wj0YvGsiqHlSuKy3SvMR3NfXPlKoLGMW8vz97VoPRexJxdIjjqDPw1YnVjiZwK6OhuhORf42LIdYwPs_ZquxOp234OUfYiQ8royx2HHkgF9tqWvdjWgGC_Z-0FrUrNQf/s640/all%20singapore%20deals%20fairprice%20weekend%20super%20picks%2023%20oct%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-23T01:13:50+00:00",
+      "fetched_at": "2026-10-23T10:30:34.741202+00:00",
+      "translation_zh": "FairPrice 周末降价促销：Super Picks 精选特惠 10月23–25日",
+      "excerpt_zh": "FairPrice 周末 Super Picks 降价促销10月23–25日登场，为期3天，多款新鲜食材降价出售。"
+    },
+    {
+      "id": "dbec106e0a38dd1e",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/10/scoot-time-to-fly-to-sale-to-70.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Scoot Time To Fly To Sale To 70 Destinations From 23 - 30 Oct",
+      "excerpt": "SCOOT TIME TO FLY SALE IS BACK FROM 23 - 30 OCT Snag great deals to dream destinations like Tokyo, X'ian, Taipei and more at Scoot's Time To Fly Sale running from 23 to 30 October 2026. Whether you're exploring underrated cities, strolling along sun-kissed beaches, getting closer to nature, or...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyQUYEtMXjYrnzvK11SV8d-GIk7dGuS92tCuuChnpmaJUBl_n2SHw6bM2Tn7AzhsbY6deLQ6mTXDlN_-w8pOUOvQtA3AbWabwDne8f2Yqz3J-Ljrbf4ga12Uc-s6eBRyFANqASFDzzgOviidlwbdbUboVxz51iyO1C8dZBLm2IrDvM1IBQz5bNTeoiy_vK/s640/all%20singapore%20deals%20scoot%20time%20to%20fly%2023%20oct%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-23T00:19:16+00:00",
+      "fetched_at": "2026-10-23T10:30:34.745475+00:00",
+      "translation_zh": "Scoot Time To Fly 特卖：飞往70个目的地 10月23–30日",
+      "excerpt_zh": "Scoot Time To Fly 特卖10月23–30日回归，东京、西安、台北等梦想目的地机票好价来袭。"
+    },
+    {
+      "id": "df88adc5e2cc2c4f",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/24-25-oct-2026-smeg-craziest-mega-sale-singapore-up-to-75-off-kitchen-appliances-and-more/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "24–25 Oct 2026: SMEG Craziest Mega Sale Singapore – Up to 75% OFF Kitchen Appliances and More",
+      "excerpt": "Looking for SMEG appliance deals in Singapore? Visit the SMEG Craziest Mega Sale on 24–25 October 2026 for advertised discounts of up to 75% OFF selected products, including hand mixers, frying pans, coffee machines, gas hobs, ovens and dryers. Continue reading 24–25 Oct 2026: SMEG Craziest Mega...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/SMEG-Craziest-Mega-Sale.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-23T09:13:12+00:00",
+      "fetched_at": "2026-10-23T10:30:45.813419+00:00",
+      "translation_zh": "10月24–25日：SMEG 疯狂大型特卖会，厨房电器最高 75% OFF",
+      "excerpt_zh": "SMEG 疯狂大型特卖会10月24–25日举行，打蛋器、煎锅等精选产品最高 75% OFF。"
+    },
+    {
+      "id": "0cf4101fb59575f6",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/24-oct-2026-tiger-vault-records-singapore-record-show-returns-with-rare-vinyl-finds-cd-bargains/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "24 Oct 2026: Tiger Vault Records Singapore Record Show Returns with Rare Vinyl Finds, CD Bargains",
+      "excerpt": "Music lovers, get ready for the Singapore Record Show on 24 October 2026 at Suntec Convention & Exhibition Centre. Enjoy free admission and browse vinyl records, CDs, cassette tapes, rare pressings, collectible albums and potential music bargains from 11am to 7.30pm. Continue reading 24 Oct 2026:...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Singapore-Record-Show-at-Suntec.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-23T09:03:40+00:00",
+      "fetched_at": "2026-10-23T10:30:45.813581+00:00",
+      "translation_zh": "10月24日：新加坡唱片展回归 Suntec，黑胶珍品与平价 CD 等你淘",
+      "excerpt_zh": "新加坡唱片展10月24日在 Suntec 会展中心举行，免费入场，黑胶、CD、卡带及罕见版本任你淘。"
+    },
+    {
+      "id": "27039f9175b861c9",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/22-31-october-2026-key-power-sports-year-end-sale-up-to-60-off-yoga-mats-pilates-accessories-and-sportswear/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "22–31 Oct 2026: Key Power Sports Year-End Sale – Up to 60% OFF Yoga Mats, Pilates Accessories and Sportswear",
+      "excerpt": "Looking for fitness bargains in Singapore? Visit the Key Power Sports Year-End Sale at Marina Square from 22–31 October 2026 for advertised discounts of up to 60% off. Discover an EKO Yoga Mat at S$52.50, Pilates grip socks at S$9.90, a BAHE Reformer Mat at S$19 and a Yoga Mat Harness at S$5, plus...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Year-End-Sports-Sale-at-Marina-Square.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-23T06:14:17+00:00",
+      "fetched_at": "2026-10-23T10:30:45.813727+00:00",
+      "translation_zh": "10月22–31日：Key Power Sports 年终特卖，瑜伽垫、运动服饰最高 60% OFF",
+      "excerpt_zh": "Key Power Sports 年终特卖10月22–31日在 Marina Square 举行，最高 60% OFF，EKO 瑜伽垫只要 S$52。"
+    },
+    {
+      "id": "1be139b0cbffed39",
+      "source_type": "rss",
+      "source_name": "Eatbook",
+      "source_url": "https://eatbook.sg/jb-mount-austin-food/",
+      "source_color": "#ef4444",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
+      "source_lang": "en",
+      "title": "25 JB Mount Austin Food Places For $0.60 Mini Bowls, DIY Croffles And More",
+      "excerpt": "JB Mount Austin food guide Yes, cafe hopping in Johor Bahru (JB) is still a thing, and it’ll take more than the long queues at JB customs to deter Singaporeans from exploring good food across the border. For this guide, we’re diving deeper into Mount Austin, a bustling food gem in the city. A...",
+      "image": "https://eatbook.sg/wp-content/uploads/2026/02/mount-austin-food-guide-feature-image.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-23T01:28:22+00:00",
+      "fetched_at": "2026-10-23T10:30:48.106380+00:00",
+      "translation_zh": "新山 Mount Austin 25 家美食：$0.60 迷你碗、DIY Croffle 都在这里",
+      "excerpt_zh": "新山 Mount Austin 美食攻略：$0.60 迷你碗、DIY Croffle，周末过关吃透透。"
+    },
+    {
+      "id": "3943f4fb1064b5e4",
+      "source_type": "rss",
+      "source_name": "Eatbook",
+      "source_url": "https://eatbook.sg/skippy-peanut-butter-socks/",
+      "source_color": "#ef4444",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
+      "source_lang": "en",
+      "title": "Skippy Is Giving Away Free Peanut Butter Socks In 4 Designs",
+      "excerpt": "Skippy launches new peanut butter socks Image credit: Skippy Peanut butter fans who like their freebies wearable, this one’s for you. Skippy Singapore is giving away a limited-edition pair of peanut butter socks when you buy its 1kg Creamy or Chunky jar, and there are four designs to collect....",
+      "image": "https://eatbook.sg/wp-content/uploads/2026/10/SKIPPY-SOCKS.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-23T01:00:17+00:00",
+      "fetched_at": "2026-10-23T10:30:48.106874+00:00",
+      "translation_zh": "Skippy 免费送花生酱主题袜子，共4款设计",
+      "excerpt_zh": "Skippy 新加坡限量赠送花生酱主题袜子，共4款设计，花生酱粉丝快来领。"
+    },
+    {
+      "id": "3893ae44a4b5ab48",
+      "source_type": "rss",
+      "source_name": "SG榴莲",
+      "source_url": "https://sgliulian.com/event-and-festival/makeit-at-libraries/",
+      "source_color": "#84cc16",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=sgliulian.com&sz=64",
+      "source_lang": "zh",
+      "title": "新加坡图书馆隐藏玩法！免费缝纫、3D打印等创意体验课一次玩个够！",
+      "excerpt": "谁说去图书馆只能借书、自习、吹冷气？ 新加坡国家图书馆管理局的隐藏玩法公开！ 除了日常阅读和亲子讲座 NLB 居然还偷偷藏了一个宝藏项目 MakeIT 创意手作体验！ 在这里，你不仅能体验专业的电动缝纫机 亲手缝制专属的帆布袋带回家 还能玩 3D 打印、激光切割和机器人编程！ 重点是NLB 会员免费参与！ 文艺青年和 DIY 爱好者的快乐这不就来了吗？ 隐藏玩法：MakeIT 到底是什么？ MakeIT at Libraries 是 NLB 专门为大众设立的创客空间（Makerspace） 只要你是 NLB 会员 无需任何基础和经验 就能免费使用各种高端设备 零门槛体验把创意变成实物的乐趣！...",
+      "image": "https://cdn1.sgliulian.com/wp-content/uploads/2026/10/IMG_20261023140313042.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-23T06:06:45+00:00",
+      "fetched_at": "2026-10-23T10:30:49.374880+00:00",
+      "translation_zh": "新加坡图书馆隐藏玩法！免费缝纫、3D打印等创意体验课一次玩个够！",
+      "excerpt_zh": "谁说去图书馆只能借书？NLB 的 MakeIT 创意手作体验免费开放：电动缝纫、3D 打印、激光切割、机器人编程都能玩，会员免费参与！"
+    },
+    {
+      "id": "2113515494724808951",
+      "url": "https://x.com/singpromos/status/2113515494724808951",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-10-23T10:30:50.940542+00:00",
+      "translation_zh": "FairPrice 半价 Andersen 雪糕，还有 Häagen-Dazs、Cornetto 零食特惠至 10月28日",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-10-23T06:18:55.000Z",
+        "display_text_range": [
+          0,
+          201
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                128,
+                138
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                139,
+                142
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                143,
+                151
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                152,
+                159
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                160,
+                170
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                171,
+                178
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                179,
+                190
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                191,
+                201
+              ],
+              "text": "fairprice"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/fairprice-half-price-andersens-ice-cream-plus-haagen-dazs-cornetto-snack-deals-till-28-oct-2026-308413/",
+              "indices": [
+                104,
+                127
+              ],
+              "url": "https://t.co/C4XV6KwH6y"
+            }
+          ]
+        },
+        "id_str": "2113515494724808951",
+        "text": "FairPrice Half-Price Andersen's Ice Cream Plus Häagen-Dazs, Cornetto &amp; Snack Deals Till 28 Oct 2026 https://t.co/C4XV6KwH6y #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #fairprice",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2113515494724808951"
+          ],
+          "editable_until_msecs": "1792739935000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/C4XV6KwH6y",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 147,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Half-price ice cream, plus discounts on biscuits, chips and other supermarket favourites.",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 628,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 628,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 628,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 50.98,
+                    "rgb": {
+                      "blue": 96,
+                      "green": 21,
+                      "red": 20
+                    }
+                  },
+                  {
+                    "percentage": 13.83,
+                    "rgb": {
+                      "blue": 225,
+                      "green": 208,
+                      "red": 210
+                    }
+                  },
+                  {
+                    "percentage": 7.16,
+                    "rgb": {
+                      "blue": 29,
+                      "green": 13,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 5.04,
+                    "rgb": {
+                      "blue": 74,
+                      "green": 23,
+                      "red": 25
+                    }
+                  },
+                  {
+                    "percentage": 3.53,
+                    "rgb": {
+                      "blue": 43,
+                      "green": 37,
+                      "red": 43
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "FairPrice Half-Price Andersen’s Ice Cream Plus Häagen-Dazs, Cornetto & Snack Deals Till 28 Oct 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 50.98,
+                    "rgb": {
+                      "blue": 96,
+                      "green": 21,
+                      "red": 20
+                    }
+                  },
+                  {
+                    "percentage": 13.83,
+                    "rgb": {
+                      "blue": 225,
+                      "green": 208,
+                      "red": 210
+                    }
+                  },
+                  {
+                    "percentage": 7.16,
+                    "rgb": {
+                      "blue": 29,
+                      "green": 13,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 5.04,
+                    "rgb": {
+                      "blue": 74,
+                      "green": 23,
+                      "red": 25
+                    }
+                  },
+                  {
+                    "percentage": 3.53,
+                    "rgb": {
+                      "blue": 43,
+                      "green": 37,
+                      "red": 43
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 628,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 50.98,
+                    "rgb": {
+                      "blue": 96,
+                      "green": 21,
+                      "red": 20
+                    }
+                  },
+                  {
+                    "percentage": 13.83,
+                    "rgb": {
+                      "blue": 225,
+                      "green": 208,
+                      "red": 210
+                    }
+                  },
+                  {
+                    "percentage": 7.16,
+                    "rgb": {
+                      "blue": 29,
+                      "green": 13,
+                      "red": 255
+                    }
+                  },
+                  {
+                    "percentage": 5.04,
+                    "rgb": {
+                      "blue": 74,
+                      "green": 23,
+                      "red": 25
+                    }
+                  },
+                  {
+                    "percentage": 3.53,
+                    "rgb": {
+                      "blue": 43,
+                      "green": 37,
+                      "red": 43
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 628,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/C4XV6KwH6y",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 628,
+                "url": "https://pbs.twimg.com/card_img/2113515494938689536/-x7lEPwQ?format=jpg&name=orig",
                 "width": 1200
               },
               "type": "IMAGE"
