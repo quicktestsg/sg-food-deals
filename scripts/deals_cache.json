@@ -253,24 +253,6 @@
       "excerpt_zh": "NiKU iKU 16-30 Oct 2026期间，在全岛门店购买任意iKU-Salad PRO，即免费加鸡肉或牛肉配料，蛋白质加倍不加价。"
     },
     {
-      "id": "ea19cf7e4ea14fb6",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/13-25-october-2026-lenovo-singapore-roadshow-promotion-at-the-heeren-enjoy-up-to-450-in-additional-rebates-free-targus-carry-on-gaming-challenges-and-lucky-draw-rewards/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "13–25 October 2026: Lenovo Singapore Roadshow Promotion at The Heeren – Enjoy Up to $450 in Additional Rebates, Free Targus Carry-On, Gaming Challenges and Lucky Draw Rewards",
-      "excerpt": "Looking for a new laptop or gaming upgrade? Visit the Lenovo Singapore Roadshow at Courts Nojima, The Heeren, from 13–25 October 2026 for additional rebates of up to $450, a free Targus Pro-Tek carry-on with qualifying purchases, chances to win Lenovo devices, gifts with purchase and exciting...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Lenovo-Singapore-Roadshow-Promotion-at-The-Heeren.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-15T01:55:46+00:00",
-      "fetched_at": "2026-10-15T10:30:49.168344+00:00",
-      "translation_zh": "Lenovo新加坡路演登陆The Heeren：额外回扣高达$450，送Targus电脑包，13-25 Oct 2026",
-      "excerpt_zh": "Lenovo路演13-25 Oct 2026在The Heeren的Courts Nojima举行，笔记本电脑与电竞装备享高达$450额外回扣，还送Targus电脑包。"
-    },
-    {
       "id": "40233f1763a233ac",
       "source_type": "rss",
       "source_name": "Eatbook",
@@ -16744,6 +16726,24 @@
       "fetched_at": "2026-10-25T10:30:32.387715+00:00",
       "translation_zh": "BeautyFresh 圣诞美妆特卖会：120+品牌 up to 80% off，10月29日-11月1日",
       "excerpt_zh": "BeautyFresh 圣诞美妆特卖会 10月29日至11月1日举行，四天限时，超过120个品牌折扣高达 80%。"
+    },
+    {
+      "id": "d9e49baef5467b8f",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-2-hersheys-sundae-with-any-purchase-till-30-oct-2026-308532/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "McDonald’s S’pore $2 Hershey’s Sundae With Any Purchase till 30 Oct 2026",
+      "excerpt": "Grab a chocolatey Hershey's Sundae for just $2 with any purchase [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/10/McDonalds-Sundae-feat-singpromos.com-26-Oct-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-25T18:52:04+00:00",
+      "fetched_at": "2026-10-26T00:00:32.779427+00:00",
+      "translation_zh": "McDonald's Singapore Hershey's 圣代任意消费加S$2，优惠至2026年10月30日",
+      "excerpt_zh": "任意消费即可以S$2入手一份浓郁的Hershey's巧克力圣代，优惠至10月30日。"
     }
   ]
 }
