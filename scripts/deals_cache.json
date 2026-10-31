@@ -19,24 +19,6 @@
       "excerpt_zh": "为期三天的特卖会，精选优惠等你来抢。详情见SINGPROMOS.COM。"
     },
     {
-      "id": "a65d86c6165af724",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/dining-restaurants-food/shakeys-singapore-1-for-1-pizza-deal-on-22-23-oct-2026-2-days-only-308325/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Shakey’s Singapore 1-for-1 pizza deal on 22-23 Oct 2026, 2 days only",
-      "excerpt": "Pizza lovers can enjoy two pizzas for the price of one with free Parlour Club membership! [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/10/Shakeys-feat-singpromos.com-20-Oct-2026.jpg",
-      "deal_type": "1fl",
-      "country": "SG",
-      "published_at": "2026-10-20T17:49:51+00:00",
-      "fetched_at": "2026-10-21T00:00:32.086046+00:00",
-      "translation_zh": "Shakey’s Singapore 买一送一披萨 10月22–23日 限时2天",
-      "excerpt_zh": "披萨爱好者免费注册Parlour Club会员，即可享受买一送一披萨优惠！"
-    },
-    {
       "id": "e88552fc782a6c09",
       "source_type": "rss",
       "source_name": "EverydayOnSales",
@@ -107,96 +89,6 @@
       "fetched_at": "2026-10-21T00:00:42.548023+00:00",
       "translation_zh": "即日起至11月15日：Délifrance早餐挑战 全日早餐+$1换购高蛋白牛奶饮品",
       "excerpt_zh": "点购合格的全日早餐，加$1即可换购CP-Meiji高蛋白牛奶饮品，还能集贴纸、攒印花换免费餐点。"
-    },
-    {
-      "id": "a9acbd6df7bd5e39",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/21-october-17-november-2026-bhg-singapore-prism-myhome-bundle-promotion-enjoy-up-to-an-extra-10-off-when-shopping-across-3-or-more-home-appliance-categories-at-bhg-bugis/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "21 October–17 November 2026: BHG Singapore – PRISM+ MyHome Bundle Promotion: Enjoy Up to an Extra 10% Off When Shopping Across 3 or More Home Appliance Categories at BHG Bugis",
-      "excerpt": "Planning to upgrade your home appliances? Visit BHG Bugis from 21 October to 17 November 2026 for the PRISM+ MyHome Bundle promotion. Shop across three or more product categories to enjoy up to an extra 10% off, and receive an additional $60 off with a qualifying Smart Fan and air conditioner...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/BHG-Singapore-–-PRISM-MyHome-Bundle-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-20T14:28:19+00:00",
-      "fetched_at": "2026-10-21T00:00:42.548169+00:00",
-      "translation_zh": "10月21日–11月17日：BHG Bugis PRISM+ MyHome套餐优惠 最多额外9折",
-      "excerpt_zh": "跨三个或以上品类购物享最多额外9折，Smart Fan加冷气机组合再减$60。"
-    },
-    {
-      "id": "f2d2e1a374e76ddf",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/20-october-2026-onwards-cedele-christmas-cookies-promotion-singapore-enjoy-2-tins-for-75-or-4-tins-for-148-at-cedele-outlets-and-online/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "20 October 2026 onwards: Cedele Christmas Cookies Promotion Singapore – Enjoy 2 Tins for $75 or 4 Tins for $148 at Cedele Outlets and Online",
-      "excerpt": "Get ready for Christmas with Cedele's festive cookie collection in Singapore! From 20 October 2026 onwards, shoppers can enjoy 2 tins for $75 or 4 tins for $148, featuring seven varieties including new Assorted Christmas Cookies and Assorted Tea Cookies. Explore espresso cookies, chocolate cookies,...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Cedele-Christmas-Cookies-Promotion-Singapore.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-20T14:25:06+00:00",
-      "fetched_at": "2026-10-21T00:00:42.548310+00:00",
-      "translation_zh": "10月20日起：Cedele圣诞曲奇 2罐$75或4罐$148",
-      "excerpt_zh": "圣诞曲奇共七款口味，包括全新什锦圣诞曲奇和什锦茶曲奇，浓缩咖啡曲奇、巧克力曲奇等任你选。"
-    },
-    {
-      "id": "eed04b0002828381",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/24-25-october-2026-cow-play-cow-moo-moo-bladers-club-community-event-returns-to-suntec-city-with-beyblade-x-battles-20-worth-of-cpcm-tokens-and-a-complimentary-drink/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "24–25 October 2026: Cow Play Cow Moo: Moo-Bladers Club Community Event Returns to Suntec City with Beyblade X Battles, $20 Worth of CPCM Tokens and a Complimentary Drink",
-      "excerpt": "Beyblade X fans, get ready for two days of spinning-top battles at Cow Play Cow Moo, Suntec City, on 24 and 25 October 2026. Join the Moo-Bladers Club Community Event for exciting battles, meet fellow Bladers and enjoy $20 worth of CPCM tokens plus a complimentary drink with a $22 entry fee per...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Cow-Play-Cow-Moo-Moo-Bladers-Club-Community-Event.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-20T14:21:50+00:00",
-      "fetched_at": "2026-10-21T00:00:42.548471+00:00",
-      "translation_zh": "10月24–25日：Cow Play Cow Moo Moo-Bladers Club社区活动 Beyblade X对战回归Suntec City",
-      "excerpt_zh": "入场费$22，含$20 CPCM游戏代币和一杯饮料，两天激战等你来。"
-    },
-    {
-      "id": "5e09c29588692d21",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/9-31-october-2026-audio-house-singapore-lg-built-in-appliances-promotion-with-up-to-150-in-additional-vouchers-for-selected-bundles/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "9–31 October 2026: Audio House Singapore – LG Built-in Appliances Promotion with Up to $150 in Additional Vouchers for Selected Bundles",
-      "excerpt": "Getting your kitchen ready for the festive season? Audio House Singapore is offering up to $150 worth of additional vouchers with selected LG built-in appliance bundles from 9 to 31 October 2026. Find out why this October promotion is worth exploring before upgrading your kitchen appliances....",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Audio-House-Singapore-–-LG-Built-in-Appliances-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-20T14:19:11+00:00",
-      "fetched_at": "2026-10-21T00:00:42.548609+00:00",
-      "translation_zh": "10月9–31日：Audio House LG嵌入式家电促销 最多送$150礼券",
-      "excerpt_zh": "选购指定LG嵌入式家电套餐，最多可获额外$150礼券，趁十月优惠升级厨房正合适。"
-    },
-    {
-      "id": "d8d1971c6ca77f79",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/23-25-october-2026-le-creuset-last-family-sale-singapore-up-to-80-off-selected-cookware-at-suntec-singapore-convention-exhibition-centre-plus-extra-savings-on-multiple-purcha/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "23–25 October 2026: Le Creuset Last Family Sale Singapore – Up to 80% OFF Selected Cookware at Suntec Singapore Convention & Exhibition Centre, Plus Extra Savings on Multiple Purchases",
-      "excerpt": "Looking for premium cookware at bargain prices? The Le Creuset Last Family Sale Singapore 2026 takes place from 23–25 October at Suntec Singapore Convention & Exhibition Centre, featuring up to 80% OFF selected cookware and kitchen products. Shoppers can also enjoy additional savings on eligible...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Le-Creuset-Last-Family-Sale-Singapore-–-Up-to-80-OFF-Selected-Cookware.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-20T14:16:34+00:00",
-      "fetched_at": "2026-10-21T00:00:42.548758+00:00",
-      "translation_zh": "10月23–25日：Le Creuset最后家庭特卖会 新加坡会展中心 部分锅具低至2折",
-      "excerpt_zh": "Suntec新加坡会展中心，精选锅具和厨房用品最高打折80%（低至2折），现场还有额外折上折。"
     },
     {
       "id": "2112561881114415598",
@@ -15693,6 +15585,810 @@
       "fetched_at": "2026-10-30T10:30:43.195862+00:00",
       "translation_zh": "圣淘沙2027年初试行无人驾驶接驳车，试行期间免费搭乘，手机预约即可！",
       "excerpt_zh": "2027年初起，圣淘沙将推出按需预约的无人驾驶接驳车服务，试行期间全程免费，用手机预约即可直达海滩与景点。"
+    },
+    {
+      "id": "5e501f017ead4fbf",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/ikea-spore-christmas-buffet-2026-returns-at-29-90-per-adult-kids-from-15-90-308762/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "IKEA S’pore Christmas Buffet 2026 Returns at $29.90 per Adult, Kids from $15.90",
+      "excerpt": "Feast on Swedish meatballs, salmon and Christmas treats [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/10/IKEA-feat-singpromos.com-30-Oct-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-30T12:29:24+00:00",
+      "fetched_at": "2026-10-31T00:00:33.730162+00:00",
+      "translation_zh": "IKEA 圣诞自助餐 2026 回归：成人 $29.90，儿童 $15.90 起",
+      "excerpt_zh": "瑞典肉丸、三文鱼和各式圣诞美食等你大快朵颐"
+    },
+    {
+      "id": "e58b46d8787ed84a",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/baskin-robbins-spore-31-off-handpacked-ice-cream-on-31-oct-2026-308752/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Baskin-Robbins S’pore 31% OFF Handpacked Ice Cream on 31 Oct 2026",
+      "excerpt": "Get 31% savings on every handpacked size, with mix-and-match flavours [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2025/03/BaskinRobbins-Spore-feat-singpromos.com-3-Mar-2025.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-30T11:03:22+00:00",
+      "fetched_at": "2026-10-31T00:00:33.730342+00:00",
+      "translation_zh": "Baskin-Robbins 10月31日手装冰淇淋 31% 折扣",
+      "excerpt_zh": "所有手装尺寸均可享 31% 折扣，口味可自由混搭"
+    },
+    {
+      "id": "2013b3605436fbc9",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/10/fairprice-xtra-senior-week-returns-with.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "FairPrice Xtra Senior Week Returns With Buy 1 Get 1 Free & More Deals Till 11 Nov",
+      "excerpt": "FAIRPRICE XTRA SENIOR WEEK IS BACK WITH BIG SAVINGS ON SENIOR ESSENTIALS FairPrice Xtra's Xtra Senior Week is back, offering savings on selected products for seniors. The latest promotion runs from now till 11 November 2026, with deals across milk powder, oral care, health supplements, nourishing...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitupc07vS7aLK1z7oVjU3gmp64o81_qlbyFIrCao4UZVxUZLFoJDxCYH6caYxVPqN9o5J_-PxBIY8L6Wub-hBBpYt0KkyLi0oAA5t89YlucpqzcYyXfDplQFBY97PfvJihvEHKHGgnUBMSJw9KPasTKuVrcUHNwbRnNwY2R9SuztJWUN2BKf6eh7R0KNYa/s640/all%20singapore%20deals%20fairprice%20xtra%20senior%20week%2011%20nov%20a.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-30T23:50:01+00:00",
+      "fetched_at": "2026-10-31T00:00:34.265606+00:00",
+      "translation_zh": "FairPrice Xtra 乐龄周回归：买一送一等优惠至 11月11日",
+      "excerpt_zh": "FairPrice Xtra 乐龄周回归，奶粉、口腔护理、保健品、滋补食材等长者必备商品精选优惠，活动至 2026年11月11日"
+    },
+    {
+      "id": "804fc366e95668dc",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/08/dbs-paylah-3-cashback-returns-every.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "DBS Paylah! Saturday $3 Cashback Is Back On 31 October",
+      "excerpt": "DBS PAYLAH! $3 SATURDAY CASHBACK ON 31 OCTOBER, LIMITED TO FIRST 160,000 REDEMPTIONS Enjoy up to $3 cashback on Saturday, 31 October, when you scan and pay with PayLah! at participating heartland shops, wet markets, coffeeshops, and hawker centres islandwide. The offer begins at 6am and is...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEia727vIOaYoGmpYLfqAx19QumVlgUm4mZSaTeObTH4UYHH5AwfSJhx76x3tX3yeh4tVRry1cpWXXRW21pjbkbFmXuy81_Z8_SXp1RF1JQAooFSywmL9R_5HTVb7F-F-gipDWlpMBfbsgb6I8B6Ppw2ihbeKt7ReGzAyRyBggaAPf9IwaSy8UsNTes6PBMU/s640/all%20singapore%20deals%20dbs%20paylah%20$3%20cashback%20on%20saturdays%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-30T13:32:06+00:00",
+      "fetched_at": "2026-10-31T00:00:34.266300+00:00",
+      "translation_zh": "DBS PayLah! 周六 $3 现金回赠 10月31日回归",
+      "excerpt_zh": "10月31日（周六）早上 6 点起，用 PayLah! 在全岛邻里商店、巴刹、咖啡店和小贩中心扫码付款，即可享最高 $3 现金回赠，限首 16,000 名"
+    },
+    {
+      "id": "2116143912717049858",
+      "url": "https://x.com/singpromos/status/2116143912717049858",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-10-31T00:00:48.429439+00:00",
+      "translation_zh": "Baskin-Robbins 10月31日手装冰淇淋 31% 折扣，口味任选混搭",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-10-30T12:23:19.000Z",
+        "display_text_range": [
+          0,
+          169
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                90,
+                100
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                101,
+                104
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                105,
+                113
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                114,
+                121
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                122,
+                132
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                133,
+                140
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                141,
+                152
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                153,
+                169
+              ],
+              "text": "BaskinRobbinsSG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/baskin-robbins-spore-31-off-handpacked-ice-cream-on-31-oct-2026-308752/",
+              "indices": [
+                66,
+                89
+              ],
+              "url": "https://t.co/U6AfDevZER"
+            }
+          ]
+        },
+        "id_str": "2116143912717049858",
+        "text": "Baskin-Robbins S'pore 31% OFF Handpacked Ice Cream on 31 Oct 2026 https://t.co/U6AfDevZER #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #BaskinRobbinsSG",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2116143912717049858"
+          ],
+          "editable_until_msecs": "1793366599000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/U6AfDevZER",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 147,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Get 31% savings on every handpacked size, with mix-and-match flavours",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 316,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 505,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=jpg&name=orig",
+                "width": 960
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 76,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 505,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=png&name=2048x2048_2_exp",
+                "width": 960
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 505,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=jpg&name=orig",
+                "width": 960
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 26.25,
+                    "rgb": {
+                      "blue": 168,
+                      "green": 93,
+                      "red": 209
+                    }
+                  },
+                  {
+                    "percentage": 16.34,
+                    "rgb": {
+                      "blue": 223,
+                      "green": 204,
+                      "red": 205
+                    }
+                  },
+                  {
+                    "percentage": 12.21,
+                    "rgb": {
+                      "blue": 181,
+                      "green": 126,
+                      "red": 195
+                    }
+                  },
+                  {
+                    "percentage": 8.58,
+                    "rgb": {
+                      "blue": 185,
+                      "green": 81,
+                      "red": 151
+                    }
+                  },
+                  {
+                    "percentage": 6.75,
+                    "rgb": {
+                      "blue": 225,
+                      "green": 192,
+                      "red": 101
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "Baskin-Robbins S’pore 31% OFF Handpacked Ice Cream on 31 Oct 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 26.25,
+                    "rgb": {
+                      "blue": 168,
+                      "green": 93,
+                      "red": 209
+                    }
+                  },
+                  {
+                    "percentage": 16.34,
+                    "rgb": {
+                      "blue": 223,
+                      "green": 204,
+                      "red": 205
+                    }
+                  },
+                  {
+                    "percentage": 12.21,
+                    "rgb": {
+                      "blue": 181,
+                      "green": 126,
+                      "red": 195
+                    }
+                  },
+                  {
+                    "percentage": 8.58,
+                    "rgb": {
+                      "blue": 185,
+                      "green": 81,
+                      "red": 151
+                    }
+                  },
+                  {
+                    "percentage": 6.75,
+                    "rgb": {
+                      "blue": 225,
+                      "green": 192,
+                      "red": 101
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 505,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=png&name=2048x2048_2_exp",
+                "width": 960
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 26.25,
+                    "rgb": {
+                      "blue": 168,
+                      "green": 93,
+                      "red": 209
+                    }
+                  },
+                  {
+                    "percentage": 16.34,
+                    "rgb": {
+                      "blue": 223,
+                      "green": 204,
+                      "red": 205
+                    }
+                  },
+                  {
+                    "percentage": 12.21,
+                    "rgb": {
+                      "blue": 181,
+                      "green": 126,
+                      "red": 195
+                    }
+                  },
+                  {
+                    "percentage": 8.58,
+                    "rgb": {
+                      "blue": 185,
+                      "green": 81,
+                      "red": 151
+                    }
+                  },
+                  {
+                    "percentage": 6.75,
+                    "rgb": {
+                      "blue": 225,
+                      "green": 192,
+                      "red": 101
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 505,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=png&name=2048x2048_2_exp",
+                "width": 960
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/U6AfDevZER",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 505,
+                "url": "https://pbs.twimg.com/card_img/2116143904986923009/lBuw9KV4?format=jpg&name=orig",
+                "width": 960
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2116159099528462507",
+      "url": "https://x.com/GreatDealsSG/status/2116159099528462507",
+      "label": "GreatDealsSG",
+      "color": "#ef4444",
+      "deal_type": "1fl",
+      "country": "SG",
+      "fetched_at": "2026-10-31T00:00:50.189718+00:00",
+      "translation_zh": "SAFRA 会员福利：Universal Studios Singapore 成人票买一送一，两人同行一人付费，儿童票仅 $59",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-10-30T13:23:40.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "entities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/XchUHTmzZP",
+              "expanded_url": "https://x.com/GreatDealsSG/status/2116159099528462507/photo/1",
+              "indices": [
+                161,
+                184
+              ],
+              "url": "https://t.co/XchUHTmzZP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "gds.sg/8iENzA",
+              "expanded_url": "https://gds.sg/8iENzA",
+              "indices": [
+                137,
+                160
+              ],
+              "url": "https://t.co/eYw2A1ijNi"
+            }
+          ]
+        },
+        "id_str": "2116159099528462507",
+        "text": "USS for two, pay for one! SAFRA members can enjoy 1-FOR-1 adult tickets, plus $59 child tickets. More thrills, less damage to the wallet https://t.co/eYw2A1ijNi https://t.co/XchUHTmzZP",
+        "user": {
+          "id_str": "45308068",
+          "name": "Great Deals Singapore",
+          "screen_name": "GreatDealsSG",
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/582440654132785152/UJNsUZAL_normal.png"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2116159099528462507"
+          ],
+          "editable_until_msecs": "1793370220000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "mediaDetails": [
+          {
+            "display_url": "pic.x.com/XchUHTmzZP",
+            "expanded_url": "https://x.com/GreatDealsSG/status/2116159099528462507/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "indices": [
+              161,
+              184
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/HV4bbayaQAATUzm.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 448,
+                  "w": 800,
+                  "x": 0,
+                  "y": 301
+                },
+                {
+                  "h": 800,
+                  "w": 800,
+                  "x": 0,
+                  "y": 125
+                },
+                {
+                  "h": 912,
+                  "w": 800,
+                  "x": 0,
+                  "y": 69
+                },
+                {
+                  "h": 1000,
+                  "w": 500,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 800,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1000,
+              "width": 800
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "resize": "fit",
+                "w": 800
+              },
+              "medium": {
+                "h": 1000,
+                "resize": "fit",
+                "w": 800
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XchUHTmzZP"
+          },
+          {
+            "display_url": "pic.x.com/XchUHTmzZP",
+            "expanded_url": "https://x.com/GreatDealsSG/status/2116159099528462507/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "indices": [
+              161,
+              184
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/HV4bbawbIAAHPPY.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 448,
+                  "w": 800,
+                  "x": 0,
+                  "y": 51
+                },
+                {
+                  "h": 800,
+                  "w": 800,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 912,
+                  "w": 800,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 500,
+                  "x": 300,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 800,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1000,
+              "width": 800
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "resize": "fit",
+                "w": 800
+              },
+              "medium": {
+                "h": 1000,
+                "resize": "fit",
+                "w": 800
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/XchUHTmzZP"
+          }
+        ],
+        "photos": [
+          {
+            "backgroundColor": {
+              "red": 204,
+              "green": 214,
+              "blue": 221
+            },
+            "cropCandidates": [
+              {
+                "h": 448,
+                "w": 800,
+                "x": 0,
+                "y": 301
+              },
+              {
+                "h": 800,
+                "w": 800,
+                "x": 0,
+                "y": 125
+              },
+              {
+                "h": 912,
+                "w": 800,
+                "x": 0,
+                "y": 69
+              },
+              {
+                "h": 1000,
+                "w": 500,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1000,
+                "w": 800,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "expandedUrl": "https://x.com/GreatDealsSG/status/2116159099528462507/photo/1",
+            "url": "https://pbs.twimg.com/media/HV4bbayaQAATUzm.jpg",
+            "width": 800,
+            "height": 1000
+          },
+          {
+            "backgroundColor": {
+              "red": 204,
+              "green": 214,
+              "blue": 221
+            },
+            "cropCandidates": [
+              {
+                "h": 448,
+                "w": 800,
+                "x": 0,
+                "y": 51
+              },
+              {
+                "h": 800,
+                "w": 800,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 912,
+                "w": 800,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1000,
+                "w": 500,
+                "x": 300,
+                "y": 0
+              },
+              {
+                "h": 1000,
+                "w": 800,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "expandedUrl": "https://x.com/GreatDealsSG/status/2116159099528462507/photo/1",
+            "url": "https://pbs.twimg.com/media/HV4bbawbIAAHPPY.jpg",
+            "width": 800,
+            "height": 1000
+          }
+        ],
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "isEdited": false,
+        "isStaleEdit": false
+      }
     }
   ]
 }
