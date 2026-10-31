@@ -1,900 +1,6 @@
 {
   "deals": [
     {
-      "id": "2fe34695c09ceab2",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/warehouse-sales/le-creuset-spore-last-family-sale-up-to-80-off-from-23-25-oct-2026-308338/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Le Creuset S’pore Last Family Sale Up to 80% Off from 23 – 25 Oct 2026",
-      "excerpt": "Three days of deals [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/10/Le-Creuset-feat-singpromos.com-20-Oct-2026.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-20T23:57:53+00:00",
-      "fetched_at": "2026-10-21T00:00:32.085884+00:00",
-      "translation_zh": "Le Creuset 新加坡最后一场家庭特卖会 低至8折（23–25 Oct 2026）",
-      "excerpt_zh": "为期三天的特卖会，精选优惠等你来抢。详情见SINGPROMOS.COM。"
-    },
-    {
-      "id": "e88552fc782a6c09",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/22-25-october-2026-takashimaya-department-store-october-10-card-day-promotion-extra-10-off-up-to-6-voucher-rebates-online-promo-codes-and-33rd-anniversary-lucky-draw-in-singapore/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "22–25 October 2026: Takashimaya Department Store October 10% Card Day Promotion – Extra 10% Off, Up to 6% Voucher Rebates, Online Promo Codes and 33rd Anniversary Lucky Draw in Singapore",
-      "excerpt": "Shop smarter with Takashimaya's October 10% Card Day Promotion from 22–25 October 2026. Eligible cardholders can enjoy an additional 10% off and up to 6% in voucher rebates, while online shoppers can unlock promo codes offering up to $60 off qualifying purchases. With extended shopping hours, free...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Takashimaya-Department-Store-October-10-Card-Day-Promotion.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-20T23:35:09+00:00",
-      "fetched_at": "2026-10-21T00:00:42.547551+00:00",
-      "translation_zh": "10月22–25日：Takashimaya 10% Card Day 额外9折 最多6%礼券回赠",
-      "excerpt_zh": "10月22–25日Takashimaya Card Day，指定银行卡持卡人享额外9折和最多6%礼券回赠，线上购物可用最高$60优惠码，营业时间延长。"
-    },
-    {
-      "id": "85045f2ed1af2f71",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/19-25-october-2026-universal-traveller-singapore-winter-wear-luggage-sale-enjoy-up-to-80-off-winter-jackets-down-feather-jackets-thermal-wear-luggage-and-travel-accessories/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "19–25 October 2026: Universal Traveller Singapore Winter Wear & Luggage Sale – Enjoy Up to 80% Off Winter Jackets, Down-Feather Jackets, Thermal Wear, Luggage and Travel Accessories at Suntec City Atrium Convention Centre",
-      "excerpt": "Planning a winter holiday or looking to upgrade your suitcase? Visit the Universal Traveller Singapore Winter Wear & Luggage Sale at Suntec City Atrium Convention Centre from 19–25 October 2026 and enjoy up to 80% off selected items. Shop winter jackets from $49, thermal wear from $15 per piece,...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Universal-Traveller-Singapore-Winter-Wear-Luggage-Sale.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-20T23:33:37+00:00",
-      "fetched_at": "2026-10-21T00:00:42.547736+00:00",
-      "translation_zh": "10月19–25日：Universal Traveller冬季服饰行李箱特卖 低至2折",
-      "excerpt_zh": "Suntec City中庭Universal Traveller冬季特卖，羽绒服$49起、保暖衣每件$15起、行李箱也有优惠，部分商品低至2折。"
-    },
-    {
-      "id": "73ff45f3abf419e5",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/20-30-october-2026-best-denki-singapore-vivo-x500-series-pre-order-promotion-enjoy-200-off-exclusive-gifts-worth-over-900-free-telephoto-extender-and-more/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "20–30 October 2026: BEST Denki Singapore: vivo X500 Series Pre-Order Promotion – Enjoy $200 Off, Exclusive Gifts Worth Over $900, Free Telephoto Extender and More",
-      "excerpt": "Upgrade your smartphone with the BEST Denki Singapore vivo X500 Series pre-order promotion, running from 20–30 October 2026. Enjoy $200 off the vivo X500 from $1,799 or vivo X500 Pro Max from $2,299, plus exclusive gifts worth over $900, including a free 200mm Telephoto Extender with case, two-year...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/BEST-Denki-Singapore-vivo-X500-Series-Pre-Order-Promotion.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-20T23:28:49+00:00",
-      "fetched_at": "2026-10-21T00:00:42.547880+00:00",
-      "translation_zh": "10月20–30日：BEST Denki vivo X500系列预购优惠 立减$200赠品超$900",
-      "excerpt_zh": "vivo X500预购立减$200（$1,799起），X500 Pro Max $2,299起，赠品总值超$900，含免费200mm长焦增距镜和两年保修等。"
-    },
-    {
-      "id": "de1799463f5773a9",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/now-till-15-november-2026-delifrance-singapore-better-breakfast-challenge-promotion-enjoy-all-day-breakfasts-1-milk-based-drinks-freebies-and-a-chance-to-win-return-economy-flight-ticket/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "Now till 15 November 2026: Délifrance Singapore Better Breakfast Challenge Promotion – Enjoy All-Day Breakfasts, $1 Milk-Based Drinks, Freebies and a Chance to Win Return Economy Flight Tickets for 2 to Japan",
-      "excerpt": "Make your mornings more rewarding with Délifrance Singapore's Better Breakfast Challenge, running until 15 November 2026. Enjoy an eligible All-Day Breakfast with a $1 top-up for a milk-based drink made with CP-Meiji High Protein Milk, collect exclusive stickers, earn stamps towards complimentary...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Delifrance-Singapore-Better-Breakfast-Challenge-Promotion.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-20T23:17:12+00:00",
-      "fetched_at": "2026-10-21T00:00:42.548023+00:00",
-      "translation_zh": "即日起至11月15日：Délifrance早餐挑战 全日早餐+$1换购高蛋白牛奶饮品",
-      "excerpt_zh": "点购合格的全日早餐，加$1即可换购CP-Meiji高蛋白牛奶饮品，还能集贴纸、攒印花换免费餐点。"
-    },
-    {
-      "id": "2112561881114415598",
-      "url": "https://x.com/singpromos/status/2112561881114415598",
-      "label": "SINGPromos",
-      "color": "#f59e0b",
-      "deal_type": "deal",
-      "country": "SG",
-      "fetched_at": "2026-10-21T00:00:45.165099+00:00",
-      "translation_zh": "Pizza Hut 2个Regular披萨$22、2个Large $33，还有$4.90外带披萨（21 Oct – 11 Nov 2026）",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 2,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-10-20T15:09:36.000Z",
-        "display_text_range": [
-          0,
-          215
-        ],
-        "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                123,
-                133
-              ],
-              "text": "SINGAPORE"
-            },
-            {
-              "indices": [
-                134,
-                137
-              ],
-              "text": "SG"
-            },
-            {
-              "indices": [
-                138,
-                146
-              ],
-              "text": "SGpromo"
-            },
-            {
-              "indices": [
-                147,
-                154
-              ],
-              "text": "SGsale"
-            },
-            {
-              "indices": [
-                155,
-                165
-              ],
-              "text": "SGfoodies"
-            },
-            {
-              "indices": [
-                166,
-                173
-              ],
-              "text": "SGeats"
-            },
-            {
-              "indices": [
-                174,
-                185
-              ],
-              "text": "singpromos"
-            },
-            {
-              "indices": [
-                186,
-                194
-              ],
-              "text": "SGhalal"
-            },
-            {
-              "indices": [
-                195,
-                203
-              ],
-              "text": "halalSG"
-            },
-            {
-              "indices": [
-                204,
-                215
-              ],
-              "text": "pizzahutsg"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "singpromos.com/dining-restaur…",
-              "expanded_url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-2-for-22-regular-2-for-33-large-4-90-pizza-deals-21-oct-11-nov-2026-308313/",
-              "indices": [
-                99,
-                122
-              ],
-              "url": "https://t.co/muQSjQIs83"
-            }
-          ]
-        },
-        "id_str": "2112561881114415598",
-        "text": "Pizza Hut S'pore 2 for $22 Regular, 2 for $33 Large &amp; $4.90 Pizza Deals (21 Oct - 11 Nov 2026) https://t.co/muQSjQIs83 #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #SGhalal #halalSG #pizzahutsg",
-        "user": {
-          "id_str": "229470448",
-          "name": "SINGPromos",
-          "screen_name": "singpromos",
-          "is_blue_verified": false,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2112561881114415598"
-          ],
-          "editable_until_msecs": "1792512576000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "card": {
-          "card_platform": {
-            "platform": {
-              "audience": {
-                "name": "production"
-              },
-              "device": {
-                "name": "iPhone",
-                "version": "13"
-              }
-            }
-          },
-          "name": "summary_large_image",
-          "url": "https://t.co/muQSjQIs83",
-          "binding_values": {
-            "photo_image_full_size_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image": {
-              "image_value": {
-                "height": 146,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=jpg&name=280x150",
-                "width": 280
-              },
-              "type": "IMAGE"
-            },
-            "description": {
-              "string_value": "Save up to 80% on pizza, with a $4.90 takeaway deal and two-pizza bundles from $22.",
-              "type": "STRING"
-            },
-            "domain": {
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "thumbnail_image_large": {
-              "image_value": {
-                "height": 313,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=jpg&name=600x600",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_original": {
-              "image_value": {
-                "height": 563,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=jpg&name=orig",
-                "width": 1080
-              },
-              "type": "IMAGE"
-            },
-            "site": {
-              "scribe_key": "publisher_id",
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "photo_image_full_size_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_small": {
-              "image_value": {
-                "height": 75,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=jpg&name=144x144",
-                "width": 144
-              },
-              "type": "IMAGE"
-            },
-            "creator": {
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "thumbnail_image_x_large": {
-              "image_value": {
-                "height": 563,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=png&name=2048x2048_2_exp",
-                "width": 1080
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_original": {
-              "image_value": {
-                "height": 563,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=jpg&name=orig",
-                "width": 1080
-              },
-              "type": "IMAGE"
-            },
-            "vanity_url": {
-              "scribe_key": "vanity_url",
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "photo_image_full_size": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 22.29,
-                    "rgb": {
-                      "blue": 22,
-                      "green": 23,
-                      "red": 110
-                    }
-                  },
-                  {
-                    "percentage": 21.19,
-                    "rgb": {
-                      "blue": 40,
-                      "green": 32,
-                      "red": 206
-                    }
-                  },
-                  {
-                    "percentage": 15.89,
-                    "rgb": {
-                      "blue": 79,
-                      "green": 157,
-                      "red": 211
-                    }
-                  },
-                  {
-                    "percentage": 12.6,
-                    "rgb": {
-                      "blue": 133,
-                      "green": 169,
-                      "red": 203
-                    }
-                  },
-                  {
-                    "percentage": 4.5,
-                    "rgb": {
-                      "blue": 254,
-                      "green": 254,
-                      "red": 255
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "title": {
-              "string_value": "Pizza Hut S’pore 2 for $22 Regular, 2 for $33 Large & $4.90 Pizza Deals (21 Oct – 11 Nov 2026)",
-              "type": "STRING"
-            },
-            "summary_photo_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 22.29,
-                    "rgb": {
-                      "blue": 22,
-                      "green": 23,
-                      "red": 110
-                    }
-                  },
-                  {
-                    "percentage": 21.19,
-                    "rgb": {
-                      "blue": 40,
-                      "green": 32,
-                      "red": 206
-                    }
-                  },
-                  {
-                    "percentage": 15.89,
-                    "rgb": {
-                      "blue": 79,
-                      "green": 157,
-                      "red": 211
-                    }
-                  },
-                  {
-                    "percentage": 12.6,
-                    "rgb": {
-                      "blue": 133,
-                      "green": 169,
-                      "red": 203
-                    }
-                  },
-                  {
-                    "percentage": 4.5,
-                    "rgb": {
-                      "blue": 254,
-                      "green": 254,
-                      "red": 255
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "summary_photo_image_x_large": {
-              "image_value": {
-                "height": 563,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=png&name=2048x2048_2_exp",
-                "width": 1080
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 22.29,
-                    "rgb": {
-                      "blue": 22,
-                      "green": 23,
-                      "red": 110
-                    }
-                  },
-                  {
-                    "percentage": 21.19,
-                    "rgb": {
-                      "blue": 40,
-                      "green": 32,
-                      "red": 206
-                    }
-                  },
-                  {
-                    "percentage": 15.89,
-                    "rgb": {
-                      "blue": 79,
-                      "green": 157,
-                      "red": 211
-                    }
-                  },
-                  {
-                    "percentage": 12.6,
-                    "rgb": {
-                      "blue": 133,
-                      "green": 169,
-                      "red": 203
-                    }
-                  },
-                  {
-                    "percentage": 4.5,
-                    "rgb": {
-                      "blue": 254,
-                      "green": 254,
-                      "red": 255
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "photo_image_full_size_x_large": {
-              "image_value": {
-                "height": 563,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=png&name=2048x2048_2_exp",
-                "width": 1080
-              },
-              "type": "IMAGE"
-            },
-            "card_url": {
-              "scribe_key": "card_url",
-              "string_value": "https://t.co/muQSjQIs83",
-              "type": "STRING"
-            },
-            "summary_photo_image_original": {
-              "image_value": {
-                "height": 563,
-                "url": "https://pbs.twimg.com/card_img/2112561866484633600/xxbcKC_I?format=jpg&name=orig",
-                "width": 1080
-              },
-              "type": "IMAGE"
-            }
-          }
-        },
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
-      "id": "ab5386c5b9815132",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/news/coe-oct-2026-2nd-bidding-sees-cat-a-rise-to-s132004-as-motorcycles-dip-308372/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "COE Oct 2026 2nd bidding sees Cat A rise to S$132,004 as motorcycles dip",
-      "excerpt": "Car and goods vehicle premiums climb while motorcycle and Open Category prices head lower. [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2024/03/COE-LTA-Roads-Original-20-Mar-2024.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T09:14:15+00:00",
-      "fetched_at": "2026-10-21T10:30:28.787977+00:00",
-      "translation_zh": "2026年10月第二轮COE标价：A组升至S$132,004，摩托车组回落",
-      "excerpt_zh": "汽车和货车组标价上涨，摩托车组和公开组价格回落。"
-    },
-    {
-      "id": "ec34f5872d9c6711",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/dining-restaurants-food/7-eleven-spore-1-deals-till-3-nov-has-mms-lexus-nutella-b-ready-more-308351/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "7-Eleven S’pore $1 Deals Till 3 Nov Has M&M’s, Lexus, Nutella B-Ready & More",
-      "excerpt": "Grab snacks from just $1, drinks from $1.20 and a buy 1 get 1 free Yan Yan treat! [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/10/7Eleven-1D-feat-singpromos.com-21-Oct-2026.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-21T07:14:26+00:00",
-      "fetched_at": "2026-10-21T10:30:28.788301+00:00",
-      "translation_zh": "7-Eleven $1优惠至11月3日，M&M's、Lexus、Nutella B-Ready等零食通通$1",
-      "excerpt_zh": "零食低至$1、饮品$1.20起，还有Yan Yan买一送一！"
-    },
-    {
-      "id": "01e4c4fbd97bb493",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/dining-restaurants-food/7-eleven-sg-4-for-9-cornetto-royale-4-haagen-dazs-sandwich-more-icy-treats-till-3-nov-2026-308347/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "7-Eleven SG 4-for-$9 Cornetto Royale, $4 Häagen-Dazs Sandwich & More Icy Treats till 3 Nov 2026",
-      "excerpt": "Save up to 42% on icy treats [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2025/07/7-Eleven-feat-orig-singpromos.com-2-Jul-2025.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T07:11:43+00:00",
-      "fetched_at": "2026-10-21T10:30:28.788573+00:00",
-      "translation_zh": "7-Eleven Cornetto Royale 4支$9、Häagen-Dazs冰淇淋三明治$4，冰品优惠至11月3日",
-      "excerpt_zh": "冰品优惠最高省42%。"
-    },
-    {
-      "id": "51236695a9772571",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/10/7-eleven-ice-cream-deals-from-390-save.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "7-Eleven Ice Cream Deals From $3.90 , Save Up To 42% (21 Oct–3 Nov 2026)",
-      "excerpt": "7-Eleven Singapore Ice Cream Promotion: Deals on Magnum, Cornetto, Ben & Jerry's & More 7-Eleven Singapore is running its Icy Treats promotion from 21 October to 3 November 2026, featuring ice cream deals from popular brands including Wall's, Magnum, Cornetto, Ben & Jerry's and Häagen-Dazs....",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJFNf0Zqp-K8rLLU4RnBnK3CLFNieNtDCE3GjIoxD_ZzEX4ylSGPYSbvaBHElReMQH7txYt9jYmMOFrw31qFpNcclHyivZkUPf33IhAvnOOSFnnNhWEArG6qn8GV76qV0_A1ElX7BS8c7UXzzxITgRhWh-VNFwrxiG8ELrONyqoTiZwHVSgdVusdAoIaXh/s640/all%20singapore%20deals%207-11%20ice%20cream%20deals%2021%20oct%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T03:34:21+00:00",
-      "fetched_at": "2026-10-21T10:30:29.294650+00:00",
-      "translation_zh": "7-Eleven冰淇淋优惠$3.90起，最高省42%（10月21日–11月3日）",
-      "excerpt_zh": "7-Eleven新加坡10月21日至11月3日推出Icy Treats冰品促销，Magnum、Cornetto、Ben & Jerry's等多款冰品特价。"
-    },
-    {
-      "id": "ef69fd6138ba5edc",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/10/7-elevens-latest-1-deals-from-21-oct-3.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "7-Eleven's Latest $1 Deals From 21 Oct - 3 Nov",
-      "excerpt": "$1 DEALS AT 7-ELEVEN — SNACKS, CHIPS & DRINKS 7-Eleven is running a 2-week promotion offering a wide range of snacks and drinks at just $1 each, from 21 October to 3 November 2026. T&Cs apply. IF Local Sensation Coconut Water 350ml Milo Original 240ml Seasons Ice Lemon Tea 500ml Curated Culture...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLCb0qOku__c3oGjoMBnkt5OOcypgXON8LcxgY1X_OQ-uDKSMnjYZQ5GDO7Wolv5TYU1j1YwJ6TYbOMgg514ytKANV1pxXrGy1_KXn9S38sTjrJSMviZQixqPc0W0QQAIxTnXFNV2Ofvrmc8GWVu6NnvxEWfl8ZdV7FXQsdFX6OczMrvSrInhIQQHvOsEH/s640/all%20singapore%20deals%207-11%20$1%20deals%2021%20oct%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T03:16:52+00:00",
-      "fetched_at": "2026-10-21T10:30:29.295167+00:00",
-      "translation_zh": "7-Eleven最新$1优惠，10月21日–11月3日",
-      "excerpt_zh": "7-Eleven为期两周的促销，多款零食和饮品每样仅$1，10月21日至11月3日，条款适用。"
-    },
-    {
-      "id": "226cbef1a4962ad2",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/10/kfc-singapore-samyang-buldak-carbonara.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "KFC Singapore Samyang Buldak Carbonara Promotion: $5.50 Macaroni Bowl & $3.95 Loaded Fries",
-      "excerpt": "KFC Singapore is launching its new Samyang Buldak Carbonara Macaroni Bowl on 21 October 2026, priced at $5.50 (U.P. $10.75). The new bowl features creamy, cheesy macaroni with the spicy flavour of Samyang Buldak Carbonara. Each bowl also comes with a FREE upsize from Regular to Medium Sprite. The...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0K1HDid8EYPTmiWzyA1BJEJwa2LLHIsZyFsJYJZ70k2VNJk46J1URCKZxrsLUagFLukYQsI2JPhRHKOgu1_3XpL_MFQhyphenhyphenhimIUITZj1rajjQhxeyryl0K2M_QjM8TggAqBxoCR-9dHsKn7w2VesFyrA9NRSi32-n6IwEBgm7un3MQCTHzG9cerABtOPdH/s640/all%20singapore%20deals%20kfc%20samyang%20buldak%20a.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-21T03:04:25+00:00",
-      "fetched_at": "2026-10-21T10:30:29.295661+00:00",
-      "translation_zh": "KFC新加坡推Samyang Buldak Carbonara：$5.50通心粉碗、$3.95 Loaded Fries",
-      "excerpt_zh": "KFC新加坡10月21日推出全新Samyang Buldak Carbonara通心粉碗，售价$5.50（原价$10.75），奶油芝士通心粉配三养火辣风味。"
-    },
-    {
-      "id": "8c1644633d2b9775",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/10/dinosaur-odyssey-t-rex-walkabout-across.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "DINOSAUR ODYSSEY T-Rex Walkabout Across Singapore From 23 - 25 Oct",
-      "excerpt": "Get ready to come face-to-face with a mighty Tyrannosaurus rex as the DINOSAUR ODYSSEY T-Rex Walkabout roars into selected locations across Singapore from 23 to 25 October 2026! Bringing the excitement of the upcoming DINOSAUR ODYSSEY live show beyond the stage, the walkabout offers members of the...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxfnNs8KKvYr2aMJ3Nvpx0pGsiBhuBrcOU2fQAVuDeLQZiAUO-MWdoVaaHqo5CL4wva-Ecm1h8a89C0VQqrwGUQx_MXFoJGf-2Gnmj5Px3FSj0HCT2A_b2602lZ7lK7lYmjW6qpCZbVYxPOjX1WlrpWLNRCbD5Jw7wD9N3EfTxL572Z4r7pK8N9OGcyw1g/s640/all%20singapore%20deals%20dinosaur%20odyssey%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T02:51:03+00:00",
-      "fetched_at": "2026-10-21T10:30:29.296433+00:00",
-      "translation_zh": "恐龙来啦！DINOSAUR ODYSSEY霸王龙全岛巡游，10月23–25日",
-      "excerpt_zh": "10月23日至25日，霸王龙将现身新加坡多个地点，近距离感受史前巨兽的魅力！"
-    },
-    {
-      "id": "ff26313aebadaa0f",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/10/nan-yang-dao-giving-50-off-2nd-kaya.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Nan Yang Dao Giving 50% Off 2nd Kaya Toast Set On Weekdays From 3pm - 6pm",
-      "excerpt": "NAN YANG DAO AFTERNOON TEA DEAL: 50% OFF YOUR 2ND KAYA TOAST SET Nan Yang Dao is offering 50% OFF the second Kaya Toast Set on weekdays from 3pm to 6pm. Customers can enjoy traditional kaya toast paired with eggs and Nanyang coffee or tea while getting the second set at half price. The promotion...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBH2RpghinTvLMthP32-G2OsQSiyh-EYThJ8w3S15lEqsnoe-CcYHPjZCq2e91eMgKfL3YaJwz5y7l7uKiZ58L_E7uB-gObW8BVdaQ9ijHfhxdWylsOTBCq-6zw7RxPAihGZap5SpJqvQ7hVm555i-5BQywRiNSNCsKugQdBsLuVpovf8lSKWvDi5Np_dE/s640/all%20singapore%20deals%20nan%20yang%20dao%2050%20off%20toast%20set%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T02:30:31+00:00",
-      "fetched_at": "2026-10-21T10:30:29.296960+00:00",
-      "translation_zh": "Nan Yang Dao下午茶优惠：平日下午3点至6点，第二份咖椰吐司套餐半价",
-      "excerpt_zh": "Nan Yang Dao平日下午3点至6点推出第二份咖椰吐司套餐5折优惠，传统咖椰吐司配咖啡，下午茶好去处。"
-    },
-    {
-      "id": "ebcdb57679228574",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/21-october-3-november-2026-7-eleven-singapore-must-buy-drinks-from-1-affordable-coconut-water-milo-tea-soft-drinks-and-more-at-participating-stores/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "21 October–3 November 2026: 7-Eleven Singapore: Must-Buy Drinks from $1 – Affordable Coconut Water, Milo, Tea, Soft Drinks and More at Participating Stores",
-      "excerpt": "Looking for affordable drinks in Singapore? 7-Eleven is offering selected beverages from just $1 from 21 October to 3 November 2026. Shop coconut water, Milo, iced lemon tea, herbal tea, soft drinks, coffee and more at participating outlets while stocks last. Continue reading 21 October–3 November...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/7-Eleven-Singapore-Must-Buy-Drinks-from-1.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T06:39:36+00:00",
-      "fetched_at": "2026-10-21T10:30:37.546656+00:00",
-      "translation_zh": "10月21日–11月3日：7-Eleven必买饮品$1起，椰子水、Milo、茶饮、汽水超值入手",
-      "excerpt_zh": "7-Eleven 10月21日至11月3日推出精选饮品$1起，椰子水、Milo、冰柠檬茶、凉茶、汽水通通有，参与门店有效。"
-    },
-    {
-      "id": "7e37fd5afb4f6bb8",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/now-till-3-november-2026-7-eleven-singapore-icy-treats-promotion-enjoy-creamy-ice-creams-and-refreshing-frozen-desserts-while-stocks-last/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "Now Till 3 November 2026: 7-Eleven Singapore Icy Treats Promotion – Enjoy Creamy Ice Creams and Refreshing Frozen Desserts While Stocks Last",
-      "excerpt": "Cool down with 7-Eleven Singapore’s icy treats promotion, running until 3 November 2026. Explore creamy ice cream favourites and refreshing frozen desserts at participating outlets across Singapore. Product selection varies by store and is available while stocks last, so visit your nearest 7-Eleven...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/7-Eleven-Singapore-Icy-Treats-Promotion-–-Enjoy-Creamy-Ice-Creams.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T04:13:55+00:00",
-      "fetched_at": "2026-10-21T10:30:37.546811+00:00",
-      "translation_zh": "即日起至11月3日：7-Eleven冰品促销，浓郁冰淇淋与清爽冷冻甜品售完即止",
-      "excerpt_zh": "7-Eleven新加坡冰品促销进行中，多款冰淇淋与冷冻甜品特价，参与门店售完即止。"
-    },
-    {
-      "id": "ecf2d220cd4211fa",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/21-october-2026-onwards-chateraise-singapore-halloween-promotion-discover-spooky-cakes-chocolate-treats-and-festive-baked-goodies-for-halloween-celebrations/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "21 October 2026 onwards: Châteraisé Singapore Halloween Promotion – Discover Spooky Cakes, Chocolate Treats and Festive Baked Goodies for Halloween Celebrations",
-      "excerpt": "Celebrate Halloween with Châteraisé Singapore's seasonal collection of spooky cakes, chocolate assortments and baked treats from 21 October 2026 onwards. Discover the Halloween Magical Cat Cake, Halloween Party Assorted Whole Cake, Black Cat Cake, Cute Monster Cake, Langue de Chat sand and...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Chateraise-Singapore-Halloween-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T04:10:46+00:00",
-      "fetched_at": "2026-10-21T10:30:37.546964+00:00",
-      "translation_zh": "10月21日起：Châteraisé新加坡万圣节系列，趣味蛋糕、巧克力与节庆烘焙新品登场",
-      "excerpt_zh": "Châteraisé新加坡10月21日起推出万圣节限定系列，包括Halloween Magical Cat Cake、巧克力组合与多款节庆烘焙甜品。"
-    },
-    {
-      "id": "e61cb8792d566c85",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/20-26-october-2026-sheng-siong-supermarket-5-voucher-promotion-spend-50-on-a-single-receipt-and-enjoy-extra-grocery-savings/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "20–26 October 2026: Sheng Siong Supermarket $5 Voucher Promotion – Spend $50 on a Single Receipt and Enjoy Extra Grocery Savings",
-      "excerpt": "Looking for extra grocery savings in Singapore? Sheng Siong Supermarket is offering a $5 voucher when shoppers spend $50 on a single receipt from 20–26 October 2026. Find out how the Price Drop promotion works, how to plan your grocery shopping and what to check before participating. Terms and...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Sheng-Siong-Supermarket-5-Voucher-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T04:07:38+00:00",
-      "fetched_at": "2026-10-21T10:30:37.547100+00:00",
-      "translation_zh": "10月20–26日：Sheng Siong超市$5优惠券，单张收据满$50即享额外杂货优惠",
-      "excerpt_zh": "Sheng Siong超市10月20日至26日推出优惠：单张收据满$50即送$5优惠券，叠加Price Drop降价促销更划算。"
-    },
-    {
-      "id": "7127f94a0c1388ae",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/19-31-october-2026-don-don-donki-singapore-edomae-jo-fair-promotion-enjoy-deluxe-sushi-and-sashimi-selections-from-16-90-at-all-stores/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "19–31 October 2026: DON DON DONKI Singapore Edomae Jo Fair Promotion – Enjoy Deluxe Sushi and Sashimi Selections from $16.90 at All Stores",
-      "excerpt": "Sushi lovers, take note! DON DON DONKI Singapore is offering special prices on four Edomae Jo sushi selections from 19 to 31 October 2026. Enjoy the Edomae Jo Nigiri Selection for $16.90, save $4 on the Classic Selection at $22.90, or explore the Assorted Deluxe and Premium Masterpiece options....",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/DON-DON-DONKI-Singapore-Edomae-Jo-Fair-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T04:05:15+00:00",
-      "fetched_at": "2026-10-21T10:30:37.547242+00:00",
-      "translation_zh": "10月19–31日：DON DON DONKI江户前Jo寿司祭，豪华寿司刺身$16.90起，全岛门店",
-      "excerpt_zh": "DON DON DONKI新加坡10月19日至31日推出四款江户前Jo寿司特价，江户前Jo握寿司拼盘$16.90，多款直降$4，全岛门店有售。"
-    },
-    {
-      "id": "ee7a3079e4717fed",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/20-october-2026-onwards-leonian-singapore-odyssey-trtl-putter-promotion-get-a-free-trtl-cap-or-trtl-shirt-with-selected-golf-purchases-at-7-outlets/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "20 October 2026 onwards: Leonian Singapore Odyssey TRTL Putter Promotion – Get a FREE TRTL Cap or TRTL Shirt with Selected Golf Purchases at 7 Outlets",
-      "excerpt": "Golfers in Singapore can enjoy extra value with Leonian's Odyssey TRTL Putter promotion from 20 October 2026 onwards. Purchase a TRTL Putter to receive a FREE TRTL Cap, or buy a TRTL Putter together with TRTL Golf Balls to receive a FREE TRTL Shirt. Available at seven selected Leonian outlets while...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Leonian-Singapore-Odyssey-TRTL-Putter-Promotion.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-21T04:00:07+00:00",
-      "fetched_at": "2026-10-21T10:30:37.547375+00:00",
-      "translation_zh": "10月20日起：Leonian新加坡Odyssey TRTL推杆促销，购指定球杆免费送TRTL帽或T恤",
-      "excerpt_zh": "10月20日起，Leonian推出Odyssey TRTL推杆优惠：购买TRTL推杆免费送TRTL帽，搭配购买指定产品可获TRTL T恤，共7家门店参与。"
-    },
-    {
-      "id": "610e06752bd43753",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/24-25-october-2026-energyone-singapore-biggest-gym-sale-of-the-year-0-joining-fee-free-extra-months-referral-rewards-spin-win-and-exclusive-gifts-at-safra-toa-payoh-and-mo/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "24–25 October 2026: EnergyOne Singapore Biggest Gym Sale of the Year – $0 Joining Fee, Free Extra Months, Referral Rewards, Spin & Win and Exclusive Gifts at SAFRA Toa Payoh and Mount Faber, 10am–8pm",
-      "excerpt": "Looking for a great gym membership deal in Singapore? EnergyOne is holding its Biggest Sale of the Year on 24–25 October 2026, from 10am to 8pm, at SAFRA Toa Payoh and SAFRA Mount Faber. Enjoy a $0 joining fee, free extra months, referral rewards, Spin & Win, exclusive door gifts, fitness body...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/EnergyOne-Singapore-Biggest-Gym-Sale-of-the-Year.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-21T03:57:16+00:00",
-      "fetched_at": "2026-10-21T10:30:37.547544+00:00",
-      "translation_zh": "10月24–25日：EnergyOne年度最大健身房促销——$0入会费、免费加送月份、推荐奖励",
-      "excerpt_zh": "EnergyOne 10月24日至25日上午10点至晚上8点，在SAFRA Toa Payoh和SAFRA Mount Faber举办年度大促，$0入会费、免费加送会籍月份等。"
-    },
-    {
-      "id": "ebaac95438cdef8e",
-      "source_type": "rss",
-      "source_name": "Eatbook",
-      "source_url": "https://eatbook.sg/pizza-hut-bundle-deal/",
-      "source_color": "#ef4444",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
-      "source_lang": "en",
-      "title": "Pizza Hut’s $4.90 Pizza Deal Is Back Till 27 Oct",
-      "excerpt": "Pizza Hut Singapore brings back $4.90 pizza deal Good news for pizza fans: from 21 to 27 October 2026 , five Pizza Hut Singapore outlets are selling Regular Favourite pizzas for $4.90 each, down from the usual $23.95. That’s about 80% off, which makes it a steal. The five outlets are located at...",
-      "image": "https://eatbook.sg/wp-content/uploads/2026/10/pizza-hut-4.90-deal.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T08:33:07+00:00",
-      "fetched_at": "2026-10-21T10:30:38.707572+00:00",
-      "translation_zh": "Pizza Hut $4.90披萨优惠回归，只到10月27日",
-      "excerpt_zh": "10月21日至27日，Pizza Hut新加坡5家门店Regular Favourite披萨每份$4.90，超值入手别错过。"
-    },
-    {
-      "id": "00d174da22a37cff",
-      "source_type": "rss",
-      "source_name": "Eatbook",
-      "source_url": "https://eatbook.sg/jalan-besar-food-itinerary/",
-      "source_color": "#ef4444",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
-      "source_lang": "en",
-      "title": "How To Spend 12 Hours In Jalan Besar: $7 Cai Fan Buffet, Cat Cafe And More",
-      "excerpt": "1-day Jalan Besar itinerary Back when I was a student, the cool places to hang out were Haji Lane in Bugis, Tiong Bahru , and Joo Chiat , especially if you loved cafe hopping. Then I started working at Eatbook—our office is located near Jalan Besar—and realised how many solid eating spots in this...",
-      "image": "https://eatbook.sg/wp-content/uploads/2026/10/jalan-besar-12-hour-food-guide-feature-image.png",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T04:21:03+00:00",
-      "fetched_at": "2026-10-21T10:30:38.717164+00:00",
-      "translation_zh": "Jalan Besar一日游攻略：$7菜饭自助、猫咪咖啡厅等好去处",
-      "excerpt_zh": "Jalan Besar一日行程推荐：$7菜饭buffet、猫咪咖啡厅等，平价吃喝玩乐一次看。"
-    },
-    {
-      "id": "9351773a80a28d03",
-      "source_type": "rss",
-      "source_name": "Eatbook",
-      "source_url": "https://eatbook.sg/brewed-by-davine/",
-      "source_color": "#ef4444",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
-      "source_lang": "en",
-      "title": "20-Year-Old Sells $4.50 Matcha “Peng” From Her HDB Window In Bukit Batok",
-      "excerpt": "Brewed by Davine is a home-based cafe in Bukit Batok Westies looking for an affordable matcha fix: this home-based business needs to be on your radar. Tucked away in a Bukit Batok HDB flat, Brewed by Davine is run by 20-year-old Davine, who serves freshly made matcha drinks straight from her HDB...",
-      "image": "https://eatbook.sg/wp-content/uploads/2026/10/brewed-davine-cover.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T04:13:15+00:00",
-      "fetched_at": "2026-10-21T10:30:38.718124+00:00",
-      "translation_zh": "武吉巴督组屋窗口卖$4.50抹茶\"Peng\"，20岁女生的home-based小店",
-      "excerpt_zh": "Brewed by Davine是武吉巴督组屋里的home-based小店，$4.50就能喝到现点现做的抹青饮品，西区抹茶控必收藏。"
-    },
-    {
-      "id": "579dafaab5025bdf",
-      "source_type": "rss",
-      "source_name": "SG榴莲",
-      "source_url": "https://sgliulian.com/promotion-deals/scoot-travel-deals-from-singapore-under-200sgd-oct-2026/",
-      "source_color": "#84cc16",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=sgliulian.com&sz=64",
-      "source_lang": "zh",
-      "title": "年底想溜出新加坡？Scoot往返机票全包价S$200内！吉隆坡、槟城、巴厘岛、普吉岛走起！",
-      "excerpt": "年底假期还没着落？ 钱包在抗议，但心已经飞远了？ 别慌！酷航最近放大招 推出了一波全包价 S$200 以下的超划算往返机票促销！ 不管你是想来个周末快闪、海岛躺平 还是请几天假深度游，这波羊毛绝对不能错过！ 戳这里买机票 邻近目的地天花板：最低S$100起，说走就走零负担！ 嫌长途飞机太累？不想花大钱？ 这次促销主打的就是一个“近、快、省”！ 离新加坡超近的马来西亚和周边国家承包了你的周末~ 吉隆坡：S$114起 槟城：S$122起 Langkawi：S$100起 马六甲：S$121起 想要阳光海滩？S$200 内带你飞向远方！ 如果你愿意稍微飞远一点点 去感受海风和东南亚的烟火气...",
-      "image": "https://cdn1.sgliulian.com/wp-content/uploads/2026/10/IMG_20261021103716989.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T02:57:06+00:00",
-      "fetched_at": "2026-10-21T10:30:40.329290+00:00",
-      "translation_zh": "年底想溜出新加坡？Scoot往返机票全包价S$200内！吉隆坡、槟城、巴厘岛、普吉岛走起！",
-      "excerpt_zh": "酷航推出全包价S$200以下往返机票促销，邻近目的地最低S$100起，吉隆坡、槟城、巴厘岛、普吉岛任选，年底假期说走就走。"
-    },
-    {
-      "id": "7a86d9832b7cbf82",
-      "source_type": "rss",
-      "source_name": "SG榴莲",
-      "source_url": "https://sgliulian.com/event-and-festival/zhang-linghe-taobao-singapore-mrt-double-11-campaign-2026/",
-      "source_color": "#84cc16",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=sgliulian.com&sz=64",
-      "source_lang": "zh",
-      "title": "搭地铁偶遇男神！张凌赫×淘宝霸屏新加坡，专属主题列车+打卡指南全汇总！",
-      "excerpt": "全岛的追星女孩们请注意！ 中国电商巨头淘宝早前才刚官宣当红男神张凌赫成为海外品牌代言人 没想到这么快又给新加坡的粉丝们安排上了超级大惊喜！ 为了迎接年度狂欢双11购物节 淘宝把张凌赫“搬”进了新加坡地铁！ 即日起，全岛不仅有超帅的主题列车接送你上下班 还有一大波独家福利、直播互动等你来解锁！ 限量版“张凌赫主题列车”！每一帧都是画报级暴击 即日起至 11月15日 新加坡地铁南北线（NSL）和东西线（EWL） 将随机掉落3款不同颜色的张凌赫主题列车！ 坐地铁再也不是枯燥的通勤了 这次车厢里藏满了心思~ 专属拍照打卡区： 男神高清巨幅海报直击心脏，随手一拍都是浪漫合影！ 可收藏主题吊环：...",
-      "image": "https://cdn4.sgliulian.com/wp-content/uploads/2026/10/IMG_20261021094113421.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T01:48:26+00:00",
-      "fetched_at": "2026-10-21T10:30:40.330831+00:00",
-      "translation_zh": "搭地铁偶遇男神！张凌赫×淘宝霸屏新加坡，专属主题列车+打卡指南全汇总！",
-      "excerpt_zh": "淘宝双11狂欢请来代言人张凌赫，即日起至11月15日新加坡地铁南北线、东西线开出限量主题列车，还有独家福利和直播互动。"
-    },
-    {
       "id": "413378d77af5de63",
       "source_type": "rss",
       "source_name": "SINGPromos",
@@ -1307,204 +413,6 @@
       "fetched_at": "2026-10-22T00:00:38.596313+00:00",
       "translation_zh": "Challenger Stay-in 特卖 科技家居用品最高63%折扣（10月21日至25日）",
       "excerpt_zh": "Challenger Stay-in Specials 10月21日至25日，精选商品最高63%折扣，满 $150 减 $6，满 $300 减 $12。"
-    },
-    {
-      "id": "9bde128583ef2b32",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/21-october-1-november-2026-hoshino-coffee-singapore-reopening-promotion-enjoy-50-off-signature-souffle-pancakes-with-any-main-course-or-drink-at-plaza-singapura/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "21 October–1 November 2026: Hoshino Coffee Singapore Reopening Promotion – Enjoy 50% OFF Signature Soufflé Pancakes with Any Main Course or Drink at Plaza Singapura",
-      "excerpt": "Hoshino Coffee Singapore is celebrating the reopening of its Plaza Singapura outlet with a tempting dessert deal! From 21 October to 1 November 2026, enjoy 50% off featured Signature Soufflé Pancakes when you order any main course or drink from the Grand Menu. Find out how to enjoy this...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Hoshino-Coffee-Singapore-Reopening-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T13:05:48+00:00",
-      "fetched_at": "2026-10-22T00:00:38.596458+00:00",
-      "translation_zh": "Hoshino Coffee 重开促销 点主餐或饮品 招牌舒芙蕾松饼半价（10月21日至11月1日）",
-      "excerpt_zh": "Hoshino Coffee 庆祝 Plaza Singapura 门店重开，10月21日至11月1日点任意主餐或饮品，招牌舒芙蕾松饼半价。"
-    },
-    {
-      "id": "c053e3a8d9ede6e5",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/19-october-1-november-2026-unity-pharmacy-singapore-up-to-35-off-qv-skincare-at-amk-hub-with-exclusive-roadshow-deals-sure-win-gachapon-prizes-and-5-fairprice-voucher-rewards/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "19 October–1 November 2026: Unity Pharmacy Singapore – Up to 35% OFF QV Skincare at AMK Hub with Exclusive Roadshow Deals, Sure-Win Gachapon Prizes and $5 FairPrice Voucher Rewards",
-      "excerpt": "Looking for skincare savings in Singapore? From 19 October to 1 November 2026, Unity Pharmacy at AMK Hub is offering up to 35% OFF selected QV face and body care essentials. Spend $40 nett for a sure-win gachapon with prizes worth up to $70, or spend $60 nett to receive a $5 FairPrice voucher....",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Unity-Pharmacy-Singapore-–-Up-to-35-OFF-QV-Skincare.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T13:03:13+00:00",
-      "fetched_at": "2026-10-22T00:00:38.596589+00:00",
-      "translation_zh": "Unity 药房 QV 护肤精选最高35%折扣（AMK Hub，10月19日至11月1日）",
-      "excerpt_zh": "10月19日至11月1日，AMK Hub Unity 药房 QV 面部及身体护理精选最高35%折扣，满 $40 可玩必中 Gachapon。"
-    },
-    {
-      "id": "518a739fd06feea9",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/24-november-10-december-2026-kidz-amaze-singapore-year-end-3-day-holiday-camps-fun-filled-school-holiday-activities-from-298-at-safra-jurong-safra-toa-payoh-and-safra-punggol/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "24 November–10 December 2026: Kidz Amaze Singapore Year-End 3-Day Holiday Camps – Fun-Filled School Holiday Activities from $298 at SAFRA Jurong, SAFRA Toa Payoh and SAFRA Punggol",
-      "excerpt": "Make the year-end school holidays more exciting with the Kidz Amaze Year-End 3-Day Holiday Camps, running from 24 November to 10 December 2026. Children can enjoy a fun-filled camp experience and make new friends, with fees at $298 for Kidz Amaze and SAFRA members or $348 for guests. Contact Kidz...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Kidz-Amaze-Singapore-Year-End-3-Day-Holiday-Camps.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T13:00:10+00:00",
-      "fetched_at": "2026-10-22T00:00:38.596738+00:00",
-      "translation_zh": "Kidz Amaze 年末3天假日营 $298 起（11月24日至12月10日）",
-      "excerpt_zh": "Kidz Amaze 年末学校假期3日营，11月24日至12月10日，在 SAFRA Jurong 等地点举行，每人 $298 起。"
-    },
-    {
-      "id": "e578be5d9184108b",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/now-till-9-november-2026-osim-great-world-display-set-clearance-sale-enjoy-up-to-70-off-massage-chairs-massage-sofas-eye-massagers-and-wellness-essentials-at-great-world/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "Now Till 9 November 2026: OSIM Great World Display Set Clearance Sale – Enjoy Up to 70% OFF Massage Chairs, Massage Sofas, Eye Massagers and Wellness Essentials at Great World",
-      "excerpt": "Enjoy up to 70% OFF selected OSIM display sets at the OSIM Great World Display Set Clearance Sale, running until 9 November 2026. Discover potential savings on well-being chairs, massage sofas, eye massagers and mini wellness essentials at Great World, #02-123/124. Stocks are limited, so visit...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/OSIM-Great-World-Display-Set-Clearance-Sale.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T12:57:02+00:00",
-      "fetched_at": "2026-10-22T00:00:38.596884+00:00",
-      "translation_zh": "OSIM Great World 展示品清仓 按摩椅最高70%折扣（至11月9日）",
-      "excerpt_zh": "OSIM Great World 展示品清仓至11月9日，按摩椅、按摩沙发、眼部按摩器等精选最高70%折扣。"
-    },
-    {
-      "id": "b329982d87c406e0",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/21-october-2026-onwards-pop-mart-the-monsters-shake-a-drink-gaming-handheld-promotion-labubu-cafe-game-built-in-camera-and-secret-mokoko-edition-us49-99-overseas-price-singapore-launch/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "21 October 2026 onwards: POP MART THE MONSTERS Shake A Drink Gaming Handheld Promotion – LABUBU Café Game, Built-in Camera and Secret MOKOKO Edition, US$49.99 Overseas Price, Singapore Launch Updates",
-      "excerpt": "LABUBU fans, POP MART's THE MONSTERS Shake A Drink Gaming Handheld combines café management gameplay, a built-in camera, photo stickers and multiplayer mini-games in one pocket-sized collectible. Discover the regular NUT design and pink PEACH Secret Edition, listed overseas at US$49.99 for an...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/POP-MART-THE-MONSTERS-Shake-A-Drink-Gaming-Handheld-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T12:44:08+00:00",
-      "fetched_at": "2026-10-22T00:00:38.597023+00:00",
-      "translation_zh": "POP MART LABUBU 掌上游戏机 Shake A Drink 上市",
-      "excerpt_zh": "THE MONSTERS Shake A Drink 掌机内置 LABUBU 咖啡厅经营游戏、相机、拍照贴纸与多人小游戏，还有神秘 MOKOKO 版本。"
-    },
-    {
-      "id": "2613fe112ea33d54",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/now-till-30-november-2026-oriental-kopi-singapore-promotion-taro-egg-tart-taro-polo-bun-ayam-masak-merah-mains-and-seasonal-drinks/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "Now Till 30 November 2026: Oriental Kopi Singapore Promotion – Taro Egg Tart, Taro Polo Bun, Ayam Masak Merah Mains and Seasonal Drinks",
-      "excerpt": "Oriental Kopi is bringing its Taro Egg Tart and Taro Polo Bun to Singapore, alongside four new Ayam Masak Merah mains and two fruity sour plum drinks. With the seasonal taro treats and selected drinks available only until 30 November 2026, discover the menu highlights and prices before planning...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Oriental-Kopi-Singapore-Promotion-–-Taro-Egg-Tart-Taro-Polo-Bun.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T12:38:56+00:00",
-      "fetched_at": "2026-10-22T00:00:38.597151+00:00",
-      "translation_zh": "Oriental Kopi 芋头蛋挞、芋头菠萝油新上市（至11月30日）",
-      "excerpt_zh": "Oriental Kopi 推出芋头蛋挞与芋头菠萝油，还有四道 Ayam Masak Merah 新主餐与两款酸梅水果饮品，至11月30日。"
-    },
-    {
-      "id": "d00b08b89446dac1",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/22-26-october-2026-boost-juice-bars-singapore-buy-1-get-1-for-1-promotion-at-bugis-junction-berries-tropical-range-reopening-deal/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "22–26 October 2026: Boost Juice Bars Singapore Buy 1, Get 1 for $1 Promotion at Bugis Junction – Berries & Tropical Range Reopening Deal",
-      "excerpt": "Boost Juice Bars Singapore is celebrating the reopening of its Bugis Junction outlet with a Buy 1, Get 1 for $1 promotion on selected drinks from the Berries & Tropical Range. Available on 22 and 26 October 2026, this fruity deal is a great excuse to bring a friend along for a refreshing shopping...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Boost-Juice-Bars-Singapore-Buy-1-Get-1-for-1-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T12:35:46+00:00",
-      "fetched_at": "2026-10-22T00:00:38.597309+00:00",
-      "translation_zh": "Boost Juice 买1杯第2杯仅 $1（Bugis Junction 重开，10月22日及26日）",
-      "excerpt_zh": "Boost Juice 庆祝 Bugis Junction 门店重开，10月22日及26日 Berries & Tropical 系列买一杯，第二杯仅 $1。"
-    },
-    {
-      "id": "6b1649d487e84504",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/1-january-31-december-2026-nlb-makeit-at-libraries-singapore-free-tote-bag-making-sewing-workshops-for-beginners-at-four-regional-libraries/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "1 January–31 December 2026: NLB MakeIT at Libraries Singapore: Free Tote Bag-Making Sewing Workshops for Beginners at Four Regional Libraries",
-      "excerpt": "Looking for free things to do in Singapore? Discover NLB MakeIT at Libraries' beginner-friendly sewing workshops, where participants can learn to operate a sewing machine and make a simple lined tote bag. Explore sessions at Tampines, Punggol, Jurong and Woodlands Regional Libraries, and check the...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/NLB-MakeIT-at-Libraries-Singapore.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-21T12:33:04+00:00",
-      "fetched_at": "2026-10-22T00:00:38.597454+00:00",
-      "translation_zh": "NLB MakeIT 免费缝纫工作坊 学做托特包（四间区域图书馆，全年）",
-      "excerpt_zh": "国家图书馆 MakeIT 计划为初学者提供免费缝纫课，学用缝纫机制作托特包，全年于四间区域图书馆举行。"
-    },
-    {
-      "id": "a42ea22b9982e120",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/20-25-october-2026-king-koil-7th-epic-home-fair-singapore-2026-bedding-from-25-pillows-from-32-mattress-deals-and-more-at-marina-square-atrium/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "20–25 October 2026: King Koil: 7th EPIC HOME FAIR Singapore 2026 – Bedding from $25, Pillows from $32, Mattress Deals and More at Marina Square Atrium",
-      "excerpt": "Looking for affordable bedding and home furnishing deals in Singapore? Visit the King Koil 7th EPIC HOME FAIR at Marina Square Atrium from 20–25 October 2026. Shop selected fitted sheet sets from $25, pillows from $32, comforter sets from $45 and more. Visitors can also look out for the Sleep Well...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/King-Koil-7th-EPIC-HOME-FAIR-Singapore-2026.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T12:16:12+00:00",
-      "fetched_at": "2026-10-22T00:00:38.597589+00:00",
-      "translation_zh": "King Koil 第7届 EPIC HOME FAIR 床品 $25 起（滨海广场，10月20日至25日）",
-      "excerpt_zh": "King Koil 第7届 EPIC HOME FAIR 10月20日至25日在 Marina Square 中庭举行，床笠套装 $25 起、枕头 $32 起。"
-    },
-    {
-      "id": "7cbe6f0c4f1ec406",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/21-october-2026-onwards-metro-singapore-footwear-promotion-enjoy-up-to-50-off-selected-nike-adidas-new-balance-asics-and-more-at-causeway-point-level-2/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "21 October 2026 onwards: METRO Singapore Footwear Promotion – Enjoy Up to 50% OFF Selected Nike, Adidas, New Balance, ASICS and More at Causeway Point, Level 2",
-      "excerpt": "Looking for affordable branded trainers? Visit METRO Causeway Point, Level 2, from 21 October 2026 onwards and discover up to 50% OFF selected footwear from Nike, Adidas, New Balance, ASICS and more. Check out the available styles, compare prices and find a pair that suits your needs while stocks...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/METRO-Singapore-Footwear-Promotion-1.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-21T12:11:30+00:00",
-      "fetched_at": "2026-10-22T00:00:38.597725+00:00",
-      "translation_zh": "METRO 运动鞋促销 Nike、Adidas 等最高50%折扣（Causeway Point，10月21日起）",
-      "excerpt_zh": "METRO Causeway Point 二楼，10月21日起 Nike、Adidas、New Balance、ASICS 等精选鞋款最高50%折扣。"
-    },
-    {
-      "id": "54d318887245c31e",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/20-25-october-2026-king-koil-singapore-teepee-tent-colouring-contest-giveaway-at-the-7th-epic-home-fair-marina-square-mall-atrium/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "20–25 October 2026: King Koil Singapore Teepee Tent Colouring Contest Giveaway at the 7th Epic Home Fair, Marina Square Mall Atrium",
-      "excerpt": "Little artists, get creative with King Koil Singapore at the 7th Epic Home Fair from 20–25 October 2026 at Marina Square Mall Atrium! Join the colouring contest for a chance to be one of five winners to receive a personalised teepee tent set. Colour pencils are provided, making this a fun family...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/King-Koil-Singapore-Teepee-Tent-Colouring-Contest-Giveaway.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-21T11:32:15+00:00",
-      "fetched_at": "2026-10-22T00:00:38.597869+00:00",
-      "translation_zh": "King Koil 帐篷涂色比赛 免费参加（滨海广场，10月20日至25日）",
-      "excerpt_zh": "7th Epic Home Fair 期间参加 King Koil 帐篷涂色比赛，有机会成为五位赢家之一，10月20日至25日。"
     },
     {
       "id": "2112933177341698061",
@@ -16389,6 +15297,672 @@
         "isEdited": false,
         "isStaleEdit": false
       }
+    },
+    {
+      "id": "f6d24ef7c2856fb1",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/furniture/ikea-spore-deepavali-2026-offers-decor-from-3-90-dining-deals-and-rangoli-art-308794/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "IKEA S’pore Deepavali 2026 Offers Décor from $3.90, Dining Deals and Rangoli Art",
+      "excerpt": "Explore floral décor, a $20 wardrobe saving, IKEA Family dining deals and in-store Rangoli art [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/10/IKEA-feat-singpromos.com-16-Oct-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T08:59:46+00:00",
+      "fetched_at": "2026-10-31T10:30:30.855294+00:00",
+      "translation_zh": "IKEA新加坡屠妖节2026优惠：装饰品低至$3.90，还有餐饮折扣和Rangoli彩绘",
+      "excerpt_zh": "IKEA新加坡推出屠妖节优惠：花卉装饰低至$3.90，衣柜立省$20，IKEA Family会员享餐饮折扣，门店还有Rangoli彩绘活动。"
+    },
+    {
+      "id": "ff3760631634c8d7",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/yakiniku-go-9-90-red-king-crab-and-snow-crab-with-every-set-meal-from-3-nov-2026-308786/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Yakiniku-GO $9.90 Red King Crab and Snow Crab with Every Set Meal from 3 Nov 2026",
+      "excerpt": "Enjoy big, meaty Red King Crab and Snow Crab from just $9.90 with any yakiniku set meal [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/10/YakinikuGO-feat-singpromos.com-31-Oct-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T07:19:47+00:00",
+      "fetched_at": "2026-10-31T10:30:30.855540+00:00",
+      "translation_zh": "Yakiniku-GO 11月3日起：点任意烧肉套餐加$9.90享红帝王蟹和雪蟹",
+      "excerpt_zh": "从11月3日起，在Yakiniku-GO点任意烧肉套餐，只需加$9.90就能享用肉质饱满的红帝王蟹和雪蟹。"
+    },
+    {
+      "id": "4e2d8665e56bfb62",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/pepper-lunch-sg-150g-striploin-steak-with-drink-at-11-on-11-nov-16-90-from-3-30-nov-2026-308773/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Pepper Lunch SG 150g Striploin Steak with Drink at $11 on 11 Nov, $16.90 from 3-30 Nov 2026",
+      "excerpt": "Enjoy a 150g striploin steak with a drink for $11 on flash-sale day or $16.90 during the promotion [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/10/Pepper-Lunch-feat-singpromos.com-31-Oct-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T06:31:37+00:00",
+      "fetched_at": "2026-10-31T10:30:30.855748+00:00",
+      "translation_zh": "Pepper Lunch 11月11日闪购：150g西冷牛排配饮料仅$11，11月3-30日$16.90",
+      "excerpt_zh": "Pepper Lunch限时优惠：11月11日闪购日150g西冷牛排套餐（含饮料）仅$11，11月3日至30日期间售价$16.90。"
+    },
+    {
+      "id": "6d6e4995bc61a72b",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/10/burger-king-singapore-5-in-1-combo.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Burger King Singapore 5-in-1 Combo Deals @ $9.50",
+      "excerpt": "Burger King Singapore 5-in-1 Combo Promotion: Enjoy a Satisfying Meal for Just $9.50 Looking for an affordable fast-food meal in Singapore? Burger King Singapore is bringing more value with its exciting 5-in-1 Combo Promotion, offering a satisfying meal with five items for just $9.50. Choose from...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYU7CbR9O0wJuSvcZ3i4P0ll7gHZwUl40Ulen3gut0xshOQXuyZZtfb12vGfHt5oyM3vor2FoNlzj57hqxx9CfIzuM0wJE_2YEXldcYC7YeQXw93kfb4ozHy2xwn-K7jhcc2i2-KMlhaH1fuQoFnkkqAjD8A-5HZ5JygSPkbxxahds_RxKqjXYWRJUxbn_/s640/all%20singapore%20deals%20burger%20king%205-in-1%20combo%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T01:54:25+00:00",
+      "fetched_at": "2026-10-31T10:30:31.326672+00:00",
+      "translation_zh": "Burger King新加坡5合1超值套餐仅需$9.50",
+      "excerpt_zh": "Burger King新加坡推出5合1组合优惠，只需$9.50就能吃到丰盛的一餐，平价快餐好选择。"
+    },
+    {
+      "id": "6671cc247ec25d71",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/10/best-denki-grand-electrical-fair-tvs.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Best Denki Grand Electrical Fair: TVs, Appliances & Electronics Deals Up To 61% Off Until 6 Nov",
+      "excerpt": "Best Denki Grand Electrical Fair 2026: Massive Year-End Electronics Deals Up To 61% Off The Best Denki Grand Electrical Fair 2026 is back with a bang! Happening from now till 6 November 2026, this exciting year-end promotion brings shoppers in Singapore attractive discounts on televisions, home...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVEp-Ad1GKNlX_3TCIhTpk3qlSQRJeTPmfXuBxnw5h2MJp8V7511fVORrWEFW-l29pNVtKvSm4x1cvLRgjP0G254-FepOSJ-R2fTEj8MZWc-4L1NrDufxUU4div45cGIeSPXEviw3eKpqg6zHjr4QykR2ZzjxrfNjoyURMeuDNLo2s-gaUX94stGJhoP_Z/s640/all%20singapore%20deals%20best%20denki%20grand%20electrical%20fair%206%20nov%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T00:47:40+00:00",
+      "fetched_at": "2026-10-31T10:30:31.327593+00:00",
+      "translation_zh": "Best Denki电器大展销：电视、家电、电子产品最高61% OFF，至11月6日",
+      "excerpt_zh": "Best Denki 2026年度电器大展销火热进行中，电视、家电与电子产品最高折扣达61%，活动至11月6日截止。"
+    },
+    {
+      "id": "df53c032149a734f",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/10/harvey-norman-singapore-anniversary.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Harvey Norman Singapore Anniversary & Factory Outlet Sale: Up to 80% Off Until 30 Nov",
+      "excerpt": "Harvey Norman Singapore 25th Anniversary Sale & Factory Outlet Sale 2026: Enjoy Massive Savings Get ready for exciting shopping deals as Harvey Norman Singapore celebrates its 25th Anniversary Sale, alongside a special Factory Outlet Halloween After Dark Sale. Shoppers can enjoy attractive...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQxH2CxNhvTPVWFmQZAQMPC1pvgnJ9RgAYtOS7k502zgLXWKhXQTfGyDTBLQ5XcdxP2Q5q26E1_kxByksCqbJajRviViMb5ybRMOhLb2XsU3pTHa4eCGgrSa2BVCzpsHKM61SV0fQSPrklj_ezlaX3h-Bu-rubGnXN0rzX5tQtW4efh0eRHog2kh7Tb6gx/s640/all%20singapore%20deals%20harvey%20norman%2025%20anniversary%20sale%2031%20oct%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T00:18:21+00:00",
+      "fetched_at": "2026-10-31T10:30:31.327990+00:00",
+      "translation_zh": "Harvey Norman 25周年庆+工厂店大促销：最高80% OFF，至11月30日",
+      "excerpt_zh": "Harvey Norman新加坡25周年庆暨工厂直营店促销来袭，各类商品最高80% OFF，活动持续至11月30日。"
+    },
+    {
+      "id": "ca2cd151252cee77",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/31-october-2026-onwards-yishion-compass-one-promotion-get-50-off-any-keychain-or-phone-chain-with-every-regular-priced-bag-purchase/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "31 October 2026 Onwards: YISHION Compass One Promotion – Get 50% OFF Any Keychain or Phone Chain With Every Regular-Priced Bag Purchase",
+      "excerpt": "Looking for a new handbag and fashionable accessories? YISHION at Compass One is offering 50% OFF any keychain or phone chain when you purchase a regular-priced bag. Starting from 31 October 2026 onwards, drop by #01-50 and enjoy extra savings on your next fashion accessory purchase. Continue...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/YISHION-Compass-One-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T04:01:20+00:00",
+      "fetched_at": "2026-10-31T10:30:38.291782+00:00",
+      "translation_zh": "YISHION Compass One：购正价包袋，钥匙扣/手机链半价（10月31日起）",
+      "excerpt_zh": "从10月31日起，在Compass One的YISHION购买任意正价包袋，即可享钥匙扣或手机链5折优惠。"
+    },
+    {
+      "id": "4ee649cd15150925",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/31-october-2026-onwards-gain-city-asus-business-promotion-get-a-free-brother-3-in-1-wireless-printer-worth-238-with-every-eligible-asus-expertbook-or-expertcenter-purchase/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "31 October 2026 onwards: Gain City ASUS Business Promotion – Get a FREE Brother 3-in-1 Wireless Printer Worth $238 with Every Eligible ASUS ExpertBook or ExpertCenter Purchase",
+      "excerpt": "Looking to upgrade your business technology? Gain City is offering a FREE Brother 3-in-1 Wireless Printer worth $238 with every eligible ASUS ExpertBook or ExpertCenter purchase from 31 October 2026 onwards. Check out this business promotion and enjoy extra savings on your next office upgrade!...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Gain-City-ASUS-Business-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-31T03:58:03+00:00",
+      "fetched_at": "2026-10-31T10:30:38.291940+00:00",
+      "translation_zh": "Gain City ASUS商务优惠：购指定ExpertBook/ExpertCenter送价值$238的Brother三合一无线打印机",
+      "excerpt_zh": "从10月31日起，在Gain City购买指定ASUS ExpertBook或ExpertCenter，即可免费获得价值$238的Brother三合一无线打印机。"
+    },
+    {
+      "id": "b9cc859e913e9fef",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/28-october-3-november-2026-sheng-siong-supermarket-seafood-promotion-fresh-seafood-specials-and-great-grocery-deals-across-singapore/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "28 October–3 November 2026: Sheng Siong Supermarket Seafood Promotion – Fresh Seafood Specials and Great Grocery Deals Across Singapore",
+      "excerpt": "Seafood lovers, don't miss Sheng Siong Supermarket's seafood specials from 28 October to 3 November 2026! Explore seafood favourites such as crabs and squid, plan delicious home-cooked meals and look out for great grocery bargains while stocks last. Continue reading 28 October–3 November 2026:...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Sheng-Siong-Supermarket-Seafood-Promotion-8.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T03:53:38+00:00",
+      "fetched_at": "2026-10-31T10:30:38.292081+00:00",
+      "translation_zh": "Sheng Siong海鲜促销（10月28日-11月3日）：螃蟹鱿鱼等新鲜海产特价",
+      "excerpt_zh": "海鲜爱好者别错过！Sheng Siong超市10月28日至11月3日推出海鲜特惠，螃蟹、鱿鱼等新鲜海产应有尽有，在家煮好料省钱又划算。"
+    },
+    {
+      "id": "84feba6def089756",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/1-30-november-2026-don-don-donki-singapore-katsu-fair-promotion-enjoy-delicious-katsu-bento-pork-bowls-jumbo-chicken-katsu-from-just-6-90-at-all-stores/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "1–30 November 2026: DON DON DONKI Singapore Katsu Fair Promotion – Enjoy Delicious Katsu Bento, Pork Bowls & Jumbo Chicken Katsu from Just $6.90 at All Stores",
+      "excerpt": "Katsu lovers, it is time to enjoy delicious Japanese meals for less! DON DON DONKI Singapore Katsu Fair runs from 1–30 November 2026, featuring six promotional dishes including Pork Katsu Curry Bento, MEGA Meat Bowl and JUMBO Chicken Katsu, with prices starting from just $6.90 at all stores across...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/DON-DON-DONKI-Singapore-Katsu-Fair-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T03:51:17+00:00",
+      "fetched_at": "2026-10-31T10:30:38.292231+00:00",
+      "translation_zh": "DON DON DONKI 11月炸猪排美食节：猪排咖喱便当、大份鸡排等6道促销美食",
+      "excerpt_zh": "炸猪排控看过来！DON DON DONKI新加坡Katsu Fair于11月1日至30日举行，推出猪排咖喱便当等6道促销美食，日式美味更实惠。"
+    },
+    {
+      "id": "5557cec31d79cc02",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/31-october-6-november-2026-best-denki-singapore-grand-electrical-fair-sale-up-to-40-off-tvs-12-off-fridges-washers-win-100-gold-bars-and-more/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "31 October-6 November 2026: BEST Denki Singapore Grand Electrical Fair Sale – Up to 40% OFF TVs, 12% OFF Fridges & Washers, Win 100 Gold Bars and More!",
+      "excerpt": "Get ready for year-end bargains at BEST Denki Grand Electrical Fair 2026, happening from 31 October to 6 November! Enjoy up to 40% OFF selected TVs, up to 12% OFF refrigerators and washing machines, plus chances to win 1,000,000 BEST DENKI Points, shopping vouchers and 100 gold bars of 999.9 pure...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/BEST-Denki-Singapore-Grand-Electrical-Fair-Sale.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T03:47:55+00:00",
+      "fetched_at": "2026-10-31T10:30:38.292392+00:00",
+      "translation_zh": "BEST Denki电器大展销（10月31日-11月6日）：电视最高40% OFF、冰箱洗衣机12% OFF",
+      "excerpt_zh": "BEST Denki 2026电器大展销10月31日至11月6日举行，指定电视最高40% OFF，冰箱和洗衣机最高12% OFF，还有抽奖活动。"
+    },
+    {
+      "id": "0341bf14ffb4404b",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/2-6-november-2026-gao-ji-food-koo-kee-members-1st-anniversary-promotion-redeem-free-limited-edition-bao-bao-sponges-collect-all-5-designs-enjoy-exclusive-member-rewards/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "2–6 November 2026: Gao Ji Food / Koo Kee Members 1st Anniversary Promotion – Redeem FREE Limited Edition Bao Bao Sponges, Collect All 5 Designs & Enjoy Exclusive Member Rewards",
+      "excerpt": "Gao Ji Food celebrates Koo Kee's first membership anniversary with five limited-edition Bao Bao Sponge designs! From 2 November 2026, Silver and Gold members can redeem complimentary sponges, while store credit top-ups and membership points redemption begin on 7 November. Collect your favourite...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Gao-Ji-Food-Koo-Kee-Members-1st-Anniversary-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-31T03:41:31+00:00",
+      "fetched_at": "2026-10-31T10:30:38.292544+00:00",
+      "translation_zh": "Gao Ji Food/Koo Kee会员周年庆（11月2-6日）：免费兑换限量版包包海绵",
+      "excerpt_zh": "Koo Kee会员体系满一周年，推出5款限量版Bao Bao海绵！11月2日起Silver和Gold会员可免费兑换，数量有限先到先得。"
+    },
+    {
+      "id": "2f228dabde48f6e5",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/31-october-2026-onwards-white-restaurant-9-90-kids-meal-promotion-with-free-toy-car-at-participating-outlets/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "31 October 2026 onwards: White Restaurant $9.90 Kids’ Meal Promotion with FREE Toy Car at Participating Outlets",
+      "excerpt": "Make family mealtimes more exciting with White Restaurant's $9.90 Kids’ Meal promotion from 31 October 2026 onwards! Children can enjoy tasty favourites, colourful vegetables and steamed rice, plus receive a FREE toy car with every Kids’ Meal purchased. Available at White Restaurant outlets in...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/White-Restaurant-9.90-Kids-Meal-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-31T03:36:27+00:00",
+      "fetched_at": "2026-10-31T10:30:38.292683+00:00",
+      "translation_zh": "White Restaurant儿童餐仅$9.90，附赠免费玩具车（10月31日起）",
+      "excerpt_zh": "从10月31日起，White Restaurant推出$9.90儿童餐优惠，小朋友可享美味主食、缤纷蔬菜和白饭，还能获赠玩具车。"
+    },
+    {
+      "id": "e355c07fa206ecff",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/1-november-2026-onwards-safra-happy-birthday-promotion-november-born-members-enjoy-a-free-10-safra-rewards-voucher-at-participating-clubs-limited-to-first-100-members-per-club/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "1 November 2026 onwards: SAFRA Happy Birthday Promotion – November-Born Members Enjoy a Free $10 SAFRA Rewards Voucher at Participating Clubs, Limited to First 100 Members Per Club",
+      "excerpt": "November-born SAFRA members can enjoy a complimentary $10 SAFRA Rewards Voucher from 1 November 2026 onwards! Collect your physical birthday voucher at participating SAFRA Clubs, with limited redemptions available for the first 100 members per club and first 10 members at SAFRA@29 Carpenter Street....",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/SAFRA-Happy-Birthday-Promotion-–-November-Born-Members.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-31T03:32:14+00:00",
+      "fetched_at": "2026-10-31T10:30:38.292825+00:00",
+      "translation_zh": "SAFRA生日优惠：11月生日会员免费领$10 SAFRA Rewards礼券（11月1日起）",
+      "excerpt_zh": "11月过生日的SAFRA会员有福了！从11月1日起可到参与活动的SAFRA俱乐部免费领取$10 SAFRA Rewards礼券，数量有限。"
+    },
+    {
+      "id": "d0c9c61c160ce9c2",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/30-october-2026-onwards-seiko-ultraman-60th-anniversary-limited-edition-alarm-clock-promotion-only-2078-pieces-worldwide-speaking-alarm-exclusive-collectors-card/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "30 October 2026 onwards: Seiko Ultraman 60th Anniversary Limited Edition Alarm Clock Promotion – Only 2,078 Pieces Worldwide, Speaking Alarm & Exclusive Collector’s Card",
+      "excerpt": "Ultraman fans, here is a special collectible worth checking out! Seiko celebrates Ultraman's 60th anniversary with the QHE914A Limited Edition Alarm Clock, featuring a silver Ultraman figure, removable Brothers Mantle-inspired cloak, speaking alarm and numbered commemorative card. Limited to just...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Seiko-Ultraman-60th-Anniversary-Limited-Edition-Alarm-Clock-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T03:28:43+00:00",
+      "fetched_at": "2026-10-31T10:30:38.292977+00:00",
+      "translation_zh": "Seiko奥特曼60周年限量闹钟全球仅2,078只，10月30日起发售",
+      "excerpt_zh": "奥特曼粉丝注意！Seiko为庆祝奥特曼60周年推出QHE914A限量版闹钟，附银色奥特曼人偶，全球限量2,078只，收藏价值满满。"
+    },
+    {
+      "id": "889bc8ca727ffdbd",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/30-october-12-november-2026-sushiro-singapore-grand-opening-promotion-at-bukit-panjang-plaza-up-to-50-off-premium-sushi-6-drinks-sure-win-gachapon-prizes/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "30 October-12 November 2026: Sushiro Singapore Grand Opening Promotion at Bukit Panjang Plaza – Up to 50% Off Premium Sushi, $6 Drinks & Sure Win Gachapon Prizes",
+      "excerpt": "Sushiro Singapore celebrates its new Bukit Panjang Plaza outlet with a Grand Opening Promotion from 30 October to 12 November 2026! Enjoy up to 50% off selected premium sushi, $6++ alcoholic drinks, Sure Win Gachapon prizes and free Dakkosushi goodies for children. Check out the promotional dates,...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Sushiro-Singapore-Grand-Opening-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-31T03:25:57+00:00",
+      "fetched_at": "2026-10-31T10:30:38.293127+00:00",
+      "translation_zh": "Sushiro武吉班让广场新店开业（10月30日-11月12日）：高级寿司最高50% OFF、$6酒饮",
+      "excerpt_zh": "Sushiro武吉班让广场新店盛大开业！10月30日至11月12日推出开业优惠，指定高级寿司最高50% OFF，还有$6++酒水饮料等好康。"
+    },
+    {
+      "id": "c8e03e536e3ea4cb",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/30-october-2026-onwards-u-supermarket-murukku-snacks-promotion-13-varieties-at-just-1-each/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "30 October 2026 onwards: U Supermarket Murukku Snacks Promotion – 13 Varieties at Just $1 Each",
+      "excerpt": "Snack lovers, here's an affordable treat! U Supermarket is offering 13 varieties of crispy and savoury murukku at just $1 each from 30 October 2026 onwards. Available at all U Supermarket outlets across Singapore, this is a great deal for teatime snacks, movie nights and family gatherings. Continue...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/U-Supermarket-Murukku-Snacks-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T03:23:07+00:00",
+      "fetched_at": "2026-10-31T10:30:38.293254+00:00",
+      "translation_zh": "U Supermarket murukku香脆零食13种口味每样仅$1（10月30日起）",
+      "excerpt_zh": "零食控看过来！U Supermarket从10月30日起推出13种口味的香脆murukku咸味零食，每样只需$1，全岛分店均有售。"
+    },
+    {
+      "id": "94b4ef47ab551174",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-2-november-2026-courts-pre-11-11-sale-massive-savings-on-electronics-home-appliances-furniture-it-gadgets-from-just-11-plus-up-to-650-cashback/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now till 2 November 2026: COURTS Pre-11.11 Sale – Massive Savings on Electronics, Home Appliances, Furniture & IT Gadgets from Just $11, Plus Up to $650 Cashback",
+      "excerpt": "Get ready for the COURTS Pre-11.11 Sale, happening until 2 November 2026! Enjoy selected deals starting from just $11, attractive savings on electronics, home appliances, IT gadgets, furniture and bedding, plus storewide perks and up to $650 cashback. Visit your nearest participating COURTS store...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/COURTS-Pre-11.11-Sale-–-Massive-Savings-on-Electronics.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T03:18:13+00:00",
+      "fetched_at": "2026-10-31T10:30:38.293402+00:00",
+      "translation_zh": "COURTS 11.11预热大促销：电子产品、家电、家具低至$11，至11月2日",
+      "excerpt_zh": "COURTS Pre-11.11大促销进行中，至11月2日截止！精选商品低至$11起，电子产品、家电、IT产品、家具床品统统有优惠。"
+    },
+    {
+      "id": "973f978889c3f628",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/17-november-2026-3-january-2027-orchard-road-christmas-2026-season-of-golden-joy-promotion-festive-event-featuring-3-1km-golden-lights-marvel-avengers-christmas-tree-lego-sa/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "17 November 2026–3 January 2027: Orchard Road Christmas 2026 – Season of Golden Joy Promotion & Festive Event Featuring 3.1KM Golden Lights, Marvel Avengers Christmas Tree, LEGO Santa’s Toy Factory & Two Christmas Villages",
+      "excerpt": "Celebrate Christmas at Orchard Road from 17 November 2026 to 3 January 2027 with 3.1km of spectacular golden Christmas lights, a 13-metre Marvel Avengers Christmas tree, Singapore's first LEGO Santa's Toy Factory pop-up, two Great Christmas Villages and an exciting Christmas Eve street party. Enjoy...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Orchard-Road-Christmas-2026-–-Season-of-Golden-Joy-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T03:15:48+00:00",
+      "fetched_at": "2026-10-31T10:30:38.293570+00:00",
+      "translation_zh": "乌节路圣诞2026「金色欢乐季」：3.1公里金色灯海+漫威复仇者圣诞树，11月17日开跑",
+      "excerpt_zh": "乌节路圣诞庆典11月17日至明年1月3日举行！3.1公里金色圣诞灯饰、13米高漫威复仇者圣诞树、新加坡首个LEGO圣诞老人等你来打卡。"
+    },
+    {
+      "id": "69ebde2cff5b309b",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/31-october-2026-onwards-mr-bean-singapore-free-readycare-dishwashing-liquid-500ml-worth-5-90-with-minimum-spend-of-7-anniversary-weekend-promotion/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "31 October 2026 onwards: Mr Bean Singapore FREE ReadyCare Dishwashing Liquid 500ml Worth $5.90 With Minimum Spend of $7 – Anniversary Weekend Promotion",
+      "excerpt": "Enjoy a FREE 500ml ReadyCare Dishwashing Liquid worth $5.90 with a minimum spend of $7 at Mr Bean Singapore! Starting from 31 October 2026 on selected weekends, simply present your physical anniversary coupon at any Mr Bean outlet to redeem this practical household freebie while stocks last....",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Mr-Bean-Singapore-FREE-ReadyCare-Dishwashing-Liquid-500ml.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-31T03:07:58+00:00",
+      "fetched_at": "2026-10-31T10:30:38.293705+00:00",
+      "translation_zh": "Mr Bean优惠：消费满$7免费送价值$5.90的ReadyCare洗洁精500ml（10月31日起）",
+      "excerpt_zh": "Mr Bean新加坡周年庆优惠！指定周末消费满$7，出示实体周年庆礼券即可免费获得价值$5.90的ReadyCare 500ml洗洁精一瓶。"
+    },
+    {
+      "id": "7085ba28f1c42fd2",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/7-9-november-2026-castlery-singapore-free-molly-tea-promotion-no-purchase-required-at-liat-towers-during-11-11-sale/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "7–9 November 2026: Castlery Singapore FREE Molly Tea Promotion, No Purchase Required at Liat Towers During 11.11 Sale",
+      "excerpt": "Enjoy FREE Molly Tea at Castlery Singapore from 7–9 November 2026! No purchase is required. Simply complete your RSVP and visit Castlery at Liat Towers between 11am and 3pm to redeem your complimentary drink. Limited redemptions available, so remember to check Castlery's Instagram for the RSVP link...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Castlery-Singapore-FREE-Molly-Tea-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-31T03:05:35+00:00",
+      "fetched_at": "2026-10-31T10:30:38.293832+00:00",
+      "translation_zh": "Castlery 11.11活动：11月7-9日免费领Molly Tea，无需消费",
+      "excerpt_zh": "11月7日至9日上午11点至下午3点，到Liat Towers的Castlery门店，完成RSVP后即可免费领取Molly Tea一杯，完全无需消费。"
+    },
+    {
+      "id": "6dcd612fd6232973",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-14-january-2027-crystal-jade-singapore-return-dining-promotion-spend-200-enjoy-a-complimentary-signature-duck-dish-on-your-next-visit-at-crystal-jade-golden-palace-or-palace/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now till 14 January 2027: Crystal Jade Singapore Return Dining Promotion – Spend $200 & Enjoy a Complimentary Signature Duck Dish on Your Next Visit at Crystal Jade Golden Palace or Palace",
+      "excerpt": "Enjoy more with Crystal Jade Singapore's Return Dining Privilege Promotion! Spend $200 in a single dine-in receipt to receive a voucher, then return to Crystal Jade Golden Palace or Palace, spend $150 and enjoy a complimentary signature duck dish. Valid until 14 January 2027. Advance reservation...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Crystal-Jade-Singapore-Return-Dining-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T03:02:13+00:00",
+      "fetched_at": "2026-10-31T10:30:38.293984+00:00",
+      "translation_zh": "Crystal Jade回头客餐饮优惠：单次消费$200领券，回访消费$150送招牌鸭",
+      "excerpt_zh": "Crystal Jade新加坡推出Return Dining餐饮优惠！堂食单据满$200即可获得礼券，再次光临Crystal Jade Golden Palace或Palace消费$150，即可享免费招牌鸭一道。"
+    },
+    {
+      "id": "39e0424e28e2ad0a",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-4-november-2026-unity-pharmacy-buy-1-get-1-free-promotion-save-more-on-neutrogena-skincare-shower-gel-ocean-health-supplements-more/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now Till 4 November 2026: Unity Pharmacy Buy 1 Get 1 Free Promotion – Save More on Neutrogena Skincare, Shower Gel, Ocean Health Supplements & More",
+      "excerpt": "Enjoy more savings with Unity Pharmacy's Buy 1 Get 1 promotion until 4 November 2026! Discover deals on Neutrogena skincare, Rainbath shower gel, Ocean Health supplements and more. Visit participating Unity Pharmacy outlets in Singapore and stock up on your everyday essentials while the offers...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Unity-Pharmacy-Buy-1-Get-1-Free-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-31T02:59:48+00:00",
+      "fetched_at": "2026-10-31T10:30:38.294130+00:00",
+      "translation_zh": "Unity药房买一送一（至11月4日）：Neutrogena护肤、沐浴露、保健品等",
+      "excerpt_zh": "Unity药房买一送一促销至11月4日！Neutrogena护肤品、Rainbath沐浴露、Ocean Health保健品等都有优惠，门店线上同享。"
+    },
+    {
+      "id": "15e32f0ccb0f15ba",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/31-october-2026-boost-juice-bars-singapore-halloween-promotion-get-any-2-original-sized-peach-drinks-for-just-10-90-one-day-only-deal/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "31 October 2026: Boost Juice Bars Singapore Halloween Promotion – Get Any 2 Original-Sized Peach Drinks for Just $10.90, One-Day-Only Deal!",
+      "excerpt": "Celebrate Halloween with a refreshing treat from Boost Juice Bars Singapore! On 31 October 2026 only, enjoy any 2 Original-sized Peach drinks for just $10.90. Share this one-day-only peachy promotion with your friends, family or loved ones and make your Halloween Saturday a little sweeter. Continue...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Boost-Juice-Bars-Singapore-Halloween-Promotion-–-Get-Any-2-Original-Sized.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T02:54:38+00:00",
+      "fetched_at": "2026-10-31T10:30:38.294258+00:00",
+      "translation_zh": "Boost Juice万圣节：10月31日当天任意2杯Original蜜桃饮品仅$10.90",
+      "excerpt_zh": "Boost Juice Bars新加坡万圣节限定！10月31日一天内，任意2杯Original尺寸蜜桃饮品只需$10.90，快和朋友分享这份甜蜜。"
+    },
+    {
+      "id": "f9176747b01221a1",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/30-october-5-november-2026-scarlett-supermarket-fresh-fruit-promotion-premium-feng-shui-pears-large-pineapples-kiwi-berries-australian-sweet-mandarins-more-at-selected-outl/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "30 October–5 November 2026: Scarlett Supermarket Fresh Fruit Promotion – Premium Feng Shui Pears, Large Pineapples, Kiwi Berries, Australian Sweet Mandarins & More at Selected Outlets",
+      "excerpt": "Looking for fresh and juicy fruits in Singapore? Scarlett Supermarket is featuring a tempting selection from 30 October to 5 November 2026, including Premium Feng Shui Pears, Large Pineapples, Kiwi Berries, Australian Sweet Mandarins, Qiuyue Pears, Persimmons, Avocados and Plums. Visit selected...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Scarlett-Supermarket-Fresh-Fruit-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T02:52:13+00:00",
+      "fetched_at": "2026-10-31T10:30:38.294413+00:00",
+      "translation_zh": "Scarlett超市水果促销（10月30日-11月5日）：风水梨、大菠萝、奇异果莓等",
+      "excerpt_zh": "想吃新鲜水果？Scarlett超市10月30日至11月5日推出精选水果促销，包括特级风水梨、大菠萝、奇异果莓等，多款好价等你来挑。"
+    },
+    {
+      "id": "b69f8404cb453f06",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/29-october-11-november-2026-guardian-singapore-up-to-55-off-health-beauty-skincare-promotion-weekly-hot-deals-in-store-online-app/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "29 October-11 November 2026: Guardian Singapore Up to 55% OFF Health, Beauty & Skincare Promotion – Weekly Hot Deals In-Store, Online & App",
+      "excerpt": "Looking for great savings on health, beauty and skincare essentials? Guardian Singapore is offering up to 55% OFF selected products from Swisse, La Roche-Posay, Clera Cera and Go Healthy from 29 October to 11 November 2026. Shop in-store, online or through the Guardian App and enjoy these...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Guardian-Singapore-Up-to-55-OFF-Health-Beauty-Skincare.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T02:50:05+00:00",
+      "fetched_at": "2026-10-31T10:30:38.294563+00:00",
+      "translation_zh": "Guardian保健美妆大促销（10月29日-11月11日）：Swisse、La Roche-Posay等最高55% OFF",
+      "excerpt_zh": "Guardian新加坡健康美容护肤促销来袭！10月29日至11月11日，Swisse、La Roche-Posay、Clera Cera、Go Healthy等精选商品最高55% OFF。"
+    },
+    {
+      "id": "676cb4256c8a8027",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/31-october-1-november-2026-giant-singapore-prima-flour-promotion-spend-8-and-claw-an-exclusive-charm-at-imm-plus-free-freshly-baked-treats-recipe-ideas-11am-6pm/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "31 October-1 November 2026: Giant Singapore Prima Flour Promotion – Spend $8 and Claw an Exclusive Charm at IMM, Plus Free Freshly Baked Treats & Recipe Ideas (11am-6pm)",
+      "excerpt": "Calling all baking lovers! Visit the Prima Flour Roadshow at Giant IMM from 31 October to 1 November 2026, between 11am and 6pm. Spend $8 on any Prima Flour products in a single receipt for a chance to claw an exclusive charm, discover delicious baking recipes and enjoy freshly baked treats. Make...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Giant-Singapore-Prima-Flour-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-31T02:45:56+00:00",
+      "fetched_at": "2026-10-31T10:30:38.294703+00:00",
+      "translation_zh": "Giant IMM Prima面粉路演（10月31日-11月1日）：消费$8夹专属吊饰+免费煎饼",
+      "excerpt_zh": "烘焙爱好者别错过！10月31日至11月1日上午11点至下午6点，到Giant IMM的Prima Flour路演，单据满$8 Prima产品即可参与夹娃娃赢限定吊饰，还有免费新鲜煎饼。"
+    },
+    {
+      "id": "f15f61151d235b08",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/30-october-5-november-2026-sheng-siong-supermarket-vegetable-promotion-enjoy-fresh-vegetable-deals-and-grocery-savings-across-singapore/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "30 October-5 November 2026: Sheng Siong Supermarket Vegetable Promotion, Enjoy Fresh Vegetable Deals and Grocery Savings Across Singapore",
+      "excerpt": "Looking for affordable fresh vegetables? Sheng Siong Supermarket is offering fantastic vegetable deals from 30 October to 5 November 2026. Visit your nearest outlet, explore the available fresh produce promotions and enjoy more savings on your everyday grocery shopping! Continue reading 30...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Sheng-Siong-Supermarket-Vegetable-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T02:44:48+00:00",
+      "fetched_at": "2026-10-31T10:30:38.294831+00:00",
+      "translation_zh": "Sheng Siong蔬菜促销（10月30日-11月5日）：新鲜蔬菜天天好价",
+      "excerpt_zh": "Sheng Siong超市10月30日至11月5日推出新鲜蔬菜促销，各类蔬菜价格实惠，到附近分店采购为家常菜省钱。"
+    },
+    {
+      "id": "f9fff4b1179b3ea4",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/29-october-9-november-2026-fairprice-xtra-xtra-lab-singapore-opening-promotion-1-for-1-deals-6-for-5-snacks-5-return-vouchers-fun-activities-at-amk-hub/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "29 October-9 November 2026: FairPrice Xtra Xtra Lab Singapore Opening Promotion, 1-for-1 Deals, 6-for-$5 Snacks, $5 Return Vouchers & Fun Activities at AMK Hub",
+      "excerpt": "FairPrice Xtra opens its second Xtra Lab at AMK Hub with more than 250 trending Asian food and snack favourites! Enjoy 1-for-1 deals, 6-for-$5 Pick & Mix snacks, discounted frozen food, $5 Return Vouchers and exciting opening activities from 29 October to 9 November 2026. Continue reading 29...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/FairPrice-Xtra-Xtra-Lab-Singapore-Opening-Promotion.jpg",
+      "deal_type": "1fl",
+      "country": "SG",
+      "published_at": "2026-10-31T02:40:49+00:00",
+      "fetched_at": "2026-10-31T10:30:38.294974+00:00",
+      "translation_zh": "FairPrice Xtra第二家Xtra Lab进驻AMK Hub：1-for-1、6件$5零食、$5回赠礼券",
+      "excerpt_zh": "FairPrice Xtra在AMK Hub开设第二家Xtra Lab，带来超过250种亚洲人气美食零食！开业优惠包括1-for-1、Pick & Mix零食6件$5、冷冻食品折扣及$5回赠礼券。"
+    },
+    {
+      "id": "7c985d993d79a0e6",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/30-october-1-november-2026-challenger-singapore-asus-laptop-promotion-enjoy-up-to-47-off-extra-2-cashback-on-vivobook-zenbook-rog-strix-g16/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "30 October-1 November 2026: Challenger Singapore ASUS Laptop Promotion – Enjoy Up to 47% OFF + Extra 2% Cashback on Vivobook, Zenbook & ROG Strix G16",
+      "excerpt": "Looking for a new laptop? Challenger Singapore is offering up to 47% OFF selected ASUS laptops, plus an extra 2% cashback from 30 October to 1 November 2026. Explore deals on ASUS Vivobook, Zenbook and ROG Strix G16, with free shipping available for online purchases. Shop before the limited-time...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Challenger-Singapore-ASUS-Laptop-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-10-31T02:36:57+00:00",
+      "fetched_at": "2026-10-31T10:30:38.295123+00:00",
+      "translation_zh": "Challenger ASUS笔记本电脑促销（10月30日-11月1日）：最高47% OFF+额外2%返现",
+      "excerpt_zh": "想换笔记本电脑？Challenger新加坡10月30日至11月1日推出ASUS促销，Vivobook、Zenbook等指定型号最高47% OFF，还享额外2%现金回赠。"
+    },
+    {
+      "id": "e97a34f322eb9a63",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/30-october-19-november-2026-isetan-singapore-family-golf-fair-sale-promotion-enjoy-15-off-green-fees-at-the-els-club-desaru-coast-exclusive-shopping-offers-win-prizes-worth-ove/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "30 October-19 November 2026: Isetan Singapore Family Golf Fair Sale & Promotion – Enjoy 15% Off Green Fees at The Els Club Desaru Coast, Exclusive Shopping Offers & Win Prizes Worth Over $5,000",
+      "excerpt": "Golf enthusiasts and bargain hunters, get ready for the Isetan Family Golf Fair from 30 October to 19 November 2026! Enjoy 15% off green fees at The Els Club Desaru Coast or receive an F&B voucher with a minimum $100 nett purchase. Visitors can also take part in the Family Golf Putting Challenge...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Isetan-Singapore-Family-Golf-Fair-Sale-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T02:32:22+00:00",
+      "fetched_at": "2026-10-31T10:30:38.295273+00:00",
+      "translation_zh": "Isetan家庭高尔夫球展销会（10月30日-11月19日）：Els Club Desaru果岭费85折",
+      "excerpt_zh": "高尔夫爱好者看过来！Isetan家庭高尔夫球展销会10月30日至11月19日举行，The Els Club Desaru Coast果岭费85折，还有餐饮礼券等优惠。"
+    },
+    {
+      "id": "639c9d9a399fc94f",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-4-november-2026-cold-storage-singapore-grocery-promotion-shop-everyday-essentials-and-save-on-selected-grocery-selections/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now till 4 November 2026: Cold Storage Singapore Grocery Promotion – Shop Everyday Essentials and Save on Selected Grocery Selections",
+      "excerpt": "Looking for grocery bargains in Singapore? Cold Storage Singapore is offering selected grocery selections until 4 November 2026. Check out the latest supermarket offers, replenish your kitchen essentials and enjoy potential savings on your next grocery shopping trip. Continue reading Now till 4...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Cold-Storage-Singapore-Grocery-Promotion-–-Shop-Everyday-Essentials.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T02:29:43+00:00",
+      "fetched_at": "2026-10-31T10:30:38.295413+00:00",
+      "translation_zh": "Cold Storage超市促销（至11月4日）：日常必需品精选优惠",
+      "excerpt_zh": "Cold Storage新加坡精选日用品促销至11月4日！查看最新超市优惠，补齐厨房必需品，省钱购物好时机。"
+    },
+    {
+      "id": "7876e6afcc0c0ba8",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/30-october-10-december-2026-kiztopia-singapore-10-off-early-bird-promotion-at-skypark-by-kiztopia-parkway-parade-save-on-admission-tickets-multi-passes-annual-passes/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "30 October-10 December 2026: Kiztopia Singapore 10% OFF Early Bird Promotion at SkyPark by Kiztopia, Parkway Parade – Save on Admission Tickets, Multi Passes & Annual Passes",
+      "excerpt": "Looking for a fun family activity in Singapore? Kiztopia is offering 10% OFF all products, including Single Admission Tickets, Multi Passes and Annual Passes, for SkyPark by Kiztopia at Parkway Parade from 30 October to 10 December 2026. Grab the Early Bird deal through Klook and enjoy savings on...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Kiztopia-Singapore-10-OFF-Early-Bird-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T02:26:56+00:00",
+      "fetched_at": "2026-10-31T10:30:38.295562+00:00",
+      "translation_zh": "Kiztopia SkyPark早鸟优惠：门票、通行证、年卡一律9折（至12月10日）",
+      "excerpt_zh": "想带娃放电？Parkway Parade的SkyPark by Kiztopia推出早鸟优惠，10月30日至12月10日所有产品9折，包括单次门票、多次通行证和年卡。"
+    },
+    {
+      "id": "c978cdc0e54c5546",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/30-october-2026-onwards-best-denki-singapore-halloween-online-promotion-get-up-to-100-off-with-unbeatsale-promo-code-minimum-spend-149/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "30 October 2026 onwards: BEST Denki Singapore Halloween Online Promotion – Get Up to $100 Off with UNBEATSALE Promo Code, Minimum Spend $149",
+      "excerpt": "Celebrate Halloween with extra shopping savings at BEST Denki Singapore! From 30 October 2026 onwards, enjoy up to $100 off eligible items with promo code UNBEATSALE when you spend a minimum of $149. Shop online and save on selected electronics, kitchen appliances and household essentials. Continue...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/BEST-Denki-Singapore-Halloween-Online-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T02:19:53+00:00",
+      "fetched_at": "2026-10-31T10:30:38.295699+00:00",
+      "translation_zh": "BEST Denki万圣节线上促销：代码UNBEATSALE最高减$100（满$149可用）",
+      "excerpt_zh": "BEST Denki新加坡万圣节线上促销！10月30日起，消费满$149输入促销代码UNBEATSALE，即可享最高$100折扣。"
+    },
+    {
+      "id": "7f7629674be14010",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/30-october-5-november-2026-sheng-siong-supermarket-fresh-fruits-promotion-enjoy-great-deals-on-nutritious-fruits-across-singapore/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "30 October-5 November 2026: Sheng Siong Supermarket Fresh Fruits Promotion – Enjoy Great Deals on Nutritious Fruits Across Singapore",
+      "excerpt": "Looking for fresh fruit deals in Singapore? Sheng Siong Supermarket is highlighting its fresh fruit selection from 30 October to 5 November 2026. Visit your nearest outlet, explore a variety of nutritious fruits and stock up on your household favourites during this promotional period. Continue...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Sheng-Siong-Supermarket-Fresh-Fruits-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T02:16:56+00:00",
+      "fetched_at": "2026-10-31T10:30:38.295823+00:00",
+      "translation_zh": "Sheng Siong新鲜水果促销（10月30日-11月5日）：营养水果全岛好价",
+      "excerpt_zh": "Sheng Siong超市10月30日至11月5日推出新鲜水果促销，多种营养水果价格实惠，到附近分店挑选心仪水果吧。"
+    },
+    {
+      "id": "59b260bce536dfd2",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/3-november-2026-tiong-bahru-bakery-crumbly-tuesdays-promotion-enjoy-20-off-lemon-tart-exclusively-for-crumb-club-members/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "3 November 2026: Tiong Bahru Bakery Crumbly Tuesdays Promotion – Enjoy 20% OFF Lemon Tart Exclusively for Crumb Club Members",
+      "excerpt": "Tiong Bahru Bakery brings back Crumbly Tuesdays on 3 November 2026! Crumb Club members can enjoy 20% OFF Lemon Tart for one day only. Check out this sweet member-exclusive promotion and treat yourself to a delicious pastry at a discounted price! Continue reading 3 November 2026: Tiong Bahru Bakery...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Tiong-Bahru-Bakery-Crumbly-Tuesdays-Promotion-–-Enjoy-20-OFF.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T02:11:30+00:00",
+      "fetched_at": "2026-10-31T10:30:38.295967+00:00",
+      "translation_zh": "Tiong Bahru Bakery脆脆星期二：11月3日Crumb Club会员柠檬挞8折",
+      "excerpt_zh": "Tiong Bahru Bakery的Crumbly Tuesdays回归！11月3日当天，Crumb Club会员独享柠檬挞20% OFF，仅此一天，会员别错过这份甜蜜。"
+    },
+    {
+      "id": "7e7889d5fde078bb",
+      "source_type": "rss",
+      "source_name": "SG榴莲",
+      "source_url": "https://sgliulian.com/new-product/pokemon-happy-meals-are-coming-to-mcdonalds-singapore-dec-2026/",
+      "source_color": "#84cc16",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=sgliulian.com&sz=64",
+      "source_lang": "zh",
+      "title": "抢先看！麦当劳×宝可梦最新Happy Meal联动，自带挂扣小餐盒+限定闪卡必须全套拿下！新加坡12月开售！",
+      "excerpt": "宝可梦训练师们准备好了吗？ 麦当劳官方正式宣布 将推出全新宝可梦主题 Happy Meal儿童套餐！ 这次一口气带来 15 款超萌宝可梦收藏级迷你餐盒玩具 还附送限定版宝可梦 TCG 卡牌及限定包装。 迷你餐盒居然还能变身随身挂饰！ 更多详情戳这里 15款宝可梦迷你餐盒，还能当挂件！ 这次联动的最大主角 就是 15 款以宝可梦为主题设计的迷你 Happy Meal 小餐盒！ 保留了麦当劳红盒子的经典造型 融入了人气宝可梦的外观特色 比如有经典人气王皮卡丘、伊布 当然也少不了御三家战队的小火龙、杰尼龟、新叶喵等15款热门角色！ 隐藏玩法解锁： 据悉这些迷你小餐盒不只是摆件 自带挂扣设计！...",
+      "image": "https://cdn4.sgliulian.com/wp-content/uploads/2026/10/IMG_20261031110333863.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-10-31T03:06:51+00:00",
+      "fetched_at": "2026-10-31T10:30:39.739859+00:00",
+      "translation_zh": "抢先看！麦当劳×宝可梦最新Happy Meal联动，自带挂扣小餐盒+限定闪卡必须全套拿下！新加坡12月开售！",
+      "excerpt_zh": "宝可梦训练师们准备好了吗？麦当劳×宝可梦推出全新Happy Meal联动，一口气带来15款收藏级迷你餐盒玩具，附限定版TCG闪卡，迷你餐盒还能变身随身挂饰，12月新加坡开售！"
     }
   ]
 }
