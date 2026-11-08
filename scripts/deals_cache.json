@@ -1,24 +1,6 @@
 {
   "deals": [
     {
-      "id": "6ac3a8fad57ee0ff",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/banks-credit-cards/maybank-sg-fresh-funds-promo-offers-up-to-2-2-p-a-with-s20000-incremental-adb-308807/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Maybank SG Fresh Funds Promo Offers Up To 2.2% p.a. With S$20,000 Incremental ADB",
-      "excerpt": "Grow eligible Maybank savings balances with fresh funds and potentially earn up to 2.2% p.a. [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2025/04/Maybank-SG-feat-orig-28-May-2025.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-31T19:52:18+00:00",
-      "fetched_at": "2026-11-01T00:00:40.708672+00:00",
-      "translation_zh": "Maybank SG 新资金促销：新增 S$20,000 平均余额可享高达 2.2% p.a. 利率",
-      "excerpt_zh": "存入新资金即可提升 Maybank 合格储蓄余额，最高可享 2.2% p.a. 利率。[详情见 SINGPROMOS.COM]"
-    },
-    {
       "id": "de2a144ac0e16d51",
       "source_type": "rss",
       "source_name": "AllSingaporeDeals",
@@ -35,78 +17,6 @@
       "fetched_at": "2026-11-01T00:00:41.520462+00:00",
       "translation_zh": "Pizza Hut 1对1 Melts 促销：1–15 Nov 两个 Melts 只需 $9.95",
       "excerpt_zh": "Pizza Hut 从 1 至 15 November 2026 推出 1对1 Melts 促销，两个 Melts 只需 $9.95，比单点更划算。"
-    },
-    {
-      "id": "4b4fa7a3cf31ccbf",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/don-don-donki-november-promotions-black.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "DON DON DONKI November Promotions: Black Friday Sale & Katsu Fair (1 - 30 Nov)",
-      "excerpt": "DON DON DONKI Black Friday Sale & Katsu Fair 2026: Enjoy Japanese Food Deals from 1–30 November Get ready for a month of delicious savings as DON DON DONKI Singapore brings shoppers two exciting promotions — the Black Friday Sale and Katsu Fair, happening from 1 to 30 November 2026. Black Friday...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6bVy2LEU2JuAUPd1dubjvyvS1u5kWRNo6dZPCecIY-z-zd85krCkgILWftnqr4OE0twMsnj9TFEnVpd2pmaVi8Iri3YLmIHmYFaAkCwa6bAbMr36txZoEWEagummhB3j3H5yQ2AkZNntQR3l1J3LdyRSP8mHdsJgrcQlQWZ7jtw9mvZLPIQqSrDX7wquS/s640/all%20singapore%20deals%20donki%20black%20friday%20katsu%20fair%201%20nov%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-31T23:00:00+00:00",
-      "fetched_at": "2026-11-01T00:00:41.521069+00:00",
-      "translation_zh": "DON DON DONKI 11月促销：Black Friday 特卖 & Katsu Fair（1–30 Nov）",
-      "excerpt_zh": "DON DON DONKI Singapore 11月带来双重优惠：Black Friday 特卖和 Katsu Fair，1至30 November 全月日式美食折扣不断。"
-    },
-    {
-      "id": "835f68933a77f109",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/don-don-donki-sushi-day-sale-on-1-nov.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "DON DON DONKI Sushi Day Sale on 1 Nov: Sushi Deals from $7.90",
-      "excerpt": "DON DON DONKI Sushi Day: 1-Day Sushi Deals Up to $4.10 Off on 1 November DON DON DONKI Sushi Day Sale is happening on 1 November 2026, bringing exciting one-day-only discounts on selected sushi sets and special seasonal Japanese favourites. Whether you're craving fresh salmon nigiri, flavourful...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtRdNwv74uM76AHI5yxAop6plDnhejlQed1hfMurViIa7q9WsGmSfnbx3us8vqFbD_WjkDKrptw_1Ecj8wThjSzKzQ6Ox2tQPO595euDlav3t966LDKoLfRcTRPUGMPhaajApNxw1uLElUtueNF3EvXCj6N4-x4rT0i-Zcb-CyEHWycVp2sn0iMbjS0Tb/s640/all%20singapore%20deals%20donki%20sushi%20day%201%20nov%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-10-31T22:00:00+00:00",
-      "fetched_at": "2026-11-01T00:00:41.521499+00:00",
-      "translation_zh": "DON DON DONKI Sushi Day（1 Nov 限一天）：寿司低至 $7.90",
-      "excerpt_zh": "1 November 2026 当天限定，DON DON DONKI Sushi Day 部分寿司套装最高减 $4.10，精选寿司低至 $7.90，仅此一天。"
-    },
-    {
-      "id": "7b694919f225ad5c",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/1-nov-2026-dunkin-singapore-sunny-egg-sunday-buy-1-get-1-free-at-selected-outlets/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "1 Nov 2026: Dunkin’ Singapore Sunny Egg Sunday: Buy 1 Get 1 FREE at Selected Outlets!",
-      "excerpt": "Enjoy Dunkin’ Singapore Sunny Egg Sunday! Buy 1 Sunny Egg and Get 1 FREE every Sunday, all day, at 15 selected outlets. Lower-priced item is free. Continue reading 1 Nov 2026: Dunkin’ Singapore Sunny Egg Sunday: Buy 1 Get 1 FREE at Selected Outlets! at SG.EverydayOnSales.com.",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/73946-1.png",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-31T23:18:13+00:00",
-      "fetched_at": "2026-11-01T00:00:49.194026+00:00",
-      "translation_zh": "1 Nov 2026：Dunkin' Singapore Sunny Egg Sunday——指定15家门店买一送一，全天有效！",
-      "excerpt_zh": "Dunkin' Singapore Sunny Egg Sunday 回来啦！每周日全天，在15家指定门店买一个 Sunny Egg 免费送一个，较低价商品免费。"
-    },
-    {
-      "id": "b4251a30fce6719a",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/31-october-2026-onwards-haidilao-singapore-14th-anniversary-promotion-buy-1-get-1-free-beef-pork-belly-and-fresh-seafood-at-s14/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "31 October 2026 Onwards: Haidilao Singapore 14th Anniversary Promotion – Buy 1 Get 1 Free Beef & Pork Belly and Fresh Seafood at S$14++",
-      "excerpt": "Haidilao Singapore celebrates its 14th anniversary from 31 October 2026 with exciting dining deals! Enjoy Buy 1 Get 1 Free Haidilao Beef and Shandong Pork Belly at S$14++ per portion during selected off-peak hours, plus Female Chinese Mitten Crab and Fresh Live Baby Abalone at just S$14++ all day....",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/10/Haidilao-Singapore-14th-Anniversary-Promotion.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-10-31T12:40:26+00:00",
-      "fetched_at": "2026-11-01T00:00:49.194191+00:00",
-      "translation_zh": "10月31日起：Haidilao Singapore 14周年庆——牛肉&山东猪五花买一送一，新鲜海鲜仅 S$14++",
-      "excerpt_zh": "Haidilao Singapore 从 31 October 2026 起庆祝14周年！指定时段牛肉和山东猪五花每份 S$14++ 买一送一，还有新鲜海鲜优惠。"
     },
     {
       "id": "182429dfb549fade",
@@ -15697,6 +15607,813 @@
             }
           }
         },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "6cce17e9ad9dcf9d",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/polar-puffs-cakes-11-11-20-off-whole-cakes-online-from-8-to-15-nov-2026-309350/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Polar Puffs & Cakes 11.11: 20% Off Whole Cakes Online from 8 to 15 Nov 2026",
+      "excerpt": "Savings on strawberry, chocolate, mango and more for sweet celebrations [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/11/Polar-Puffs-feat-singpromos.com-7-Nov-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-08T04:46:20+00:00",
+      "fetched_at": "2026-11-08T10:30:48.030777+00:00",
+      "translation_zh": "Polar Puffs & Cakes 11.11：11月8日至15日线上全场蛋糕8折",
+      "excerpt_zh": "草莓、巧克力、芒果等多种口味蛋糕均有优惠，甜蜜庆祝的好时机"
+    },
+    {
+      "id": "ce01b77919ddc418",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/11/swensens-christmas-2026-ice-cream-cake.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Swensen's Christmas 2026: Ice Cream Cake Deals, Festive Dining & Buffet Offers",
+      "excerpt": "Swensen's Festive Line-Up for Sharing, Celebrating & Indulging Swensen's Singapore is welcoming the festive season with its Christmas 2026 collection, featuring ice cream cakes, seasonal sundaes, festive dining specials, takeaway feasts and Christmas buffet offerings. Shoppers and diners can also...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0u9dIg-zoecRsNR0Ewht9-lyOdFip6uOiFwAY3RJS9XLnHva3-3fGlc2Zelu9_Yrzpv1c-slhO1EVev4hpAQUpiJ6q6NflGwfV7YIlRfqwljdoP0aR8ZAzp_y7gDtMcfpJeDN3xrR7y1SS7DIxVgNKRDINCJ5GNQ74xPwkYGQ9MSbYbcrGZ7oBUCOQlOm/s640/all%20singapore%20deals%20swensons%20festive%20offers%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-08T04:25:51+00:00",
+      "fetched_at": "2026-11-08T10:30:49.595975+00:00",
+      "translation_zh": "Swensen's 圣诞2026：冰淇淋蛋糕优惠、节日套餐与自助餐特惠",
+      "excerpt_zh": "Swensen's 圣诞系列登场：冰淇淋蛋糕、节日圣代、限定甜品与分享套餐，还有自助餐特惠，适合聚会庆祝"
+    },
+    {
+      "id": "1fe1332fa85f88f3",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/10/mr-bean-buy-1-free-1-soymilk-on-18-oct.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Mr Bean Offering Buy 1 Free 1 Soymilk On 8 November",
+      "excerpt": "Mr Bean is bringing a simple yet enticing treat on 8 November 2026. Customers can enjoy a buy-one-get-one-free deal on soymilk beverages, making it the perfect excuse to indulge in their signature drinks while sharing the experience with a friend or loved one. This offer applies to all drinks on...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEik1lFAclzCwDAA0FRXBMEYwTUsQ-kaKQ5ZtiInUj6JaqozUGbc3rl8uS5flzObTLz-GHPqofUmrxSvHM6UDR2i2eL2d-nASzBzA9Hy46zBqaNKcEz8Hro-LjfEsmWAbV3Uj359BB-vrvy3yN531QjhrzFC_Pqi-Y98_ZOpK3ULhL748mdhyphenhyphen1U_2I-lqCDg/s640/all%20singapore%20deals%20mr%20bean%201-for-1%20a.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-08T02:06:17+00:00",
+      "fetched_at": "2026-11-08T10:30:49.596926+00:00",
+      "translation_zh": "Mr Bean 11月8日豆奶买一送一",
+      "excerpt_zh": "Mr Bean 2026年11月8日推出豆奶买一送一优惠，招牌豆浆饮品第二杯免费，正是入手的好理由"
+    },
+    {
+      "id": "2119323074105663744",
+      "url": "https://x.com/singpromos/status/2119323074105663744",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-11-08T10:30:58.724033+00:00",
+      "translation_zh": "Polar Puffs & Cakes 11.11：11月8日至15日线上全场蛋糕8折",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-11-08T06:56:10.000Z",
+        "display_text_range": [
+          0,
+          209
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                99,
+                109
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                110,
+                113
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                114,
+                122
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                123,
+                130
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                131,
+                141
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                142,
+                149
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                150,
+                161
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                162,
+                170
+              ],
+              "text": "SGhalal"
+            },
+            {
+              "indices": [
+                171,
+                179
+              ],
+              "text": "halalSG"
+            },
+            {
+              "indices": [
+                180,
+                189
+              ],
+              "text": "sgbakery"
+            },
+            {
+              "indices": [
+                190,
+                209
+              ],
+              "text": "polarpuffsandcakes"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/polar-puffs-cakes-11-11-20-off-whole-cakes-online-from-8-to-15-nov-2026-309350/",
+              "indices": [
+                75,
+                98
+              ],
+              "url": "https://t.co/HtBS8QkLHi"
+            }
+          ]
+        },
+        "id_str": "2119323074105663744",
+        "text": "Polar Puffs &amp; Cakes 11.11: 20% Off Whole Cakes Online from 8 to 15 Nov https://t.co/HtBS8QkLHi #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #SGhalal #halalSG #sgbakery #polarpuffsandcakes",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2119323074105663744"
+          ],
+          "editable_until_msecs": "1794124570000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/HtBS8QkLHi",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 145,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Savings on strawberry, chocolate, mango and more for sweet celebrations",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 311,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 622,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 622,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 622,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 37.81,
+                    "rgb": {
+                      "blue": 198,
+                      "green": 215,
+                      "red": 231
+                    }
+                  },
+                  {
+                    "percentage": 18.15,
+                    "rgb": {
+                      "blue": 42,
+                      "green": 73,
+                      "red": 65
+                    }
+                  },
+                  {
+                    "percentage": 12.86,
+                    "rgb": {
+                      "blue": 115,
+                      "green": 173,
+                      "red": 205
+                    }
+                  },
+                  {
+                    "percentage": 6.57,
+                    "rgb": {
+                      "blue": 34,
+                      "green": 39,
+                      "red": 58
+                    }
+                  },
+                  {
+                    "percentage": 5.86,
+                    "rgb": {
+                      "blue": 50,
+                      "green": 96,
+                      "red": 134
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "Polar Puffs & Cakes 11.11: 20% Off Whole Cakes Online from 8 to 15 Nov 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 37.81,
+                    "rgb": {
+                      "blue": 198,
+                      "green": 215,
+                      "red": 231
+                    }
+                  },
+                  {
+                    "percentage": 18.15,
+                    "rgb": {
+                      "blue": 42,
+                      "green": 73,
+                      "red": 65
+                    }
+                  },
+                  {
+                    "percentage": 12.86,
+                    "rgb": {
+                      "blue": 115,
+                      "green": 173,
+                      "red": 205
+                    }
+                  },
+                  {
+                    "percentage": 6.57,
+                    "rgb": {
+                      "blue": 34,
+                      "green": 39,
+                      "red": 58
+                    }
+                  },
+                  {
+                    "percentage": 5.86,
+                    "rgb": {
+                      "blue": 50,
+                      "green": 96,
+                      "red": 134
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 622,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 37.81,
+                    "rgb": {
+                      "blue": 198,
+                      "green": 215,
+                      "red": 231
+                    }
+                  },
+                  {
+                    "percentage": 18.15,
+                    "rgb": {
+                      "blue": 42,
+                      "green": 73,
+                      "red": 65
+                    }
+                  },
+                  {
+                    "percentage": 12.86,
+                    "rgb": {
+                      "blue": 115,
+                      "green": 173,
+                      "red": 205
+                    }
+                  },
+                  {
+                    "percentage": 6.57,
+                    "rgb": {
+                      "blue": 34,
+                      "green": 39,
+                      "red": 58
+                    }
+                  },
+                  {
+                    "percentage": 5.86,
+                    "rgb": {
+                      "blue": 50,
+                      "green": 96,
+                      "red": 134
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 622,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/HtBS8QkLHi",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 622,
+                "url": "https://pbs.twimg.com/card_img/2119322831968501760/8XSg5UXD?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2119267253887856796",
+      "url": "https://x.com/GreatDealsSG/status/2119267253887856796",
+      "label": "GreatDealsSG",
+      "color": "#ef4444",
+      "deal_type": "1fl",
+      "country": "SG",
+      "fetched_at": "2026-11-08T10:31:00.322834+00:00",
+      "translation_zh": "Mr Bean 豆奶今天（11月8日）1对1优惠，低至 $2.30，带个朋友来，或者两杯都归自己也行",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-11-08T03:14:22.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "entities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/A4Tg3flNP4",
+              "expanded_url": "https://x.com/GreatDealsSG/status/2119267253887856796/photo/1",
+              "indices": [
+                143,
+                166
+              ],
+              "url": "https://t.co/A4Tg3flNP4"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "gds.sg/B9Eztp",
+              "expanded_url": "https://gds.sg/B9Eztp",
+              "indices": [
+                119,
+                142
+              ],
+              "url": "https://t.co/z3DAsmJ2hK"
+            }
+          ]
+        },
+        "id_str": "2119267253887856796",
+        "text": "Mr Bean's soy drinks are going 1-FOR-1 today (8 Nov) from $2.30, so bring a friend or just pretend both cups are yours https://t.co/z3DAsmJ2hK https://t.co/A4Tg3flNP4",
+        "user": {
+          "id_str": "45308068",
+          "name": "Great Deals Singapore",
+          "screen_name": "GreatDealsSG",
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/582440654132785152/UJNsUZAL_normal.png"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2119267253887856796"
+          ],
+          "editable_until_msecs": "1794111262000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "mediaDetails": [
+          {
+            "display_url": "pic.x.com/A4Tg3flNP4",
+            "expanded_url": "https://x.com/GreatDealsSG/status/2119267253887856796/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "indices": [
+              143,
+              166
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/HWkmKz6b0AAbPtJ.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 448,
+                  "w": 800,
+                  "x": 0,
+                  "y": 251
+                },
+                {
+                  "h": 800,
+                  "w": 800,
+                  "x": 0,
+                  "y": 75
+                },
+                {
+                  "h": 912,
+                  "w": 800,
+                  "x": 0,
+                  "y": 19
+                },
+                {
+                  "h": 1000,
+                  "w": 500,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 800,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1000,
+              "width": 800
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "resize": "fit",
+                "w": 800
+              },
+              "medium": {
+                "h": 1000,
+                "resize": "fit",
+                "w": 800
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/A4Tg3flNP4"
+          },
+          {
+            "display_url": "pic.x.com/A4Tg3flNP4",
+            "expanded_url": "https://x.com/GreatDealsSG/status/2119267253887856796/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "indices": [
+              143,
+              166
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/HWkmK0NbEAAwyjf.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 609,
+                  "w": 1088,
+                  "x": 0,
+                  "y": 468
+                },
+                {
+                  "h": 1088,
+                  "w": 1088,
+                  "x": 0,
+                  "y": 228
+                },
+                {
+                  "h": 1240,
+                  "w": 1088,
+                  "x": 0,
+                  "y": 104
+                },
+                {
+                  "h": 1344,
+                  "w": 672,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1344,
+                  "w": 1088,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1344,
+              "width": 1088
+            },
+            "sizes": {
+              "large": {
+                "h": 1344,
+                "resize": "fit",
+                "w": 1088
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 971
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 550
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/A4Tg3flNP4"
+          }
+        ],
+        "photos": [
+          {
+            "backgroundColor": {
+              "red": 204,
+              "green": 214,
+              "blue": 221
+            },
+            "cropCandidates": [
+              {
+                "h": 448,
+                "w": 800,
+                "x": 0,
+                "y": 251
+              },
+              {
+                "h": 800,
+                "w": 800,
+                "x": 0,
+                "y": 75
+              },
+              {
+                "h": 912,
+                "w": 800,
+                "x": 0,
+                "y": 19
+              },
+              {
+                "h": 1000,
+                "w": 500,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1000,
+                "w": 800,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "expandedUrl": "https://x.com/GreatDealsSG/status/2119267253887856796/photo/1",
+            "url": "https://pbs.twimg.com/media/HWkmKz6b0AAbPtJ.jpg",
+            "width": 800,
+            "height": 1000
+          },
+          {
+            "backgroundColor": {
+              "red": 204,
+              "green": 214,
+              "blue": 221
+            },
+            "cropCandidates": [
+              {
+                "h": 609,
+                "w": 1088,
+                "x": 0,
+                "y": 468
+              },
+              {
+                "h": 1088,
+                "w": 1088,
+                "x": 0,
+                "y": 228
+              },
+              {
+                "h": 1240,
+                "w": 1088,
+                "x": 0,
+                "y": 104
+              },
+              {
+                "h": 1344,
+                "w": 672,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1344,
+                "w": 1088,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "expandedUrl": "https://x.com/GreatDealsSG/status/2119267253887856796/photo/1",
+            "url": "https://pbs.twimg.com/media/HWkmK0NbEAAwyjf.jpg",
+            "width": 1088,
+            "height": 1344
+          }
+        ],
+        "conversation_count": 0,
+        "news_action_type": "conversation",
         "isEdited": false,
         "isStaleEdit": false
       }
