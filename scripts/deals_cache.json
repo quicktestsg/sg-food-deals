@@ -1,24 +1,6 @@
 {
   "deals": [
     {
-      "id": "de2a144ac0e16d51",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/pizza-hut-offering-1-for-1-melts-995.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Pizza Hut Offering 1-For-1 Melts @ $9.95 From 1–15 Nov",
-      "excerpt": "Pizza Hut 1-For-1 Melts Deal: Get 2 Melts for Just $9.95 Pizza Hut is bringing an exciting 1-For-1 Melts Promotion from 1 to 15 November 2026, offering two delicious Melts for just $9.95, instead of the usual $19.90. Whether you're looking for a quick lunch, a satisfying dinner or a tasty snack to...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0pkSdU2CLshFyNGONyDzhLJrswNJQgIZMbkXkw8cuKrK8syYSaveuYzsfN4QjeowWIKt_oyM4TNeBkPPsf4TBpkB7jy93qgN2OI6USfO34GE2_Vrz5zG3eTaSyvXCJJKknyorb8LIXh_f0mYBRyqMTIwNTMbZJHFixGWtW1nsG_Ed08jsV2d8n1ropZKA/s640/all%20singapore%20deals%20pizza%20hut%201-for-1%20melts%201%20nov%20a.jpg",
-      "deal_type": "1fl",
-      "country": "SG",
-      "published_at": "2026-11-01T00:00:00+00:00",
-      "fetched_at": "2026-11-01T00:00:41.520462+00:00",
-      "translation_zh": "Pizza Hut 1对1 Melts 促销：1–15 Nov 两个 Melts 只需 $9.95",
-      "excerpt_zh": "Pizza Hut 从 1 至 15 November 2026 推出 1对1 Melts 促销，两个 Melts 只需 $9.95，比单点更划算。"
-    },
-    {
       "id": "182429dfb549fade",
       "source_type": "rss",
       "source_name": "SINGPromos",
@@ -35,24 +17,6 @@
       "fetched_at": "2026-11-01T10:30:41.463561+00:00",
       "translation_zh": "Coffee Bean 圣诞火鸡蔓越莓美乃滋卷平日早餐套餐 11月2日起",
       "excerpt_zh": "平日早餐买两套，每套仅 $6.25，包含节庆卷、沙拉、迷你杯子蛋糕和美式咖啡。"
-    },
-    {
-      "id": "32f35f12c7aa079e",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-1-for-1-melts-at-9-95-with-new-flavours-until-15-nov-2026-308804/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Pizza Hut S’pore 1-for-1 Melts at $9.95 with new flavours until 15 Nov 2026",
-      "excerpt": "Enjoy two cheesy Melts for just $9.95, including new Cheesy Otah and Korean Garlic Cream Cheese flavours. [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/11/Pizza-Hut-feat-singpromos.com-1-Nov-2026.jpg",
-      "deal_type": "1fl",
-      "country": "SG",
-      "published_at": "2026-11-01T05:02:30+00:00",
-      "fetched_at": "2026-11-01T10:30:41.463790+00:00",
-      "translation_zh": "Pizza Hut 1-for-1 Melts 仅 $9.95 新口味登场 至11月15日",
-      "excerpt_zh": "两份芝士 Melts 只需 $9.95，还有新推出的 Cheesy Otah 和韩式蒜香奶油芝士口味。"
     },
     {
       "id": "118b34bf67aeaa21",
@@ -89,78 +53,6 @@
       "fetched_at": "2026-11-01T10:30:42.149301+00:00",
       "translation_zh": "DON DON DONKI 会员优惠券特惠 11月1-15日",
       "excerpt_zh": "DON DON DONKI 会员优惠券特惠11月回归，11月1日至15日带来多款特价好物。"
-    },
-    {
-      "id": "5304c7109f31a093",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/kopitiam-tea-break-deal-bao-hot-kopiteh.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Kopitiam Tea Break Deal: Bao & Hot Kopi/Teh For $1.80 (1- 30 Nov)",
-      "excerpt": "Kopitiam $1.80 Tea Break Duo Promotion From 1–30 November Kopitiam has teamed up with Lim Kee to bring you the Perfect Tea Break Duo at just $1.80 per set, available from 1 to 30 November 2026. Enjoy a Bao & Hot Drink for Just $1.80 Choose between a Sweet Yam Bao or Fragrant Pandan Bao, paired with...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigo-pkHkOXo2GUJFwLuJcj6psuJ-_Ute203hUYzy6pT6MCE80Re8xoCNLNRRxP2AqqwIe7MCQKkdf6C6-CyKdZE-guis_CMEhensEfiu8K-49vZJugE3jJXT0e8m6lsbL0M_1PBH80XHE95yLX8uXtGCC4lCZm46mQW-CcdDLegI7YKL-lGR-5BamK8_ad/s640/all%20singapore%20deals%20kopitiam%20$1_80%20%20bun%20set%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-01T05:28:31+00:00",
-      "fetched_at": "2026-11-01T10:30:42.149766+00:00",
-      "translation_zh": "Kopitiam 下午茶优待 包子+热咖啡/茶 仅 $1.80（11月1-30日）",
-      "excerpt_zh": "Kopitiam 携手 Lim Kee 推出完美下午茶组合，包子搭配热 Kopi 或 Teh 每份仅 $1.80。"
-    },
-    {
-      "id": "eae6ccbb893b8224",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/scarlett-supermarket-november-special.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Scarlett Supermarket November Special Promo (1-15 Nov): Buy 1 Free 1, Deals From $2 & More",
-      "excerpt": "Scarlett Singapore November 2026 Sale: Snacks, Groceries & Daily Essentials Enjoy more savings on your favourite Chinese snacks, groceries and daily essentials with the Scarlett Supermarket November Special Promotion, happening from 1 to 15 November 2026. Great Deals on Snacks & Grocery Essentials...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEinMArsIsKmfG6HNhCvv7XL1vHU_2RrAAzFfg4SdRa6fk8kzAnDtht-q4DVfj9bEgDJlORLGAS0iWbaSOgulNCNo6P5HWC8UN2BEGYpRpr_GdaPeF09DJ7rMlECEPPMx0vXnupHjA6zr3c-sLQjMfDWgVkPMPEJzDOFeU93hlodw32bFcgxGtgThCB2F9Ly/s640/all%20singapore%20deals%20scarlett%20november%20special%20promotion%201%20%20a.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-11-01T02:30:38+00:00",
-      "fetched_at": "2026-11-01T10:30:42.150220+00:00",
-      "translation_zh": "Scarlett 超市11月特卖（1-15日）买一送一 $2起好价多多",
-      "excerpt_zh": "Scarlett 新加坡11月大促开跑，中国零食、杂货和日常必备品通通省更多。"
-    },
-    {
-      "id": "d0d5e4184cf8c7b2",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/sheng-siong-new-arrivals-toy-fair.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Sheng Siong New Arrivals & Toy Fair (1–30 Nov)",
-      "excerpt": "Sheng Siong Toy Fair & New Arrivals Sale: Great Deals Throughout November Discover exciting new products and affordable family-friendly finds at the Sheng Siong New Arrivals & Toy Fair Promotion, happening from 1 to 30 November. This month, Sheng Siong is bringing shoppers a fresh selection of...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhypYGVyotNb9fAaXVMhOsqRFk-V2rtOY9prWEpC_bU3ag1JO_dL1Aigqr5RKhv5-UzV8omjdf7uMgCrqd6KFFSRw-0q50MIVfGE3dxgf2cY59pf3vprq8nUjQiiltGPt-q2WQxhDMLFO9hFDUnMaP1-nHtXGDRAk3YN0XXb3bM92_7hyZ_b4csTyEkCSYH/s640/all%20singapore%20deals%20sheng%20siong%20new%20arrival%20and%20toy%20fair%201%20nov%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-01T02:07:27+00:00",
-      "fetched_at": "2026-11-01T10:30:42.150752+00:00",
-      "translation_zh": "Sheng Siong 新品上架 & 玩具特卖会（11月1-30日）",
-      "excerpt_zh": "Sheng Siong 玩具特卖会和新品促销贯穿整个11月，全家大小都能淘到实惠好物。"
-    },
-    {
-      "id": "0075d261b2aab376",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/prime-supermarket-taste-of-asia.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Prime Supermarket Taste of Asia Promotion (1 - 15 Nov)",
-      "excerpt": "Prime Supermarket Taste of Asia: Dumplings, Noodles, Sauces & More From 1 - 15 Nov Enjoy a taste of your favourite Asian flavours for less with the Prime Supermarket Taste of Asia Promotion, happening from 1 to 15 November 2026! Look forward to deals such as Tian Tian Shi Pin Dumplings at $12.80...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjijVcAnjmKOBe8OYhmzWQzfIbSgIWwe2VcZLulcjem1DKixGsTY9hjTm505-pDrjCsJ47IrvJsyBpIpmGVklhqcrdJi5iQwjdJ0RF15sJtZQIxucU6aoic9LmzHBOIeHuuNnhvNdHrhcENgX-p9amKwxHKlWje2XkZc9kQ1uH-NqqOKmy1Ggf_0Cm6gAIZ/s640/all%20singapore%20deals%20prime%20taste%20of%20asia%201%20nov%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-01T01:49:19+00:00",
-      "fetched_at": "2026-11-01T10:30:42.151113+00:00",
-      "translation_zh": "Prime 超市亚洲风味特卖（11月1-15日）",
-      "excerpt_zh": "Prime 超市亚洲风味促销，饺子、面条、酱料等特价，11月1日至15日。"
     },
     {
       "id": "2b573f49480dafee",
@@ -215,42 +107,6 @@
       "fetched_at": "2026-11-01T10:30:49.595269+00:00",
       "translation_zh": "Takagi Ramen 鳗鱼祭秘密菜单 1-for-1 每份低至 $6.45 11月起",
       "excerpt_zh": "鳗鱼控看过来！Takagi Ramen 推出 Unagi Fiesta 秘密菜单，1-for-1 优待每份仅 $6.45 起。"
-    },
-    {
-      "id": "86d76e50037c9b66",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/5-8-nov-2026-singapore-coffee-week-2026-free-entry-sip-stamp-digital-stamp-trail-exciting-gifts-10000-worth-of-24k-gold-bean-treasure-hunt/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "5-8 Nov 2026: Singapore Coffee Week 2026: Free Entry, Sip & Stamp Digital Stamp Trail, Exciting Gifts & $10,000 Worth of 24K Gold Bean Treasure Hunt!",
-      "excerpt": "Visit Singapore Coffee Week 2026 from 5–8 November at Sands Expo! Enjoy free entry, Sip & Stamp digital rewards, coffee tastings, competitions and a S$10,000 Golden Bean Hunt. Continue reading 5-8 Nov 2026: Singapore Coffee Week 2026: Free Entry, Sip & Stamp Digital Stamp Trail, Exciting Gifts &...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Singapore-Coffee-Week-2026-Promotional-Poster-1.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-11-01T05:31:13+00:00",
-      "fetched_at": "2026-11-01T10:30:49.595434+00:00",
-      "translation_zh": "新加坡咖啡周 11月5-8日 免费入场 集章赢好礼",
-      "excerpt_zh": "新加坡咖啡周11月5-8日在 Sands Expo 举行，免费入场，还有集章奖励、咖啡品鉴和总值万元的奖品。"
-    },
-    {
-      "id": "c3915f8a9a74c941",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/now-till-8-nov-2026-free-decathlon-vouchers-up-to-50-snowboarding-classes-at-the-centrepoint-singapore/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "Now till 8 Nov 2026: FREE Decathlon Vouchers Up to $50 & Snowboarding Classes at The Centrepoint Singapore",
-      "excerpt": "Enjoy FREE Decathlon vouchers up to $50, Cold Room experiences, snowboarding classes and workshops at Decathlon Winter[proof] Your Holiday pop-up at The Centrepoint Singapore until 8 November 2026. Continue reading Now till 8 Nov 2026: FREE Decathlon Vouchers Up to $50 & Snowboarding Classes at The...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/73968.png",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-11-01T02:19:18+00:00",
-      "fetched_at": "2026-11-01T10:30:49.595696+00:00",
-      "translation_zh": "Decathlon 免费voucher高达 $50 & 滑雪体验课 至11月8日",
-      "excerpt_zh": "Decathlon Winter[proof] 冬季主题快闪店登陆 The Centrepoint，免费voucher高达 $50，还有 Cold Room 体验和滑雪课程。"
     },
     {
       "id": "2116834147616674201",
@@ -16410,6 +16266,860 @@
             "url": "https://pbs.twimg.com/media/HWkmK0NbEAAwyjf.jpg",
             "width": 1088,
             "height": 1344
+          }
+        ],
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "d317a65507f2b689",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-famous-bowl-with-chicken-meal-monday-app-deal-on-9-nov-2026-309414/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "KFC S’pore $6.50 Famous Bowl with Chicken Meal Monday App Deal on 9 Nov 2026",
+      "excerpt": "A hearty bowl, crispy chicken and Coke Zero Sugar [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/11/KFC-feat-singpromos.com-8-Nov-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-08T19:52:20+00:00",
+      "fetched_at": "2026-11-09T00:00:28.356987+00:00",
+      "translation_zh": "KFC 新加坡 $6.50 Famous Bowl 鸡肉套餐周一 App 优惠（11月9日）",
+      "excerpt_zh": "一碗满满的 Famous Bowl、脆皮炸鸡，再配一杯无糖可乐 Coke Zero。"
+    },
+    {
+      "id": "e958d4a205b70b07",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/11/klook-1111-flash-deals-50-off-hotels.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Klook 11.11 Flash Deals: 50% Off Hotels, Tours & Transport + Up To $155 Off",
+      "excerpt": "Planning a year-end getaway or already dreaming of your next holiday? Your 11.11 travel deals are here with Klook. Whether it's booking that long-awaited holiday, discovering new experiences or sorting out travel essentials, Klook is rolling out three days of deals from 11–13 November, with 50% OFF...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOOSFTTfC4_v04xxyPfPlgX9Kwg7kHvqhnU7JjQBM9NQhZC5dLkwdhs9j-avmAhu_RG3LE630lGgE9HKoewHhlgqxwiFKTWFlf4fYT9I1QWgehfVw2LAApl6osXcO9C0qR4l7x540piZJF-bzyiJrxgGa4YdNHK6YQzJii7vK01rp2D14hgNTdQRZ7Kj5j/s640/all%20singapore%20deals%20klook%201111%20flash%20deal%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-08T13:05:16+00:00",
+      "fetched_at": "2026-11-09T00:00:28.794263+00:00",
+      "translation_zh": "Klook 11.11 闪购：酒店、景点和交通 5 折起，最高再减 $155",
+      "excerpt_zh": "计划年底出游或下一次假期？Klook 11.11 旅游优惠登场，订酒店、门票和交通通通有折。"
+    },
+    {
+      "id": "9bb2c6ae579ec922",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/11/eat-pizza-1111-deal-pizza-mac-and.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Eat Pizza 11.11 Deal: Pizza + Mac and Cheese For $11 From 10 - 12 Nov",
+      "excerpt": "Eat Pizza 11.11 Sale: Enjoy 2 Favourites for $11 at Selected Outlets From 10 - 12 Nov Eat Pizza is celebrating 11.11 with a special combo promotion from 10 to 12 November 2026, offering shoppers a pizza and Mac & Cheese for just $11 (U.P. $15.80). The three-day deal lets customers enjoy two popular...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLNI7Md7ZJiNnHIygv5HhmU-PA2WWc9GvtIg9ihoZTlkeUzI0vxMLBTsQ3gtTVlSe8K5gUz1HfEBoCwnCny-Aa6w2c03Q7HrcO3nd9fqV8YTWOLpxjAtB5BDszoQMIeLB8lMdoFmWCQ_0yv9dYDj6lFA1A-IOMvvvvZHAzLhGU_Io5W3YLArT9jImnAg5f/s640/all%20singapore%20deals%20eat%20pizza%201111%20deal%2010%20nov%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-08T12:53:36+00:00",
+      "fetched_at": "2026-11-09T00:00:28.794617+00:00",
+      "translation_zh": "Eat Pizza 11.11 优惠：$11 吃 Pizza + Mac and Cheese（11月10日至12日）",
+      "excerpt_zh": "Eat Pizza 11.11 促销：11月10日至12日，指定门店两款人气组合只需 $11。"
+    },
+    {
+      "id": "201aac666255500f",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-november-2026-onwards-tonkotsu-kazan-student-meal-promotion-enjoy-ramen-iced-green-tea-for-just-s9-80-at-northpoint-city-century-square/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9 November 2026 onwards: Tonkotsu Kazan Student Meal Promotion – Enjoy Ramen & Iced Green Tea for Just S$9.80++ at Northpoint City & Century Square",
+      "excerpt": "Students can enjoy an affordable Japanese ramen meal with iced green tea for just S$9.80++ at Tonkotsu Kazan! Available from 9 November 2026 onwards, this weekday student-exclusive promotion is offered at Northpoint City and Century Square. Bring a valid student ID and enjoy this special dine-in...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Tonkotsu-Kazan-Student-Meal-Promotion-–-Enjoy-Ramen-Iced-Green.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-08T23:20:51+00:00",
+      "fetched_at": "2026-11-09T00:00:37.155968+00:00",
+      "translation_zh": "Tonkotsu Kazan 学生套餐：拉面 + 冰绿茶只要 S$9.80++（11月9日起，Northpoint City）",
+      "excerpt_zh": "学生党福音！11月9日起，Tonkotsu Kazan 平日学生专属拉面 + 冰绿茶套餐只要 S$9.80++。"
+    },
+    {
+      "id": "e1afe61b97eaeae9",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/5-november-2026-3-january-2027-sony-singapore-sony-days-2026-year-end-promotion-get-free-sony-otter-socks-without-purchase-win-up-to-50-shopping-vouchers-at-sony-stores/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "5 November 2026 – 3 January 2027: Sony Singapore Sony Days 2026 Year End Promotion – Get FREE Sony Otter Socks Without Purchase & Win Up to $50 Shopping Vouchers at Sony Stores!",
+      "excerpt": "Sony Singapore is giving away FREE Sony Otter-themed socks through its Sony Days 2026 Year End Promotion! Simply sign up or log in as a Sony member, play the Otter Bound online game and stand a chance to receive a complimentary socks voucher without making any purchase. Participants can also win...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Sony-Singapore-Sony-Days-2026-Year-End-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-08T23:14:01+00:00",
+      "fetched_at": "2026-11-09T00:00:37.156137+00:00",
+      "translation_zh": "Sony Days 2026 年末促销（11月5日至明年1月3日）：玩游戏免费领 Sony 水獭袜子，无需消费",
+      "excerpt_zh": "Sony 新加坡送免费水獭主题袜子！注册或登录 Sony 会员，玩 Otter Bound 线上小游戏即可领取。"
+    },
+    {
+      "id": "deb944d034ef78df",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/20-22-nov-2026-casa-italy-mega-clearance-sale-sofas-from-599-dining-tables-from-399-mattresses-beds-wardrobes-deals-in-singapore/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "20–22 Nov 2026: Casa Italy Mega Clearance Sale – Sofas from $599, Dining Tables from $399, Mattresses, Beds & Wardrobes Deals in Singapore",
+      "excerpt": "Casa Italy Mega Clearance Sale runs from 20–22 November 2026 at Tai Seng Avenue, Singapore! Shop sofas from $599, dining tables from $399, bed sets from $399, mattresses from $699 and sliding door wardrobes from $199 per foot. Enjoy FREE gifts with selected purchases! Continue reading 20–22 Nov...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Casa-Italy-Mega-Clearance-Sale-2.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-08T16:34:24+00:00",
+      "fetched_at": "2026-11-09T00:00:37.156290+00:00",
+      "translation_zh": "Casa Italy 大清仓（11月20日至22日）：沙发 $599 起、餐桌 $399 起、床垫 $699 起",
+      "excerpt_zh": "Casa Italy 大清仓特卖会 11月20日至22日在 Tai Seng Avenue 举行：沙发 $599 起、餐桌 $399 起、床组 $399 起、床垫 $699 起。"
+    },
+    {
+      "id": "2119523250770505921",
+      "url": "https://x.com/singpromos/status/2119523250770505921",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-11-09T00:00:42.209851+00:00",
+      "translation_zh": "KFC 新加坡 $6.50 Famous Bowl 鸡肉套餐周一 App 优惠（11月9日）",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-11-08T20:11:36.000Z",
+        "display_text_range": [
+          0,
+          188
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                101,
+                111
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                112,
+                115
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                116,
+                124
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                125,
+                132
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                133,
+                143
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                144,
+                151
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                152,
+                163
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                164,
+                172
+              ],
+              "text": "SGhalal"
+            },
+            {
+              "indices": [
+                173,
+                181
+              ],
+              "text": "halalSG"
+            },
+            {
+              "indices": [
+                182,
+                188
+              ],
+              "text": "kfcsg"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-famous-bowl-with-chicken-meal-monday-app-deal-on-9-nov-2026-309414/",
+              "indices": [
+                77,
+                100
+              ],
+              "url": "https://t.co/BpLyIV3bk7"
+            }
+          ]
+        },
+        "id_str": "2119523250770505921",
+        "text": "KFC S'pore $6.50 Famous Bowl with Chicken Meal Monday App Deal on 9 Nov 2026 https://t.co/BpLyIV3bk7 #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #SGhalal #halalSG #kfcsg",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2119523250770505921"
+          ],
+          "editable_until_msecs": "1794172296000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/BpLyIV3bk7",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 147,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "A hearty bowl, crispy chicken and Coke Zero Sugar",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 577,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=jpg&name=orig",
+                "width": 1102
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 75,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 577,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=png&name=2048x2048_2_exp",
+                "width": 1102
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 577,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=jpg&name=orig",
+                "width": 1102
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 38.43,
+                    "rgb": {
+                      "blue": 188,
+                      "green": 195,
+                      "red": 208
+                    }
+                  },
+                  {
+                    "percentage": 26.56,
+                    "rgb": {
+                      "blue": 133,
+                      "green": 131,
+                      "red": 207
+                    }
+                  },
+                  {
+                    "percentage": 12.12,
+                    "rgb": {
+                      "blue": 132,
+                      "green": 130,
+                      "red": 168
+                    }
+                  },
+                  {
+                    "percentage": 11.16,
+                    "rgb": {
+                      "blue": 29,
+                      "green": 13,
+                      "red": 151
+                    }
+                  },
+                  {
+                    "percentage": 4.02,
+                    "rgb": {
+                      "blue": 199,
+                      "green": 193,
+                      "red": 181
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "KFC S’pore $6.50 Famous Bowl with Chicken Meal Monday App Deal on 9 Nov 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 38.43,
+                    "rgb": {
+                      "blue": 188,
+                      "green": 195,
+                      "red": 208
+                    }
+                  },
+                  {
+                    "percentage": 26.56,
+                    "rgb": {
+                      "blue": 133,
+                      "green": 131,
+                      "red": 207
+                    }
+                  },
+                  {
+                    "percentage": 12.12,
+                    "rgb": {
+                      "blue": 132,
+                      "green": 130,
+                      "red": 168
+                    }
+                  },
+                  {
+                    "percentage": 11.16,
+                    "rgb": {
+                      "blue": 29,
+                      "green": 13,
+                      "red": 151
+                    }
+                  },
+                  {
+                    "percentage": 4.02,
+                    "rgb": {
+                      "blue": 199,
+                      "green": 193,
+                      "red": 181
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 577,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=png&name=2048x2048_2_exp",
+                "width": 1102
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 38.43,
+                    "rgb": {
+                      "blue": 188,
+                      "green": 195,
+                      "red": 208
+                    }
+                  },
+                  {
+                    "percentage": 26.56,
+                    "rgb": {
+                      "blue": 133,
+                      "green": 131,
+                      "red": 207
+                    }
+                  },
+                  {
+                    "percentage": 12.12,
+                    "rgb": {
+                      "blue": 132,
+                      "green": 130,
+                      "red": 168
+                    }
+                  },
+                  {
+                    "percentage": 11.16,
+                    "rgb": {
+                      "blue": 29,
+                      "green": 13,
+                      "red": 151
+                    }
+                  },
+                  {
+                    "percentage": 4.02,
+                    "rgb": {
+                      "blue": 199,
+                      "green": 193,
+                      "red": 181
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 577,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=png&name=2048x2048_2_exp",
+                "width": 1102
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/BpLyIV3bk7",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 577,
+                "url": "https://pbs.twimg.com/card_img/2119523250988605441/IrN1Pb-K?format=jpg&name=orig",
+                "width": 1102
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2119458026671497506",
+      "url": "https://x.com/GreatDealsSG/status/2119458026671497506",
+      "label": "GreatDealsSG",
+      "color": "#ef4444",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-11-09T00:00:43.807842+00:00",
+      "translation_zh": "Coca-Cola x Kopitiam 积木回归！11月16日起 $38.80 带走 24罐可乐 + 全套3款迷你 kopitiam 积木",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-11-08T15:52:25.000Z",
+        "display_text_range": [
+          0,
+          155
+        ],
+        "entities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/AUJhRSF28o",
+              "expanded_url": "https://x.com/GreatDealsSG/status/2119458026671497506/photo/1",
+              "indices": [
+                156,
+                179
+              ],
+              "url": "https://t.co/AUJhRSF28o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "gds.sg/7w414Z",
+              "expanded_url": "https://gds.sg/7w414Z",
+              "indices": [
+                132,
+                155
+              ],
+              "url": "https://t.co/JclJmpiDbi"
+            }
+          ]
+        },
+        "id_str": "2119458026671497506",
+        "text": "The Coca-Cola x Kopitiam building bricks are back on 16 Nov, and this time $38.80 gets you 24 cans of Coke AND all 3 mini kopitiams https://t.co/JclJmpiDbi https://t.co/AUJhRSF28o",
+        "user": {
+          "id_str": "45308068",
+          "name": "Great Deals Singapore",
+          "screen_name": "GreatDealsSG",
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/582440654132785152/UJNsUZAL_normal.png"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2119458026671497506"
+          ],
+          "editable_until_msecs": "1794156745000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "mediaDetails": [
+          {
+            "display_url": "pic.x.com/AUJhRSF28o",
+            "expanded_url": "https://x.com/GreatDealsSG/status/2119458026671497506/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "indices": [
+              156,
+              179
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/HWnTq9maIAAbDxQ.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 448,
+                  "w": 800,
+                  "x": 0,
+                  "y": 301
+                },
+                {
+                  "h": 800,
+                  "w": 800,
+                  "x": 0,
+                  "y": 125
+                },
+                {
+                  "h": 912,
+                  "w": 800,
+                  "x": 0,
+                  "y": 69
+                },
+                {
+                  "h": 1000,
+                  "w": 500,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 800,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1000,
+              "width": 800
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "resize": "fit",
+                "w": 800
+              },
+              "medium": {
+                "h": 1000,
+                "resize": "fit",
+                "w": 800
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/AUJhRSF28o"
+          },
+          {
+            "display_url": "pic.x.com/AUJhRSF28o",
+            "expanded_url": "https://x.com/GreatDealsSG/status/2119458026671497506/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "indices": [
+              156,
+              179
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/HWnTq9_bsAA2lrl.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 924,
+                  "w": 1650,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1650,
+                  "w": 1650,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1881,
+                  "w": 1650,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1024,
+                  "x": 460,
+                  "y": 0
+                },
+                {
+                  "h": 2048,
+                  "w": 1650,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 2048,
+              "width": 1650
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1650
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 967
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 548
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/AUJhRSF28o"
+          }
+        ],
+        "photos": [
+          {
+            "backgroundColor": {
+              "red": 204,
+              "green": 214,
+              "blue": 221
+            },
+            "cropCandidates": [
+              {
+                "h": 448,
+                "w": 800,
+                "x": 0,
+                "y": 301
+              },
+              {
+                "h": 800,
+                "w": 800,
+                "x": 0,
+                "y": 125
+              },
+              {
+                "h": 912,
+                "w": 800,
+                "x": 0,
+                "y": 69
+              },
+              {
+                "h": 1000,
+                "w": 500,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1000,
+                "w": 800,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "expandedUrl": "https://x.com/GreatDealsSG/status/2119458026671497506/photo/1",
+            "url": "https://pbs.twimg.com/media/HWnTq9maIAAbDxQ.jpg",
+            "width": 800,
+            "height": 1000
+          },
+          {
+            "backgroundColor": {
+              "red": 204,
+              "green": 214,
+              "blue": 221
+            },
+            "cropCandidates": [
+              {
+                "h": 924,
+                "w": 1650,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1650,
+                "w": 1650,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1881,
+                "w": 1650,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1024,
+                "x": 460,
+                "y": 0
+              },
+              {
+                "h": 2048,
+                "w": 1650,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "expandedUrl": "https://x.com/GreatDealsSG/status/2119458026671497506/photo/1",
+            "url": "https://pbs.twimg.com/media/HWnTq9_bsAA2lrl.jpg",
+            "width": 1650,
+            "height": 2048
           }
         ],
         "conversation_count": 0,
