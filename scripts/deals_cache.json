@@ -1,1698 +1,6 @@
 {
   "deals": [
     {
-      "id": "182429dfb549fade",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/dining-restaurants-food/coffee-bean-sg-turkey-chicken-cranberry-mayo-wrap-breakfast-set-from-2-nov-2026-308843/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Coffee Bean SG Turkey & Chicken Cranberry Mayo Wrap Weekday Breakfast Set From 2 Nov 2026",
-      "excerpt": "Get a festive wrap, salad, mini cupcake and Americano for just $6.25 per set when buying two. [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/11/Coffee-Bean-feat-singpromos.com-1-Nov-2026.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-01T10:04:07+00:00",
-      "fetched_at": "2026-11-01T10:30:41.463561+00:00",
-      "translation_zh": "Coffee Bean 圣诞火鸡蔓越莓美乃滋卷平日早餐套餐 11月2日起",
-      "excerpt_zh": "平日早餐买两套，每套仅 $6.25，包含节庆卷、沙拉、迷你杯子蛋糕和美式咖啡。"
-    },
-    {
-      "id": "118b34bf67aeaa21",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/mcdonalds-offering-new-mccrispy-fried.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "McDonald's Offering New McCrispy Fried Chicken 2pc Meal @ $7.95 From 5 - 25 Nov",
-      "excerpt": "McDonald's New McCrispy Fried Chicken Promotion – 2pc Meal at $7.95 (5–25 November) McDonald's is offering its new McCrispy Fried Chicken Meal (2pc) for just $7.95 (U.P. from $9.25) from 5 to 25 November 2026. The promotional meal includes two pieces of the new McCrispy Fried Chicken, accompanied...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBxzCZY1ZUTNtgpNIBG6EgSCJzYHY2TcqS4fJPsefkBdio_JPeAXSaQS-fvGYWXqONlzwLkxYHf8ZdjJC46-AvWp1v4nANfJmQyse2E0ur_csuRjeSNEarkvly0Lp52U39pXJZ77c67TSEIGzsgxolX1YJPGS8qzl8srbLTWF9p7Pa3jqUhCIBHh0Trm8Q/s640/all%20singapore%20deals%20mcdonalds%20mccrispy%20fried%20chicken%20deal%205%20nov%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-01T06:54:57+00:00",
-      "fetched_at": "2026-11-01T10:30:42.148777+00:00",
-      "translation_zh": "McDonald's 新品 McCrispy 炸鸡两块套餐 $7.95（11月5-25日）",
-      "excerpt_zh": "McDonald's 推出全新 McCrispy 炸鸡，两块套餐仅需 $7.95，11月5日至25日限定。"
-    },
-    {
-      "id": "f5fe9c0ad09d9bf6",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/don-don-donki-member-coupon-promotion.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "DON DON DONKI Member Coupon Promotion From 1–15 Nov",
-      "excerpt": "DON DON DONKI November Deals: Member Coupons & Special Prices DON DON DONKI Member Coupon Special Promotion is back from 1 to 15 November 2026, bringing exclusive discounts on popular Japanese groceries, ready-to-eat meals, snacks and household essentials. Simply open your DONKI App and check your...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrnK73oiRxUbJ1lDZtvdm540t8fyGEWt-kMIIhgyx1xpESDFVHJhypFq-L1Bxfc2GutOI7me5j_7i7XY1ZyUpO__RlGzSzHPUE5oGFzMHcbOMEklNHA-XlYB6EELdNf_1SjNtrrQreFgAjksuky7NyaIJzMj-KcazP9Lz1pcwiOdVR_45RfL2EcMr589hR/s640/all%20singapore%20deals%20donki%20member%20coupon%201%20nov%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-01T06:04:45+00:00",
-      "fetched_at": "2026-11-01T10:30:42.149301+00:00",
-      "translation_zh": "DON DON DONKI 会员优惠券特惠 11月1-15日",
-      "excerpt_zh": "DON DON DONKI 会员优惠券特惠11月回归，11月1日至15日带来多款特价好物。"
-    },
-    {
-      "id": "2b573f49480dafee",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/30-oct-9-nov-2026-mega-beauty-festival-singapore-beauty-skincare-sale-with-up-to-90-off-500-brands-at-singapore-expo/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "30 Oct–9 Nov 2026: Mega Beauty Festival Singapore – Beauty & Skincare Sale with Up to 90% OFF 500+ Brands at Singapore EXPO",
-      "excerpt": "Shop more than 500 beauty products at Mega Beauty Festival Singapore 2026! Enjoy up to 90% OFF selected skincare, cosmetics, Korean beauty, Japanese haircare and international brands. FREE ENTRY at Singapore EXPO Hall 5B, from 30 October to 1 November and 6 to 9 November 2026. Continue reading 30...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Mega-Beauty-Festival-Singapore.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-11-01T07:49:44+00:00",
-      "fetched_at": "2026-11-01T10:30:49.594905+00:00",
-      "translation_zh": "新加坡美妆节 10月30日-11月9日 500+品牌低至1折",
-      "excerpt_zh": "Mega Beauty Festival 2026 汇聚500+美妆好物，护肤、彩妆、韩妆日妆精选低至1折。"
-    },
-    {
-      "id": "9d09f6d6190e054c",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/19-oct-16-nov-2026-metro-singapore-great-getaway-sale-up-to-80-off-branded-luggage-suitcases-from-59-at-paragon/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "19 Oct–16 Nov 2026: METRO Singapore Great Getaway Sale – Up to 80% OFF Branded Luggage, Suitcases from $59 at Paragon",
-      "excerpt": "Planning your next holiday? Head down to METRO Paragon for the Great Getaway Sale 2026 and enjoy up to 80% OFF selected branded luggage and travel essentials. Shop Traveler's Choice suitcases from $59, Delsey Paris from $99 and Pierre Cardin from $119, plus exclusive shopping promotions. Happening...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/METRO-Singapore-Great-Getaway-Luggage-Sale.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-01T07:36:15+00:00",
-      "fetched_at": "2026-11-01T10:30:49.595079+00:00",
-      "translation_zh": "METRO 旅行箱大甩卖 低至2折 $59起 至11月16日",
-      "excerpt_zh": "METRO Paragon Great Getaway Sale 2026，品牌行李箱和旅行必备低至2折，10月19日至11月16日。"
-    },
-    {
-      "id": "229d0103a09542ee",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/1-november-2026-onwards-takagi-ramen-singapore-promotion-1-for-1-unagi-fiesta-secret-menu-from-just-6-45-per-serving/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "1 November 2026 Onwards: Takagi Ramen Singapore Promotion – 1-for-1 Unagi Fiesta Secret Menu from Just $6.45 Per Serving",
-      "excerpt": "Unagi lovers, here is a Japanese food deal worth checking out! Takagi Ramen Singapore introduces its Unagi Fiesta Secret Menu with a 1-for-1 promotion on Unagi Tonkotsu Ramen, Unagi Shoyu Ramen, Unagi Don and Unagi Ochazuke. Enjoy two servings for just $12.90, working out to only $6.45 per serving....",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Takagi-Ramen-Unagi-Fiesta-Poster.jpg",
-      "deal_type": "1fl",
-      "country": "SG",
-      "published_at": "2026-11-01T05:46:45+00:00",
-      "fetched_at": "2026-11-01T10:30:49.595269+00:00",
-      "translation_zh": "Takagi Ramen 鳗鱼祭秘密菜单 1-for-1 每份低至 $6.45 11月起",
-      "excerpt_zh": "鳗鱼控看过来！Takagi Ramen 推出 Unagi Fiesta 秘密菜单，1-for-1 优待每份仅 $6.45 起。"
-    },
-    {
-      "id": "2116834147616674201",
-      "url": "https://x.com/singpromos/status/2116834147616674201",
-      "label": "SINGPromos",
-      "color": "#f59e0b",
-      "deal_type": "deal",
-      "country": "SG",
-      "fetched_at": "2026-11-01T10:30:52.609288+00:00",
-      "translation_zh": "Coffee Bean SG 火鸡蔓越莓美乃滋卷平日早餐套餐 11月2日起",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-11-01T10:06:04.000Z",
-        "display_text_range": [
-          0,
-          212
-        ],
-        "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                118,
-                128
-              ],
-              "text": "SINGAPORE"
-            },
-            {
-              "indices": [
-                129,
-                132
-              ],
-              "text": "SG"
-            },
-            {
-              "indices": [
-                133,
-                141
-              ],
-              "text": "SGpromo"
-            },
-            {
-              "indices": [
-                142,
-                149
-              ],
-              "text": "SGsale"
-            },
-            {
-              "indices": [
-                150,
-                160
-              ],
-              "text": "SGfoodies"
-            },
-            {
-              "indices": [
-                161,
-                168
-              ],
-              "text": "SGeats"
-            },
-            {
-              "indices": [
-                169,
-                180
-              ],
-              "text": "singpromos"
-            },
-            {
-              "indices": [
-                181,
-                189
-              ],
-              "text": "SGhalal"
-            },
-            {
-              "indices": [
-                190,
-                198
-              ],
-              "text": "halalSG"
-            },
-            {
-              "indices": [
-                199,
-                212
-              ],
-              "text": "coffeebeansg"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "singpromos.com/dining-restaur…",
-              "expanded_url": "https://singpromos.com/dining-restaurants-food/coffee-bean-sg-turkey-chicken-cranberry-mayo-wrap-breakfast-set-from-2-nov-2026-308843/",
-              "indices": [
-                94,
-                117
-              ],
-              "url": "https://t.co/0ps6xt6d1C"
-            }
-          ]
-        },
-        "id_str": "2116834147616674201",
-        "text": "Coffee Bean SG Turkey &amp; Chicken Cranberry Mayo Wrap Weekday Breakfast Set From 2 Nov 2026 https://t.co/0ps6xt6d1C #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #SGhalal #halalSG #coffeebeansg",
-        "user": {
-          "id_str": "229470448",
-          "name": "SINGPromos",
-          "screen_name": "singpromos",
-          "is_blue_verified": false,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2116834147616674201"
-          ],
-          "editable_until_msecs": "1793531164000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "card": {
-          "card_platform": {
-            "platform": {
-              "audience": {
-                "name": "production"
-              },
-              "device": {
-                "name": "iPhone",
-                "version": "13"
-              }
-            }
-          },
-          "name": "summary_large_image",
-          "url": "https://t.co/0ps6xt6d1C",
-          "binding_values": {
-            "photo_image_full_size_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image": {
-              "image_value": {
-                "height": 146,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=jpg&name=280x150",
-                "width": 280
-              },
-              "type": "IMAGE"
-            },
-            "description": {
-              "string_value": "Get a festive wrap, salad, mini cupcake and Americano for just $6.25 per set when buying two.",
-              "type": "STRING"
-            },
-            "domain": {
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "thumbnail_image_large": {
-              "image_value": {
-                "height": 312,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=jpg&name=600x600",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_original": {
-              "image_value": {
-                "height": 1327,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=jpg&name=orig",
-                "width": 2551
-              },
-              "type": "IMAGE"
-            },
-            "site": {
-              "scribe_key": "publisher_id",
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "photo_image_full_size_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_small": {
-              "image_value": {
-                "height": 75,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=jpg&name=144x144",
-                "width": 144
-              },
-              "type": "IMAGE"
-            },
-            "creator": {
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "thumbnail_image_x_large": {
-              "image_value": {
-                "height": 1065,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=png&name=2048x2048_2_exp",
-                "width": 2048
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_original": {
-              "image_value": {
-                "height": 1327,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=jpg&name=orig",
-                "width": 2551
-              },
-              "type": "IMAGE"
-            },
-            "vanity_url": {
-              "scribe_key": "vanity_url",
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "photo_image_full_size": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 50.8,
-                    "rgb": {
-                      "blue": 171,
-                      "green": 197,
-                      "red": 216
-                    }
-                  },
-                  {
-                    "percentage": 17.57,
-                    "rgb": {
-                      "blue": 89,
-                      "green": 116,
-                      "red": 127
-                    }
-                  },
-                  {
-                    "percentage": 13.69,
-                    "rgb": {
-                      "blue": 104,
-                      "green": 152,
-                      "red": 201
-                    }
-                  },
-                  {
-                    "percentage": 6.79,
-                    "rgb": {
-                      "blue": 172,
-                      "green": 167,
-                      "red": 161
-                    }
-                  },
-                  {
-                    "percentage": 2.13,
-                    "rgb": {
-                      "blue": 26,
-                      "green": 34,
-                      "red": 40
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "title": {
-              "string_value": "Coffee Bean SG Turkey & Chicken Cranberry Mayo Wrap Weekday Breakfast Set From 2 Nov 2026",
-              "type": "STRING"
-            },
-            "summary_photo_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 50.8,
-                    "rgb": {
-                      "blue": 171,
-                      "green": 197,
-                      "red": 216
-                    }
-                  },
-                  {
-                    "percentage": 17.57,
-                    "rgb": {
-                      "blue": 89,
-                      "green": 116,
-                      "red": 127
-                    }
-                  },
-                  {
-                    "percentage": 13.69,
-                    "rgb": {
-                      "blue": 104,
-                      "green": 152,
-                      "red": 201
-                    }
-                  },
-                  {
-                    "percentage": 6.79,
-                    "rgb": {
-                      "blue": 172,
-                      "green": 167,
-                      "red": 161
-                    }
-                  },
-                  {
-                    "percentage": 2.13,
-                    "rgb": {
-                      "blue": 26,
-                      "green": 34,
-                      "red": 40
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "summary_photo_image_x_large": {
-              "image_value": {
-                "height": 1065,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=png&name=2048x2048_2_exp",
-                "width": 2048
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 50.8,
-                    "rgb": {
-                      "blue": 171,
-                      "green": 197,
-                      "red": 216
-                    }
-                  },
-                  {
-                    "percentage": 17.57,
-                    "rgb": {
-                      "blue": 89,
-                      "green": 116,
-                      "red": 127
-                    }
-                  },
-                  {
-                    "percentage": 13.69,
-                    "rgb": {
-                      "blue": 104,
-                      "green": 152,
-                      "red": 201
-                    }
-                  },
-                  {
-                    "percentage": 6.79,
-                    "rgb": {
-                      "blue": 172,
-                      "green": 167,
-                      "red": 161
-                    }
-                  },
-                  {
-                    "percentage": 2.13,
-                    "rgb": {
-                      "blue": 26,
-                      "green": 34,
-                      "red": 40
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "photo_image_full_size_x_large": {
-              "image_value": {
-                "height": 1065,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=png&name=2048x2048_2_exp",
-                "width": 2048
-              },
-              "type": "IMAGE"
-            },
-            "card_url": {
-              "scribe_key": "card_url",
-              "string_value": "https://t.co/0ps6xt6d1C",
-              "type": "STRING"
-            },
-            "summary_photo_image_original": {
-              "image_value": {
-                "height": 1327,
-                "url": "https://pbs.twimg.com/card_img/2116834189979095041/70243oKR?format=jpg&name=orig",
-                "width": 2551
-              },
-              "type": "IMAGE"
-            }
-          }
-        },
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
-      "id": "2116766537365455033",
-      "url": "https://x.com/singpromos/status/2116766537365455033",
-      "label": "SINGPromos",
-      "color": "#f59e0b",
-      "deal_type": "1fl",
-      "country": "SG",
-      "fetched_at": "2026-11-01T10:30:52.615998+00:00",
-      "translation_zh": "Giant Ben & Jerry's 3罐 $24.50 & Top Nanox 洗衣液1-for-1 至11月4日",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 1,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-11-01T05:37:24.000Z",
-        "display_text_range": [
-          0,
-          193
-        ],
-        "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                108,
-                118
-              ],
-              "text": "SINGAPORE"
-            },
-            {
-              "indices": [
-                119,
-                122
-              ],
-              "text": "SG"
-            },
-            {
-              "indices": [
-                123,
-                131
-              ],
-              "text": "SGpromo"
-            },
-            {
-              "indices": [
-                132,
-                139
-              ],
-              "text": "SGsale"
-            },
-            {
-              "indices": [
-                140,
-                150
-              ],
-              "text": "SGfoodies"
-            },
-            {
-              "indices": [
-                151,
-                158
-              ],
-              "text": "SGeats"
-            },
-            {
-              "indices": [
-                159,
-                170
-              ],
-              "text": "singpromos"
-            },
-            {
-              "indices": [
-                171,
-                179
-              ],
-              "text": "giantsg"
-            },
-            {
-              "indices": [
-                180,
-                193
-              ],
-              "text": "bennjerryssg"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "singpromos.com/dining-restaur…",
-              "expanded_url": "https://singpromos.com/dining-restaurants-food/giant-spore-ben-jerrys-3-for-24-50-top-nanox-1-for-1-till-4-nov-2026-308743/",
-              "indices": [
-                84,
-                107
-              ],
-              "url": "https://t.co/DZporJ69Px"
-            }
-          ]
-        },
-        "id_str": "2116766537365455033",
-        "text": "Giant S'pore Ben &amp; Jerry's 3 for $24.50 &amp; Top Nanox 1-for-1 Till 4 Nov 2026 https://t.co/DZporJ69Px #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #giantsg #bennjerryssg",
-        "user": {
-          "id_str": "229470448",
-          "name": "SINGPromos",
-          "screen_name": "singpromos",
-          "is_blue_verified": false,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2116766537365455033"
-          ],
-          "editable_until_msecs": "1793515044000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "card": {
-          "card_platform": {
-            "platform": {
-              "audience": {
-                "name": "production"
-              },
-              "device": {
-                "name": "iPhone",
-                "version": "13"
-              }
-            }
-          },
-          "name": "summary_large_image",
-          "url": "https://t.co/DZporJ69Px",
-          "binding_values": {
-            "photo_image_full_size_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image": {
-              "image_value": {
-                "height": 146,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=jpg&name=280x150",
-                "width": 280
-              },
-              "type": "IMAGE"
-            },
-            "description": {
-              "string_value": "Scoop up big savings on Ben & Jerry's ice cream, plus grocery bargains and buy 1 get 1 free deals.",
-              "type": "STRING"
-            },
-            "domain": {
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "thumbnail_image_large": {
-              "image_value": {
-                "height": 313,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=jpg&name=600x600",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_original": {
-              "image_value": {
-                "height": 625,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "site": {
-              "scribe_key": "publisher_id",
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "photo_image_full_size_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_small": {
-              "image_value": {
-                "height": 75,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=jpg&name=144x144",
-                "width": 144
-              },
-              "type": "IMAGE"
-            },
-            "creator": {
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "thumbnail_image_x_large": {
-              "image_value": {
-                "height": 625,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_original": {
-              "image_value": {
-                "height": 625,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "vanity_url": {
-              "scribe_key": "vanity_url",
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "photo_image_full_size": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 28.65,
-                    "rgb": {
-                      "blue": 21,
-                      "green": 24,
-                      "red": 21
-                    }
-                  },
-                  {
-                    "percentage": 14.46,
-                    "rgb": {
-                      "blue": 207,
-                      "green": 203,
-                      "red": 192
-                    }
-                  },
-                  {
-                    "percentage": 9.03,
-                    "rgb": {
-                      "blue": 135,
-                      "green": 176,
-                      "red": 179
-                    }
-                  },
-                  {
-                    "percentage": 7.35,
-                    "rgb": {
-                      "blue": 62,
-                      "green": 88,
-                      "red": 92
-                    }
-                  },
-                  {
-                    "percentage": 4.75,
-                    "rgb": {
-                      "blue": 96,
-                      "green": 181,
-                      "red": 170
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "title": {
-              "string_value": "Giant S’pore Ben & Jerry’s 3 for $24.50 & Top Nanox 1-for-1 Till 4 Nov 2026",
-              "type": "STRING"
-            },
-            "summary_photo_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 28.65,
-                    "rgb": {
-                      "blue": 21,
-                      "green": 24,
-                      "red": 21
-                    }
-                  },
-                  {
-                    "percentage": 14.46,
-                    "rgb": {
-                      "blue": 207,
-                      "green": 203,
-                      "red": 192
-                    }
-                  },
-                  {
-                    "percentage": 9.03,
-                    "rgb": {
-                      "blue": 135,
-                      "green": 176,
-                      "red": 179
-                    }
-                  },
-                  {
-                    "percentage": 7.35,
-                    "rgb": {
-                      "blue": 62,
-                      "green": 88,
-                      "red": 92
-                    }
-                  },
-                  {
-                    "percentage": 4.75,
-                    "rgb": {
-                      "blue": 96,
-                      "green": 181,
-                      "red": 170
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "summary_photo_image_x_large": {
-              "image_value": {
-                "height": 625,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 28.65,
-                    "rgb": {
-                      "blue": 21,
-                      "green": 24,
-                      "red": 21
-                    }
-                  },
-                  {
-                    "percentage": 14.46,
-                    "rgb": {
-                      "blue": 207,
-                      "green": 203,
-                      "red": 192
-                    }
-                  },
-                  {
-                    "percentage": 9.03,
-                    "rgb": {
-                      "blue": 135,
-                      "green": 176,
-                      "red": 179
-                    }
-                  },
-                  {
-                    "percentage": 7.35,
-                    "rgb": {
-                      "blue": 62,
-                      "green": 88,
-                      "red": 92
-                    }
-                  },
-                  {
-                    "percentage": 4.75,
-                    "rgb": {
-                      "blue": 96,
-                      "green": 181,
-                      "red": 170
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "photo_image_full_size_x_large": {
-              "image_value": {
-                "height": 625,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "card_url": {
-              "scribe_key": "card_url",
-              "string_value": "https://t.co/DZporJ69Px",
-              "type": "STRING"
-            },
-            "summary_photo_image_original": {
-              "image_value": {
-                "height": 625,
-                "url": "https://pbs.twimg.com/card_img/2116280477892141056/fjZkKg6q?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            }
-          }
-        },
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
-      "id": "2116759637626356151",
-      "url": "https://x.com/singpromos/status/2116759637626356151",
-      "label": "SINGPromos",
-      "color": "#f59e0b",
-      "deal_type": "1fl",
-      "country": "SG",
-      "fetched_at": "2026-11-01T10:30:52.616038+00:00",
-      "translation_zh": "Pizza Hut SG 1-for-1 Melts 仅 $9.95 新口味至11月15日",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-11-01T05:09:59.000Z",
-        "display_text_range": [
-          0,
-          188
-        ],
-        "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                96,
-                106
-              ],
-              "text": "SINGAPORE"
-            },
-            {
-              "indices": [
-                107,
-                110
-              ],
-              "text": "SG"
-            },
-            {
-              "indices": [
-                111,
-                119
-              ],
-              "text": "SGpromo"
-            },
-            {
-              "indices": [
-                120,
-                127
-              ],
-              "text": "SGsale"
-            },
-            {
-              "indices": [
-                128,
-                138
-              ],
-              "text": "SGfoodies"
-            },
-            {
-              "indices": [
-                139,
-                146
-              ],
-              "text": "SGeats"
-            },
-            {
-              "indices": [
-                147,
-                158
-              ],
-              "text": "singpromos"
-            },
-            {
-              "indices": [
-                159,
-                167
-              ],
-              "text": "SGhalal"
-            },
-            {
-              "indices": [
-                168,
-                176
-              ],
-              "text": "halalSG"
-            },
-            {
-              "indices": [
-                177,
-                188
-              ],
-              "text": "pizzahutsg"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "singpromos.com/dining-restaur…",
-              "expanded_url": "https://singpromos.com/dining-restaurants-food/pizza-hut-spore-1-for-1-melts-at-9-95-with-new-flavours-until-15-nov-2026-308804/",
-              "indices": [
-                72,
-                95
-              ],
-              "url": "https://t.co/IB9VCjDVNE"
-            }
-          ]
-        },
-        "id_str": "2116759637626356151",
-        "text": "Pizza Hut SG 1-for-1 Melts at $9.95 with new flavours until 15 Nov 2026 https://t.co/IB9VCjDVNE #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #SGhalal #halalSG #pizzahutsg",
-        "user": {
-          "id_str": "229470448",
-          "name": "SINGPromos",
-          "screen_name": "singpromos",
-          "is_blue_verified": false,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2116759637626356151"
-          ],
-          "editable_until_msecs": "1793513399000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "card": {
-          "card_platform": {
-            "platform": {
-              "audience": {
-                "name": "production"
-              },
-              "device": {
-                "name": "iPhone",
-                "version": "13"
-              }
-            }
-          },
-          "name": "summary_large_image",
-          "url": "https://t.co/IB9VCjDVNE",
-          "binding_values": {
-            "photo_image_full_size_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image": {
-              "image_value": {
-                "height": 147,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=jpg&name=280x150",
-                "width": 280
-              },
-              "type": "IMAGE"
-            },
-            "description": {
-              "string_value": "Enjoy two cheesy Melts for just $9.95, including new Cheesy Otah and Korean Garlic Cream Cheese flavours.",
-              "type": "STRING"
-            },
-            "domain": {
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "thumbnail_image_large": {
-              "image_value": {
-                "height": 315,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=jpg&name=600x600",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_original": {
-              "image_value": {
-                "height": 629,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "site": {
-              "scribe_key": "publisher_id",
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "photo_image_full_size_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_small": {
-              "image_value": {
-                "height": 75,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=jpg&name=144x144",
-                "width": 144
-              },
-              "type": "IMAGE"
-            },
-            "creator": {
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "thumbnail_image_x_large": {
-              "image_value": {
-                "height": 629,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_original": {
-              "image_value": {
-                "height": 629,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "vanity_url": {
-              "scribe_key": "vanity_url",
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "photo_image_full_size": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 30.7,
-                    "rgb": {
-                      "blue": 192,
-                      "green": 203,
-                      "red": 216
-                    }
-                  },
-                  {
-                    "percentage": 19.45,
-                    "rgb": {
-                      "blue": 2,
-                      "green": 0,
-                      "red": 253
-                    }
-                  },
-                  {
-                    "percentage": 7.85,
-                    "rgb": {
-                      "blue": 166,
-                      "green": 217,
-                      "red": 240
-                    }
-                  },
-                  {
-                    "percentage": 5.46,
-                    "rgb": {
-                      "blue": 49,
-                      "green": 57,
-                      "red": 79
-                    }
-                  },
-                  {
-                    "percentage": 4.03,
-                    "rgb": {
-                      "blue": 67,
-                      "green": 154,
-                      "red": 228
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "title": {
-              "string_value": "Pizza Hut S’pore 1-for-1 Melts at $9.95 with new flavours until 15 Nov 2026",
-              "type": "STRING"
-            },
-            "summary_photo_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 30.7,
-                    "rgb": {
-                      "blue": 192,
-                      "green": 203,
-                      "red": 216
-                    }
-                  },
-                  {
-                    "percentage": 19.45,
-                    "rgb": {
-                      "blue": 2,
-                      "green": 0,
-                      "red": 253
-                    }
-                  },
-                  {
-                    "percentage": 7.85,
-                    "rgb": {
-                      "blue": 166,
-                      "green": 217,
-                      "red": 240
-                    }
-                  },
-                  {
-                    "percentage": 5.46,
-                    "rgb": {
-                      "blue": 49,
-                      "green": 57,
-                      "red": 79
-                    }
-                  },
-                  {
-                    "percentage": 4.03,
-                    "rgb": {
-                      "blue": 67,
-                      "green": 154,
-                      "red": 228
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "summary_photo_image_x_large": {
-              "image_value": {
-                "height": 629,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 30.7,
-                    "rgb": {
-                      "blue": 192,
-                      "green": 203,
-                      "red": 216
-                    }
-                  },
-                  {
-                    "percentage": 19.45,
-                    "rgb": {
-                      "blue": 2,
-                      "green": 0,
-                      "red": 253
-                    }
-                  },
-                  {
-                    "percentage": 7.85,
-                    "rgb": {
-                      "blue": 166,
-                      "green": 217,
-                      "red": 240
-                    }
-                  },
-                  {
-                    "percentage": 5.46,
-                    "rgb": {
-                      "blue": 49,
-                      "green": 57,
-                      "red": 79
-                    }
-                  },
-                  {
-                    "percentage": 4.03,
-                    "rgb": {
-                      "blue": 67,
-                      "green": 154,
-                      "red": 228
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "photo_image_full_size_x_large": {
-              "image_value": {
-                "height": 629,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "card_url": {
-              "scribe_key": "card_url",
-              "string_value": "https://t.co/IB9VCjDVNE",
-              "type": "STRING"
-            },
-            "summary_photo_image_original": {
-              "image_value": {
-                "height": 629,
-                "url": "https://pbs.twimg.com/card_img/2116759637026652160/OIwWlCyj?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            }
-          }
-        },
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
-      "id": "2116834722420822448",
-      "url": "https://x.com/GreatDealsSG/status/2116834722420822448",
-      "label": "GreatDealsSG",
-      "color": "#ef4444",
-      "deal_type": "free",
-      "country": "SG",
-      "fetched_at": "2026-11-01T10:30:56.689005+00:00",
-      "translation_zh": "Four Star 黑色星期五预售 床垫买一送一 买床垫还送床架",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-11-01T10:08:21.000Z",
-        "display_text_range": [
-          0,
-          213
-        ],
-        "entities": {
-          "media": [
-            {
-              "display_url": "pic.x.com/PdoLNjEzCy",
-              "expanded_url": "https://x.com/GreatDealsSG/status/2116834722420822448/photo/1",
-              "indices": [
-                214,
-                237
-              ],
-              "url": "https://t.co/PdoLNjEzCy"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "gds.sg/JnpTb3",
-              "expanded_url": "https://gds.sg/JnpTb3",
-              "indices": [
-                190,
-                213
-              ],
-              "url": "https://t.co/fvh6PydLVI"
-            }
-          ]
-        },
-        "id_str": "2116834722420822448",
-        "text": "Don't sleep on this deal! Four Star's Black Friday Pre-Sale has B1F1 mattresses, FREE bedframes with mattress purchases from $1,111 and sofas from $499. Happening 6–9 Nov at SAFRA Toa Payoh https://t.co/fvh6PydLVI https://t.co/PdoLNjEzCy",
-        "user": {
-          "id_str": "45308068",
-          "name": "Great Deals Singapore",
-          "screen_name": "GreatDealsSG",
-          "is_blue_verified": true,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/582440654132785152/UJNsUZAL_normal.png"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2116834722420822448"
-          ],
-          "editable_until_msecs": "1793531301000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "mediaDetails": [
-          {
-            "display_url": "pic.x.com/PdoLNjEzCy",
-            "expanded_url": "https://x.com/GreatDealsSG/status/2116834722420822448/photo/1",
-            "ext_media_availability": {
-              "status": "Available"
-            },
-            "indices": [
-              214,
-              237
-            ],
-            "media_url_https": "https://pbs.twimg.com/media/HWB-HZAbUAEeNVy.jpg",
-            "original_info": {
-              "focus_rects": [
-                {
-                  "h": 448,
-                  "w": 800,
-                  "x": 0,
-                  "y": 251
-                },
-                {
-                  "h": 800,
-                  "w": 800,
-                  "x": 0,
-                  "y": 75
-                },
-                {
-                  "h": 912,
-                  "w": 800,
-                  "x": 0,
-                  "y": 19
-                },
-                {
-                  "h": 1000,
-                  "w": 500,
-                  "x": 75,
-                  "y": 0
-                },
-                {
-                  "h": 1000,
-                  "w": 800,
-                  "x": 0,
-                  "y": 0
-                }
-              ],
-              "height": 1000,
-              "width": 800
-            },
-            "sizes": {
-              "large": {
-                "h": 1000,
-                "resize": "fit",
-                "w": 800
-              },
-              "medium": {
-                "h": 1000,
-                "resize": "fit",
-                "w": 800
-              },
-              "small": {
-                "h": 680,
-                "resize": "fit",
-                "w": 544
-              },
-              "thumb": {
-                "h": 150,
-                "resize": "crop",
-                "w": 150
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/PdoLNjEzCy"
-          }
-        ],
-        "photos": [
-          {
-            "backgroundColor": {
-              "red": 204,
-              "green": 214,
-              "blue": 221
-            },
-            "cropCandidates": [
-              {
-                "h": 448,
-                "w": 800,
-                "x": 0,
-                "y": 251
-              },
-              {
-                "h": 800,
-                "w": 800,
-                "x": 0,
-                "y": 75
-              },
-              {
-                "h": 912,
-                "w": 800,
-                "x": 0,
-                "y": 19
-              },
-              {
-                "h": 1000,
-                "w": 500,
-                "x": 75,
-                "y": 0
-              },
-              {
-                "h": 1000,
-                "w": 800,
-                "x": 0,
-                "y": 0
-              }
-            ],
-            "expandedUrl": "https://x.com/GreatDealsSG/status/2116834722420822448/photo/1",
-            "url": "https://pbs.twimg.com/media/HWB-HZAbUAEeNVy.jpg",
-            "width": 800,
-            "height": 1000
-          }
-        ],
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
-      "id": "5874b5093c68d19b",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/fashion-accessories/adidas-spore-11-11-sale-offers-extra-30-off-selected-styles-until-11-nov-2026-308879/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "adidas S’pore 11.11 Sale Offers Extra 30% Off Selected Styles Until 11 Nov 2026",
-      "excerpt": "Explore thousands of sale styles, with extra checkout savings on selected footwear and clothing [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2019/11/Adidas-11-Nov-2019-1.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-01T20:25:02+00:00",
-      "fetched_at": "2026-11-02T00:00:43.129614+00:00",
-      "translation_zh": "adidas 新加坡 11.11 大促：精选款式额外 30% 折扣，至 11月11日截止",
-      "excerpt_zh": "数千款促销单品任你挑，精选鞋履和服装结账时还能享额外折扣。"
-    },
-    {
-      "id": "ac3ecc12d9c0bc44",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/department-stores/nike-sg-11-11-sale-up-to-50-off-plus-extra-20-off-with-gameon-till-11-nov-2026-308873/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Nike SG 11.11 Sale Up To 50% Off Plus Extra 20% Off With GAMEON Till 11 Nov 2026",
-      "excerpt": "Big savings on Nike sneakers, sportswear and more, with an extra 20% off eligible items. [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/11/Nike-feat-singpromos.com-2-Nov-2026.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-01T20:05:07+00:00",
-      "fetched_at": "2026-11-02T00:00:43.129802+00:00",
-      "translation_zh": "Nike 新加坡 11.11 大促低至 5 折，用代码 GAMEON 再享额外 20% 折扣，至 11月11日",
-      "excerpt_zh": "Nike 运动鞋、运动服饰等大幅降价，符合条件商品还可再享额外 20% 折扣。"
-    },
-    {
-      "id": "3296512f32b3ca25",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-2pc-chicken-meal-monday-app-deal-on-2-nov-2026-308848/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "KFC S’pore $6.50 2pc Chicken Meal Monday App Deal on 2 Nov 2026",
-      "excerpt": "Enjoy two pieces of fried chicken, classic sides and a refreshing drink at a wallet-friendly price. [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/08/KFC-feat-2-singpromos.com-3-Aug-2026.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-01T17:44:43+00:00",
-      "fetched_at": "2026-11-02T00:00:43.129963+00:00",
-      "translation_zh": "KFC 新加坡 App 优惠：11月2日（周一）$6.50 两块炸鸡套餐",
-      "excerpt_zh": "两块炸鸡搭配经典小食和一杯饮料，价格亲民，仅限 11月2日（周一）KFC App 下单。"
-    },
-    {
-      "id": "be3faef706f3ff77",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/coffee-bean-tea-leaf-new-weekday.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Coffee Bean & Tea Leaf New Weekday Breakfast Set Deal: Turkey & Chicken Cranberry Mayo Wrap Set From 2 Nov",
-      "excerpt": "The Coffee Bean & Tea Leaf is rolling out a new breakfast option that is set to brighten mornings. Starting 2 November, you can enjoy Turkey & Chicken Cranberry Mayo Wrap Breakfast Set, available from Monday to Friday until 12pm. Each set is paired with a Mini Red Velvet Cupcake, Side Salad and a...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkwMEhD1dyf_3eh06754tW8tEHc3tp9fzb5JeIcbzU0ddKQkCWxKnkJ_u4DqhqsGOXtwtOwuSczDHQgjdaGB0qk1oDLhzTMMD0OoEJasLRzlpPSAE8xzx0olMHsayibNhTYl6DvuN63oRzR0qZXaTjfzz-ZM38XM05dAuC7kFsWyyQzjGuKjJlwrlc560I/s640/all%20singapore%20deals%20coffee%20bean%20turkey%20chicken%20cranberry%20mayo%20wrap%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-01T13:34:57+00:00",
-      "fetched_at": "2026-11-02T00:00:43.628716+00:00",
-      "translation_zh": "Coffee Bean & Tea Leaf 全新平日早餐套餐：火鸡鸡肉蔓越莓蛋黄酱卷饼套餐 11月2日起",
-      "excerpt_zh": "The Coffee Bean & Tea Leaf 推出全新早餐选择，11月2日起供应火鸡鸡肉蔓越莓蛋黄酱卷饼早餐套餐，为早晨增添元气。"
-    },
-    {
       "id": "2116991770689212421",
       "url": "https://x.com/singpromos/status/2116991770689212421",
       "label": "SINGPromos",
@@ -17120,6 +15428,1251 @@
             "url": "https://pbs.twimg.com/media/HWnTq9_bsAA2lrl.jpg",
             "width": 1650,
             "height": 2048
+          }
+        ],
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2ac98cc16a8e36e3",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/airlines-flights/singapore-airlines-s50-off-return-flights-with-dbs-posb-cards-from-10-16-nov-2026-309443/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Singapore Airlines S$50 Off Return Flights with DBS/POSB Cards from 10-16 Nov 2026",
+      "excerpt": "Save on Economy to Suites fares, with discounts also available for children and infants. [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/01/Singapore-Airlines-feat-singpromos.com-13-Jan-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T08:39:53+00:00",
+      "fetched_at": "2026-11-09T10:30:26.852025+00:00",
+      "translation_zh": "新加坡航空 DBS/POSB 卡优惠：10-16 Nov 往返机票立减 S$50",
+      "excerpt_zh": "经济舱到 Suites 头等舱均有折扣，儿童与婴儿票价同样享优惠。"
+    },
+    {
+      "id": "4cbf753f8e7285f9",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/eat-pizza-spore-11-11-krazy-deal-offers-pizza-and-mac-cheese-for-just-11-save-4-80-309128/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Eat Pizza S’pore 11.11 Krazy Deal Offers Pizza and Mac & Cheese for Just $11, Save $4.80!",
+      "excerpt": "With a choice of pizza flavours and three Mac & Cheese options. [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/11/Eat-Pizza-feat-singpromos.com-5-Nov-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T08:18:46+00:00",
+      "fetched_at": "2026-11-09T10:30:26.852310+00:00",
+      "translation_zh": "Eat Pizza 11.11 疯狂优惠：Pizza 加 Mac & Cheese 只要 $11，省 $4.80！",
+      "excerpt_zh": "可自选 Pizza 口味，搭配三种 Mac & Cheese。"
+    },
+    {
+      "id": "8dd91d01e42260ca",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-mccrispy-fried-chicken-2pc-meals-at-7-95-until-25-nov-309423/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "McDonald’s S’pore McCrispy Fried Chicken 2pc Meals at $7.95 until 25 Nov",
+      "excerpt": "Choose spicy or non-spicy chicken with fries and a drink, plus an extra-crispy coating [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/11/McDonalds-feat-singpromos.com-8-Nov-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T03:44:35+00:00",
+      "fetched_at": "2026-11-09T10:30:26.852520+00:00",
+      "translation_zh": "McDonald's McCrispy 炸鸡两块套餐 $7.95，优惠至 25 Nov",
+      "excerpt_zh": "炸鸡可选辣味或原味，配薯条和饮料，外皮格外酥脆。"
+    },
+    {
+      "id": "18f5e1bf89286b82",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/11/shangri-la-group-offering-20-off-hotel.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Shangri-La Group Offering 20% Off Hotel, Dining & Spa Vouchers From 11 Nov - 12 Dec",
+      "excerpt": "Shangri-La Group is rolling out its Year-End Gifting Sale 2026, offering 20% savings on digital cash vouchers for hotel stays, dining and wellness experiences across its Shangri-La and JEN properties in Singapore. From 11 November to 12 December 2026, customers can purchase $100 digital cash...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqtDZufiILHOWERXYbdffPv-yHtRwW_LGChWvHpjNXyUDJWDbXfOxO0HccXF6aqQx44kE91BD1DCrm6lxJ1jywHjL9upCBzcABaA2YNT13GnoaVf0uetHmvpXh9zNf4sB9A9wJzNkaXsJnDcWfEuH9eI13rbY1JKr_LryHyCokjOwn26Nc7WB3LCb6tM0D/s640/all%20singapore%20deals%20shangri-la%20group%20festive%20offer%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T04:13:31+00:00",
+      "fetched_at": "2026-11-09T10:30:27.365448+00:00",
+      "translation_zh": "Shangri-La 集团年终礼赠：11 Nov - 12 Dec 酒店、餐饮与水疗礼券 20% 折扣",
+      "excerpt_zh": "Shangri-La 集团推出 2026 年终礼赠大促，Shangri-La 与 JEN 旗下酒店的住宿、餐饮和水疗电子现金礼券一律 8 折。"
+    },
+    {
+      "id": "8697c36f307ad9b4",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/11/pizza-hut-new-festive-offer-from-12-nov.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Pizza Hut New Festive Offers From 12 Nov: All-New Chicken Starizo Pizza With Cheese Dip, Three Festive Star Pizzas For $18.95 (U.P. $44.95)",
+      "excerpt": "Pizza Hut is celebrating Christmas with its new limited-time Chicken Starizo Pizza, available islandwide from 12 November 2026 to 3 January 2027. Designed for sharing, this star-shaped pizza features folded crust tips filled with festive flavours, including chicken chorizo, melted cheese, creamy...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc-puwtiUoazakvldMgSclryhZAYYdPBTlYDRxdWZy-0Px-GTnD9K-02mG8LscaMB5nx1KmIyHUd8iCz0xZ2kacnWxbkSrmSJZa6WfKPZSoUmUNBsC_eG4k0vQYjY6fIYvap6l7ZoWZgzAkYO3p-PKXtMlydJxkAlZdqCLDOY_TbzIWq_a1AUzsqSR3uB0/s640/all%20singapore%20deals%20pizza%20hut%20chicken%20stariz%2012%20nov%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T03:38:38+00:00",
+      "fetched_at": "2026-11-09T10:30:27.365847+00:00",
+      "translation_zh": "Pizza Hut 节日新优惠 12 Nov 起：全新 Chicken Starizo Pizza 配芝士蘸酱，三款节日星星 Pizza 只要 $18.95（原价 $44.95）",
+      "excerpt_zh": "Pizza Hut 推出限时全新 Chicken Starizo Pizza 迎接圣诞，2026 年 11 月 12 日至 2027 年 1 月 3 日全岛发售，星星造型专为分享设计。"
+    },
+    {
+      "id": "e0e5a07b8d2512dd",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/11/shihlin-plaza-singapura-opening-deal-k.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Shihlin Plaza Singapura Opening Deal: K-Soy Garlic Chicky Pop @ $3.90 On 11 Nov",
+      "excerpt": "Shihlin Plaza Singapura New Outlet: Limited-Time K-Soy Garlic Chicky Pop On 11 November Shihlin Taiwan Street Food is celebrating the opening of its Plaza Singapura outlet with a special promotion on 11 November, offering its new K-Soy Garlic Chicky Pop for just $3.90 instead of the usual $6.90....",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjR1ulB2vnOYvczCTyPic6x_DsARDnPHfGB92E_qKVoP5r28VxMXW1qtpoFOvzjcbZkn7m9L9h2kpZR801CIx1i-TxqJEiSkYJm6PVnVJm9xS_EbF_g0wq6VSwFQG81xTx87-zbcYOAge2k-3dCLOxj11tTVHHtyTC9Ms4KmknPX_YcSzEnYKutdMahGmi/s640/all%20singapore%20deals%20shilin%20plaza%20singapura%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T03:08:21+00:00",
+      "fetched_at": "2026-11-09T10:30:27.366198+00:00",
+      "translation_zh": "Shihlin Plaza Singapura 新店开业：11 Nov 当天 K-Soy Garlic Chicky Pop 只需 $3.90",
+      "excerpt_zh": "Shihlin 台湾小吃为庆祝 Plaza Singapura 新店开业，于 11 月 11 日推出限时特别优惠。"
+    },
+    {
+      "id": "e524a3ae1ce30ecd",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/11/ah-mah-homemade-cake-online-1111-deal.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Ah Mah Homemade Cake Online 11.11 Deal: Buy 2 Get 1 Free (9 - 13 Nov)",
+      "excerpt": "Ah Mah Homemade Cake Online Sale 9–13 Nov: Buy 2 Flavoured Cakes Get 1 Castella Cake Free Ah Mah Homemade Cake is celebrating 11.11 with a special online promotion from 9 to 13 November 2026, offering customers a free Original Castella Cake with the purchase of any two flavoured cakes. Customers...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCQbVQyg4Hwr6Nf-xL0vbUK9TTZawkiHbNp76lWsP4aYHUec824AZ87ptGKu4ZOOyh9V-nW9hWTKhK02Gb7uTo9ig8QYzI8qo9uxF-oFdHeDvDnqfLCtQa-qmuEL88anJujSaBrAgn1CDd3WhRkr6_7fmcxOeQeiFzCmS94kLx5vxkflWgLddZmfiP5Udv/s640/all%20singapore%20deals%20ah%20mah%20homemade%20cake%201111%20online%20deal%20a.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-09T01:39:41+00:00",
+      "fetched_at": "2026-11-09T10:30:27.366662+00:00",
+      "translation_zh": "Ah Mah Homemade Cake 网店 11.11 优惠：买 2 送 1（9 - 13 Nov）",
+      "excerpt_zh": "Ah Mah Homemade Cake 于 2026 年 11 月 9 日至 13 日推出 11.11 网店优惠，买两个口味蛋糕即免费送一个 Castella 蜂蜜蛋糕。"
+    },
+    {
+      "id": "3e7fc893d790c408",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/11/fairprice-weekday-super-picks-up-to-43.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "FairPrice Weekday Super Picks Up To 43% Off From 9 - 12 Nov",
+      "excerpt": "FairPrice 4-Day Promotion: China Muscat Grapes & Holland Potato (9-12 Nov) FairPrice Weekday Super Picks is back with a 4-day promotion featuring great savings on fresh fruits and vegetables. From 9 to 12 November, shoppers can enjoy special prices on China Shine Muscat Grapes (43% off) and Holland...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfbECtsVfAUBlVJwE-M0iEm3r0CwRJ8o6qogwZcfkW1HQrtVVyBxPXpbaTjRbwHuo_oscsSDZZ0xZsvQjQX9fTfLS7IxqfMuSf6P2y5odpr250UsXRBJgX-gid7qVck1JhFI-PaYbT0ikI7OLj_Gg_pLNlAXWGHflav08qqLmpvLH4FlPin1UCznEXFGfl/s640/all%20singapore%20deals%20fairprice%20weekday%20super%20picks%209%20nov%20a.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T01:15:31+00:00",
+      "fetched_at": "2026-11-09T10:30:27.366987+00:00",
+      "translation_zh": "FairPrice 平日超值精选最高 43% 折扣，9 - 12 Nov 限定",
+      "excerpt_zh": "FairPrice 四天促销主打新鲜果蔬超值优惠：中国麝香葡萄与荷兰土豆（9-12 Nov）。"
+    },
+    {
+      "id": "02ff88a278e48a7d",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-november-2026-mr-bean-singapore-2-mao-shan-wang-durian-pancakes-for-just-8-in-one-day-special-promotion/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9 November 2026: Mr Bean Singapore – 2 Mao Shan Wang Durian Pancakes for Just $8 in One-Day Special Promotion",
+      "excerpt": "Durian lovers, here's a sweet deal from Mr Bean Singapore! On 9 November 2026 only, enjoy 2 Mao Shan Wang Durian Pancakes for just $8 instead of the usual $13. Save $5 on this one-day promotion and grab your durian treat at a participating Mr Bean outlet before the offer ends! Continue reading 9...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Mr-Bean-Singapore-–-2-Mao-Shan-Wang-Durian-Pancakes.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T10:27:15+00:00",
+      "fetched_at": "2026-11-09T10:30:36.910601+00:00",
+      "translation_zh": "Mr Bean 一日限定：9 November 两个猫山王榴莲煎饼只要 $8",
+      "excerpt_zh": "榴莲爱好者看过来！Mr Bean 于 2026 年 11 月 9 日仅此一天，两个猫山王榴莲煎饼只要 $8（原价 $13），立省 $5。"
+    },
+    {
+      "id": "e3f62c36f034a64b",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-28-november-2026-istudio-singapore-apple-watch-series-12-promotion-enjoy-s105-savings-in-store-online/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now Till 28 November 2026: iStudio Singapore: Apple Watch Series 12 Promotion – Enjoy S$105 Savings In-Store & Online",
+      "excerpt": "Thinking of upgrading your smartwatch? iStudio Singapore is offering S$105 savings on the Apple Watch Series 12 until 28 November 2026 or while stocks last. Shop online or visit any iStudio store in Singapore to enjoy this limited-time deal. Terms and conditions apply. Continue reading Now Till 28...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/iStudio-Singapore-Apple-Watch-Series-12-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T10:25:02+00:00",
+      "fetched_at": "2026-11-09T10:30:36.910770+00:00",
+      "translation_zh": "iStudio Apple Watch Series 12 优惠：即日起至 28 November 立省 S$105（线上及门店）",
+      "excerpt_zh": "想升级智能手表？iStudio Singapore 推出 Apple Watch Series 12 立省 S$105 优惠，至 2026 年 11 月 28 日或售完即止，线上及全岛门店同享。"
+    },
+    {
+      "id": "0f822533f9e5d77c",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-9-november-2026-dominos-pizza-singapore-classified-chicken-very-veggie-pizzas-join-5-99-promotion-for-a-limited-time/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now Till 9 November 2026: Domino’s Pizza Singapore: Classified Chicken & Very Veggie Pizzas Join $5.99 Promotion for a Limited Time",
+      "excerpt": "Pizza lovers, here is another reason to enjoy Domino's! Classified Chicken and Very Veggie have joined Domino's Pizza Singapore's $5.99 club for a limited time until 9 November 2026. Whether you prefer chicken toppings or a vegetable-based option, enjoy more pizza choices at an affordable...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Dominos-Pizza-Singapore-Classified-Chicken-Very-Veggie-Pizzas.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T10:18:42+00:00",
+      "fetched_at": "2026-11-09T10:30:36.910931+00:00",
+      "translation_zh": "Domino's Pizza 优惠：Classified Chicken 与 Very Veggie 限时加入 $5.99 阵容（至 9 November）",
+      "excerpt_zh": "Pizza 爱好者又有口福了！Classified Chicken 和 Very Veggie 限时加入 Domino's Pizza Singapore 的 $5.99 俱乐部，优惠至 2026 年 11 月 9 日。"
+    },
+    {
+      "id": "2119715563639599405",
+      "url": "https://x.com/singpromos/status/2119715563639599405",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-11-09T10:30:41.953239+00:00",
+      "translation_zh": "新加坡航空 DBS/POSB 卡优惠：10-16 Nov 往返机票立减 S$50",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-11-09T08:55:47.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                107,
+                117
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                118,
+                121
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                122,
+                130
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                131,
+                138
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                139,
+                150
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                151,
+                164
+              ],
+              "text": "singaporeair"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/airlines-fligh…",
+              "expanded_url": "https://singpromos.com/airlines-flights/singapore-airlines-s50-off-return-flights-with-dbs-posb-cards-from-10-16-nov-2026-309443/",
+              "indices": [
+                83,
+                106
+              ],
+              "url": "https://t.co/AHDzZ4IhFC"
+            }
+          ]
+        },
+        "id_str": "2119715563639599405",
+        "text": "Singapore Airlines S$50 Off Return Flights with DBS/POSB Cards from 10-16 Nov 2026 https://t.co/AHDzZ4IhFC #SINGAPORE #SG #SGpromo #SGsale #singpromos #singaporeair",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2119715563639599405"
+          ],
+          "editable_until_msecs": "1794218147000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/AHDzZ4IhFC",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 147,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Save on Economy to Suites fares, with discounts also available for children and infants.",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 316,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 632,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 76,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 632,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 632,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 87.77,
+                    "rgb": {
+                      "blue": 217,
+                      "green": 217,
+                      "red": 217
+                    }
+                  },
+                  {
+                    "percentage": 3.79,
+                    "rgb": {
+                      "blue": 59,
+                      "green": 68,
+                      "red": 79
+                    }
+                  },
+                  {
+                    "percentage": 2.78,
+                    "rgb": {
+                      "blue": 104,
+                      "green": 124,
+                      "red": 174
+                    }
+                  },
+                  {
+                    "percentage": 0.62,
+                    "rgb": {
+                      "blue": 53,
+                      "green": 46,
+                      "red": 230
+                    }
+                  },
+                  {
+                    "percentage": 0.51,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 177,
+                      "red": 149
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "Singapore Airlines S$50 Off Return Flights with DBS/POSB Cards from 10-16 Nov 2026",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 87.77,
+                    "rgb": {
+                      "blue": 217,
+                      "green": 217,
+                      "red": 217
+                    }
+                  },
+                  {
+                    "percentage": 3.79,
+                    "rgb": {
+                      "blue": 59,
+                      "green": 68,
+                      "red": 79
+                    }
+                  },
+                  {
+                    "percentage": 2.78,
+                    "rgb": {
+                      "blue": 104,
+                      "green": 124,
+                      "red": 174
+                    }
+                  },
+                  {
+                    "percentage": 0.62,
+                    "rgb": {
+                      "blue": 53,
+                      "green": 46,
+                      "red": 230
+                    }
+                  },
+                  {
+                    "percentage": 0.51,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 177,
+                      "red": 149
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 632,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 87.77,
+                    "rgb": {
+                      "blue": 217,
+                      "green": 217,
+                      "red": 217
+                    }
+                  },
+                  {
+                    "percentage": 3.79,
+                    "rgb": {
+                      "blue": 59,
+                      "green": 68,
+                      "red": 79
+                    }
+                  },
+                  {
+                    "percentage": 2.78,
+                    "rgb": {
+                      "blue": 104,
+                      "green": 124,
+                      "red": 174
+                    }
+                  },
+                  {
+                    "percentage": 0.62,
+                    "rgb": {
+                      "blue": 53,
+                      "green": 46,
+                      "red": 230
+                    }
+                  },
+                  {
+                    "percentage": 0.51,
+                    "rgb": {
+                      "blue": 202,
+                      "green": 177,
+                      "red": 149
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 632,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/AHDzZ4IhFC",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 632,
+                "url": "https://pbs.twimg.com/card_img/2117429919659745280/8bTCR0T1?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2119675220600709391",
+      "url": "https://x.com/singpromos/status/2119675220600709391",
+      "label": "SINGPromos",
+      "color": "#f59e0b",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-11-09T10:30:41.961832+00:00",
+      "translation_zh": "McDonald's SG McCrispy 炸鸡两块套餐 $7.95，优惠至 25 Nov",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-11-09T06:15:28.000Z",
+        "display_text_range": [
+          0,
+          180
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "indices": [
+                93,
+                103
+              ],
+              "text": "SINGAPORE"
+            },
+            {
+              "indices": [
+                104,
+                107
+              ],
+              "text": "SG"
+            },
+            {
+              "indices": [
+                108,
+                116
+              ],
+              "text": "SGpromo"
+            },
+            {
+              "indices": [
+                117,
+                124
+              ],
+              "text": "SGsale"
+            },
+            {
+              "indices": [
+                125,
+                135
+              ],
+              "text": "SGfoodies"
+            },
+            {
+              "indices": [
+                136,
+                143
+              ],
+              "text": "SGeats"
+            },
+            {
+              "indices": [
+                144,
+                155
+              ],
+              "text": "singpromos"
+            },
+            {
+              "indices": [
+                156,
+                162
+              ],
+              "text": "mcdsg"
+            },
+            {
+              "indices": [
+                163,
+                171
+              ],
+              "text": "SGhalal"
+            },
+            {
+              "indices": [
+                172,
+                180
+              ],
+              "text": "halalSG"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "singpromos.com/dining-restaur…",
+              "expanded_url": "https://singpromos.com/dining-restaurants-food/mcdonalds-spore-mccrispy-fried-chicken-2pc-meals-at-7-95-until-25-nov-309423/",
+              "indices": [
+                69,
+                92
+              ],
+              "url": "https://t.co/WLUn77hawE"
+            }
+          ]
+        },
+        "id_str": "2119675220600709391",
+        "text": "McDonald's SG McCrispy Fried Chicken 2pc Meals at $7.95 until 25 Nov https://t.co/WLUn77hawE #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #mcdsg #SGhalal #halalSG",
+        "user": {
+          "id_str": "229470448",
+          "name": "SINGPromos",
+          "screen_name": "singpromos",
+          "is_blue_verified": false,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2119675220600709391"
+          ],
+          "editable_until_msecs": "1794208528000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "card": {
+          "card_platform": {
+            "platform": {
+              "audience": {
+                "name": "production"
+              },
+              "device": {
+                "name": "iPhone",
+                "version": "13"
+              }
+            }
+          },
+          "name": "summary_large_image",
+          "url": "https://t.co/WLUn77hawE",
+          "binding_values": {
+            "photo_image_full_size_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image": {
+              "image_value": {
+                "height": 148,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=jpg&name=280x150",
+                "width": 280
+              },
+              "type": "IMAGE"
+            },
+            "description": {
+              "string_value": "Choose spicy or non-spicy chicken with fries and a drink, plus an extra-crispy coating",
+              "type": "STRING"
+            },
+            "domain": {
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "thumbnail_image_large": {
+              "image_value": {
+                "height": 317,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=jpg&name=600x600",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_original": {
+              "image_value": {
+                "height": 633,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "site": {
+              "scribe_key": "publisher_id",
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "photo_image_full_size_small": {
+              "image_value": {
+                "height": 202,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=jpg&name=386x202",
+                "width": 386
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image_large": {
+              "image_value": {
+                "height": 419,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=jpg&name=800x419",
+                "width": 800
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_small": {
+              "image_value": {
+                "height": 76,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=jpg&name=144x144",
+                "width": 144
+              },
+              "type": "IMAGE"
+            },
+            "creator": {
+              "type": "USER",
+              "user_value": {
+                "id_str": "229470448",
+                "path": []
+              }
+            },
+            "thumbnail_image_x_large": {
+              "image_value": {
+                "height": 633,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_original": {
+              "image_value": {
+                "height": 633,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "vanity_url": {
+              "scribe_key": "vanity_url",
+              "string_value": "singpromos.com",
+              "type": "STRING"
+            },
+            "photo_image_full_size": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "thumbnail_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 43.49,
+                    "rgb": {
+                      "blue": 19,
+                      "green": 26,
+                      "red": 35
+                    }
+                  },
+                  {
+                    "percentage": 13.18,
+                    "rgb": {
+                      "blue": 46,
+                      "green": 100,
+                      "red": 209
+                    }
+                  },
+                  {
+                    "percentage": 8.13,
+                    "rgb": {
+                      "blue": 48,
+                      "green": 37,
+                      "red": 231
+                    }
+                  },
+                  {
+                    "percentage": 8.04,
+                    "rgb": {
+                      "blue": 57,
+                      "green": 159,
+                      "red": 240
+                    }
+                  },
+                  {
+                    "percentage": 7.46,
+                    "rgb": {
+                      "blue": 221,
+                      "green": 219,
+                      "red": 250
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "title": {
+              "string_value": "McDonald’s S’pore McCrispy Fried Chicken 2pc Meals at $7.95 until 25 Nov",
+              "type": "STRING"
+            },
+            "summary_photo_image_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 43.49,
+                    "rgb": {
+                      "blue": 19,
+                      "green": 26,
+                      "red": 35
+                    }
+                  },
+                  {
+                    "percentage": 13.18,
+                    "rgb": {
+                      "blue": 46,
+                      "green": 100,
+                      "red": 209
+                    }
+                  },
+                  {
+                    "percentage": 8.13,
+                    "rgb": {
+                      "blue": 48,
+                      "green": 37,
+                      "red": 231
+                    }
+                  },
+                  {
+                    "percentage": 8.04,
+                    "rgb": {
+                      "blue": 57,
+                      "green": 159,
+                      "red": 240
+                    }
+                  },
+                  {
+                    "percentage": 7.46,
+                    "rgb": {
+                      "blue": 221,
+                      "green": 219,
+                      "red": 250
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "summary_photo_image_x_large": {
+              "image_value": {
+                "height": 633,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "summary_photo_image": {
+              "image_value": {
+                "height": 314,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=jpg&name=600x314",
+                "width": 600
+              },
+              "type": "IMAGE"
+            },
+            "photo_image_full_size_color": {
+              "image_color_value": {
+                "palette": [
+                  {
+                    "percentage": 43.49,
+                    "rgb": {
+                      "blue": 19,
+                      "green": 26,
+                      "red": 35
+                    }
+                  },
+                  {
+                    "percentage": 13.18,
+                    "rgb": {
+                      "blue": 46,
+                      "green": 100,
+                      "red": 209
+                    }
+                  },
+                  {
+                    "percentage": 8.13,
+                    "rgb": {
+                      "blue": 48,
+                      "green": 37,
+                      "red": 231
+                    }
+                  },
+                  {
+                    "percentage": 8.04,
+                    "rgb": {
+                      "blue": 57,
+                      "green": 159,
+                      "red": 240
+                    }
+                  },
+                  {
+                    "percentage": 7.46,
+                    "rgb": {
+                      "blue": 221,
+                      "green": 219,
+                      "red": 250
+                    }
+                  }
+                ]
+              },
+              "type": "IMAGE_COLOR"
+            },
+            "photo_image_full_size_x_large": {
+              "image_value": {
+                "height": 633,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=png&name=2048x2048_2_exp",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            },
+            "card_url": {
+              "scribe_key": "card_url",
+              "string_value": "https://t.co/WLUn77hawE",
+              "type": "STRING"
+            },
+            "summary_photo_image_original": {
+              "image_value": {
+                "height": 633,
+                "url": "https://pbs.twimg.com/card_img/2119675220806254592/qAwgiCAz?format=jpg&name=orig",
+                "width": 1200
+              },
+              "type": "IMAGE"
+            }
+          }
+        },
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "2119652391234748540",
+      "url": "https://x.com/GreatDealsSG/status/2119652391234748540",
+      "label": "GreatDealsSG",
+      "color": "#ef4444",
+      "deal_type": "deal",
+      "country": "SG",
+      "fetched_at": "2026-11-09T10:30:44.445899+00:00",
+      "translation_zh": "午餐晚餐不知道吃什么？KFC 今日 $6.50 Famous Bowl 配鸡肉餐轻松搞定",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-11-09T04:44:45.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "entities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/0g5p9OVVYU",
+              "expanded_url": "https://x.com/GreatDealsSG/status/2119652391234748540/photo/1",
+              "indices": [
+                155,
+                178
+              ],
+              "url": "https://t.co/0g5p9OVVYU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "gds.sg/FkDi8j",
+              "expanded_url": "https://gds.sg/FkDi8j",
+              "indices": [
+                131,
+                154
+              ],
+              "url": "https://t.co/rGflzbKoqh"
+            }
+          ]
+        },
+        "id_str": "2119652391234748540",
+        "text": "Don't know what to eat for lunch (or dinner)? KFC just made the decision easier with its $6.50 Famous Bowl with Chicken Meal today https://t.co/rGflzbKoqh https://t.co/0g5p9OVVYU",
+        "user": {
+          "id_str": "45308068",
+          "name": "Great Deals Singapore",
+          "screen_name": "GreatDealsSG",
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/582440654132785152/UJNsUZAL_normal.png"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2119652391234748540"
+          ],
+          "editable_until_msecs": "1794203085000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "mediaDetails": [
+          {
+            "display_url": "pic.x.com/0g5p9OVVYU",
+            "expanded_url": "https://x.com/GreatDealsSG/status/2119652391234748540/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "indices": [
+              155,
+              178
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/HWqEf-vbIAAaE4b.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 448,
+                  "w": 800,
+                  "x": 0,
+                  "y": 251
+                },
+                {
+                  "h": 800,
+                  "w": 800,
+                  "x": 0,
+                  "y": 75
+                },
+                {
+                  "h": 912,
+                  "w": 800,
+                  "x": 0,
+                  "y": 19
+                },
+                {
+                  "h": 1000,
+                  "w": 500,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 800,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1000,
+              "width": 800
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "resize": "fit",
+                "w": 800
+              },
+              "medium": {
+                "h": 1000,
+                "resize": "fit",
+                "w": 800
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/0g5p9OVVYU"
+          }
+        ],
+        "photos": [
+          {
+            "backgroundColor": {
+              "red": 204,
+              "green": 214,
+              "blue": 221
+            },
+            "cropCandidates": [
+              {
+                "h": 448,
+                "w": 800,
+                "x": 0,
+                "y": 251
+              },
+              {
+                "h": 800,
+                "w": 800,
+                "x": 0,
+                "y": 75
+              },
+              {
+                "h": 912,
+                "w": 800,
+                "x": 0,
+                "y": 19
+              },
+              {
+                "h": 1000,
+                "w": 500,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1000,
+                "w": 800,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "expandedUrl": "https://x.com/GreatDealsSG/status/2119652391234748540/photo/1",
+            "url": "https://pbs.twimg.com/media/HWqEf-vbIAAaE4b.jpg",
+            "width": 800,
+            "height": 1000
           }
         ],
         "conversation_count": 0,
