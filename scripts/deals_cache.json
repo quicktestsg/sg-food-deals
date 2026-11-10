@@ -1,2169 +1,6 @@
 {
   "deals": [
     {
-      "id": "2116991770689212421",
-      "url": "https://x.com/singpromos/status/2116991770689212421",
-      "label": "SINGPromos",
-      "color": "#f59e0b",
-      "deal_type": "deal",
-      "country": "SG",
-      "fetched_at": "2026-11-02T00:00:53.170978+00:00",
-      "translation_zh": "adidas 新加坡 11.11 大促：精选款式额外 30% 折扣，至 11月11日截止",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-11-01T20:32:24.000Z",
-        "display_text_range": [
-          0,
-          157
-        ],
-        "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                104,
-                114
-              ],
-              "text": "SINGAPORE"
-            },
-            {
-              "indices": [
-                115,
-                118
-              ],
-              "text": "SG"
-            },
-            {
-              "indices": [
-                119,
-                127
-              ],
-              "text": "SGpromo"
-            },
-            {
-              "indices": [
-                128,
-                135
-              ],
-              "text": "SGsale"
-            },
-            {
-              "indices": [
-                136,
-                147
-              ],
-              "text": "singpromos"
-            },
-            {
-              "indices": [
-                148,
-                157
-              ],
-              "text": "adidassg"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "singpromos.com/fashion-access…",
-              "expanded_url": "https://singpromos.com/fashion-accessories/adidas-spore-11-11-sale-offers-extra-30-off-selected-styles-until-11-nov-2026-308879/",
-              "indices": [
-                80,
-                103
-              ],
-              "url": "https://t.co/euCJUTWzCU"
-            }
-          ]
-        },
-        "id_str": "2116991770689212421",
-        "text": "adidas S'pore 11.11 Sale Offers Extra 30% Off Selected Styles Until 11 Nov 2026 https://t.co/euCJUTWzCU #SINGAPORE #SG #SGpromo #SGsale #singpromos #adidassg",
-        "user": {
-          "id_str": "229470448",
-          "name": "SINGPromos",
-          "screen_name": "singpromos",
-          "is_blue_verified": false,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2116991770689212421"
-          ],
-          "editable_until_msecs": "1793568744000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "card": {
-          "card_platform": {
-            "platform": {
-              "audience": {
-                "name": "production"
-              },
-              "device": {
-                "name": "iPhone",
-                "version": "13"
-              }
-            }
-          },
-          "name": "summary_large_image",
-          "url": "https://t.co/euCJUTWzCU",
-          "binding_values": {
-            "photo_image_full_size_large": {
-              "image_value": {
-                "height": 377,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=jpg&name=800x419",
-                "width": 720
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image": {
-              "image_value": {
-                "height": 147,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=jpg&name=280x150",
-                "width": 280
-              },
-              "type": "IMAGE"
-            },
-            "description": {
-              "string_value": "Explore thousands of sale styles, with extra checkout savings on selected footwear and clothing",
-              "type": "STRING"
-            },
-            "domain": {
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "thumbnail_image_large": {
-              "image_value": {
-                "height": 315,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=jpg&name=600x600",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_original": {
-              "image_value": {
-                "height": 378,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=jpg&name=orig",
-                "width": 720
-              },
-              "type": "IMAGE"
-            },
-            "site": {
-              "scribe_key": "publisher_id",
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "photo_image_full_size_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_large": {
-              "image_value": {
-                "height": 377,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=jpg&name=800x419",
-                "width": 720
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_small": {
-              "image_value": {
-                "height": 76,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=jpg&name=144x144",
-                "width": 144
-              },
-              "type": "IMAGE"
-            },
-            "creator": {
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "thumbnail_image_x_large": {
-              "image_value": {
-                "height": 378,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=png&name=2048x2048_2_exp",
-                "width": 720
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_original": {
-              "image_value": {
-                "height": 378,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=jpg&name=orig",
-                "width": 720
-              },
-              "type": "IMAGE"
-            },
-            "vanity_url": {
-              "scribe_key": "vanity_url",
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "photo_image_full_size": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 67.12,
-                    "rgb": {
-                      "blue": 8,
-                      "green": 123,
-                      "red": 203
-                    }
-                  },
-                  {
-                    "percentage": 17.32,
-                    "rgb": {
-                      "blue": 252,
-                      "green": 253,
-                      "red": 253
-                    }
-                  },
-                  {
-                    "percentage": 7.39,
-                    "rgb": {
-                      "blue": 90,
-                      "green": 154,
-                      "red": 207
-                    }
-                  },
-                  {
-                    "percentage": 2.97,
-                    "rgb": {
-                      "blue": 17,
-                      "green": 80,
-                      "red": 151
-                    }
-                  },
-                  {
-                    "percentage": 1.24,
-                    "rgb": {
-                      "blue": 68,
-                      "green": 163,
-                      "red": 220
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "title": {
-              "string_value": "adidas S’pore 11.11 Sale Offers Extra 30% Off Selected Styles Until 11 Nov 2026",
-              "type": "STRING"
-            },
-            "summary_photo_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 67.12,
-                    "rgb": {
-                      "blue": 8,
-                      "green": 123,
-                      "red": 203
-                    }
-                  },
-                  {
-                    "percentage": 17.32,
-                    "rgb": {
-                      "blue": 252,
-                      "green": 253,
-                      "red": 253
-                    }
-                  },
-                  {
-                    "percentage": 7.39,
-                    "rgb": {
-                      "blue": 90,
-                      "green": 154,
-                      "red": 207
-                    }
-                  },
-                  {
-                    "percentage": 2.97,
-                    "rgb": {
-                      "blue": 17,
-                      "green": 80,
-                      "red": 151
-                    }
-                  },
-                  {
-                    "percentage": 1.24,
-                    "rgb": {
-                      "blue": 68,
-                      "green": 163,
-                      "red": 220
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "summary_photo_image_x_large": {
-              "image_value": {
-                "height": 378,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=png&name=2048x2048_2_exp",
-                "width": 720
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 67.12,
-                    "rgb": {
-                      "blue": 8,
-                      "green": 123,
-                      "red": 203
-                    }
-                  },
-                  {
-                    "percentage": 17.32,
-                    "rgb": {
-                      "blue": 252,
-                      "green": 253,
-                      "red": 253
-                    }
-                  },
-                  {
-                    "percentage": 7.39,
-                    "rgb": {
-                      "blue": 90,
-                      "green": 154,
-                      "red": 207
-                    }
-                  },
-                  {
-                    "percentage": 2.97,
-                    "rgb": {
-                      "blue": 17,
-                      "green": 80,
-                      "red": 151
-                    }
-                  },
-                  {
-                    "percentage": 1.24,
-                    "rgb": {
-                      "blue": 68,
-                      "green": 163,
-                      "red": 220
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "photo_image_full_size_x_large": {
-              "image_value": {
-                "height": 378,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=png&name=2048x2048_2_exp",
-                "width": 720
-              },
-              "type": "IMAGE"
-            },
-            "card_url": {
-              "scribe_key": "card_url",
-              "string_value": "https://t.co/euCJUTWzCU",
-              "type": "STRING"
-            },
-            "summary_photo_image_original": {
-              "image_value": {
-                "height": 378,
-                "url": "https://pbs.twimg.com/card_img/2116991770936659968/BRN8EF8c?format=jpg&name=orig",
-                "width": 720
-              },
-              "type": "IMAGE"
-            }
-          }
-        },
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
-      "id": "2116985921400983611",
-      "url": "https://x.com/singpromos/status/2116985921400983611",
-      "label": "SINGPromos",
-      "color": "#f59e0b",
-      "deal_type": "deal",
-      "country": "SG",
-      "fetched_at": "2026-11-02T00:00:53.178077+00:00",
-      "translation_zh": "Nike 新加坡 11.11 大促低至 5 折，用代码 GAMEON 再享额外 20% 折扣，至 11月11日",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-11-01T20:09:10.000Z",
-        "display_text_range": [
-          0,
-          156
-        ],
-        "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                105,
-                115
-              ],
-              "text": "SINGAPORE"
-            },
-            {
-              "indices": [
-                116,
-                119
-              ],
-              "text": "SG"
-            },
-            {
-              "indices": [
-                120,
-                128
-              ],
-              "text": "SGpromo"
-            },
-            {
-              "indices": [
-                129,
-                136
-              ],
-              "text": "SGsale"
-            },
-            {
-              "indices": [
-                137,
-                148
-              ],
-              "text": "singpromos"
-            },
-            {
-              "indices": [
-                149,
-                156
-              ],
-              "text": "nikesg"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "singpromos.com/department-sto…",
-              "expanded_url": "https://singpromos.com/department-stores/nike-sg-11-11-sale-up-to-50-off-plus-extra-20-off-with-gameon-till-11-nov-2026-308873/",
-              "indices": [
-                81,
-                104
-              ],
-              "url": "https://t.co/c8RYpSYXxX"
-            }
-          ]
-        },
-        "id_str": "2116985921400983611",
-        "text": "Nike SG 11.11 Sale Up To 50% Off Plus Extra 20% Off With GAMEON Till 11 Nov 2026 https://t.co/c8RYpSYXxX #SINGAPORE #SG #SGpromo #SGsale #singpromos #nikesg",
-        "user": {
-          "id_str": "229470448",
-          "name": "SINGPromos",
-          "screen_name": "singpromos",
-          "is_blue_verified": false,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2116985921400983611"
-          ],
-          "editable_until_msecs": "1793567350000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "card": {
-          "card_platform": {
-            "platform": {
-              "audience": {
-                "name": "production"
-              },
-              "device": {
-                "name": "iPhone",
-                "version": "13"
-              }
-            }
-          },
-          "name": "summary_large_image",
-          "url": "https://t.co/c8RYpSYXxX",
-          "binding_values": {
-            "photo_image_full_size_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image": {
-              "image_value": {
-                "height": 147,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=jpg&name=280x150",
-                "width": 280
-              },
-              "type": "IMAGE"
-            },
-            "description": {
-              "string_value": "Big savings on Nike sneakers, sportswear and more, with an extra 20% off eligible items.",
-              "type": "STRING"
-            },
-            "domain": {
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "thumbnail_image_large": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=jpg&name=600x600",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_original": {
-              "image_value": {
-                "height": 628,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "site": {
-              "scribe_key": "publisher_id",
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "photo_image_full_size_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_small": {
-              "image_value": {
-                "height": 75,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=jpg&name=144x144",
-                "width": 144
-              },
-              "type": "IMAGE"
-            },
-            "creator": {
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "thumbnail_image_x_large": {
-              "image_value": {
-                "height": 628,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_original": {
-              "image_value": {
-                "height": 628,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "vanity_url": {
-              "scribe_key": "vanity_url",
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "photo_image_full_size": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 53.78,
-                    "rgb": {
-                      "blue": 88,
-                      "green": 38,
-                      "red": 216
-                    }
-                  },
-                  {
-                    "percentage": 25.61,
-                    "rgb": {
-                      "blue": 29,
-                      "green": 48,
-                      "red": 161
-                    }
-                  },
-                  {
-                    "percentage": 7.33,
-                    "rgb": {
-                      "blue": 112,
-                      "green": 32,
-                      "red": 198
-                    }
-                  },
-                  {
-                    "percentage": 5.01,
-                    "rgb": {
-                      "blue": 231,
-                      "green": 225,
-                      "red": 249
-                    }
-                  },
-                  {
-                    "percentage": 3.01,
-                    "rgb": {
-                      "blue": 110,
-                      "green": 30,
-                      "red": 144
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "title": {
-              "string_value": "Nike SG 11.11 Sale Up To 50% Off Plus Extra 20% Off With GAMEON Till 11 Nov 2026",
-              "type": "STRING"
-            },
-            "summary_photo_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 53.78,
-                    "rgb": {
-                      "blue": 88,
-                      "green": 38,
-                      "red": 216
-                    }
-                  },
-                  {
-                    "percentage": 25.61,
-                    "rgb": {
-                      "blue": 29,
-                      "green": 48,
-                      "red": 161
-                    }
-                  },
-                  {
-                    "percentage": 7.33,
-                    "rgb": {
-                      "blue": 112,
-                      "green": 32,
-                      "red": 198
-                    }
-                  },
-                  {
-                    "percentage": 5.01,
-                    "rgb": {
-                      "blue": 231,
-                      "green": 225,
-                      "red": 249
-                    }
-                  },
-                  {
-                    "percentage": 3.01,
-                    "rgb": {
-                      "blue": 110,
-                      "green": 30,
-                      "red": 144
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "summary_photo_image_x_large": {
-              "image_value": {
-                "height": 628,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 53.78,
-                    "rgb": {
-                      "blue": 88,
-                      "green": 38,
-                      "red": 216
-                    }
-                  },
-                  {
-                    "percentage": 25.61,
-                    "rgb": {
-                      "blue": 29,
-                      "green": 48,
-                      "red": 161
-                    }
-                  },
-                  {
-                    "percentage": 7.33,
-                    "rgb": {
-                      "blue": 112,
-                      "green": 32,
-                      "red": 198
-                    }
-                  },
-                  {
-                    "percentage": 5.01,
-                    "rgb": {
-                      "blue": 231,
-                      "green": 225,
-                      "red": 249
-                    }
-                  },
-                  {
-                    "percentage": 3.01,
-                    "rgb": {
-                      "blue": 110,
-                      "green": 30,
-                      "red": 144
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "photo_image_full_size_x_large": {
-              "image_value": {
-                "height": 628,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "card_url": {
-              "scribe_key": "card_url",
-              "string_value": "https://t.co/c8RYpSYXxX",
-              "type": "STRING"
-            },
-            "summary_photo_image_original": {
-              "image_value": {
-                "height": 628,
-                "url": "https://pbs.twimg.com/card_img/2116985963759165440/qNV6Ynjf?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            }
-          }
-        },
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
-      "id": "2116970926478938400",
-      "url": "https://x.com/singpromos/status/2116970926478938400",
-      "label": "SINGPromos",
-      "color": "#f59e0b",
-      "deal_type": "deal",
-      "country": "SG",
-      "fetched_at": "2026-11-02T00:00:53.178155+00:00",
-      "translation_zh": "KFC 新加坡 App 优惠：11月2日（周一）$6.50 两块炸鸡套餐",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-11-01T19:09:34.000Z",
-        "display_text_range": [
-          0,
-          183
-        ],
-        "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                96,
-                106
-              ],
-              "text": "SINGAPORE"
-            },
-            {
-              "indices": [
-                107,
-                110
-              ],
-              "text": "SG"
-            },
-            {
-              "indices": [
-                111,
-                119
-              ],
-              "text": "SGpromo"
-            },
-            {
-              "indices": [
-                120,
-                127
-              ],
-              "text": "SGsale"
-            },
-            {
-              "indices": [
-                128,
-                138
-              ],
-              "text": "SGfoodies"
-            },
-            {
-              "indices": [
-                139,
-                146
-              ],
-              "text": "SGeats"
-            },
-            {
-              "indices": [
-                147,
-                158
-              ],
-              "text": "singpromos"
-            },
-            {
-              "indices": [
-                159,
-                165
-              ],
-              "text": "kfcsg"
-            },
-            {
-              "indices": [
-                166,
-                174
-              ],
-              "text": "SGhalal"
-            },
-            {
-              "indices": [
-                175,
-                183
-              ],
-              "text": "halalSG"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "singpromos.com/dining-restaur…",
-              "expanded_url": "https://singpromos.com/dining-restaurants-food/kfc-spore-6-50-2pc-chicken-meal-monday-app-deal-on-2-nov-2026-308848/",
-              "indices": [
-                72,
-                95
-              ],
-              "url": "https://t.co/DZ4LTZyXul"
-            }
-          ]
-        },
-        "id_str": "2116970926478938400",
-        "text": "KFC S'pore $6.50 2pc Chicken Meal Monday App Deal on Monday, 2 Nov 2026 https://t.co/DZ4LTZyXul #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos #kfcsg #SGhalal #halalSG",
-        "user": {
-          "id_str": "229470448",
-          "name": "SINGPromos",
-          "screen_name": "singpromos",
-          "is_blue_verified": false,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2116970926478938400"
-          ],
-          "editable_until_msecs": "1793563774000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "card": {
-          "card_platform": {
-            "platform": {
-              "audience": {
-                "name": "production"
-              },
-              "device": {
-                "name": "iPhone",
-                "version": "13"
-              }
-            }
-          },
-          "name": "summary_large_image",
-          "url": "https://t.co/DZ4LTZyXul",
-          "binding_values": {
-            "photo_image_full_size_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image": {
-              "image_value": {
-                "height": 146,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=jpg&name=280x150",
-                "width": 280
-              },
-              "type": "IMAGE"
-            },
-            "description": {
-              "string_value": "Enjoy two pieces of fried chicken, classic sides and a refreshing drink at a wallet-friendly price.",
-              "type": "STRING"
-            },
-            "domain": {
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "thumbnail_image_large": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=jpg&name=600x600",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_original": {
-              "image_value": {
-                "height": 544,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=jpg&name=orig",
-                "width": 1041
-              },
-              "type": "IMAGE"
-            },
-            "site": {
-              "scribe_key": "publisher_id",
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "photo_image_full_size_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_small": {
-              "image_value": {
-                "height": 75,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=jpg&name=144x144",
-                "width": 144
-              },
-              "type": "IMAGE"
-            },
-            "creator": {
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "thumbnail_image_x_large": {
-              "image_value": {
-                "height": 544,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=png&name=2048x2048_2_exp",
-                "width": 1041
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_original": {
-              "image_value": {
-                "height": 544,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=jpg&name=orig",
-                "width": 1041
-              },
-              "type": "IMAGE"
-            },
-            "vanity_url": {
-              "scribe_key": "vanity_url",
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "photo_image_full_size": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 29.94,
-                    "rgb": {
-                      "blue": 215,
-                      "green": 206,
-                      "red": 208
-                    }
-                  },
-                  {
-                    "percentage": 17.54,
-                    "rgb": {
-                      "blue": 126,
-                      "green": 133,
-                      "red": 193
-                    }
-                  },
-                  {
-                    "percentage": 13.39,
-                    "rgb": {
-                      "blue": 33,
-                      "green": 18,
-                      "red": 152
-                    }
-                  },
-                  {
-                    "percentage": 6.68,
-                    "rgb": {
-                      "blue": 112,
-                      "green": 102,
-                      "red": 217
-                    }
-                  },
-                  {
-                    "percentage": 6.55,
-                    "rgb": {
-                      "blue": 137,
-                      "green": 166,
-                      "red": 190
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "title": {
-              "string_value": "KFC S’pore $6.50 2pc Chicken Meal Monday App Deal on 2 Nov 2026",
-              "type": "STRING"
-            },
-            "summary_photo_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 29.94,
-                    "rgb": {
-                      "blue": 215,
-                      "green": 206,
-                      "red": 208
-                    }
-                  },
-                  {
-                    "percentage": 17.54,
-                    "rgb": {
-                      "blue": 126,
-                      "green": 133,
-                      "red": 193
-                    }
-                  },
-                  {
-                    "percentage": 13.39,
-                    "rgb": {
-                      "blue": 33,
-                      "green": 18,
-                      "red": 152
-                    }
-                  },
-                  {
-                    "percentage": 6.68,
-                    "rgb": {
-                      "blue": 112,
-                      "green": 102,
-                      "red": 217
-                    }
-                  },
-                  {
-                    "percentage": 6.55,
-                    "rgb": {
-                      "blue": 137,
-                      "green": 166,
-                      "red": 190
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "summary_photo_image_x_large": {
-              "image_value": {
-                "height": 544,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=png&name=2048x2048_2_exp",
-                "width": 1041
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 29.94,
-                    "rgb": {
-                      "blue": 215,
-                      "green": 206,
-                      "red": 208
-                    }
-                  },
-                  {
-                    "percentage": 17.54,
-                    "rgb": {
-                      "blue": 126,
-                      "green": 133,
-                      "red": 193
-                    }
-                  },
-                  {
-                    "percentage": 13.39,
-                    "rgb": {
-                      "blue": 33,
-                      "green": 18,
-                      "red": 152
-                    }
-                  },
-                  {
-                    "percentage": 6.68,
-                    "rgb": {
-                      "blue": 112,
-                      "green": 102,
-                      "red": 217
-                    }
-                  },
-                  {
-                    "percentage": 6.55,
-                    "rgb": {
-                      "blue": 137,
-                      "green": 166,
-                      "red": 190
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "photo_image_full_size_x_large": {
-              "image_value": {
-                "height": 544,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=png&name=2048x2048_2_exp",
-                "width": 1041
-              },
-              "type": "IMAGE"
-            },
-            "card_url": {
-              "scribe_key": "card_url",
-              "string_value": "https://t.co/DZ4LTZyXul",
-              "type": "STRING"
-            },
-            "summary_photo_image_original": {
-              "image_value": {
-                "height": 544,
-                "url": "https://pbs.twimg.com/card_img/2116970928588623872/laPEEW3H?format=jpg&name=orig",
-                "width": 1041
-              },
-              "type": "IMAGE"
-            }
-          }
-        },
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
-      "id": "2116903360314138835",
-      "url": "https://x.com/GreatDealsSG/status/2116903360314138835",
-      "label": "GreatDealsSG",
-      "color": "#ef4444",
-      "deal_type": "1fl",
-      "country": "SG",
-      "fetched_at": "2026-11-02T00:00:56.487126+00:00",
-      "translation_zh": "Pizza Hut 1-for-1 Melts 优惠只要 $9.95，还有两款新口味，芝士加倍钱包无压力",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-11-01T14:41:05.000Z",
-        "display_text_range": [
-          0,
-          144
-        ],
-        "entities": {
-          "media": [
-            {
-              "display_url": "pic.x.com/ZxTFycNgXr",
-              "expanded_url": "https://x.com/GreatDealsSG/status/2116903360314138835/photo/1",
-              "indices": [
-                145,
-                168
-              ],
-              "url": "https://t.co/ZxTFycNgXr"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "gds.sg/mslQYf",
-              "expanded_url": "https://gds.sg/mslQYf",
-              "indices": [
-                121,
-                144
-              ],
-              "url": "https://t.co/OSjfuqZOhO"
-            }
-          ]
-        },
-        "id_str": "2116903360314138835",
-        "text": "Pizza Hut is doing 1-FOR-1 Melts at $9.95, and there are TWO new flavours to try. More cheese, less damage to the wallet https://t.co/OSjfuqZOhO https://t.co/ZxTFycNgXr",
-        "user": {
-          "id_str": "45308068",
-          "name": "Great Deals Singapore",
-          "screen_name": "GreatDealsSG",
-          "is_blue_verified": true,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/582440654132785152/UJNsUZAL_normal.png"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2116903360314138835"
-          ],
-          "editable_until_msecs": "1793547665000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "mediaDetails": [
-          {
-            "display_url": "pic.x.com/ZxTFycNgXr",
-            "expanded_url": "https://x.com/GreatDealsSG/status/2116903360314138835/photo/1",
-            "ext_media_availability": {
-              "status": "Available"
-            },
-            "indices": [
-              145,
-              168
-            ],
-            "media_url_https": "https://pbs.twimg.com/media/HWDAPjGbEAEsVK8.jpg",
-            "original_info": {
-              "focus_rects": [
-                {
-                  "h": 448,
-                  "w": 800,
-                  "x": 0,
-                  "y": 251
-                },
-                {
-                  "h": 800,
-                  "w": 800,
-                  "x": 0,
-                  "y": 75
-                },
-                {
-                  "h": 912,
-                  "w": 800,
-                  "x": 0,
-                  "y": 19
-                },
-                {
-                  "h": 1000,
-                  "w": 500,
-                  "x": 25,
-                  "y": 0
-                },
-                {
-                  "h": 1000,
-                  "w": 800,
-                  "x": 0,
-                  "y": 0
-                }
-              ],
-              "height": 1000,
-              "width": 800
-            },
-            "sizes": {
-              "large": {
-                "h": 1000,
-                "resize": "fit",
-                "w": 800
-              },
-              "medium": {
-                "h": 1000,
-                "resize": "fit",
-                "w": 800
-              },
-              "small": {
-                "h": 680,
-                "resize": "fit",
-                "w": 544
-              },
-              "thumb": {
-                "h": 150,
-                "resize": "crop",
-                "w": 150
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/ZxTFycNgXr"
-          },
-          {
-            "display_url": "pic.x.com/ZxTFycNgXr",
-            "expanded_url": "https://x.com/GreatDealsSG/status/2116903360314138835/photo/1",
-            "ext_media_availability": {
-              "status": "Available"
-            },
-            "indices": [
-              145,
-              168
-            ],
-            "media_url_https": "https://pbs.twimg.com/media/HWDAPjSa8AEsa4O.jpg",
-            "original_info": {
-              "focus_rects": [
-                {
-                  "h": 609,
-                  "w": 1088,
-                  "x": 0,
-                  "y": 267
-                },
-                {
-                  "h": 1088,
-                  "w": 1088,
-                  "x": 0,
-                  "y": 27
-                },
-                {
-                  "h": 1240,
-                  "w": 1088,
-                  "x": 0,
-                  "y": 0
-                },
-                {
-                  "h": 1344,
-                  "w": 672,
-                  "x": 0,
-                  "y": 0
-                },
-                {
-                  "h": 1344,
-                  "w": 1088,
-                  "x": 0,
-                  "y": 0
-                }
-              ],
-              "height": 1344,
-              "width": 1088
-            },
-            "sizes": {
-              "large": {
-                "h": 1344,
-                "resize": "fit",
-                "w": 1088
-              },
-              "medium": {
-                "h": 1200,
-                "resize": "fit",
-                "w": 971
-              },
-              "small": {
-                "h": 680,
-                "resize": "fit",
-                "w": 550
-              },
-              "thumb": {
-                "h": 150,
-                "resize": "crop",
-                "w": 150
-              }
-            },
-            "type": "photo",
-            "url": "https://t.co/ZxTFycNgXr"
-          }
-        ],
-        "photos": [
-          {
-            "backgroundColor": {
-              "red": 204,
-              "green": 214,
-              "blue": 221
-            },
-            "cropCandidates": [
-              {
-                "h": 448,
-                "w": 800,
-                "x": 0,
-                "y": 251
-              },
-              {
-                "h": 800,
-                "w": 800,
-                "x": 0,
-                "y": 75
-              },
-              {
-                "h": 912,
-                "w": 800,
-                "x": 0,
-                "y": 19
-              },
-              {
-                "h": 1000,
-                "w": 500,
-                "x": 25,
-                "y": 0
-              },
-              {
-                "h": 1000,
-                "w": 800,
-                "x": 0,
-                "y": 0
-              }
-            ],
-            "expandedUrl": "https://x.com/GreatDealsSG/status/2116903360314138835/photo/1",
-            "url": "https://pbs.twimg.com/media/HWDAPjGbEAEsVK8.jpg",
-            "width": 800,
-            "height": 1000
-          },
-          {
-            "backgroundColor": {
-              "red": 204,
-              "green": 214,
-              "blue": 221
-            },
-            "cropCandidates": [
-              {
-                "h": 609,
-                "w": 1088,
-                "x": 0,
-                "y": 267
-              },
-              {
-                "h": 1088,
-                "w": 1088,
-                "x": 0,
-                "y": 27
-              },
-              {
-                "h": 1240,
-                "w": 1088,
-                "x": 0,
-                "y": 0
-              },
-              {
-                "h": 1344,
-                "w": 672,
-                "x": 0,
-                "y": 0
-              },
-              {
-                "h": 1344,
-                "w": 1088,
-                "x": 0,
-                "y": 0
-              }
-            ],
-            "expandedUrl": "https://x.com/GreatDealsSG/status/2116903360314138835/photo/1",
-            "url": "https://pbs.twimg.com/media/HWDAPjSa8AEsa4O.jpg",
-            "width": 1088,
-            "height": 1344
-          }
-        ],
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
-      "id": "545238c75263c460",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/banks-credit-cards/bank-of-china-spore-latest-time-deposit-offers-up-to-2-1-p-a-from-2-nov-2026-308902/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Bank of China S’pore Latest Time Deposit Offers Up To 2.1% p.a. from 2 Nov 2026",
-      "excerpt": "Enjoy up to 2.10% p.a. on SGD time deposits, with improved rates and placements from just S$500. [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2022/03/Bank-of-China-feat-27-Mar-2022.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T08:40:57+00:00",
-      "fetched_at": "2026-11-02T10:30:42.019928+00:00",
-      "translation_zh": "中国银行新加坡最新定期存款利率，2 Nov 2026 起高达 2.1% p.a.",
-      "excerpt_zh": "新元定期存款利率高达 2.10% p.a.，利率上调，最低只需 S$500 即可存入。"
-    },
-    {
-      "id": "f4791a62566aee36",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/dining-restaurants-food/guzman-y-gomez-spore-3-brekkie-burritos-on-3-nov-2026-at-20-outlets-308896/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Guzman y Gomez S’pore $3 Brekkie Burritos on 3 Nov 2026 at 20 outlets",
-      "excerpt": "Enjoy a hearty Mexican-inspired breakfast for just $3, with four filling choices and big savings. [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/06/Guzman-y-Gomez-feat-singpromos.com-26-Jun-2026.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T08:37:37+00:00",
-      "fetched_at": "2026-11-02T10:30:42.020087+00:00",
-      "translation_zh": "Guzman y Gomez 新加坡 $3 早餐卷，3 Nov 2026 限时登陆 20 家门店",
-      "excerpt_zh": "只需 $3 就能享用丰盛的墨西哥风味早餐，四种馅料任选，超值省钱。"
-    },
-    {
-      "id": "95b47ee9ee213e92",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/sushi-tei-raffles-city-reopens-on-3-nov.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Sushi Tei Raffles City Reopens On 3 Nov With $1 Salmon Carpaccio & Lobster Maki",
-      "excerpt": "Sushi Tei Raffles City is reopening on 3 November 2026 (Tuesday), and they’re rolling out the welcome mat with two $1 deal. From refreshing Salmon Wafu Carpaccio to Lobster Kamaboko Maki, enjoy these tempting bites for just $1 each with a minimum spend of $60. 3 - 15 November 2026 : Salmon Wafu...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxl8YZjRocdDEbVHP23ZSguAQ9IDwSVEogAhcndY_BoWids7OT39s0bVFV-6IEyqFiZJz20x76fjE4Am9iGChqAOCPZb6fVTU9hYVt1SzSHGJZX1WpcxyexLyEBD0SMmbwADN8oOThPiQmIjFlYynNUXmdLCARK6hoieYJ6dEoxWWj-CKzTS-ENlhMXbtI/s640/all%20singapore%20deals%20sushi%20tei%20raffles%20city%20reopneing%20$1%20special%203%20nov%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T07:00:00+00:00",
-      "fetched_at": "2026-11-02T10:30:42.483506+00:00",
-      "translation_zh": "Sushi Tei 莱佛士城 3 Nov 重新开业，$1 三文鱼 Carpaccio & 龙虾 Maki 开业优惠",
-      "excerpt_zh": "Sushi Tei 莱佛士城将于 2026年11月3日（星期二）重新开业，并推出两款 $1 开业优惠：清爽三文鱼和风 Carpaccio 和龙虾 Kamaboko Maki，快来尝鲜。"
-    },
-    {
-      "id": "c2ef89ac8f5cfa48",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/7-eleven-promotion-4-off-20-with.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "7-Eleven Promotion: $4 Off $20 with EasyCollect From 2 - 4 Nov",
-      "excerpt": "7-Eleven App Exclusive Deal November 2026: Save $4 with Promo Code 4OFF20 7-Eleven Singapore is offering an exclusive $4 off $20 EasyCollect promotion from 2 to 4 November 2026, available through the 7-Eleven SG app. For just three days, shoppers can enjoy extra savings when purchasing their...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAOdZyaL-cmc6iXtJEXi5u24MQA4mM0QkzRcLFtpKaBGDIkpO79KHdqIv2DmWtftGHkeOFi-yy4fsSbrVWIjqInvbSX5gSONGuVm7qcP1MYG2w3ErNt-JlI-mq6iM6fmuv5AZMas01NrHTg7MmX85HHMWkb0jf-DyyDlB0B5ecX0Op2n2xbt7PBcwDCvHc/s640/all%20singaproe%20deals%207-11%20easy%20collect%202%20nov%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T02:06:21+00:00",
-      "fetched_at": "2026-11-02T10:30:42.484803+00:00",
-      "translation_zh": "7-Eleven 优惠：2 - 4 Nov 用 EasyCollect 满 $20 减 $4",
-      "excerpt_zh": "7-Eleven App 专属优惠（2026年11月）：2026年11月2日至4日，使用优惠码 4OFF20，EasyCollect 订单满 $20 立减 $4。"
-    },
-    {
-      "id": "49fb4ec6b36fee33",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/don-don-donki-poke-fair-enjoy-deals-on.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "DON DON DONKI Poké Fair: Enjoy Deals On Salmon, Tuna & Kaisen Poké (2 - 30 Nov)",
-      "excerpt": "DON DON DONKI Poké Fair Promotion – Enjoy $3 Off Poké Bowls & More (2–30 November 2026) The popular DON DON DONKI Poké Fair is back by popular demand, bringing delicious savings on fresh seafood bowls and Japanese-inspired favourites from 2 to 30 November 2026. For a limited time, shoppers can...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTzNWJ0wEuM6LubChx3kczXLUPxDmbO8jhVX5GpQESPrcOw5tENUAX9B_onuNeuRLJhcqac7Ko2NxA08T-Ig9i_PJDMViN9Gu-wX4AD0czt2EX1KaBDHKNGIr20VNZnq42deiV2zks74gXWT4FGAgvBY68DjH4Du9qNtXASdPnpATHPZqdVLmVA-rhofQc/s640/all%20singapore%20deals%20donki%20poke%20deals%202%20nov%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T01:44:08+00:00",
-      "fetched_at": "2026-11-02T10:30:42.485300+00:00",
-      "translation_zh": "DON DON DONKI Poké Fair：三文鱼、金枪鱼 & 海鲜 Poké 优惠（2 - 30 Nov）",
-      "excerpt_zh": "DON DON DONKI Poké Fair 强势回归（2026年11月2日至30日），Poké Bowl 减 $3 及更多海鲜美食优惠，新鲜海鲜碗省钱吃个够。"
-    },
-    {
-      "id": "515496697c8b1db0",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/fairprice-supermarket-4-day-weekday.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "FairPrice Supermarket 4-Day Weekday Super Picks Up To 21% Off (2 - 5 Nov)",
-      "excerpt": "FairPrice 4-Day Promotion: China Tangerine & Button Mushroom Deals FairPrice Weekday Super Picks is back with a 4-day promotion from 2 to 5 November, featuring great savings on Fresh China Tangerine and Pasar White Button Mushroom. Promotion period: 2 - 5 November 2026 (Monday to Thursday) Where:...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0tlPnJ4js27FaheI7qJ3gGAqQJ2BL8stSJCVsKi0dLb8KQGYnHffWXgfeqeshlgSz3qnLJSXZjpaTXlQNlZAfacAlMz5S1IhIUqyFBSGeVHSxX63dXqBm7wMAeIalBgPx5eaNo2PaXo5Dd2mMbX9PKbtyYbDv9-QMndgtjqlNWQQW_CdZl109V4syzgQf/s640/all%20singapore%20deals%20fairprice%20weekday%20super%20picks%202%20nov%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T01:27:29+00:00",
-      "fetched_at": "2026-11-02T10:30:42.485641+00:00",
-      "translation_zh": "FairPrice 四日平日 Super Picks，高达 21% 折扣（2 - 5 Nov）",
-      "excerpt_zh": "FairPrice Weekday Super Picks 四日优惠（11月2日至5日），中国柑橘和蘑菇等新鲜好物，省钱入手正当时。"
-    },
-    {
-      "id": "d4eb9495fe55dc8c",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/2-november-2026-kfc-singapore-monday-app-deal-2pc-chicken-meal-at-just-6-50-instead-of-9-80-one-day-only-fried-chicken-promotion/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "2 November 2026: KFC Singapore Monday App Deal – 2pc Chicken Meal at Just $6.50 Instead of $9.80, One-Day-Only Fried Chicken Promotion!",
-      "excerpt": "Craving KFC fried chicken? Enjoy KFC Singapore's Monday App Deal on 2 November 2026, featuring a 2pc Chicken Meal with whipped potato, coleslaw and Coke Zero Sugar for just $6.50 instead of $9.80. Save $3.30 with this one-day-only app-exclusive promotion at participating outlets across Singapore!...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/KFC-Singapore-Monday-App-Deal.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T09:10:45+00:00",
-      "fetched_at": "2026-11-02T10:30:55.613781+00:00",
-      "translation_zh": "2 Nov 2026：KFC 新加坡星期一 App 优惠 — 2pc 炸鸡套餐仅 $6.50（原价 $9.80），仅此一天",
-      "excerpt_zh": "想吃炸鸡？2026年11月2日 KFC 新加坡星期一 App 优惠：2pc 炸鸡套餐含薯泥、凉拌卷心菜和 Coke Zero Sugar，仅售 $6.50（原价 $9.80）。"
-    },
-    {
-      "id": "5a6f46eeeb7b6253",
-      "source_type": "rss",
-      "source_name": "Eatbook",
-      "source_url": "https://eatbook.sg/food-deals-singapore-november-2026/",
-      "source_color": "#ef4444",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
-      "source_lang": "en",
-      "title": "10 Best Food Deals In Nov 2026: 1-For-1 Hotel Buffet, $12++ Wagyu Steak And More",
-      "excerpt": "Best food deals in Singapore for November 2026 November is a tricky month for the wallet. 11.11 sales are already filling your cart, Christmas pre-orders are popping up in your feed, and year-end dinners haven’t even been booked yet. The good news is that dining deals are working just as hard as...",
-      "image": "https://eatbook.sg/wp-content/uploads/2026/11/FOOD-DEALS-NOV-2026.jpg",
-      "deal_type": "1fl",
-      "country": "SG",
-      "published_at": "2026-11-02T09:27:47+00:00",
-      "fetched_at": "2026-11-02T10:30:56.044638+00:00",
-      "translation_zh": "2026年11月十大美食优惠：1-for-1 酒店自助餐、$12++ 和牛牛排等",
-      "excerpt_zh": "2026年11月新加坡最佳美食优惠合集。11月钱包压力大：11.11 购物车已满、圣诞预购刷屏、年末聚餐排队，这份省钱攻略帮你稳住预算。"
-    },
-    {
-      "id": "e65811819ca63576",
-      "source_type": "rss",
-      "source_name": "Eatbook",
-      "source_url": "https://eatbook.sg/chipotle-singapore/",
-      "source_color": "#ef4444",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=eatbook.sg&sz=64",
-      "source_lang": "en",
-      "title": "Chipotle Is Opening At Jewel Changi In 2027, Its First Singapore Outlet",
-      "excerpt": "Chipotle Mexican Grill will open in Singapore in 2027 Image credit: @chipotle Chipotle fans, here’s an update on that Singapore opening we told you about last year: the timeline’s officially been pushed back. Chipotle Mexican Grill has confirmed that its first Singapore restaurant will now open in...",
-      "image": "https://eatbook.sg/wp-content/uploads/2025/09/CHIPOTLE-SINGAPORE-COVER.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T03:50:20+00:00",
-      "fetched_at": "2026-11-02T10:30:56.050139+00:00",
-      "translation_zh": "Chipotle 将于 2027 年登陆 Jewel Changi，开设新加坡首店",
-      "excerpt_zh": "Chipotle Mexican Grill 将于 2027 年登陆新加坡。去年说好的新加坡开店有了新进展：官方时间表已公布，粉丝再等等。"
-    },
-    {
-      "id": "2117180116380024836",
-      "url": "https://x.com/singpromos/status/2117180116380024836",
-      "label": "SINGPromos",
-      "color": "#f59e0b",
-      "deal_type": "deal",
-      "country": "SG",
-      "fetched_at": "2026-11-02T10:31:00.838302+00:00",
-      "translation_zh": "Guzman y Gomez 新加坡 $3 早餐卷，3 Nov 2026 早上1030前，20家门店",
-      "tweet_data": {
-        "__typename": "Tweet",
-        "favorite_count": 0,
-        "lang": "en",
-        "possibly_sensitive": false,
-        "created_at": "2026-11-02T09:00:49.000Z",
-        "display_text_range": [
-          0,
-          168
-        ],
-        "entities": {
-          "hashtags": [
-            {
-              "indices": [
-                106,
-                116
-              ],
-              "text": "SINGAPORE"
-            },
-            {
-              "indices": [
-                117,
-                120
-              ],
-              "text": "SG"
-            },
-            {
-              "indices": [
-                121,
-                129
-              ],
-              "text": "SGpromo"
-            },
-            {
-              "indices": [
-                130,
-                137
-              ],
-              "text": "SGsale"
-            },
-            {
-              "indices": [
-                138,
-                148
-              ],
-              "text": "SGfoodies"
-            },
-            {
-              "indices": [
-                149,
-                156
-              ],
-              "text": "SGeats"
-            },
-            {
-              "indices": [
-                157,
-                168
-              ],
-              "text": "singpromos"
-            }
-          ],
-          "urls": [
-            {
-              "display_url": "singpromos.com/dining-restaur…",
-              "expanded_url": "https://singpromos.com/dining-restaurants-food/guzman-y-gomez-spore-3-brekkie-burritos-on-3-nov-2026-at-20-outlets-308896/",
-              "indices": [
-                82,
-                105
-              ],
-              "url": "https://t.co/R3UcW2ux5O"
-            }
-          ]
-        },
-        "id_str": "2117180116380024836",
-        "text": "Guzman y Gomez S'pore $3 Brekkie Burritos on 3 Nov 2026 at 20 outlets till 1030am https://t.co/R3UcW2ux5O #SINGAPORE #SG #SGpromo #SGsale #SGfoodies #SGeats #singpromos",
-        "user": {
-          "id_str": "229470448",
-          "name": "SINGPromos",
-          "screen_name": "singpromos",
-          "is_blue_verified": false,
-          "profile_image_shape": "Circle",
-          "verified": false,
-          "profile_image_url_https": "https://pbs.twimg.com/profile_images/1702530680205524992/wntIHgTz_normal.jpg"
-        },
-        "edit_control": {
-          "edit_tweet_ids": [
-            "2117180116380024836"
-          ],
-          "editable_until_msecs": "1793613649000",
-          "edits_remaining": "5",
-          "is_edit_eligible": true
-        },
-        "conversation_count": 0,
-        "news_action_type": "conversation",
-        "card": {
-          "card_platform": {
-            "platform": {
-              "audience": {
-                "name": "production"
-              },
-              "device": {
-                "name": "iPhone",
-                "version": "13"
-              }
-            }
-          },
-          "name": "summary_large_image",
-          "url": "https://t.co/R3UcW2ux5O",
-          "binding_values": {
-            "photo_image_full_size_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image": {
-              "image_value": {
-                "height": 147,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=jpg&name=280x150",
-                "width": 280
-              },
-              "type": "IMAGE"
-            },
-            "description": {
-              "string_value": "Enjoy a hearty Mexican-inspired breakfast for just $3, with four filling choices and big savings.",
-              "type": "STRING"
-            },
-            "domain": {
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "thumbnail_image_large": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=jpg&name=600x600",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_original": {
-              "image_value": {
-                "height": 628,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "site": {
-              "scribe_key": "publisher_id",
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "photo_image_full_size_small": {
-              "image_value": {
-                "height": 202,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=jpg&name=386x202",
-                "width": 386
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image_large": {
-              "image_value": {
-                "height": 419,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=jpg&name=800x419",
-                "width": 800
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_small": {
-              "image_value": {
-                "height": 75,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=jpg&name=144x144",
-                "width": 144
-              },
-              "type": "IMAGE"
-            },
-            "creator": {
-              "type": "USER",
-              "user_value": {
-                "id_str": "229470448",
-                "path": []
-              }
-            },
-            "thumbnail_image_x_large": {
-              "image_value": {
-                "height": 628,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_original": {
-              "image_value": {
-                "height": 628,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "vanity_url": {
-              "scribe_key": "vanity_url",
-              "string_value": "singpromos.com",
-              "type": "STRING"
-            },
-            "photo_image_full_size": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "thumbnail_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 50.36,
-                    "rgb": {
-                      "blue": 231,
-                      "green": 206,
-                      "red": 160
-                    }
-                  },
-                  {
-                    "percentage": 11.33,
-                    "rgb": {
-                      "blue": 18,
-                      "green": 205,
-                      "red": 246
-                    }
-                  },
-                  {
-                    "percentage": 9.63,
-                    "rgb": {
-                      "blue": 100,
-                      "green": 72,
-                      "red": 13
-                    }
-                  },
-                  {
-                    "percentage": 7.81,
-                    "rgb": {
-                      "blue": 170,
-                      "green": 187,
-                      "red": 200
-                    }
-                  },
-                  {
-                    "percentage": 5.55,
-                    "rgb": {
-                      "blue": 123,
-                      "green": 191,
-                      "red": 234
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "title": {
-              "string_value": "Guzman y Gomez S’pore $3 Brekkie Burritos on 3 Nov 2026 at 20 outlets",
-              "type": "STRING"
-            },
-            "summary_photo_image_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 50.36,
-                    "rgb": {
-                      "blue": 231,
-                      "green": 206,
-                      "red": 160
-                    }
-                  },
-                  {
-                    "percentage": 11.33,
-                    "rgb": {
-                      "blue": 18,
-                      "green": 205,
-                      "red": 246
-                    }
-                  },
-                  {
-                    "percentage": 9.63,
-                    "rgb": {
-                      "blue": 100,
-                      "green": 72,
-                      "red": 13
-                    }
-                  },
-                  {
-                    "percentage": 7.81,
-                    "rgb": {
-                      "blue": 170,
-                      "green": 187,
-                      "red": 200
-                    }
-                  },
-                  {
-                    "percentage": 5.55,
-                    "rgb": {
-                      "blue": 123,
-                      "green": 191,
-                      "red": 234
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "summary_photo_image_x_large": {
-              "image_value": {
-                "height": 628,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "summary_photo_image": {
-              "image_value": {
-                "height": 314,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=jpg&name=600x314",
-                "width": 600
-              },
-              "type": "IMAGE"
-            },
-            "photo_image_full_size_color": {
-              "image_color_value": {
-                "palette": [
-                  {
-                    "percentage": 50.36,
-                    "rgb": {
-                      "blue": 231,
-                      "green": 206,
-                      "red": 160
-                    }
-                  },
-                  {
-                    "percentage": 11.33,
-                    "rgb": {
-                      "blue": 18,
-                      "green": 205,
-                      "red": 246
-                    }
-                  },
-                  {
-                    "percentage": 9.63,
-                    "rgb": {
-                      "blue": 100,
-                      "green": 72,
-                      "red": 13
-                    }
-                  },
-                  {
-                    "percentage": 7.81,
-                    "rgb": {
-                      "blue": 170,
-                      "green": 187,
-                      "red": 200
-                    }
-                  },
-                  {
-                    "percentage": 5.55,
-                    "rgb": {
-                      "blue": 123,
-                      "green": 191,
-                      "red": 234
-                    }
-                  }
-                ]
-              },
-              "type": "IMAGE_COLOR"
-            },
-            "photo_image_full_size_x_large": {
-              "image_value": {
-                "height": 628,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=png&name=2048x2048_2_exp",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            },
-            "card_url": {
-              "scribe_key": "card_url",
-              "string_value": "https://t.co/R3UcW2ux5O",
-              "type": "STRING"
-            },
-            "summary_photo_image_original": {
-              "image_value": {
-                "height": 628,
-                "url": "https://pbs.twimg.com/card_img/2117180116606521344/fE2vOtqZ?format=jpg&name=orig",
-                "width": 1200
-              },
-              "type": "IMAGE"
-            }
-          }
-        },
-        "isEdited": false,
-        "isStaleEdit": false
-      }
-    },
-    {
       "id": "c99d7e4c5f068c2c",
       "source_type": "rss",
       "source_name": "SINGPromos",
@@ -2180,78 +17,6 @@
       "fetched_at": "2026-11-03T00:00:43.232776+00:00",
       "translation_zh": "Parallels Desktop 一年订阅最高5折，11月23日截止",
       "excerpt_zh": "指定版本的 Parallels Desktop 订阅输入促销码即可享优惠。"
-    },
-    {
-      "id": "c00b1a5f64ee3094",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/banks-credit-cards/trust-bank-up-to-2-2-p-a-level-up-promo-fresh-funds-deadline-30-nov-308957/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Trust Bank Up to 2.2% p.a. Level Up Promo – Fresh Funds Deadline 30 Nov",
-      "excerpt": "A Savings Pot and qualifying fresh funds can unlock up to 2.2% p.a. on incremental balances. [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2023/12/Trust-Bank-Logo-singpromos.com-21-Dec-2023.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T14:25:23+00:00",
-      "fetched_at": "2026-11-03T00:00:43.232968+00:00",
-      "translation_zh": "Trust Bank 新资金促销：年利率高达2.2%，11月30日截止",
-      "excerpt_zh": "开设 Savings Pot 并存入合格新资金，增量余额可享最高2.2%年利率。"
-    },
-    {
-      "id": "60a4db2a9fb15059",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/banks-credit-cards/singapore-savings-bonds-up-to-2-39-p-a-10-year-average-return-from-just-s500-308946/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Singapore Savings Bonds Up to 2.39% p.a. 10-Year Average Return From Just S$500",
-      "excerpt": "Government-backed savings with step-up interest, semi-annual payouts and flexible redemption. [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2017/03/Singapore-Savings-Bond-Logo.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T11:13:53+00:00",
-      "fetched_at": "2026-11-03T00:00:43.233110+00:00",
-      "translation_zh": "新加坡储蓄债券：10年平均回报年利率2.39%，最低S$500起投",
-      "excerpt_zh": "政府担保储蓄，利息逐年递增，每半年派息一次，可灵活赎回。"
-    },
-    {
-      "id": "5975eb3c3ae05ad2",
-      "source_type": "rss",
-      "source_name": "SINGPromos",
-      "source_url": "https://singpromos.com/household/starbucks-spore-x-pompompurin-collection-launches-10-nov-2026-with-items-from-10-90-308922/",
-      "source_color": "#f59e0b",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
-      "source_lang": "en",
-      "title": "Starbucks S’pore x Pompompurin Collection Launches 10 Nov 2026 with Items from $10.90",
-      "excerpt": "Adorable Pompompurin collectibles plus a free gift with $25 nett delivery spend [ Read more at SINGPROMOS.COM ]",
-      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/11/Starbucks-feat-singpromos.com-2-Nov-2026-.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-11-02T10:40:30+00:00",
-      "fetched_at": "2026-11-03T00:00:43.233244+00:00",
-      "translation_zh": "Starbucks x Pompompurin 联名系列11月10日登场，单品$10.90起",
-      "excerpt_zh": "超萌 Pompompurin 收藏系列登场，外送净消费满$25还送免费赠品。"
-    },
-    {
-      "id": "c04a8f38dda87195",
-      "source_type": "rss",
-      "source_name": "AllSingaporeDeals",
-      "source_url": "https://www.allsingaporedeals.com/2026/11/hi-bowl-malatang-opens-wilkie-edge-with.html",
-      "source_color": "#3b82f6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
-      "source_lang": "en",
-      "title": "Hi Bowl Malatang Opens @ Wilkie Edge On 3 Nov With 50% Off 2nd Malatang Bowl",
-      "excerpt": "Hi Bowl, a Modern Chinese Malatang concept by one of Singapore’s leading hotpot brands, will open at Wilkie Edge on 3 November 2026, bringing a fresh take on the popular Chinese street-food staple to Singapore. Backed by 30 years of culinary expertise, Hi Bowl offers a customisable dining...",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy2IA59ErRPOUJuE72M6GXgdvXTvClavPU7C8uP67YPchcBil9nDCdjjL4DfbWyZTwrSVP1coGf-zH6mmIlUP_Y8cFWBswCUxsLV4gn8qRdy9kgcxwNQYVPMuLFH1iZ9lRmBNRaqrYrIULgq49YVQ4qGm7rNFwp0wwdNQ7A9tF9aPaTMZJ2noCaKtMrWuV/s640/all%20singapore%20deals%20hi%20bowl%20malatang%20opening%20special%203%20nov%20a.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T22:00:00+00:00",
-      "fetched_at": "2026-11-03T00:00:43.911864+00:00",
-      "translation_zh": "Hi Bowl 麻辣烫11月3日开业 Wilkie Edge，第二碗半价",
-      "excerpt_zh": "Hi Bowl 是新加坡知名火锅品牌打造的现代中式麻辣烫概念，11月3日在 Wilkie Edge 开业，30年餐饮功底带来自由搭配的麻辣烫新体验。"
     },
     {
       "id": "fc5b83393cbfdd01",
@@ -2558,240 +323,6 @@
       "fetched_at": "2026-11-03T00:00:52.523192+00:00",
       "translation_zh": "海底捞11月会员促销：精选肥牛、日本A5和牛最高5折",
       "excerpt_zh": "海底捞11月1-30日会员促销：七道精选菜品最高5折，包括 Premium Beef、日本A5和牛、SRF 和牛 Oyster Blade、黑猪肉、厚切土豆片、冻豆腐和腐竹卷，全岛门店适用。"
-    },
-    {
-      "id": "f01c4a365e796c6a",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/1-30-november-2026-bridgestone-singapore-tyre-promotion-enjoy-up-to-80-instant-cash-rebates-when-you-purchase-selected-tyres-at-authorised-dealers/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "1-30 November 2026: Bridgestone Singapore Tyre Promotion – Enjoy Up to $80 Instant Cash Rebates When You Purchase Selected Tyres at Authorised Dealers",
-      "excerpt": "Planning to replace your car tyres? Bridgestone Singapore is offering up to $80 instant cash rebates when you purchase qualifying 17-inch, 18-inch or 19-inch and above tyres from authorised dealers between 1 and 30 November 2026. Remember to register your new tyres online at the time of purchase to...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Bridgestone-Singapore-Tyre-Promotion-–-Enjoy-Up-to-80-Instant.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T15:33:32+00:00",
-      "fetched_at": "2026-11-03T00:00:52.523325+00:00",
-      "translation_zh": "Bridgestone 轮胎促销：指定轮胎立减最高$80，11月1-30日",
-      "excerpt_zh": "11月1-30日，购买指定17寸、18寸或以上 Bridgestone 轮胎，可享最高$80即时现金回扣。"
-    },
-    {
-      "id": "04250263a7d457d6",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/5-25-november-2026-mcdonalds-singapore-new-mccrispy-fried-chicken-promotion-enjoy-2-piece-meal-with-fries-and-drink-at-just-7-95-u-p-9-25/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "5-25 November 2026: McDonald’s Singapore New McCrispy Fried Chicken Promotion – Enjoy 2-Piece Meal with Fries and Drink at Just $7.95 (U.P. $9.25)",
-      "excerpt": "McDonald's Singapore is offering its new McCrispy Fried Chicken 2-Piece Meal at just $7.95 (U.P. $9.25) from 5 to 25 November 2026. Enjoy two pieces of crispy and juicy fried chicken with fries and a refreshing drink. Available after breakfast hours through in-store and Drive-Thru purchases at...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/McDonalds-Singapore-New-McCrispy-Fried-Chicken-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T15:31:28+00:00",
-      "fetched_at": "2026-11-03T00:00:52.523465+00:00",
-      "translation_zh": "McDonald's 新品 McCrispy 炸鸡两件套餐仅$7.95，11月5-25日",
-      "excerpt_zh": "McDonald's 新品 McCrispy 炸鸡两件套餐（含薯条和饮料）11月5-25日仅售$7.95（原价$9.25），早餐时段后在门店和得来速购买。"
-    },
-    {
-      "id": "ffc22455e2c9fecc",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/now-till-13-march-2027-starcruises-star-voyager-safra-members-promotion-enjoy-additional-15-off-cruise-cabins-plus-up-to-s250-onboard-credits-per-cabin/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "Now Till 13 March 2027: StarCruises Star Voyager SAFRA Members Promotion – Enjoy Additional 15% Off Cruise Cabins Plus Up to S$250 Onboard Credits Per Cabin",
-      "excerpt": "Planning a cruise holiday from Singapore? SAFRA members can enjoy an exclusive StarCruises Star Voyager promotion featuring an additional 15% off eligible cabin bookings, plus up to S$250 in onboard credits per cabin. Valid for applicable sailings until 13 March 2027. Find out how to book and enjoy...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/StarCruises-Star-Voyager-SAFRA-Members-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T15:29:18+00:00",
-      "fetched_at": "2026-11-03T00:00:52.523600+00:00",
-      "translation_zh": "StarCruises SAFRA会员专属：舱房额外85折+每舱最高S$250消费额",
-      "excerpt_zh": "SAFRA 会员预订 StarCruises Star Voyager 指定航程可享舱房额外85折，每舱还可获最高S$250船上消费额度，适用于2027年3月13日前的航程。"
-    },
-    {
-      "id": "ddeaacacfdd34deb",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/1-30-november-2026-ban-leong-technologies-best-denki-smart-home-promotion-enjoy-great-deals-on-tp-link-security-cameras-wifi-routers-robot-vacuums-more/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "1-30 November 2026: Ban Leong Technologies & Best Denki Smart Home Promotion – Enjoy Great Deals on TP-Link Security Cameras, WiFi Routers, Robot Vacuums & More",
-      "excerpt": "Make your home smarter and safer with Ban Leong Technologies and Best Denki's November 2026 promotion! From 1 to 30 November 2026, enjoy great deals on selected TP-Link security cameras, WiFi routers, robot vacuums and more at all Best Denki stores in Singapore and online. Discover practical smart...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Ban-Leong-Technologies-Best-Denki-Smart-Home-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T15:25:42+00:00",
-      "fetched_at": "2026-11-03T00:00:52.523758+00:00",
-      "translation_zh": "Ban Leong x BEST Denki 智能家居促销：TP-Link 摄像头好价",
-      "excerpt_zh": "11月1-30日，Ban Leong 携手 BEST Denki 推出智能家居促销，TP-Link 安防摄像头等产品享优惠。"
-    },
-    {
-      "id": "b305c6127946f327",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/1-18-november-2026-the-shilla-duty-free-singapore-make-up-for-ever-beauty-promotion-get-exclusive-2-piece-beauty-gift-set-with-any-face-product-purchase-at-changi-airport-terminal-1/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "1-18 November 2026: The Shilla Duty Free Singapore – MAKE UP FOR EVER Beauty Promotion: Get Exclusive 2-Piece Beauty Gift Set with Any Face Product Purchase at Changi Airport Terminal 1",
-      "excerpt": "Beauty lovers, here is a little shopping treat at Changi Airport! From 1 to 18 November 2026, purchase any MAKE UP FOR EVER face product at The Shilla Duty Free, Terminal 1, and receive an exclusive 2-piece beauty gift set featuring a mini HD Skin Loose Powder (4g) and a Limited-Edition Heart...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/The-Shilla-Duty-Free-Singapore-–-MAKE-UP-FOR-EVER-Beauty-Promotion.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-11-02T15:23:16+00:00",
-      "fetched_at": "2026-11-03T00:00:52.523891+00:00",
-      "translation_zh": "The Shilla 免税店：买 MAKE UP FOR EVER 送2件套礼，11月1-18日",
-      "excerpt_zh": "11月1-18日，在樟宜机场 T1 The Shilla 免税店购买任意 MAKE UP FOR EVER 脸部产品，即赠迷你 HD Skin 散粉（4g）与限量爱心腮红的2件套礼。"
-    },
-    {
-      "id": "8579df2e1bd459df",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/1-30-november-2026-chateraise-singapore-christmas-cake-early-bird-promotion-get-a-free-gift-with-every-christmas-whole-cake-order-via-getz/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "1-30 November 2026: Châteraisé Singapore Christmas Cake Early Bird Promotion – Get a Free Gift with Every Christmas Whole Cake Order via Getz",
-      "excerpt": "Planning your Christmas celebrations early? Châteraisé Singapore is offering a complimentary gift with every Christmas whole cake reserved and paid for through Getz online orders from 1 to 30 November 2026. Choose between white sparkling grape juice, red sparkling grape juice or Pizza Margherita...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Chateraise-Singapore-Christmas-Cake-Early-Bird-Promotion.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-11-02T15:21:04+00:00",
-      "fetched_at": "2026-11-03T00:00:52.524022+00:00",
-      "translation_zh": "Châteraisé 圣诞蛋糕早鸟促销：预订即送赠品，11月1-30日",
-      "excerpt_zh": "11月1-30日，通过 Getz 线上预订并付款圣诞整蛋糕，即可从白葡萄气泡汁、红葡萄气泡汁或玛格丽特披萨中任选一份赠品。"
-    },
-    {
-      "id": "dbc62abc98eb6478",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/now-till-30-november-2026-shell-select-deal-of-the-month-promotion-enjoy-more-value-on-selected-favourite-products-at-shell-singapore/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "Now Till 30 November 2026: Shell Select Deal of the Month Promotion – Enjoy More Value on Selected Favourite Products at Shell Singapore",
-      "excerpt": "Enjoy more value with Shell Select's Deal of the Month promotion in Singapore! Discover special offers on selected favourite products at participating Shell Select outlets until 30 November 2026. While stocks last and terms and conditions apply. Continue reading Now Till 30 November 2026: Shell...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Shell-Select-Deal-of-the-Month-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T15:18:39+00:00",
-      "fetched_at": "2026-11-03T00:00:52.524150+00:00",
-      "translation_zh": "Shell Select 本月特惠：精选商品超值优惠，至11月30日",
-      "excerpt_zh": "至11月30日，Shell Select「本月特惠」在参与门店推出精选商品优惠，售完即止，条款适用。"
-    },
-    {
-      "id": "18fd156d1712b7a2",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/2-november-2026-onwards-gelatissimo-chocolate-truffle-flavour-of-the-month-promotion-club-gelato-members-enjoy-a-free-upsize-scoop-with-every-cup-or-cone-purchase/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "2 November 2026 onwards: Gelatissimo Chocolate Truffle Flavour of the Month Promotion – Club Gelato Members Enjoy a Free Upsize Scoop with Every Cup or Cone Purchase",
-      "excerpt": "Chocolate lovers, here's a sweet reason to visit Gelatissimo this November! Try the new Chocolate Truffle Flavour of the Month from 2 November 2026 onwards. Club Gelato members can also enjoy a free upsize scoop with any cup or cone purchase, whilst stocks last. Terms and conditions apply. Continue...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Gelatissimo-Chocolate-Truffle-Flavour-of-the-Month-Promotion.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-11-02T15:15:21+00:00",
-      "fetched_at": "2026-11-03T00:00:52.524284+00:00",
-      "translation_zh": "Gelatissimo 本月新味巧克力松露，会员免费升级大杯",
-      "excerpt_zh": "11月2日起，Gelatissimo 推出本月新味 Chocolate Truffle，Club Gelato 会员购买任意杯装或筒装冰淇淋可免费升级加大份，送完即止。"
-    },
-    {
-      "id": "e9f6877244a88dc1",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/2-november-2026-onwards-york-hotel-singapore-festive-food-pre-order-promotion-with-complimentary-santa-helena-wine-for-citibank-dbs-posb-and-uob-cardholders-minimum-250-spend/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "2 November 2026 onwards: York Hotel Singapore, Festive Food Pre-Order Promotion with Complimentary Santa Helena Wine for Citibank, DBS/POSB and UOB Cardholders – Minimum $250 Spend",
-      "excerpt": "Planning a festive celebration? York Hotel Singapore is offering a complimentary bottle of Santa Helena Merlot or Chardonnay with festive food pre-orders of at least $250 nett in a single transaction. Pay using a Citibank, DBS/POSB or UOB Debit/Credit Card, with full payment received by 8 December...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/York-Hotel-Singapore-Festive-Food-Pre-Order-Promotion.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T15:10:41+00:00",
-      "fetched_at": "2026-11-03T00:00:52.524416+00:00",
-      "translation_zh": "York Hotel 节庆美食预购满$250送葡萄酒，限指定银行卡",
-      "excerpt_zh": "York Hotel 节庆美食预购单笔满$250净价，并以 Citibank、DBS/POSB 或 UOB 借记卡/信用卡于12月8日前全额付款，即赠 Santa Helena Merlot 或 Chardonnay 一瓶。"
-    },
-    {
-      "id": "00d2e6e8df04a48e",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/6-9-november-2026-four-star-black-friday-pre-sale-buy-1-get-1-free-mattresses-free-bedframes-sofas-more-from-499-at-safra-toa-payoh-11am-10pm/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "6-9 November 2026: Four Star Black Friday Pre-Sale – Buy 1 Get 1 Free Mattresses, FREE Bedframes, Sofas & More from $499 at SAFRA Toa Payoh, 11am-10pm",
-      "excerpt": "Four Star is kicking off Black Friday early with a four-day pre-sale at SAFRA Toa Payoh from 6-9 November 2026. Enjoy queen-size mattresses with FREE bedframes from $1,111, selected Buy 1 Free 1 mattress deals, storage beds and sofas from $499, bedding accessories from $40 and an additional 11% OFF...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Four-Star-Black-Friday-Pre-Sale-–-Buy-1-Get-1-Free-Mattresses.jpg",
-      "deal_type": "free",
-      "country": "SG",
-      "published_at": "2026-11-02T15:07:48+00:00",
-      "fetched_at": "2026-11-03T00:00:52.524556+00:00",
-      "translation_zh": "Four Star 黑五抢先购：床垫买一送一、沙发$499起，11月6-9日",
-      "excerpt_zh": "Four Star 黑五预展11月6-9日在 SAFRA Toa Payoh 举行（11am-10pm）：女王尺寸床垫送免费床架$1,111起、指定床垫买一送一、收纳床和沙发$499起、床品配件$40起，再享额外11% off。"
-    },
-    {
-      "id": "9be8f1f6da1907f5",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/2-30-november-2026-sa-sa-singapore-beauty-promotion-enjoy-3-off-35-7-off-80-online-exclusive-rewards/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "2-30 November 2026: Sa Sa Singapore Beauty Promotion – Enjoy $3 OFF $35 & $7 OFF $80 Online Exclusive Rewards",
-      "excerpt": "Beauty lovers, enjoy exclusive online rewards with Sa Sa Singapore from 2 to 30 November 2026! Get $3 OFF with a minimum spend of $35 or $7 OFF with a minimum spend of $80. Redeem your coupon online and save more on your next beauty haul! Continue reading 2-30 November 2026: Sa Sa Singapore Beauty...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Sa-Sa-Singapore-Beauty-Promotion-–-Enjoy-3-OFF-35-7-OFF.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T15:03:12+00:00",
-      "fetched_at": "2026-11-03T00:00:52.524688+00:00",
-      "translation_zh": "Sa Sa 线上优惠：满$35减$3、满$80减$7，11月2-30日",
-      "excerpt_zh": "11月2-30日，Sa Sa 线上专享：满$35减$3，满$80减$7，领券下单更划算。"
-    },
-    {
-      "id": "d529711f6ba366ad",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/2-8-november-2026-mst-golf-singapore-suntec-apparel-sale-shop-golf-clothing-refresh-your-wardrobe-at-suntec-atrium-tower-1-2-11am-9pm-daily/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "2–8 November 2026: MST Golf Singapore Suntec Apparel Sale – Shop Golf Clothing & Refresh Your Wardrobe at Suntec Atrium, Tower 1 & 2, 11am–9pm Daily",
-      "excerpt": "Golf enthusiasts, it is time to refresh your wardrobe! MST Golf Singapore brings back its annual Suntec Apparel Sale from 2 to 8 November 2026 at Suntec Atrium, Tower 1 and 2. Drop by between 11am and 9pm daily to browse your favourite golf apparel and discover potential shopping deals at this...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/MST-Golf-Singapore-Suntec-Apparel-Sale-–-Shop-Golf-Clothing-Refresh.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T14:58:24+00:00",
-      "fetched_at": "2026-11-03T00:00:52.524828+00:00",
-      "translation_zh": "MST Golf Suntec 服装特卖会，11月2-8日",
-      "excerpt_zh": "MST Golf 年度 Suntec 服装特卖会11月2-8日回归，地点 Suntec Atrium（Tower 1 & 2），每日11am至9pm，高尔夫服装一站扫货。"
-    },
-    {
-      "id": "941e8f6918f18f21",
-      "source_type": "rss",
-      "source_name": "EverydayOnSales",
-      "source_url": "https://sg.everydayonsales.com/6-9-november-2026-tyr-singapore-final-markdown-sale-up-to-80-off-10-items-for-5-150-stuff-the-bag-challenge-at-kewalram-house-10am-5pm/",
-      "source_color": "#8b5cf6",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
-      "source_lang": "en",
-      "title": "6-9 November 2026: TYR Singapore Final Markdown Sale – Up to 80% OFF, 10 Items for $5 & $150 Stuff-the-Bag Challenge at Kewalram House, 10AM-5PM",
-      "excerpt": "Missed TYR Singapore's Relocation Sale? Here's another chance to grab amazing bargains! From 6-9 November 2026, enjoy up to 80% OFF selected swimwear, apparel and accessories, get 10 items for just $5, or take on the $150 Stuff-the-Bag Challenge at Kewalram House. Open daily from 10AM to 5PM!...",
-      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/TYR-Singapore-Final-Markdown-Sale.jpg",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T14:56:22+00:00",
-      "fetched_at": "2026-11-03T00:00:52.524964+00:00",
-      "translation_zh": "TYR 清仓特卖：最高80% off、10件$5，11月6-9日",
-      "excerpt_zh": "TYR 最终降价特卖11月6-9日在 Kewalram House（10AM-5PM）举行：指定泳装、服饰和配件最高80% off，10件仅$5，还有$150 Stuff-the-Bag 塞袋挑战。"
     },
     {
       "id": "2117206919421292805",
@@ -4468,24 +1999,6 @@
       "fetched_at": "2026-11-04T00:00:52.712242+00:00",
       "translation_zh": "11月3日-2027年1月3日：宝可梦30周年庆典登陆 Jewel Changi——限定周边、免费巡游与抽奖",
       "excerpt_zh": "宝可梦30周年庆典在星耀樟宜举行，净消费满 $60 可购 $9.90 起限定周边，还有免费巡游、抽奖等你来！"
-    },
-    {
-      "id": "0ba8b38b784a6fac",
-      "source_type": "rss",
-      "source_name": "SG榴莲",
-      "source_url": "https://sgliulian.com/promotion-deals/novela-11-11-deal-singapore/",
-      "source_color": "#84cc16",
-      "source_favicon": "https://www.google.com/s2/favicons?domain=sgliulian.com&sz=64",
-      "source_lang": "zh",
-      "title": "双十一提前开跑🇸🇬 最重磅的美妆护肤年度大促来啦～ 2折拿去！",
-      "excerpt": "不用漫长等待黑五 也不用苦等美妆展 今年双十一前 Novela先把价格打下来 这次Novela双十一真的有不少值得挖宝的好物！ 从平时舍不得入手的 专柜护肤品、人气彩妆，到经典香水， 都有机会趁着这波会员大促 以更优惠的价格带回家 无论是想趁机补货， 还是一直放在购物清单里的心头好，这 次都值得好好看一看， 说不定能找到让你心动的价格 从11月6日至11日 连续6天 天天都有不同惊喜！ 让大家可以趁着这波活动入手心仪好物 NOVELA官方网站 全岛8家Novela门店及官网同步参与 爆款单品抢先看 NOVELA今年的双十一真的太好买啦！ 连不少人气大牌都加入了优惠行列 想入手已久的产品，...",
-      "image": "https://cdn2.sgliulian.com/wp-content/uploads/2026/11/WhatsApp-GIF-2026-11-02-at-16.30.58.gif",
-      "deal_type": "deal",
-      "country": "SG",
-      "published_at": "2026-11-02T05:56:22+00:00",
-      "fetched_at": "2026-11-04T00:00:56.259739+00:00",
-      "translation_zh": "Novela 双十一美妆大促：护肤品低至2折，11月6-11日连嗨6天",
-      "excerpt_zh": "不用等黑五！Novela 双十一会员大促 11月6日至11日，专柜护肤、人气彩妆、经典香水都有机会以超值价入手。"
     },
     {
       "id": "2117611457353564409",
@@ -16673,6 +14186,866 @@
             "url": "https://pbs.twimg.com/media/HWqEf-vbIAAaE4b.jpg",
             "width": 800,
             "height": 1000
+          }
+        ],
+        "conversation_count": 0,
+        "news_action_type": "conversation",
+        "isEdited": false,
+        "isStaleEdit": false
+      }
+    },
+    {
+      "id": "4165b989ca3f709b",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/burger-king-spore-1-for-1-burgers-more-11-11-specials-until-15-nov-2026-309483/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Burger King S’pore 1-FOR-1 Burgers & More 11.11 Specials until 15 Nov 2026",
+      "excerpt": "Six tasty choices, including Angus beef, chicken burgers, breakfast croissant and iced MILO [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/11/Burger-King-feat-singpromos.com-10-Nov-2026.jpg",
+      "deal_type": "1fl",
+      "country": "SG",
+      "published_at": "2026-11-09T19:53:11+00:00",
+      "fetched_at": "2026-11-10T00:00:27.119930+00:00",
+      "translation_zh": "Burger King 11.11 优惠：汉堡等 1-for-1 特惠至 2026年11月15日",
+      "excerpt_zh": "六款美味任选，包括安格斯牛肉堡、鸡肉堡、早餐牛角包和冰镇 MILO"
+    },
+    {
+      "id": "cf016db904db6c71",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/warehouse-sales/singapore-11-11-singles-day-2026-best-sales-deals-promotions-online-and-in-store-309456/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Singapore 11.11 Singles’ Day 2026: Best Sales, Deals & Promotions Online and In-Store",
+      "excerpt": "From $1.10 food treats to fashion, beauty, tech and travel promotions [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/11/11.11-Singles-feat-singpromos.com-9-Nov-2026.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T13:29:50+00:00",
+      "fetched_at": "2026-11-10T00:00:27.120114+00:00",
+      "translation_zh": "新加坡 11.11 双十一 2026：线上线下最佳促销优惠总览",
+      "excerpt_zh": "从 $1.10 美食到时尚、美妆、科技和旅行促销应有尽有"
+    },
+    {
+      "id": "7240728c4e413cc2",
+      "source_type": "rss",
+      "source_name": "SINGPromos",
+      "source_url": "https://singpromos.com/dining-restaurants-food/udders-sweet-11-11-sale-offers-1-for-1-takeaway-ice-cream-pints-from-11-13-nov-2026-309401/",
+      "source_color": "#f59e0b",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=singpromos.com&sz=64",
+      "source_lang": "en",
+      "title": "Udders Sweet 11.11 Sale Offers 1-for-1 Takeaway Ice Cream Pints from 11-13 Nov 2026",
+      "excerpt": "Double the ice cream [ Read more at SINGPROMOS.COM ]",
+      "image": "https://cdn.singpromos.com/wp-content/uploads/2026/11/Udders-feat-singpromos.com-8-Nov-2026.jpg",
+      "deal_type": "1fl",
+      "country": "SG",
+      "published_at": "2026-11-09T12:17:46+00:00",
+      "fetched_at": "2026-11-10T00:00:27.120258+00:00",
+      "translation_zh": "Udders 11.11 甜蜜优惠：11月11-13日外带雪糕品脱 1-for-1",
+      "excerpt_zh": "雪糕双倍快乐，快乐加倍"
+    },
+    {
+      "id": "0fce938ad4c8dc7d",
+      "source_type": "rss",
+      "source_name": "AllSingaporeDeals",
+      "source_url": "https://www.allsingaporedeals.com/2026/11/burger-king-singapore-1111-promotion-1.html",
+      "source_color": "#3b82f6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=allsingaporedeals.com&sz=64",
+      "source_lang": "en",
+      "title": "Burger King 11.11 Promotion: 1-For-1 Deals via Kiosks & BK App From 9 -15 Nov",
+      "excerpt": "Burger King Singapore 11.11 Deals: 1-for-1 Burgers and More from 9 to 15 November 2026 Burger King Singapore is celebrating 11.11 with a week of 1-for-1 deals from 9 to 15 November 2026, featuring popular burgers, breakfast options and drinks. Available only via Burger King ordering kiosks and the...",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWJgKJbWwsqRHtGnh_8MZpdvoGwhUR49VRoHmrnffOyON82U09BlZeV5Hy2kN23XEKZ2OdUhvJyWSst119ei28EiDeRLD8ukAxlSZbQ2ODKpHVaTb9IPjx8KA0Bi8Bnr_XJWD5L94VXD_17cwuKVCL5K8amezzy4eqNsXBqmkmn4Si9HRR__qtkquVFGW4/s640/all%20singapore%20deals%20burger%20king%201111%201-for-1%20deals%209%20nov%20a.jpg",
+      "deal_type": "1fl",
+      "country": "SG",
+      "published_at": "2026-11-09T10:53:58+00:00",
+      "fetched_at": "2026-11-10T00:00:27.761529+00:00",
+      "translation_zh": "Burger King 11.11 促销：11月9-15日通过自助点餐机和 BK App 享 1-for-1",
+      "excerpt_zh": "Burger King Singapore 11.11 优惠：11月9-15日汉堡等一连七天 1-for-1"
+    },
+    {
+      "id": "e6efdf47412b0c9f",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/10-november-2026-onwards-xiang-xiang-singapore-tuesday-member-day-promotion-with-11-90-signature-dishes-free-chilli-gift-at-all-outlets-except-mandai/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "10 November 2026 onwards: Xiang Xiang Singapore – Tuesday Member Day Promotion with $11.90 Signature Dishes & FREE Chilli Gift at All Outlets (Except Mandai)",
+      "excerpt": "Enjoy more delicious Tuesdays with Xiang Xiang Singapore this November 2026! Members can choose Claypot Three-Cup Chicken or Three Delicacies Tofu Prawn Stew for just $11.90, plus receive a FREE jar of signature chilli or chilli radish when topping up $500 or more. Available every Tuesday at all...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Xiang-Xiang-Singapore-–-Tuesday-Member-Day-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-09T23:51:53+00:00",
+      "fetched_at": "2026-11-10T00:00:36.149551+00:00",
+      "translation_zh": "香香 2026年11月10日起：周二会员日招牌菜仅 $11.90 还送免费小食",
+      "excerpt_zh": "会员可选砂煲三杯鸡或三鲜豆腐等招牌菜，让每个周二更好味"
+    },
+    {
+      "id": "fe51d2b218d8138e",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-15-november-2026-beauty-language-singapore-sale-at-amk-hub-beauty-shopping-event-at-basement-2-near-ntuc-fairprice/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9-15 November 2026: Beauty Language Singapore Sale at AMK Hub – Beauty Shopping Event at Basement 2, Near NTUC FairPrice",
+      "excerpt": "Beauty Language is bringing a beauty shopping event to AMK Hub from 9 to 15 November 2026! Head down to Basement 2, in front of NTUC FairPrice, to explore its available beauty selections and discover potential shopping deals. Plan your visit and enjoy a convenient beauty shopping experience in Ang...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Beauty-Language-Singapore-Sale-at-AMK-Hub.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T23:50:31+00:00",
+      "fetched_at": "2026-11-10T00:00:36.149735+00:00",
+      "translation_zh": "Beauty Language 11月9-15日 AMK Hub 美妆特卖会",
+      "excerpt_zh": "美妆购物活动在 AMK Hub B2，NTUC FairPrice 前方"
+    },
+    {
+      "id": "70834102b38895a9",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-15-november-2026-dreame-singapore-warehouse-sale-2026-at-suntec-city-home-appliances-from-s59-massage-products-from-s89-free-gifts-with-purchase/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9–15 November 2026: DREAME Singapore Warehouse Sale 2026 at Suntec City – Home Appliances from S$59, Massage Products from S$89 & FREE Gifts with Purchase",
+      "excerpt": "Looking for great home appliance deals in Singapore? Visit the DREAME Warehouse Sale 2026 at Suntec City from 9–15 November, 11am–10pm. Enjoy selected Dreame products from S$59, massage products from S$89, discover the latest X60 Ultra Extreme Robot Vacuum and receive FREE gifts with selected...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/DREAME-Singapore-Warehouse-Sale-2026-at-Suntec-City.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-09T23:46:11+00:00",
+      "fetched_at": "2026-11-10T00:00:36.149907+00:00",
+      "translation_zh": "DREAME 11月9-15日 Suntec City 仓库特卖：家电 S$59 起",
+      "excerpt_zh": "11am-10pm，家电与按摩产品等精选优惠等你来淘"
+    },
+    {
+      "id": "57f08e4c904b8af3",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/11-15-november-2026-four-star-singapore-warehouse-clearance-sale-up-to-90-off-mattresses-sofas-bedding-linen-at-boon-leat-terrace-plus-tiktok-live-deals/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "11–15 November 2026: Four Star Singapore Warehouse Clearance Sale – Up to 90% OFF Mattresses, Sofas, Bedding & Linen at Boon Leat Terrace, Plus TikTok LIVE Deals",
+      "excerpt": "Planning to refresh your home without overspending? Visit Four Star Warehouse Clearance Sale 2026 from 11–15 November at Boon Leat Terrace, Singapore, and enjoy up to 90% OFF selected mattresses, sofas, bedframes, bedding and linen. Look out for sofa display sets from S$199, selected 5-Star Hotel...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Four-Star-Singapore-Warehouse-Clearance-Sale.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T23:42:45+00:00",
+      "fetched_at": "2026-11-10T00:00:36.150073+00:00",
+      "translation_zh": "Four Star 11月11-15日仓库清仓：床垫沙发床品最高 90% 折扣",
+      "excerpt_zh": "地点在 Boon Leat Terrace，换新家不妨趁清仓入手"
+    },
+    {
+      "id": "f0347db74efb4ead",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/1-november-31-december-2026-posb-mastercard-senior-promotion-enjoy-s1-buns-you-tiao-coffee-tea-at-breadtalk-dough-culture-nan-yang-dao-toast-box-singapore/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "1 November-31 December 2026: POSB Mastercard Senior Promotion: Enjoy S$1 Buns, You Tiao, Coffee & Tea at BreadTalk, Dough Culture, Nan Yang Dao & Toast Box Singapore",
+      "excerpt": "Singapore seniors aged 60 and above can enjoy special S$1 food and beverage deals from 1 November to 31 December 2026 with an eligible POSB Mastercard. Enjoy selected buns at BreadTalk, two traditional snacks at Dough Culture, hot coffee or tea at Nan Yang Dao and Toast Box. Find out the...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/123.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T23:04:19+00:00",
+      "fetched_at": "2026-11-10T00:00:36.150219+00:00",
+      "translation_zh": "POSB Mastercard 乐龄促销：11月1日至12月31日 BreadTalk 等仅 S$1 包点油条咖啡茶",
+      "excerpt_zh": "60 岁及以上乐龄人士持指定 POSB Mastercard 即可享 S$1 餐饮优惠"
+    },
+    {
+      "id": "6ef389b6812c3501",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-15-november-2026-burger-king-singapore-11-11-1-for-1-promotion-on-burgers-breakfast-and-drinks-via-bk-app-and-ordering-kiosks/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9-15 November 2026: Burger King Singapore: 11.11 1-for-1 Promotion on Burgers, Breakfast and Drinks via BK App and Ordering Kiosks",
+      "excerpt": "Burger King Singapore is celebrating 11.11 with seven days of exciting 1-for-1 deals from 9 to 15 November 2026! Enjoy two of the same selected items for the price of one, including WHOPPER, Long Chicken, Truffle Mayo Deluxe Angus Beef, Spicy Chicken King, Chicken Sausage Croissan'wich with Egg and...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Burger-King-Singapore-11.11-1-for-1-Promotion-on-Burgers.jpg",
+      "deal_type": "1fl",
+      "country": "SG",
+      "published_at": "2026-11-09T12:55:45+00:00",
+      "fetched_at": "2026-11-10T00:00:36.150374+00:00",
+      "translation_zh": "Burger King 11月9-15日 11.11 促销：BK App 点餐汉堡早餐饮料 1-for-1",
+      "excerpt_zh": "同款指定商品买一送一，连吃七天不重样"
+    },
+    {
+      "id": "fc1ad13433dda691",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/11-20-december-2026-beauty-fiesta-singapore-christmas-beauty-sale-up-to-90-off-beauty-health-wellness-products-at-singapore-expo-hall-5b-early-bird-tickets-from-8/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "11–20 December 2026: Beauty Fiesta Singapore Christmas Beauty Sale – Up to 90% Off Beauty, Health & Wellness Products at Singapore EXPO Hall 5B, Early Bird Tickets from $8",
+      "excerpt": "Get ready for Beauty Fiesta Singapore Christmas Sale 2026 at Singapore EXPO Hall 5B! Happening from 11–13 December and 17–20 December 2026, shoppers can enjoy up to 90% off selected beauty, health and wellness favourites. Early bird tickets start from just $8 for General Entry and $20 for VIP...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Beauty-Fiesta-Singapore-Christmas-Beauty-Sale.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T12:49:28+00:00",
+      "fetched_at": "2026-11-10T00:00:36.150547+00:00",
+      "translation_zh": "Beauty Fiesta 圣诞美妆特卖会：12月11-13日及17-20日新加坡 EXPO 最高 90% 折扣",
+      "excerpt_zh": "地点在新加坡 EXPO Hall 5B，美妆健康保健产品低至一折"
+    },
+    {
+      "id": "84e86c046f18226a",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-31-december-2026-popular-singapore-harry-potter-stamp-rally-promotion-collect-7-exclusive-harry-potter-stamps-redeem-a-free-mini-notebook-plus-5-discount-voucher-at-selected/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now till 31 December 2026: POPULAR Singapore Harry Potter Stamp Rally Promotion – Collect 7 Exclusive Harry Potter Stamps & Redeem a FREE Mini Notebook Plus $5 Discount Voucher at Selected Bookstores",
+      "excerpt": "Harry Potter fans, do not miss the FREE Harry Potter Stamp Rally at POPULAR Singapore! Collect seven exclusive stamps inspired by all seven Harry Potter books across seven participating bookstores and redeem a FREE Harry Potter Mini Notebook plus a $5 Discount Voucher. No purchase is required to...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/POPULAR-Singapore-Harry-Potter-Stamp-Rally-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-09T12:28:25+00:00",
+      "fetched_at": "2026-11-10T00:00:36.150707+00:00",
+      "translation_zh": "POPULAR 哈利波特集章活动：即日起至12月31日免费收集 7 款专属印章",
+      "excerpt_zh": "七本书七个专属印章，哈利波特迷不可错过的免费活动"
+    },
+    {
+      "id": "80feb4d277ff9193",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-15-november-2026-pororo-park-singapore-spend-100-on-gift-credits-enjoy-free-adult-child-entry-with-2-hour-playtime-11-11-special-promotion/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9-15 November 2026: Pororo Park Singapore – Spend $100 on Gift Credits & Enjoy FREE Adult + Child Entry with 2-Hour Playtime | 11.11 Special Promotion",
+      "excerpt": "Make family time extra special with Pororo Park Singapore's 11.11 promotion from 9 to 15 November 2026! Spend $100 on Gift Credits and receive FREE Adult + Child Entry with two hours of playtime. A lovely opportunity to enjoy more family fun, treat the little ones and create happy memories...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Pororo-Park-Singapore-–-Spend-100-on-Gift-Credits-Enjoy-FREE-Adult.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-09T11:45:56+00:00",
+      "fetched_at": "2026-11-10T00:00:36.150849+00:00",
+      "translation_zh": "Pororo Park 11.11 促销：11月9-15日消费 $100 礼品积分送成人+儿童门票含 2 小时游玩",
+      "excerpt_zh": "亲子家庭好去处，充值送礼再送门票"
+    },
+    {
+      "id": "7a4a9afcff777e41",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-november-2026-kfc-singapore-6-50-famous-bowl-with-chicken-meal-and-drink-one-day-monday-app-deals-promotion/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9 November 2026: KFC Singapore: $6.50 Famous Bowl with Chicken Meal and Drink – One-Day Monday App Deals Promotion",
+      "excerpt": "Enjoy KFC Singapore's Famous Bowl with Chicken Meal for just $6.50 on 9 November 2026! The one-day Monday App Deals promotion includes a Famous Bowl, crispy fried chicken and Coca-Cola Zero Sugar. Available exclusively through the KFC Singapore app, this wallet-friendly meal deal is perfect for...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/KFC-Singapore-6.50-Famous-Bowl-with-Chicken-Meal-and-Drink.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T11:41:40+00:00",
+      "fetched_at": "2026-11-10T00:00:36.150984+00:00",
+      "translation_zh": "KFC 11月9日一天限定：App 周一优惠 $6.50 Famous Bowl 套餐含鸡肉和饮料",
+      "excerpt_zh": "Famous Bowl 配鸡肉和饮料，App 下单即可享受"
+    },
+    {
+      "id": "2be39903e142dcdc",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-16-november-2026-refash-11-11-clearance-sale-over-15000-preloved-fashion-finds-at-just-5-99-each-extra-30-off-when-you-buy-10-items-free-delivery/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9-16 November 2026: REFASH 11.11 Clearance Sale – Over 15,000 Preloved Fashion Finds at Just $5.99 Each, Extra 30% Off When You Buy 10 Items & Free Delivery",
+      "excerpt": "Looking for affordable fashion finds in Singapore? REFASH is having its 11.11 Clearance Sale from 9 to 16 November 2026, with more than 15,000 preloved styles priced at just $5.99 each. Enjoy an extra 10% off when buying five items with code CLEARANCE10 or an extra 30% off when buying 10 items with...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/REFASH-11.11-Clearance-Sale.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-09T11:37:05+00:00",
+      "fetched_at": "2026-11-10T00:00:36.151138+00:00",
+      "translation_zh": "REFASH 11.11 清仓特卖：11月9-16日超 15,000 件二手时尚单品每件 $5.99 再享额外 30% 折扣",
+      "excerpt_zh": "二手时尚淘货好时机，万件单品任你挑"
+    },
+    {
+      "id": "06fcf4e566276a10",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/8-november-2026-onwards-shin-minori-japanese-restaurant-super-premium-buffet-promotion-free-flow-uni-sushi-oysters-sweet-shrimps-2-5-hours-of-alcoholic-beverages/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "8 November 2026 Onwards: Shin Minori Japanese Restaurant SUPER PREMIUM Buffet Promotion – Free-Flow Uni Sushi, Oysters, Sweet Shrimps & 2.5 Hours of Alcoholic Beverages",
+      "excerpt": "Japanese food lovers, here's another buffet promotion to look forward to! Shin Minori's SUPER PREMIUM Buffet starts from 8 November 2026 onwards, featuring free-flow Uni sushi and handrolls, Sakoshi Bay oysters, sweet shrimps, the usual Omizu buffet selection and 2.5 hours of free-flow alcoholic...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Shin-Minori-Japanese-Restaurant-SUPER-PREMIUM-Buffet-Promotion.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-09T11:33:47+00:00",
+      "fetched_at": "2026-11-10T00:00:36.151296+00:00",
+      "translation_zh": "Shin Minori 日本料理 SUPER PREMIUM 自助餐：11月8日起海胆寿司生蚝任吃",
+      "excerpt_zh": "日本料理爱好者福音，高档食材自助任吃"
+    },
+    {
+      "id": "ec9c74986a783d5a",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/11-25-november-2026-yayoi-singapore-11-pork-shabu-tonkotsu-ramen-11-11-promotion-at-5-outlets-weekday-weekend-deals/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "11-25 November 2026: YAYOI Singapore: $11 Pork Shabu Tonkotsu Ramen 11.11 Promotion at 5 Outlets, Weekday & Weekend Deals",
+      "excerpt": "Ramen lovers can enjoy YAYOI Singapore's Pork Shabu Tonkotsu Ramen for just $11 instead of $16.90 from 11 to 25 November 2026. Choose between classic non-spicy Tonkotsu and spicy Mala Tonkotsu at five participating outlets on weekdays, with weekend availability exclusively at 100AM Mall. Save $5.90...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/YAYOI-Singapore-11-Pork-Shabu-Tonkotsu-Ramen-11.11-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T11:28:52+00:00",
+      "fetched_at": "2026-11-10T00:00:36.151447+00:00",
+      "translation_zh": "YAYOI 11.11 促销：11月11-25日猪肉涮涮豚骨拉面仅 $11（原价 $16.90），5 家分店",
+      "excerpt_zh": "平日周末都适用，经典或新口味任选"
+    },
+    {
+      "id": "40c3d93b0716a9b2",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-13-november-2026-ah-mah-singapore-11-11-online-promotion-buy-2-flavoured-cakes-get-1-original-castella-cake-free-when-shopping-online/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9-13 November 2026: Ah Mah Singapore 11.11 Online Promotion – Buy 2 Flavoured Cakes & Get 1 Original Castella Cake Free When Shopping Online",
+      "excerpt": "Cake lovers, here is a sweet 11.11 deal to enjoy! From 9 to 13 November 2026, Ah Mah Singapore is offering a Buy 2 Flavoured Cakes, Get 1 Original Castella Cake Free promotion when shopping online. Visit their official website, pick your favourite cake flavours and enjoy an extra cake at no...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Ah-Mah-Singapore-11.11-Online-Promotion-–-Buy-2-Flavoured-Cakes.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-09T11:25:32+00:00",
+      "fetched_at": "2026-11-10T00:00:36.151604+00:00",
+      "translation_zh": "Ah Mah 11.11 线上促销：11月9-13日买 2 个口味蛋糕送 1 个原味长崎蛋糕",
+      "excerpt_zh": "蛋糕控的甜蜜 11.11 优惠"
+    },
+    {
+      "id": "376675e98dd44f5b",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-15-november-2026-good-smile-company-hello-good-smile-pop-up-sale-exclusive-free-gifts-at-bugis-junction-singapore-hatsune-miku-blue-archive-nendoroids-more-10am-10pm-dail/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9-15 November 2026: GOOD SMILE Company: HELLO! GOOD SMILE Pop-Up Sale & Exclusive FREE Gifts at Bugis Junction Singapore – Hatsune Miku, Blue Archive, Nendoroids & More (10am-10pm Daily)",
+      "excerpt": "Anime fans and figure collectors, don't miss the HELLO! GOOD SMILE Pop-Up at Bugis Junction Singapore from 9-15 November 2026! Explore Hatsune Miku Nendoroids, Blue Archive merchandise, Haikyu!! collectibles and HELLO! GOOD SMILE figures. Visitors can also enjoy FREE Evangelion stickers, random...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/GOOD-SMILE-Company-HELLO-GOOD-SMILE-Pop-Up-Sale.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-09T11:17:36+00:00",
+      "fetched_at": "2026-11-10T00:00:36.151766+00:00",
+      "translation_zh": "GOOD SMILE 11月9-15日 Bugis Junction 快闪特卖：限量免费赠品",
+      "excerpt_zh": "动漫迷和手办收藏家不可错过，初音未来新品等你在 Bugis Junction"
+    },
+    {
+      "id": "2c93e7cefa8028b1",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/6-november-2026-onwards-foodhub-singapore-new-northshore-plaza-i-food-court-opens-with-14-food-stalls-80%c2%a2-kopi-o-teh-o-and-budget-meals-from-s2-50/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "6 November 2026 Onwards: FoodHub Singapore – New Northshore Plaza I Food Court Opens with 14 Food Stalls, 80¢ Kopi O & Teh O, and Budget Meals from S$2.50",
+      "excerpt": "Looking for affordable food in Punggol? FoodHub has officially opened at Northshore Plaza I with 14 food stalls serving local favourites, Asian cuisines, noodles, burgers and more. Enjoy Kopi O and Teh O for just 80 cents, traditional breakfast from S$2.50 and budget-friendly meals including S$3...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/FoodHub-Singapore-–-New-Northshore-Plaza-I-Food-Court-Open.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T11:12:42+00:00",
+      "fetched_at": "2026-11-10T00:00:36.151914+00:00",
+      "translation_zh": "FoodHub 北岸 Plaza I 新美食广场开幕：14 个摊位，Kopi O 仅 80¢",
+      "excerpt_zh": "Punggol 平价美食新去处，本地风味与亚洲美食都有"
+    },
+    {
+      "id": "34b65b03288cd38e",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/8-18-november-2026-fassler-gourmet-november-online-sale-enjoy-exclusive-discounts-on-seafood-salmon-smoked-duck-otah-nuggets-gourmet-favourites/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "8-18 November 2026: Fassler Gourmet November Online Sale – Enjoy Exclusive Discounts on Seafood, Salmon, Smoked Duck, Otah Nuggets & Gourmet Favourites",
+      "excerpt": "Seafood lovers can look forward to the Fassler Gourmet November Sale from 8–18 November 2026! Enjoy exclusive online discounts on selected seafood, salmon, smoked duck and gourmet favourites, including new Salmon Lasagne, Otah Nuggets and Chilean Skinless Salmon Tail Cut. Shop conveniently at the...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Fassler-Gourmet-November-Online-Sale.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T11:06:31+00:00",
+      "fetched_at": "2026-11-10T00:00:36.152055+00:00",
+      "translation_zh": "Fassler Gourmet 11月8-18日线上特卖：海鲜三文鱼烟鸭胸等专属折扣",
+      "excerpt_zh": "海鲜爱好者的福音，线上下单专属折扣"
+    },
+    {
+      "id": "61d5455db172839b",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/now-till-30-november-2026-popular-bookstore-singapore-up-to-40-off-exclusive-members-deals-and-app-only-discount-coupons/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "Now Till 30 November 2026: Popular Bookstore Singapore: Up to 40% Off Exclusive Members’ Deals and App-Only Discount Coupons",
+      "excerpt": "Popular Bookstore Singapore is offering exclusive app-only members’ deals with discount coupons of up to 40% off! Available now until 30 November 2026, shoppers can access these special savings through the Popular Singapore app. Check out the qualifying offers, browse the available coupons and...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Popular-Bookstore-Singapore-Up-to-40-Off-Exclusive-Members.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T11:00:00+00:00",
+      "fetched_at": "2026-11-10T00:00:36.152318+00:00",
+      "translation_zh": "POPULAR 书店：即日起至11月30日会员专属最高 40% 折扣及 App 优惠券",
+      "excerpt_zh": "App 会员专享，折扣优惠券最高 40% off"
+    },
+    {
+      "id": "6a6dd8902d956a38",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/6-8-november-2026-shell-singapore-deepavali-weekend-fuel-promotion-enjoy-23-instant-fuel-discount-at-all-participating-shell-stations-with-go/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "6-8 November 2026: Shell Singapore Deepavali Weekend Fuel Promotion – Enjoy 23% Instant Fuel Discount at All Participating Shell Stations with GO+",
+      "excerpt": "Enjoy 23% instant fuel savings with Shell Singapore this Deepavali weekend from 6 to 8 November 2026! Eligible Shell GO+ customers can enjoy the limited-time fuel discount using any bank card at participating Shell stations. Find out the promotion details, eligibility requirements and exclusions...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Shell-Singapore-Deepavali-Weekend-Fuel-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T10:54:23+00:00",
+      "fetched_at": "2026-11-10T00:00:36.152465+00:00",
+      "translation_zh": "Shell 屠妖节周末油惠：11月6-8日参与加油站即时 23% 油价折扣",
+      "excerpt_zh": "Shell GO+ 合格用户限定，周末加油更划算"
+    },
+    {
+      "id": "c82e853ef0ac7118",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/11-15-november-2026-piano-megastore-singapore-cristofori-11-11-mega-sale-best-instrument-deals-of-the-year-on-pianos-digital-pianos-guitars-keyboards-more-online/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "11–15 November 2026: Piano Megastore Singapore (CRISTOFORI): 11.11 Mega Sale – Best Instrument Deals of the Year on Pianos, Digital Pianos, Guitars, Keyboards & More Online",
+      "excerpt": "Looking for musical instruments at attractive prices? CRISTOFORI Singapore is bringing back its 11.11 Mega Sale from 11–15 November 2026, featuring special online deals on pianos, digital pianos, drums, keyboards, guitars, ukuleles, accessories and more. Selected items will enjoy even lower prices...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Piano-Megastore-Singapore-CRISTOFORI.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T10:51:03+00:00",
+      "fetched_at": "2026-11-10T00:00:36.152621+00:00",
+      "translation_zh": "CRISTOFORI 11.11 大促：11月11-15日钢琴等乐器年度最佳优惠",
+      "excerpt_zh": "钢琴等乐器年度难得的优惠力度"
+    },
+    {
+      "id": "8ab95eb2f24fce7b",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-15-november-2026-chan-brothers-travel-stardream-cruises-roadshow-exclusive-cruise-deals-uob-cardmember-free-gifts-travel-offers-at-waterway-point-10-30am-9pm/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9-15 November 2026: Chan Brothers Travel StarDream Cruises Roadshow – Exclusive Cruise Deals, UOB Cardmember Free Gifts & Travel Offers at Waterway Point (10.30am-9pm)",
+      "excerpt": "Planning your next cruise holiday? Visit the Chan Brothers Travel StarDream Cruises Roadshow at Waterway Point from 9-15 November 2026, 10.30am to 9pm. Discover exclusive cruise deals and enjoy a FREE food flask or luggage for eligible UOB cardmembers with minimum charge. Terms and conditions...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Chan-Brothers-Travel-StarDream-Cruises-Roadshow.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-09T10:48:10+00:00",
+      "fetched_at": "2026-11-10T00:00:36.152759+00:00",
+      "translation_zh": "Chan Brothers Travel 星梦邮轮路演：11月9-15日 Waterway Point 独家邮轮优惠",
+      "excerpt_zh": "10.30am-9pm，UOB 卡友另有免费赠品"
+    },
+    {
+      "id": "f416c0e51806acd0",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/8-15-november-2026-simba-telecom-11-11-deals-get-a-free-recharge-pack-with-30-day-renewal-when-you-sign-up-for-a-new-sim-or-port-in-at-simba-sg/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "8-15 November 2026: SIMBA Telecom 11.11 Deals – Get a FREE Recharge Pack with 30-Day Renewal When You Sign Up for a New SIM or Port In at SIMBA.sg",
+      "excerpt": "Looking for a better mobile deal this November? SIMBA Telecom is celebrating 11.11 with a special promotion from 8 to 15 November 2026. Customers who purchase an eligible new SIM or port in their existing mobile number can enjoy a FREE Recharge Pack with a 30-Day Renewal. Find out how to take...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/SIMBA-Telecom-11.11-Deals-–-Get-a-FREE-Recharge-Pack.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-09T10:45:16+00:00",
+      "fetched_at": "2026-11-10T00:00:36.152897+00:00",
+      "translation_zh": "SIMBA 11.11 优惠：11月8-15日新签约附送免费充值包含 30 天续约",
+      "excerpt_zh": "新签约用户即可获赠 30 天充值包"
+    },
+    {
+      "id": "11ed0499f27de6db",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/9-15-november-2026-bega-white-sands-atrium-sale-7-days-of-affordable-fashion-finds-and-everyday-wardrobe-essentials-at-white-sands-singapore/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "9-15 November 2026: BEGA White Sands Atrium Sale – 7 Days of Affordable Fashion Finds and Everyday Wardrobe Essentials at White Sands Singapore",
+      "excerpt": "Looking for affordable fashion finds in Singapore? Visit the BEGA Atrium Sale at White Sands from 9 to 15 November 2026 and discover jackets, everyday dresses and versatile wardrobe additions at special prices. Enjoy seven days of fashion shopping and give your wardrobe a little refresh before the...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/BEGA-White-Sands-Atrium-Sale.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T10:41:18+00:00",
+      "fetched_at": "2026-11-10T00:00:36.153028+00:00",
+      "translation_zh": "BEGA 11月9-15日 White Sands 中庭特卖会",
+      "excerpt_zh": "外套与日常衣橱必备，平价时尚一次买齐"
+    },
+    {
+      "id": "f15b11300132fd7c",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/15-november-2026-popular-bookstore-singapore-bookfestsingapore-2026-ultraman-tiga-meet-greet-free-family-event-at-bras-basah-complex-4pm-to-430pm/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "15 November 2026: POPULAR Bookstore Singapore: BookFest@Singapore 2026 Ultraman Tiga Meet & Greet – Free Family Event at Bras Basah Complex, 4pm to 4:30pm",
+      "excerpt": "Ultraman Tiga is coming to POPULAR Bras Basah Complex on 15 November 2026 for a special Meet & Greet during BookFest@Singapore 2026! Happening from 4pm to 4:30pm, this exciting character appearance offers fans and families an opportunity to meet the iconic Ultra Hero and capture memorable...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/POPULAR-Bookstore-Singapore-BookFest@Singapore.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-09T10:38:23+00:00",
+      "fetched_at": "2026-11-10T00:00:36.153198+00:00",
+      "translation_zh": "POPULAR BookFest 2026：11月15日 Ultraman Tiga 见面会，Bras Basah 免费家庭活动",
+      "excerpt_zh": "下午 4 点起，免费入场与奥特曼见面"
+    },
+    {
+      "id": "bd4e161b7faf2244",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/13-29-november-2026-king-koil-singapore-black-friday-sale-up-to-30-off-extra-12-savings-free-mattress-upsize-samsonite-gift-worth-540-new-sofa-deals-at-4-showrooms-11am-8pm/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "13-29 November 2026: King Koil Singapore Black Friday Sale – Up to 30% Off + Extra 12% Savings, Free Mattress Upsize, Samsonite Gift Worth $540 & New Sofa Deals at 4 Showrooms, 11am-8pm",
+      "excerpt": "Looking to upgrade your mattress or refresh your living room? King Koil Singapore Black Friday Sale runs from 13 to 29 November 2026, with up to 30% off plus an extra 12% discount, free Queen-to-King mattress upsizing on selected models, special sofa prices and a complimentary Samsonite Essens...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/King-Koil-Singapore-Black-Friday-Sale.jpg",
+      "deal_type": "free",
+      "country": "SG",
+      "published_at": "2026-11-09T10:36:11+00:00",
+      "fetched_at": "2026-11-10T00:00:36.153357+00:00",
+      "translation_zh": "King Koil 黑色星期五特卖：11月13-29日最高 30% 折扣再加额外 12% 优惠",
+      "excerpt_zh": "免费床垫升级等好礼，换床垫正当时"
+    },
+    {
+      "id": "037a4f50f5545752",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/10-12-november-2026-eat-pizza-singapore-11-11-promotion-enjoy-pizza-mac-cheese-for-just-11-at-all-outlets/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "10-12 November 2026: Eat Pizza Singapore $11.11 Promotion – Enjoy Pizza + Mac & Cheese for Just $11 at All Outlets",
+      "excerpt": "Enjoy two comfort-food favourites for just $11 with Eat Pizza Singapore's 11.11 promotion from 10 to 12 November 2026! Get your favourite pizza paired with OG, Gochujang or White Truffle Mac & Cheese, worth $15.80, at participating outlets across Singapore. Temasek Polytechnic outlet excluded....",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Eat-Pizza-Singapore-11.11-Promotion-–-Enjoy-Pizza.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T10:33:56+00:00",
+      "fetched_at": "2026-11-10T00:00:36.153515+00:00",
+      "translation_zh": "Eat Pizza 11.11 优惠：11月10-12日全分店披萨配 Mac & Cheese 仅 $11",
+      "excerpt_zh": "两大治愈系美食一次满足，全分店适用"
+    },
+    {
+      "id": "37027977b58b3353",
+      "source_type": "rss",
+      "source_name": "EverydayOnSales",
+      "source_url": "https://sg.everydayonsales.com/6-november-5-december-2026-springleaf-prata-place-deepavali-special-prata-tacos-promotion-3-flavours-hot-masala-tea-for-just-6-90-at-participating-singapore-outlets/",
+      "source_color": "#8b5cf6",
+      "source_favicon": "https://www.google.com/s2/favicons?domain=everydayonsales.com&sz=64",
+      "source_lang": "en",
+      "title": "6 November–5 December 2026: Springleaf Prata Place: Deepavali Special Prata Tacos Promotion – 3 Flavours & Hot Masala Tea for Just $6.90 at Participating Singapore Outlets",
+      "excerpt": "Celebrate Deepavali with Springleaf Prata Place's exciting prata taco promotion from 6 November to 5 December 2026! Enjoy three delicious flavours, including Butter Chicken, Chilli Fish and Gulab Jamun, together with a cup of Hot Masala Tea for just $6.90. Available at participating outlets across...",
+      "image": "https://sg.everydayonsales.com/wp-content/uploads/2026/11/Springleaf-Prata-Place-Deepavali-Special-Prata-Tacos-Promotion.jpg",
+      "deal_type": "deal",
+      "country": "SG",
+      "published_at": "2026-11-09T10:31:23+00:00",
+      "fetched_at": "2026-11-10T00:00:36.153678+00:00",
+      "translation_zh": "Springleaf Prata Place 屠妖节特推：11月6日至12月5日 Prata Taco 三种口味配热 Masala 茶",
+      "excerpt_zh": "三款口味任选，配一杯热 Masala 茶过节"
+    },
+    {
+      "id": "2119747418514448709",
+      "url": "https://x.com/GreatDealsSG/status/2119747418514448709",
+      "label": "GreatDealsSG",
+      "color": "#ef4444",
+      "deal_type": "1fl",
+      "country": "SG",
+      "fetched_at": "2026-11-10T00:00:38.716011+00:00",
+      "translation_zh": "Udders 雪糕品脱 3 天限定 1-for-1，榴莲口味也在列！",
+      "tweet_data": {
+        "__typename": "Tweet",
+        "favorite_count": 0,
+        "lang": "en",
+        "possibly_sensitive": false,
+        "created_at": "2026-11-09T11:02:22.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "entities": {
+          "media": [
+            {
+              "display_url": "pic.x.com/1CYPQEKM3D",
+              "expanded_url": "https://x.com/GreatDealsSG/status/2119747418514448709/photo/1",
+              "indices": [
+                122,
+                145
+              ],
+              "url": "https://t.co/1CYPQEKM3D"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "gds.sg/2EltP9",
+              "expanded_url": "https://gds.sg/2EltP9",
+              "indices": [
+                98,
+                121
+              ],
+              "url": "https://t.co/m5EgQbgeWc"
+            }
+          ]
+        },
+        "id_str": "2119747418514448709",
+        "text": "Udders is going 1-for-1 on ice cream pints for 3 days only, and yes, durian flavours are included https://t.co/m5EgQbgeWc https://t.co/1CYPQEKM3D",
+        "user": {
+          "id_str": "45308068",
+          "name": "Great Deals Singapore",
+          "screen_name": "GreatDealsSG",
+          "is_blue_verified": true,
+          "profile_image_shape": "Circle",
+          "verified": false,
+          "profile_image_url_https": "https://pbs.twimg.com/profile_images/582440654132785152/UJNsUZAL_normal.png"
+        },
+        "edit_control": {
+          "edit_tweet_ids": [
+            "2119747418514448709"
+          ],
+          "editable_until_msecs": "1794225742000",
+          "edits_remaining": "5",
+          "is_edit_eligible": true
+        },
+        "mediaDetails": [
+          {
+            "display_url": "pic.x.com/1CYPQEKM3D",
+            "expanded_url": "https://x.com/GreatDealsSG/status/2119747418514448709/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "indices": [
+              122,
+              145
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/HWraqtPa0AAufO8.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 448,
+                  "w": 800,
+                  "x": 0,
+                  "y": 251
+                },
+                {
+                  "h": 800,
+                  "w": 800,
+                  "x": 0,
+                  "y": 75
+                },
+                {
+                  "h": 912,
+                  "w": 800,
+                  "x": 0,
+                  "y": 19
+                },
+                {
+                  "h": 1000,
+                  "w": 500,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 1000,
+                  "w": 800,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 1000,
+              "width": 800
+            },
+            "sizes": {
+              "large": {
+                "h": 1000,
+                "resize": "fit",
+                "w": 800
+              },
+              "medium": {
+                "h": 1000,
+                "resize": "fit",
+                "w": 800
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 544
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/1CYPQEKM3D"
+          },
+          {
+            "display_url": "pic.x.com/1CYPQEKM3D",
+            "expanded_url": "https://x.com/GreatDealsSG/status/2119747418514448709/photo/1",
+            "ext_media_availability": {
+              "status": "Available"
+            },
+            "indices": [
+              122,
+              145
+            ],
+            "media_url_https": "https://pbs.twimg.com/media/HWraqtFasAAU2N1.jpg",
+            "original_info": {
+              "focus_rects": [
+                {
+                  "h": 1837,
+                  "w": 3280,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3280,
+                  "w": 3280,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 3739,
+                  "w": 3280,
+                  "x": 0,
+                  "y": 0
+                },
+                {
+                  "h": 4096,
+                  "w": 2048,
+                  "x": 716,
+                  "y": 0
+                },
+                {
+                  "h": 4096,
+                  "w": 3280,
+                  "x": 0,
+                  "y": 0
+                }
+              ],
+              "height": 4096,
+              "width": 3280
+            },
+            "sizes": {
+              "large": {
+                "h": 2048,
+                "resize": "fit",
+                "w": 1640
+              },
+              "medium": {
+                "h": 1200,
+                "resize": "fit",
+                "w": 961
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 545
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/1CYPQEKM3D"
+          }
+        ],
+        "photos": [
+          {
+            "backgroundColor": {
+              "red": 204,
+              "green": 214,
+              "blue": 221
+            },
+            "cropCandidates": [
+              {
+                "h": 448,
+                "w": 800,
+                "x": 0,
+                "y": 251
+              },
+              {
+                "h": 800,
+                "w": 800,
+                "x": 0,
+                "y": 75
+              },
+              {
+                "h": 912,
+                "w": 800,
+                "x": 0,
+                "y": 19
+              },
+              {
+                "h": 1000,
+                "w": 500,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 1000,
+                "w": 800,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "expandedUrl": "https://x.com/GreatDealsSG/status/2119747418514448709/photo/1",
+            "url": "https://pbs.twimg.com/media/HWraqtPa0AAufO8.jpg",
+            "width": 800,
+            "height": 1000
+          },
+          {
+            "backgroundColor": {
+              "red": 204,
+              "green": 214,
+              "blue": 221
+            },
+            "cropCandidates": [
+              {
+                "h": 1837,
+                "w": 3280,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 3280,
+                "w": 3280,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 3739,
+                "w": 3280,
+                "x": 0,
+                "y": 0
+              },
+              {
+                "h": 4096,
+                "w": 2048,
+                "x": 716,
+                "y": 0
+              },
+              {
+                "h": 4096,
+                "w": 3280,
+                "x": 0,
+                "y": 0
+              }
+            ],
+            "expandedUrl": "https://x.com/GreatDealsSG/status/2119747418514448709/photo/1",
+            "url": "https://pbs.twimg.com/media/HWraqtFasAAU2N1.jpg",
+            "width": 3280,
+            "height": 4096
           }
         ],
         "conversation_count": 0,
